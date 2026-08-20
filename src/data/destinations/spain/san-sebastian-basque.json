@@ -1,0 +1,361 @@
+{
+  "slug": "san-sebastian-basque",
+  "name": "San Sebastián & the Basque Country",
+  "shortName": "San Sebastián",
+  "country": "spain",
+  "region": "Gipuzkoa, Basque Country",
+  "categories": ["coastal", "food-and-wine", "cultural", "off-the-beaten-path"],
+  "tagline": "A shell-shaped bay, a language unrelated to any other in Europe, and more Michelin stars per head than almost anywhere on earth.",
+  "highlight": "Pintxos in the Parte Vieja — bar counters loaded with food, paid for by the toothpick, four or five bars an evening.",
+  "shortDescription": "Green, Atlantic and wet, the Basque Country is the Spain nobody expects: a belle-époque resort on a perfect bay, backed by mountains and the best food culture in the country.",
+  "metaDescription": "A San Sebastián and Basque Country travel guide: pintxos bars, La Concha beach, Bilbao and the Guggenheim, txakoli and cider houses, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Bilbao (BIO) or Biarritz (BIQ); San Sebastián's own airport is small",
+  "knownFor": "Pintxos, La Concha bay, Michelin stars, Basque culture",
+  "budget": "€150–250 per day, mid-range",
+  "goodFor": "Food, coastal walking, surfing, a different Spain",
+  "coords": { "lat": 43.3183, "lng": -1.9812 },
+  "image": {
+    "file": "File:San Sebastian La Concha-20120902-RM-125922.jpg",
+    "alt": "The curving sweep of La Concha bay and beach at San Sebastián seen from the hillside"
+  },
+  "intro": [
+    "The Basque Country does not fit the picture most people carry of Spain. It is green rather than dry, cool rather than hot, mountainous, Atlantic, and rains about 150 days a year. Its language, Euskara, is unrelated to any other language on earth — not Indo-European, not connected to anything, a genuine linguistic isolate that predates the arrival of every other tongue in Western Europe.",
+    "San Sebastián — Donostia in Basque — is its showpiece: a perfectly proportioned shell-shaped bay with an island in the middle, a belle-époque town built around it after the Spanish royal family started summering here in the 1840s, and two headlands with funiculars. It is compact, elegant and, for a city of 190,000, extraordinarily well fed.",
+    "That is the other thing. The Basque Country has an obsessive food culture built on gastronomic societies, cider houses and the pintxo — the counter snack that turns an evening into a moving feast across four or five bars. San Sebastián has held one of the highest concentrations of Michelin stars per head in the world for years, but the more interesting fact is that the standard of an ordinary bar counter here is higher than the standard of a good restaurant almost anywhere else."
+  ],
+  "whyVisit": {
+    "intro": "This is the part of Spain that most surprises people who think they know the country, and it is the strongest single argument for going north.",
+    "points": [
+      {
+        "title": "The food culture is genuinely exceptional",
+        "text": "Pintxos bars in the Parte Vieja lay out counters of food you point at, plus a chalked list of hot dishes cooked to order. San Sebastián has among the highest Michelin-star density per inhabitant in the world, but the everyday standard is what makes it remarkable."
+      },
+      {
+        "title": "La Concha is one of Europe's great city beaches",
+        "text": "A near-perfect semicircle of sand between two headlands with Santa Clara island in the mouth of the bay, backed by a white iron balustrade that has become the city's emblem. Swimmable, sheltered, and in the middle of the city."
+      },
+      {
+        "title": "A culture that is genuinely distinct",
+        "text": "Euskara is a language isolate spoken nowhere else and connected to nothing. The sports are different — stone-lifting, rowing regattas, pelota. The politics, architecture and food all reflect a separate history."
+      },
+      {
+        "title": "Bilbao is an hour away",
+        "text": "The Guggenheim's titanium curves transformed a declining industrial port into a case study in urban regeneration. It is a very different city from San Sebastián and makes an easy day trip or a second base."
+      },
+      {
+        "title": "Green Spain, with mountains",
+        "text": "Atlantic weather makes it green. The coastal path runs along cliffs between fishing villages, the Rioja vineyards are 90 minutes south, and the Pyrenees begin an hour east."
+      }
+    ]
+  },
+  "attractionsIntro": "San Sebastián itself is small — a bay, an old town and two hills. The rest of the region is a series of short trips.",
+  "attractions": [
+    {
+      "name": "La Concha and Ondarreta",
+      "text": "The main bay, sheltered by Santa Clara island and framed by Monte Urgull and Monte Igueldo. Ondarreta continues west to the Peine del Viento, Eduardo Chillida's rusted steel sculptures anchored into the rocks where the waves break.",
+      "tip": "The Peine del Viento is best in rough weather, when spouts of water shoot up through vents in the walkway."
+    },
+    {
+      "name": "The Parte Vieja",
+      "text": "The old town behind the bay, rebuilt after the town was burned in 1813, and now the densest concentration of pintxos bars anywhere. A dozen streets, over a hundred bars, and one of the most enjoyable evenings in Europe.",
+      "tip": "Do not sit down and do not order a full meal. One or two pintxos and a drink per bar, then move on."
+    },
+    {
+      "name": "Monte Igueldo",
+      "text": "The western headland, reached by a wooden funicular running since 1912, with a small vintage amusement park at the top and the classic view down the length of the bay.",
+      "tip": "The postcard view of San Sebastián is taken from here. Go at golden hour."
+    },
+    {
+      "name": "Monte Urgull",
+      "text": "The eastern headland, crowned by a fortress and a large statue of Christ, with a free network of wooded paths climbing from the old town and a small museum in the castle.",
+      "tip": "Free, uncrowded, and about 30 minutes to the top. The view back over the Parte Vieja is the best in the city."
+    },
+    {
+      "name": "The Guggenheim, Bilbao",
+      "text": "An hour west. Frank Gehry's titanium-clad building of 1997 is credited with reviving an entire city, and the structure remains more compelling than most of what is inside it. Jeff Koons's flower Puppy sits at the entrance.",
+      "tip": "Walk the riverside and the Casco Viejo too. Bilbao is a real city, not just a museum, and it has excellent pintxos of its own."
+    },
+    {
+      "name": "Getaria and the coastal villages",
+      "text": "Half an hour west, a fishing village where whole turbot is grilled over charcoal on the street and txakoli is made on the slopes above. Zarautz next door has the region's best surf beach.",
+      "tip": "Getaria's grilled fish is the single best meal in the region. Lunch, and book at weekends."
+    },
+    {
+      "name": "San Juan de Gaztelugatxe",
+      "text": "A tiny hermitage on a rock island connected to the mainland by a stone bridge and 241 steps up a serpentine causeway. Dramatic, exposed and about an hour from Bilbao.",
+      "tip": "Free but requires a booked time slot in advance. It gets very busy since appearing on television."
+    },
+    {
+      "name": "Rioja Alavesa",
+      "text": "Ninety minutes south, the Basque section of the Rioja wine region, with medieval hilltop villages such as Laguardia and modernist wineries designed by Gehry and Calatrava.",
+      "tip": "Laguardia's old town sits on a honeycomb of medieval wine cellars still in use beneath the houses."
+    }
+  ],
+  "thingsToDoIntro": "Eating is the main activity here and there is no point pretending otherwise. Build the rest around it.",
+  "thingsToDo": [
+    {
+      "title": "Do a pintxos crawl",
+      "text": "Four or five bars over an evening, one or two items and a small glass of wine or cider at each. Take what you want from the counter and tell the barman what you had at the end — it works on trust.",
+      "tip": "The chalked list of hot dishes cooked to order is almost always better than the cold display. Ask what the house speciality is."
+    },
+    {
+      "title": "Eat in a cider house",
+      "text": "From January to April, sagardotegis outside the city serve a fixed menu — cod omelette, salt cod with peppers, an enormous chop, cheese and walnuts — while you fill your own glass from the barrel by shouting 'txotx'.",
+      "tip": "Astigarraga, fifteen minutes away, is the centre of it. Book ahead and do not plan anything for afterwards."
+    },
+    {
+      "title": "Walk the coastal path",
+      "text": "The Camino del Norte and the local coastal routes run along cliffs between fishing villages. The stretch from San Sebastián west towards Orio and Zarautz is spectacular and well marked.",
+      "tip": "Trains and buses run along the coast, so you can walk one way and ride back."
+    },
+    {
+      "title": "Swim or surf",
+      "text": "La Concha is sheltered and calm, Zurriola on the far side of the river faces the open Atlantic and has the surf. Zarautz, twenty minutes west, has the region's best beach break and plenty of schools.",
+      "tip": "The water is Atlantic and cold — around 20–22°C at its August peak. A wetsuit is normal outside high summer."
+    },
+    {
+      "title": "Taste txakoli",
+      "text": "A sharp, faintly fizzy, low-alcohol white made on the coastal slopes, poured from a height into a wide glass to open it up. Drunk young and cold, and the natural partner to pintxos.",
+      "whereToTry": "Every bar in the region.",
+      "tip": "Getaria is the main production area and several wineries above the village receive visitors."
+    },
+    {
+      "title": "Take the day trip to Bilbao",
+      "text": "An hour by bus, for the Guggenheim, the riverside walk, the Casco Viejo's Seven Streets and the Mercado de la Ribera. A completely different city — industrial, larger, grittier and reinvented.",
+      "tip": "The bus is faster and cheaper than the train on this route. It runs roughly every half hour."
+    }
+  ],
+  "foodIntro": "Basque cooking is Atlantic seafood, superb produce and an unusual degree of collective seriousness about all of it. This is the best-eating region in Spain and it is not especially close.",
+  "foods": [
+    {
+      "name": "Pintxos",
+      "text": "Small constructions on bread laid out along the bar, plus hot dishes cooked to order from a chalked list. Named for the toothpick that holds them together, which is also how the bill is counted.",
+      "whereToTry": "The Parte Vieja in San Sebastián and the Casco Viejo in Bilbao. Order from the list, not just the counter."
+    },
+    {
+      "name": "Bacalao al pil-pil",
+      "text": "Salt cod cooked slowly in olive oil and garlic, the pan swirled continuously so the fish's own gelatine emulsifies the oil into a pale sauce. Technically demanding and entirely Basque.",
+      "whereToTry": "Traditional restaurants in both cities. Also served a la vizcaína, in a red pepper sauce."
+    },
+    {
+      "name": "Txuleta",
+      "text": "A thick aged rib chop from an old dairy cow, grilled over charcoal and served rare, sliced, with nothing but salt. Ordered by weight and shared between two or more.",
+      "whereToTry": "Asadores throughout the region and every cider house. Tolosa, half an hour south, is the heartland."
+    },
+    {
+      "name": "Grilled turbot",
+      "text": "Whole rodaballo cooked over charcoal in a hinged metal basket, basted with an oil and vinegar mixture, and served with almost nothing. Getaria made this famous and it is worth the trip.",
+      "whereToTry": "Getaria's waterfront restaurants, where the grills are on the street outside."
+    },
+    {
+      "name": "Txakoli and sidra",
+      "text": "Txakoli is a sharp, lightly sparkling white poured from a height; sidra is flat Basque cider, also poured long, drunk in quantity in cider houses from January to April.",
+      "whereToTry": "Txakoli in every bar; sidra in the sagardotegis of Astigarraga during the txotx season."
+    },
+    {
+      "name": "Gâteau Basque and Idiazabal",
+      "text": "A dense almond and pastry cake filled with cherry jam or custard, and a smoked sheep's-milk cheese from the mountain pastures that is one of Spain's best.",
+      "whereToTry": "Pastelerías throughout the region; Idiazabal at any market or cheese shop."
+    }
+  ],
+  "accommodation": {
+    "intro": "San Sebastián is small and expensive — among the priciest cities in Spain for rooms. Bilbao is an hour away and considerably cheaper if budget matters more than the bay.",
+    "areas": [
+      {
+        "name": "Parte Vieja",
+        "bestFor": "Pintxos on your doorstep",
+        "text": "The old town, with more than a hundred bars in a dozen streets. Unbeatable for an evening and correspondingly noisy until 02:00. Rooms are small and old."
+      },
+      {
+        "name": "Centro and around La Concha",
+        "bestFor": "The best all-round base",
+        "text": "The 19th-century grid between the bay and the river, with the better hotels, the cathedral and a five-minute walk to both the beach and the old town. Quieter than the Parte Vieja."
+      },
+      {
+        "name": "Gros",
+        "bestFor": "Surf, value, local life",
+        "text": "Across the river beside Zurriola beach, younger and noticeably cheaper, with its own excellent and less crowded pintxos scene. Ten minutes' walk to the old town."
+      },
+      {
+        "name": "Ondarreta and Antiguo",
+        "bestFor": "Quiet and families",
+        "text": "The western end of the bay near the Peine del Viento, residential and calm, with the second beach and the Igueldo funicular. Twenty minutes' walk or a short bus to the centre."
+      },
+      {
+        "name": "Bilbao",
+        "bestFor": "Lower prices, a bigger city",
+        "text": "An hour away by bus, with rooms typically 30–40% cheaper, the Guggenheim, and its own strong food scene. A viable base for the whole region if San Sebastián is booked out."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€35–60 per night, higher in August" },
+      { "label": "Comfortable hotel", "value": "€140–240 per night; among Spain's most expensive" },
+      { "label": "Pintxos evening", "value": "€25–40 per person across four or five bars" },
+      { "label": "Cider house menu", "value": "€35–45 per person including all the cider you drink" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Basque Country sits in Spain's far north on the French border. Bilbao's airport is the main gateway; Biarritz in France is often closer.",
+    "options": [
+      {
+        "mode": "Bilbao Airport (BIO)",
+        "text": "The region's main airport, with routes across Europe. Direct buses run to San Sebastián in about 1h15, and to central Bilbao in 20 minutes.",
+        "detail": "The San Sebastián bus runs roughly hourly and does not require booking."
+      },
+      {
+        "mode": "Biarritz Airport (BIQ)",
+        "text": "Just across the French border, about 45 minutes from San Sebastián, with strong seasonal European routes.",
+        "detail": "Often the closest option, and worth checking alongside Bilbao."
+      },
+      {
+        "mode": "Train and bus from Madrid",
+        "text": "Around 5h by train from Madrid to San Sebastián, or 5h to Bilbao. Buses are slower but considerably cheaper.",
+        "detail": "There is no high-speed line to the Basque coast yet, so the journey is longer than the distance implies."
+      },
+      {
+        "mode": "From France",
+        "text": "Bayonne and Biarritz are 45 minutes away, and a local train crosses the border at Irún–Hendaye. Bordeaux is about 3h by road.",
+        "detail": "This makes a combined southwest France and Basque trip straightforward."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "San Sebastián is small enough to walk end to end. The region beyond it is well served by buses along the coast.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The bay, the old town, Gros and the centre are all within 25 minutes of each other on foot, and the promenade around La Concha is the natural spine of the city.",
+        "detail": "Both headlands involve climbs, with funiculars or lifts available for Igueldo."
+      },
+      {
+        "mode": "Buses between towns",
+        "text": "Frequent and comfortable coaches link San Sebastián with Bilbao (1h), Getaria and Zarautz (30 min), and the coastal villages.",
+        "detail": "For Bilbao the bus beats the train on both time and price."
+      },
+      {
+        "mode": "Euskotren",
+        "text": "A narrow-gauge regional railway running along the coast and inland, slower than the bus but scenic, connecting the smaller towns.",
+        "detail": "Useful for one-way coastal walks — ride out, walk back, or the reverse."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "San Sebastián has good flat lanes along both beaches and the river, and a bike-share scheme. The coastal roads beyond are hilly.",
+        "detail": "The promenade route from Zurriola around to Ondarreta is the pleasant ride."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for Rioja Alavesa, Gaztelugatxe and the inland valleys, and unnecessary in either city. Parking in San Sebastián is difficult and expensive.",
+        "detail": "Hire for the day trips rather than the whole stay."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September",
+    "summary": "This is Atlantic Spain and the weather is the main constraint. It rains around 150 days a year, and the summer window is much narrower and more valuable than in the south.",
+    "seasons": [
+      {
+        "season": "Summer (June–September)",
+        "rating": "best",
+        "text": "The only reliably warm and dry period, at 20–26°C, with the sea swimmable from July. September is the pick: warm, the sea at its warmest, and the crowds gone after the first week. Late August has the Semana Grande festival."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Green, mild at 15–20°C and quiet, but genuinely wet. Fine for eating, walking and Bilbao; not for the beach. Prices are much lower than in summer."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "October keeps some warmth and the light on the coast is superb, but rainfall climbs steeply. By November it is properly wet and dark. Excellent value and excellent food."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "shoulder",
+        "text": "Mild but wet at 8–14°C, with Atlantic storms. The compensation is the cider house season from January to April, which is one of the best food experiences in Spain and only happens then."
+      }
+    ],
+    "avoid": "The San Sebastián Film Festival in late September and Semana Grande in mid-August both fill the city and push rates up sharply. Book well ahead or shift by a week."
+  },
+  "itinerary": {
+    "title": "Four days in San Sebastián and the Basque Country",
+    "intro": "Two days in the city, one on the coast and one in Bilbao. Every evening is a pintxos crawl, which is not padding.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The bay and the old town",
+        "summary": "Get oriented, then start eating.",
+        "morning": "The full length of La Concha promenade to Ondarreta and the Peine del Viento sculptures.",
+        "afternoon": "Monte Urgull's wooded paths and the fortress, for the view back over the Parte Vieja.",
+        "evening": "First pintxos crawl in the old town — four bars, hot dishes from the list, txakoli."
+      },
+      {
+        "day": 2,
+        "title": "Igueldo, the beach and Gros",
+        "summary": "The other headland and the other side of the river.",
+        "morning": "The 1912 funicular up Monte Igueldo for the classic view down the bay.",
+        "afternoon": "Swim at La Concha, or surf at Zurriola across the river.",
+        "evening": "Pintxos in Gros, which is where locals go when the Parte Vieja is full of visitors."
+      },
+      {
+        "day": 3,
+        "title": "The coast west",
+        "summary": "Fishing villages, grilled fish and txakoli.",
+        "morning": "Bus or train to Getaria — the harbour, the Balenciaga museum, and the txakoli slopes above.",
+        "afternoon": "Whole turbot grilled on the street for lunch, then Zarautz's beach or the coastal path.",
+        "evening": "Back to San Sebastián, or stay out on the coast for the sunset."
+      },
+      {
+        "day": 4,
+        "title": "Bilbao",
+        "summary": "A completely different Basque city, an hour away.",
+        "morning": "Bus to Bilbao and the Guggenheim — the building first, from the riverside, then the collection.",
+        "afternoon": "The Casco Viejo's Seven Streets and the Mercado de la Ribera, then the riverside walk.",
+        "evening": "Pintxos in Bilbao's old town, then the late bus back or a night there."
+      }
+    ]
+  },
+  "tipsIntro": "Basque-specific notes, several of which are about how the bars work.",
+  "tips": [
+    "Pintxos bars run on trust. Take what you want from the counter, keep the toothpicks, and tell the barman what you had when you settle up. Nobody is watching and nobody needs to be.",
+    "The cold display is not where the good food is. Almost every bar has a chalked list of hot dishes cooked to order, and those are consistently better. Ask what the house is known for — most bars specialise in one thing.",
+    "Do not sit down. Pintxos culture is standing and moving: one or two items and a small drink per bar, then on to the next. Four or five bars is a normal evening.",
+    "This is Atlantic Spain and it rains around 150 days a year. Bring a waterproof even in July, and do not plan a trip here purely around the beach.",
+    "San Sebastián is one of the most expensive cities in Spain for accommodation and books out early for August and the September film festival. Bilbao is an hour away and 30–40% cheaper.",
+    "Cider house season runs January to April only. If you are here then, book a sagardotegi in Astigarraga — it is one of the best food experiences in Spain and unavailable the rest of the year.",
+    "Txakoli is poured from a height into a wide glass on purpose, to aerate it. It is meant to be drunk immediately and in small measures, not sipped.",
+    "Basque place names are often given in Euskara first: Donostia is San Sebastián, Bilbo is Bilbao, Gasteiz is Vitoria. Signs and timetables frequently use both."
+  ],
+  "faq": [
+    {
+      "q": "How do pintxos bars work?",
+      "a": "You go in, take what you want from the counter or order hot dishes from the chalked list, and keep the toothpicks or simply tell the barman what you had when you settle up. It runs on trust. The convention is one or two items and a small drink per bar, then move on — four or five bars over an evening. Standing at the bar is the norm; sitting down changes both the price and the point."
+    },
+    {
+      "q": "Is San Sebastián worth the price?",
+      "a": "It is among the most expensive cities in Spain for accommodation, and yes for most people — the bay is genuinely one of Europe's best, and the food standard at ordinary bar level is higher than almost anywhere. If budget is tight, base in Bilbao an hour away, where rooms run 30–40% less and the pintxos are nearly as good."
+    },
+    {
+      "q": "When is the best time to visit the Basque Country?",
+      "a": "June to September, and September in particular — warm, the sea at its warmest, and the crowds gone after the first week. This is Atlantic Spain with around 150 rain days a year, so the reliably dry window is much narrower than in the south. Spring and autumn are green, mild and wet; winter brings the cider house season from January to April, which is a genuine reason to come."
+    },
+    {
+      "q": "How do you get from San Sebastián to Bilbao?",
+      "a": "By bus, in about an hour, with departures roughly every half hour. The bus is faster and cheaper than the train on this route, and the coach station in San Sebastián is next to the railway station. It makes an easy day trip in either direction."
+    },
+    {
+      "q": "Do people speak Spanish in the Basque Country?",
+      "a": "Yes — Spanish is universal and Euskara is co-official, spoken by roughly a third of the population and much more in rural Gipuzkoa. Place names usually appear in both, so Donostia is San Sebastián and Bilbo is Bilbao. A word or two of Basque — 'kaixo' for hello, 'eskerrik asko' for thank you — is noticed and appreciated."
+    },
+    {
+      "q": "Can you swim in San Sebastián?",
+      "a": "Yes. La Concha is sheltered by Santa Clara island and is calm and swimmable through the summer; Zurriola across the river faces the open Atlantic and is the surf beach. The water is Atlantic and cool — around 20–22°C at its August peak — so a wetsuit is normal outside high summer."
+    },
+    {
+      "q": "What is a cider house and when can I go?",
+      "a": "A sagardotegi serves a fixed menu — cod omelette, salt cod with peppers, a large aged beef chop, cheese and walnuts — while you fill your own glass straight from enormous barrels whenever someone calls 'txotx'. The season runs January to April only, centred on Astigarraga fifteen minutes outside San Sebastián. Book ahead and plan nothing afterwards."
+    }
+  ],
+  "related": ["santiago-galicia", "barcelona", "madrid", "bordeaux"],
+  "relatedArticles": ["underrated-destinations", "first-trip-to-europe", "packing-by-season"]
+}

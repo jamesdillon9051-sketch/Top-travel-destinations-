@@ -1,0 +1,124 @@
+{
+  "slug": "week-cost-five-countries",
+  "title": "What a Week Actually Costs in Five Countries",
+  "kicker": "Budgeting",
+  "subtitle": "Real per-day numbers for France, Spain, the United States, Turkey and Italy — and the four line items that decide the total.",
+  "summary": "Most travel budgets fail for the same reason: they estimate the flight and the hotel accurately and then guess at everything else. This is a per-day breakdown for the five countries in this guide at three levels of comfort, plus the costs people consistently forget — tourist tax, ZTL fines, resort fees, tipping and the price of a coffee sitting down.",
+  "readingTime": "10 min read",
+  "image": {
+    "file": "File:Sulmona Market Vegetable Stall Abruzzo Italy 9502.jpg",
+    "alt": "A vegetable stall with prices chalked up at a market in Sulmona, Abruzzo"
+  },
+  "featuredDestinations": ["istanbul", "seville", "puglia-matera"],
+  "sections": [
+    {
+      "id": "what-drives-cost",
+      "title": "Four line items decide almost everything",
+      "navLabel": "What drives cost",
+      "body": [
+        "Once the flights are booked, the daily cost of a trip is set by four things, and almost nothing else moves the number much. **Accommodation** is usually half to two-thirds of the total. **Eating** is the next largest, and it varies more by how you eat than by where. **Getting around** is either trivial or enormous, depending on whether you need a car. And **entry tickets** are small individually and add up quickly when a family visits three paid sites a day.",
+        "The figures below are per person per day, in 2026 money, excluding international flights, and assume two people sharing a room. Solo travellers should add roughly 30–40% because accommodation stops being shared. They are deliberately given as ranges, because the difference between a Tuesday in November and a Saturday in August is larger than the difference between two countries.",
+        "One thing worth saying plainly: the cheapest country on this list costs about a third of the most expensive one for the same standard of trip. If budget is the constraint rather than the destination, that gap is the single most useful piece of information in this article."
+      ],
+      "note": "All figures are per person per day for two people sharing, excluding international flights. Solo travel adds roughly 30–40% because the room is no longer split."
+    },
+    {
+      "id": "five-countries",
+      "title": "The five countries, compared",
+      "navLabel": "The numbers",
+      "tone": "tint",
+      "body": [
+        "Ranked from cheapest to most expensive at the mid-range level, which is where most people actually travel: three-star hotels or good apartments, one restaurant meal a day, public transport and a couple of paid sights."
+      ],
+      "list": [
+        {
+          "title": "Turkey — €35–60 budget, €75–130 mid-range, €150–250 comfortable",
+          "text": "By a wide margin the best value in this guide, often half the cost of Greece or Italy for comparable quality. Persistent high inflation means lira prices change fast, so treat any figure printed in lira as unreliable and check current rates. The one item to budget separately is a [[cappadocia|Cappadocia]] balloon flight at €200–300 per person.",
+          "tip": "Domestic flights are cheap and frequent, which is what makes a Turkish itinerary work. Overnight buses are the budget alternative and far more comfortable than they sound."
+        },
+        {
+          "title": "Spain — €60–95 budget, €120–190 mid-range, €220–350 comfortable",
+          "text": "The cheapest country in western Europe for the quality on offer. The menú del día — a three-course set lunch with wine — is the single best value meal in Europe, and it is available in ordinary restaurants on weekdays. The exception is August on the islands and the costas, where prices rise 40–80%.",
+          "tip": "Eat your main meal at lunch on the menú del día and tapas in the evening. It halves the food budget and is also how Spain actually eats."
+        },
+        {
+          "title": "Italy — €65–100 budget, €140–220 mid-range, €250–420 comfortable",
+          "text": "The national average hides a large regional split. [[venice|Venice]], [[florence-tuscany|Florence]], [[milan|Milan]] and the [[amalfi-coast|Amalfi Coast]] are genuinely expensive; [[naples-pompeii|Naples]], [[puglia-matera|Puglia]] and [[sicily|Sicily]] cost noticeably less for the same standard. Tourist tax of €1–10 per person per night is charged separately, usually in cash at check-out.",
+          "tip": "A converted masseria in Puglia costs less than a small room above a car park in Tuscany. The south is where the value is."
+        },
+        {
+          "title": "France — €75–110 budget, €150–230 mid-range, €260–400 comfortable",
+          "text": "Consistently priced across the country with one large exception: Paris adds roughly 25–35% to everything. Outside the capital, France is not much more expensive than Italy, and the formule — a set lunch of two or three courses — brings restaurant eating down sharply.",
+          "tip": "TGV fares behave like airline fares. Booked six weeks out they are cheap; booked on the day they can cost four times as much."
+        },
+        {
+          "title": "United States — $110–170 budget, $220–330 mid-range, $380–600 comfortable",
+          "text": "Roughly double the European figures, and the headline prices are not the whole story: sales tax is added at the till rather than shown on the shelf, restaurant tipping runs 18–22%, hotels add resort fees, and city parking is a real daily cost. A rental car is close to unavoidable outside a handful of cities.",
+          "tip": "The national parks are the cheap part — an annual pass covering all of them costs about the same as three single-park entries."
+        }
+      ]
+    },
+    {
+      "id": "hidden-costs",
+      "title": "The costs nobody budgets for",
+      "navLabel": "Hidden costs",
+      "list": [
+        {
+          "title": "ZTL fines in Italy",
+          "text": "Camera-enforced limited-traffic zones cover the historic centre of almost every Italian town. There is no barrier and often only a small sign, each camera generates a separate fine, and they arrive months later through the hire company with an administration charge attached.",
+          "tip": "Park outside the walls. This is routinely the single largest unplanned expense on an Italian trip."
+        },
+        {
+          "title": "Tourist tax",
+          "text": "Charged per person per night on top of the room rate across Italy, Spain, France and Turkey, varying by city and star rating. It rarely appears in the booking total and is often collected in cash at check-out.",
+          "tip": "Budget €1–10 per person per night in Europe, and carry some cash for it."
+        },
+        {
+          "title": "American tipping and tax",
+          "text": "The menu price in the United States is not the price. Sales tax is added at the till and varies by state and city; restaurant service is expected at 18–22%; and hotels frequently add a mandatory 'resort fee' that was not in the room rate you booked.",
+          "tip": "Mentally add about 30% to any American restaurant menu price to get the number you will actually pay."
+        },
+        {
+          "title": "Coffee sitting down",
+          "text": "In Italy and Spain, an espresso standing at the bar costs about a euro. The same cup carried to a table in a piazza can cost four or five times as much, and this is entirely legal and clearly signposted if you know to look.",
+          "tip": "Two coffees a day sitting down instead of standing is roughly €50 a week for two people."
+        },
+        {
+          "title": "Timed-entry booking fees",
+          "text": "The Colosseum, the Uffizi, the Borghese, the Alhambra, Leonardo's Last Supper and the Sagrada Família all sell timed tickets with a booking fee attached, and third-party resellers charge substantially more than the official sites.",
+          "tip": "Always book through the official site. Resellers routinely double the price for the same ticket."
+        },
+        {
+          "title": "The car you did not need",
+          "text": "A hire car in Rome, Florence, Venice, Paris or Istanbul is a daily cost plus parking plus stress, for a vehicle that sits still. Conversely, no car in Sicily, Puglia, the Dolomites or the American West means missing most of what you came for.",
+          "tip": "Hire the car for the leg that needs it, not the whole trip. Station pick-ups mid-trip are easy in all five countries."
+        }
+      ]
+    },
+    {
+      "id": "where-to-save",
+      "title": "Where to save without ruining the trip",
+      "navLabel": "Saving",
+      "body": [
+        "The savings that actually work are structural rather than a matter of self-denial. **Shift the season.** Late September costs 30–50% less than early August in every Mediterranean country in this guide, and the weather is usually better. **Shift the region.** Southern Italy, inland Spain and eastern Turkey deliver the same quality for a fraction of the coastal or capital price.",
+        "**Eat the way the country eats.** Spain's menú del día, France's formule, Italy's pizza al taglio and Milan's aperitivo buffet, Turkey's lokanta counters and America's diner breakfasts are all cheap because they are what locals use, not because they are inferior. The expensive way to eat abroad is to order dinner in a restaurant with photographs on the menu every night.",
+        "**Book the timed sights and the fast trains early, and nothing else.** Advance rail fares in France, Italy and Spain are a fraction of walk-up prices, and the major museums release cheap official tickets months ahead. Everything else — small museums, churches, most restaurants — is better decided on the day.",
+        "What does not work is cutting accommodation quality below the point where you sleep well, or basing yourself an hour outside a city to save €25 a night and then spending €15 a day on transport and two hours of your holiday commuting."
+      ],
+      "note": "The single largest lever is the calendar. Moving a Mediterranean trip from the first week of August to the third week of September typically saves 30–50% and improves the weather."
+    },
+    {
+      "id": "sample-weeks",
+      "title": "Three sample weeks",
+      "navLabel": "Sample weeks",
+      "tone": "tint",
+      "body": [
+        "**A week in Turkey, mid-range, two people sharing.** Four nights in [[istanbul]] and three in [[cappadocia|Cappadocia]], with a domestic flight between them. Hotels €70–110 a night, meals €25–35 per person per day, transport and sights €15–25 per person per day. Roughly **€700–950 per person** for the week, before international flights, plus €200–300 if you take a balloon flight.",
+        "**A week in Andalucía, mid-range.** Three nights in [[seville]], two in [[cordoba|Córdoba]] and two in [[granada]], by regional train. Hotels €90–140 a night, menú del día lunches at €14–18, tapas dinners, and the Alhambra booked in advance. Roughly **€900–1,300 per person**, and materially less outside high summer.",
+        "**A week in southern Italy, mid-range.** Three nights in [[naples-pompeii|Naples]] and four in [[puglia-matera|Puglia and Matera]] with a hire car for the second half. Hotels €90–160, meals €30–40 per person per day, car and fuel €50–70 a day split between two, Pompeii and the Sassi tickets. Roughly **€1,000–1,450 per person**.",
+        "For comparison, the same week done in [[venice|Venice]] and [[florence-tuscany|Florence]] in June, or in California with a hire car, lands closer to €1,800–2,600 per person. None of those trips is better than the others — but knowing the ratio before you choose is worth more than any individual saving."
+      ]
+    }
+  ],
+  "readNext": ["first-trip-to-europe", "best-time-southern-europe"]
+}

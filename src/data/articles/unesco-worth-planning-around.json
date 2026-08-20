@@ -1,0 +1,111 @@
+{
+  "slug": "unesco-worth-planning-around",
+  "title": "UNESCO Sites Worth Planning a Trip Around",
+  "kicker": "Heritage",
+  "subtitle": "There are more than 1,200 World Heritage sites. These are the ones that justify reshaping an itinerary.",
+  "summary": "A UNESCO listing tells you a place matters; it does not tell you whether it is worth two days and a detour. This is how to read the list usefully — and which sites genuinely reward building a trip around them.",
+  "readingTime": "9 min read",
+  "image": {
+    "file": "File:Machu Picchu, Perú, 2015-07-30, DD 47.JPG",
+    "alt": "Stone terraces and ruins of an ancient citadel on a mountain ridge"
+  },
+  "featuredDestinations": ["mont-saint-michel", "cordoba", "sanliurfa-gobekli-tepe"],
+  "sections": [
+    {
+      "id": "what-listing-means",
+      "title": "What a listing actually tells you",
+      "navLabel": "What it means",
+      "body": [
+        "There are over 1,200 World Heritage sites across roughly 170 countries, and the number grows by around twenty a year. Italy has more than sixty. France has more than fifty. Once a list is that long, 'UNESCO-listed' stops being a useful filter for a traveller — it tells you a site has outstanding universal value to humanity, which is a statement about significance rather than about whether you will enjoy the afternoon.",
+        "Some listings cover a single building you can walk through in an hour. Others cover an entire region — the Loire Valley listing spans 280 km of river, and Bordeaux's covers 1,810 hectares of city. Some are archaeological sites that need real prior reading to make sense of. A few are places you cannot visit at all, or can only see from a distance.",
+        "So the useful question is not whether somewhere is listed but what kind of site it is, and whether that kind rewards the time. Broadly, four kinds are worth planning around: places whose scale cannot be photographed, places that are the best surviving example of something, places where the setting does as much work as the object, and places that are actively disappearing."
+      ]
+    },
+    {
+      "id": "scale",
+      "title": "Sites whose scale does not photograph",
+      "navLabel": "Scale",
+      "tone": "tint",
+      "body": [
+        "The strongest argument for travelling to a specific site is that no image conveys it. This is a surprisingly small category and it is where the biggest gap between expectation and experience sits — in the traveller's favour."
+      ],
+      "list": [
+        {
+          "title": "Mont-Saint-Michel, France",
+          "text": "[[mont-saint-michel|The abbey]] rises 92 metres from a 500-square-kilometre tidal bay with the largest tidal range in Europe. Photographs flatten it into a pretty silhouette; standing on the flats at low tide with the mount above you does not.",
+          "tip": "Stay overnight. Three million annual visitors are concentrated into seven hours a day, and the island is almost empty outside them."
+        },
+        {
+          "title": "The Pont du Gard, France",
+          "text": "A 49-metre Roman aqueduct bridge assembled from six-tonne blocks without mortar, part of a 50 km channel built to a gradient of one in three thousand. Walking the lowest tier and swimming in the river beneath it makes the engineering comprehensible in a way no diagram does."
+        },
+        {
+          "title": "Göbekli Tepe, Turkey",
+          "text": "Carved stone pillars erected around 9500 BC — six thousand years before Stonehenge and before agriculture, pottery or writing. The site itself is modest to look at. Its significance is that it rewrites the sequence of how civilisation began, and standing there with that in mind is the whole experience."
+        },
+        {
+          "title": "Cappadocia, Turkey",
+          "text": "A volcanic landscape of eroded cones and pinnacles, hollowed out over centuries into churches, houses and underground cities descending eight levels. The listing covers both the geology and what people did to it, and the combination is genuinely unlike anywhere else."
+        }
+      ]
+    },
+    {
+      "id": "best-surviving",
+      "title": "The best surviving example of something",
+      "navLabel": "Best example",
+      "body": [
+        "The second category is where a site is not just significant but is the reference point — the place against which everything else of its kind is measured. These reward a detour because the alternatives are genuinely inferior.",
+        "The painted caves of [[dordogne-sarlat|the Vézère valley]] are the clearest case. The valley holds 147 prehistoric sites and 25 decorated caves, of which fifteen are listed. Lascaux's originals have been closed since 1963, but Font-de-Gaume remains one of the very few caves anywhere with original polychrome paintings visible in situ, and the Lascaux IV facsimile reproduces the sealed chamber to within a millimetre.",
+        "Pompeii and Herculaneum are another. Many Roman sites survive; only these two were buried instantly and preserved as a functioning town rather than as monuments — bakeries with bread still in the ovens, graffiti on the walls, upstairs floors intact at Herculaneum. The Alhambra in Granada is the most complete surviving palace of Islamic Spain. The Bayeux Tapestry is the only narrative embroidery of its scale to survive from the 11th century at all.",
+        "For sites in this category, the practical implication is booking. Font-de-Gaume, the Alhambra and the Vatican Museums all restrict numbers, sell out weeks ahead, and are the kind of thing you build a date around rather than fit in."
+      ],
+      "note": "Where a site is the best surviving example of something, it is usually also the most protected — which means restricted numbers and advance tickets. Check the booking window before you book flights."
+    },
+    {
+      "id": "setting",
+      "title": "Where the setting does the work",
+      "navLabel": "Setting",
+      "body": [
+        "A third group are sites where the object is fine and the landscape around it is the reason to go. These are the listings that reward staying nearby rather than visiting.",
+        "[[loire-valley|The Loire Valley]] is listed as a cultural landscape spanning 280 km — not as a set of châteaux but as a river valley shaped by human settlement, which is why the listing includes the villages, vineyards and the river itself. Visiting three châteaux and leaving misses the point; cycling between them along the river is closer to what was listed.",
+        "[[bordeaux|Bordeaux]]'s listing covers 1,810 hectares — the largest urban World Heritage site anywhere — precisely because the value is the coherence of the whole 18th-century townscape rather than any single building. The Amalfi Coast, the Cinque Terre and the Douro Valley are all listed as cultural landscapes for the same reason: centuries of terracing and cultivation on impossible terrain.",
+        "For these, the useful approach is to spend a night inside the listed area rather than day-tripping to its most famous point."
+      ]
+    },
+    {
+      "id": "disappearing",
+      "title": "Places that are changing fast",
+      "navLabel": "Changing",
+      "tone": "tint",
+      "body": [
+        "The last category is the uncomfortable one. Several major sites are visibly altering within a single lifetime, and in some cases within a decade.",
+        "The Mer de Glace above [[chamonix-mont-blanc|Chamonix]] has lost well over a hundred metres of thickness in a century, and the staircase down to its ice cave grows longer every year — the steps are effectively a measuring device. Venice's relationship with its lagoon, the coral of the Great Barrier Reef and the glaciers of the Alps and Andes are all changing at a pace that makes 'go before it changes' a statement of fact rather than marketing.",
+        "This is not an argument for rushing to see everything. It is an argument for two things: choosing depth over breadth while you are there, and travelling in a way that does not accelerate the problem — trains rather than short-haul flights, shoulder season rather than peak, longer stays in fewer places.",
+        "It is also worth noting that heavy visitor numbers are themselves a preservation problem. Lascaux closed because of human breath. Several sites now cap daily entries for exactly this reason, and those caps are the clearest signal of which places genuinely need to be booked in advance."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How many UNESCO World Heritage sites are there?",
+      "a": "More than 1,200 across roughly 170 countries, with around twenty added each year. Italy and China have the most, each with well over fifty, followed by Germany, France and Spain. The number is large enough that a listing alone is not a useful filter for deciding where to go."
+    },
+    {
+      "q": "Does a UNESCO listing mean a site is worth visiting?",
+      "a": "It means the site has outstanding universal value — a statement about significance, not about the visitor experience. Some listings are single buildings, others cover entire regions, and a few are archaeological sites that need background reading to appreciate. The better question is what kind of site it is and whether that kind rewards your time."
+    },
+    {
+      "q": "Which UNESCO sites need to be booked in advance?",
+      "a": "Any site with a daily visitor cap, which usually means the most fragile or most popular. Font-de-Gaume in the Dordogne, the Alhambra in Granada, the Vatican Museums, the Sagrada Família and the Last Supper in Milan all sell out weeks ahead. As a rule, if a site limits numbers to protect itself, treat the ticket as the fixed point and build the trip around it."
+    },
+    {
+      "q": "What is a cultural landscape listing?",
+      "a": "A listing that covers a whole inhabited region shaped by centuries of human activity, rather than a single monument. The Loire Valley, the Amalfi Coast, the Cinque Terre and the Douro Valley are all listed this way. The practical implication is that visiting one famous point within them misses what was listed — these reward staying inside the area and moving slowly through it."
+    },
+    {
+      "q": "Are UNESCO sites always crowded?",
+      "a": "The famous ones are, at predictable hours. Most heavy visitation is concentrated between about 10:00 and 17:00 by coach schedules and day-trip patterns, which means the first and last hours of the day are dramatically quieter almost everywhere. Staying overnight near a major site — rather than day-tripping to it — is the single most effective way to avoid the crush."
+    }
+  ],
+  "readNext": ["underrated-destinations", "mediterranean-coasts", "europe-by-train"]
+}

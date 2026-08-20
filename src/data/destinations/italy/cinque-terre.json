@@ -1,0 +1,351 @@
+{
+  "slug": "cinque-terre",
+  "name": "The Cinque Terre",
+  "country": "italy",
+  "region": "Liguria",
+  "categories": ["coastal", "unesco", "scenic", "nature"],
+  "tagline": "Five fishing villages wedged into a cliff coast, connected by footpaths, a train tunnel and thousands of kilometres of dry-stone terracing.",
+  "highlight": "Walking the coast path between the villages, four hundred metres above the sea on walls built by hand over eight centuries.",
+  "shortDescription": "A UNESCO cultural landscape on the Ligurian coast where vines are grown on cliff terraces, no cars reach the villages, and the local train is the bus.",
+  "metaDescription": "A Cinque Terre travel guide: Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore, the coast paths, the train card, when to go and a three-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Genoa (GOA) or Pisa (PSA)",
+  "knownFor": "The five villages, the coast path, pesto, terraced vineyards",
+  "budget": "€130–220 per day, mid-range",
+  "goodFor": "Walking, swimming, photography, short breaks",
+  "coords": { "lat": 44.1069, "lng": 9.728 },
+  "image": {
+    "file": "File:Manarola NW Cinque Terre Sep23 A7C 07233.jpg",
+    "alt": "The stacked houses of Manarola above the sea, with terraced vineyards on the cliffs behind"
+  },
+  "intro": [
+    "The five villages of the Cinque Terre — Monterosso al Mare, Vernazza, Corniglia, Manarola and Riomaggiore — occupy about eleven kilometres of a coast that has almost no flat ground and, until the railway arrived in the 1870s, almost no road access either. Everything about them follows from that. The houses are stacked vertically in ravines and painted in strong colours so that fishermen could pick out their own from the sea. The vineyards are cut into cliffs as narrow terraces held up by dry-stone walls, of which there are thousands of kilometres, built and rebuilt by hand since the twelfth century.",
+    "That terracing is why UNESCO listed the area in 1997 as a cultural landscape rather than a set of pretty towns. It is also fragile: the walls need constant maintenance, the hillsides slip when they do not get it, and a flash flood in October 2011 badly damaged Vernazza and Monterosso. Sections of the famous coast path have been closed by landslides for years at a time, and the celebrated Via dell'Amore between Riomaggiore and Manarola only reopened in 2024 after more than a decade of works.",
+    "The other thing worth knowing is the arithmetic. Roughly four thousand people live in these villages, and something in the order of four million visitors come each year, most of them in a five-hour window in the middle of a summer day. It is a small place under real pressure. The practical answer is not to avoid it but to be here at the right times: sleep in one of the villages, be on the paths before nine, take the train rather than the road, and treat May, June, September and October as the season."
+  ],
+  "whyVisit": {
+    "intro": "There is nothing else quite like it on the Mediterranean — a landscape entirely built by hand, at a scale you can walk in a day.",
+    "points": [
+      {
+        "title": "The walking is the point",
+        "text": "Paths between the villages run along the cliffs and up through the vineyards, with each village appearing below you as you come over the shoulder. The high routes above the coast path are quieter and better."
+      },
+      {
+        "title": "The terraces are a genuine wonder",
+        "text": "Thousands of kilometres of dry-stone wall cut into near-vertical cliffs, worked by hand for eight hundred years to grow vines and lemons where there was no soil. This is why the area is UNESCO-listed."
+      },
+      {
+        "title": "No cars, and a train that works",
+        "text": "Vehicles barely reach the villages, and a local train runs the length of the coast roughly every twenty minutes, mostly in tunnel, connecting all five in under half an hour end to end."
+      },
+      {
+        "title": "Liguria's food in five small places",
+        "text": "Pesto made with the DOP basil grown along this coast, focaccia in a dozen forms, farinata from chickpea flour, and Monterosso's salted anchovies, which are a protected speciality."
+      },
+      {
+        "title": "It is compact enough for a short trip",
+        "text": "Two or three days genuinely covers it — one for walking, one for boats and swimming, one for the villages themselves — which makes it an easy addition to a Tuscan or Milanese itinerary."
+      }
+    ]
+  },
+  "attractionsIntro": "Each village takes an hour or two and they are all different. The paths between them are as much of the attraction as the villages themselves.",
+  "attractions": [
+    {
+      "name": "Riomaggiore",
+      "text": "The easternmost and largest, built along a steep ravine that runs down to a tiny harbour where boats are hauled up the slipway into the street. A castle above and a long climbing main street.",
+      "tip": "The rocks by the harbour are the best sunset spot in the village. The station is through a long tunnel from the centre."
+    },
+    {
+      "name": "Manarola",
+      "text": "The most photographed of the five: houses in ochre and pink piled on a black rock promontory above a swimming inlet, with vineyard terraces climbing directly behind them.",
+      "tip": "Walk out onto the Punta Bonfiglio path past the cemetery for the classic view, best in the hour before sunset."
+    },
+    {
+      "name": "Corniglia",
+      "text": "The only village not on the water, sitting on a headland a hundred metres above the sea and reached from its station by the Lardarina, a brick staircase of 382 steps, or a shuttle bus.",
+      "tip": "The steps deter enough people that Corniglia is reliably the quietest of the five. Take the bus up and walk down."
+    },
+    {
+      "name": "Vernazza",
+      "text": "The prettiest, and it knows it: a natural harbour ringed by a semicircle of tall houses, a small church built onto the rocks and a ruined castle tower you can climb for a few euros.",
+      "tip": "Climb the Doria tower for the view down onto the harbour, then swim off the rocks beyond the breakwater."
+    },
+    {
+      "name": "Monterosso al Mare",
+      "text": "The westernmost and least vertical, split into an old town and the Fegina beachfront, with the only substantial sandy beach in the Cinque Terre and a giant carved Neptune holding up a terrace.",
+      "tip": "The obvious base for anyone wanting a beach or travelling with luggage — it is the flattest village by a wide margin."
+    },
+    {
+      "name": "The Sentiero Azzurro",
+      "text": "The Blue Path, the low coastal route linking all five villages, of which the Vernazza–Monterosso and Corniglia–Vernazza stretches are the classics. Sections have been closed by landslides for years at a time.",
+      "tip": "Check which sections are open before you plan a day around them, and buy the trekking card that funds the maintenance."
+    },
+    {
+      "name": "The high sanctuary trails",
+      "text": "Paths above the coast route linking the hilltop sanctuaries and the vineyard hamlet of Volastra, several hundred metres up, through terraces and olive groves with almost nobody on them.",
+      "tip": "Harder walking and far better than the crowded low route. The Manarola–Volastra–Corniglia way is the pick."
+    },
+    {
+      "name": "Portovenere and Palmaria",
+      "text": "Part of the same UNESCO listing, at the eastern end of the gulf: a row of tall painted houses, a Genoese castle and the church of San Pietro on a rock spur over the sea, with the island of Palmaria opposite.",
+      "tip": "Reached by boat from the villages or bus from La Spezia. Less visited than the five and arguably as beautiful."
+    }
+  ],
+  "thingsToDoIntro": "Walk in the morning, swim in the afternoon, and be back in a village for the evening when the day-trippers have gone.",
+  "thingsToDo": [
+    {
+      "title": "Walk between the villages",
+      "text": "The coast path in whichever sections are open, or better, the high routes through the vineyards. Vernazza to Monterosso is the classic ninety minutes; Manarola to Volastra to Corniglia is the quieter alternative.",
+      "tip": "Start by eight. Paths get busy, hot and single-file by ten, and passing places are narrow."
+    },
+    {
+      "title": "Use the train like a bus",
+      "text": "Local trains run between Levanto and La Spezia every fifteen to twenty minutes, stopping at all five villages, mostly through tunnels. Three minutes between stops, and it is how everyone gets around.",
+      "tip": "The Cinque Terre Card's train version covers unlimited journeys plus the trails and pays for itself in a day."
+    },
+    {
+      "title": "Swim off the rocks",
+      "text": "Only Monterosso has real sand. Everywhere else you swim from rock platforms and slipways into very clear, very deep water — Manarola's inlet and the point beyond Vernazza's breakwater are the best.",
+      "tip": "Water shoes help on the rocks. The sea is properly cold until June."
+    },
+    {
+      "title": "Take the boat along the coast",
+      "text": "Ferries run between the villages, except Corniglia which has no harbour, and on to Portovenere and Lerici. From the water you see the terracing and the way the villages sit in their ravines.",
+      "tip": "Boats stop entirely in rough seas and in winter. Do this on your first good-weather afternoon rather than saving it."
+    },
+    {
+      "title": "Drink Sciacchetrà",
+      "text": "The local sweet wine, made from grapes dried on racks and produced in tiny quantities from the cliff terraces. Expensive, rare and the clearest expression of why anyone farms a vertical hillside.",
+      "tip": "Try it by the glass in a village enoteca before buying a bottle. The dry Cinque Terre DOC white is the everyday one."
+    },
+    {
+      "title": "Eat anchovies in Monterosso",
+      "text": "Salted, marinated in lemon, deep-fried or baked with potatoes and tomato. Monterosso's anchovies are a recognised local speciality and the village makes a proper fuss of them.",
+      "tip": "Order them marinated as an antipasto and fried as a main. It is the same fish and two entirely different dishes."
+    }
+  ],
+  "foodIntro": "Ligurian cooking is herbs, olive oil, chickpea flour and whatever the boats bring in — very green, very simple and unlike anywhere else in Italy.",
+  "foods": [
+    {
+      "name": "Pesto genovese",
+      "text": "Basil from this coast pounded with pine nuts, garlic, Parmesan, pecorino and Ligurian olive oil, served on trofie or trenette with green beans and potato boiled in with the pasta.",
+      "whereToTry": "Anywhere here, and best where it is made by hand — the colour should be bright green, not olive."
+    },
+    {
+      "name": "Focaccia and farinata",
+      "text": "Ligurian focaccia is thin, salty and dimpled with oil, sold by weight all morning; focaccia col formaggio comes from Recco and is a stretchy cheese layer between two sheets. Farinata is a baked chickpea-flour pancake.",
+      "whereToTry": "Bakeries in every village, from opening until the trays run out. Eat it warm, standing up."
+    },
+    {
+      "name": "Acciughe di Monterosso",
+      "text": "Anchovies caught along this stretch of coast and salted in barrels, then eaten marinated with lemon, deep-fried whole, or layered with potatoes and tomatoes and baked.",
+      "whereToTry": "Monterosso especially, where they are the local pride, but every village serves them."
+    },
+    {
+      "name": "Muscoli ripieni",
+      "text": "Mussels — muscoli in the local dialect — stuffed with bread, herbs, egg and mortadella, then braised in tomato. A speciality of the Gulf of La Spezia and rarely found further away.",
+      "whereToTry": "Trattorias in Riomaggiore, La Spezia and Portovenere."
+    },
+    {
+      "name": "Pansotti with walnut sauce",
+      "text": "Triangular ravioli stuffed with wild greens and ricotta, dressed with a sauce of ground walnuts, bread and cream. Ligurian to its core and a good alternative when you have had enough pesto.",
+      "whereToTry": "Sit-down restaurants rather than the takeaway places along the main streets."
+    },
+    {
+      "name": "Sciacchetrà and Cinque Terre DOC",
+      "text": "The white DOC is dry, mineral and made from Bosco, Albarola and Vermentino grown on the terraces. Sciacchetrà is its sweet cousin, made from dried grapes in very small volumes.",
+      "whereToTry": "Village enoteche and the co-operative cellar. Buy Sciacchetrà here or not at all — it barely leaves the region."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sleeping in the villages is the single decision that transforms the trip, because they empty completely between six in the evening and nine in the morning.",
+    "areas": [
+      {
+        "name": "Monterosso al Mare",
+        "bestFor": "Beaches, hotels and luggage",
+        "text": "The flattest village with the only real sand and the widest choice of proper hotels. Easiest to arrive at with a suitcase and the least vertiginous to walk around."
+      },
+      {
+        "name": "Vernazza",
+        "bestFor": "The prettiest evenings",
+        "text": "Rooms above the harbour in the most photogenic of the five. Small, steep, mostly guesthouses and apartments, and magical once the last train of day-trippers has gone."
+      },
+      {
+        "name": "Manarola and Riomaggiore",
+        "bestFor": "Atmosphere and sunsets",
+        "text": "The eastern pair, both built into ravines with no beach and superb rock swimming. Manarola for the view, Riomaggiore for a bit more life in the evening."
+      },
+      {
+        "name": "Corniglia",
+        "bestFor": "Quiet, at the cost of steps",
+        "text": "A hundred metres above the sea with 382 steps or a shuttle bus from the station. Consistently the calmest of the five and the least practical with luggage."
+      },
+      {
+        "name": "Levanto or La Spezia",
+        "bestFor": "Budget and space",
+        "text": "Just outside the park at either end, on the same train line, with more choice and lower prices. You lose the early mornings and late evenings, which are the best part."
+      }
+    ],
+    "budget": [
+      { "label": "Guesthouse or apartment in a village", "value": "€120–220 per night in season" },
+      { "label": "Cinque Terre Treno Card", "value": "€19–33 per day, including unlimited local trains and trail access" },
+      { "label": "Trekking-only card", "value": "€7.50–15 per day" },
+      { "label": "Boat ticket between villages", "value": "€10–35 depending on the route" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Everything arrives via the coastal railway. Cars are close to useless here and the villages are built to make that clear.",
+    "options": [
+      {
+        "mode": "By train",
+        "text": "Change at La Spezia Centrale from the south or Levanto from the north, then take the local line. [[florence-tuscany|Florence]] is about 2h30 with a change, [[milan|Milan]] 3h, Pisa 1h30.",
+        "detail": "The five villages are all on the same line, three minutes apart. Book the long-distance leg; the local leg is unreserved."
+      },
+      {
+        "mode": "Pisa Airport (PSA)",
+        "text": "The most convenient airport, about 1h30 away by train via La Spezia, with good budget connections across Europe.",
+        "detail": "Genoa is closer geographically but has fewer routes. Milan Malpensa works with a 3h30 rail transfer."
+      },
+      {
+        "mode": "By boat",
+        "text": "Ferries run from La Spezia, Lerici, Portovenere and Levanto to four of the villages through the season, which is a far better arrival than the train tunnel.",
+        "detail": "No boat service to Corniglia, which has no harbour. Services stop in rough seas and over winter."
+      },
+      {
+        "mode": "By car",
+        "text": "Not recommended. Village access is restricted, parking is minimal and expensive, and the coast road above is narrow and slow.",
+        "detail": "If you have a car, leave it in La Spezia or Levanto and take the train in. Most accommodation will advise the same."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Train, feet and boat, in that order — and the train is unusually good.",
+    "options": [
+      {
+        "mode": "The local train",
+        "text": "Levanto to La Spezia via all five villages, every fifteen to twenty minutes for most of the day, mostly in tunnel. End to end takes under half an hour.",
+        "detail": "Stations are tiny and often at one end of the village. Trains can be very full between eleven and four."
+      },
+      {
+        "mode": "Walking paths",
+        "text": "The coastal Sentiero Azzurro between the villages and the higher sanctuary and vineyard routes above it. Ninety minutes to two hours per section.",
+        "detail": "Sections close after landslides, sometimes for years. Check the park's current trail status before setting out."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Village-to-village boats from roughly April to October, plus longer runs to Portovenere and Lerici. The best way to understand how the villages sit in the landscape.",
+        "detail": "Corniglia is not served. Boats are cancelled in swell, which happens often enough to plan around."
+      },
+      {
+        "mode": "Shuttle buses",
+        "text": "Small ATC buses climb from the villages to the hill hamlets and, importantly, from Corniglia's station up to the village itself, saving 382 steps.",
+        "detail": "Included with the Cinque Terre Card. Timetables are sparse — check before relying on one."
+      },
+      {
+        "mode": "The Cinque Terre Card",
+        "text": "Two versions: a trekking card covering trail access, and a train card adding unlimited local rail and the shuttle buses. Fees fund the wall and path maintenance.",
+        "detail": "The train version pays for itself in about four journeys. Buy at any station or park office."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and mid-September–October",
+    "summary": "The season is short, the crowds are concentrated and the trails need decent weather. Those two windows give you open paths, running boats and villages that are busy rather than impassable.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Everything reopens for Easter, the terraces are green, the walking is at its best and the sea becomes swimmable in June. Long light and manageable crowds until the schools break."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "The villages are at capacity, trains are standing-room, the paths are single-file and hot, and prices peak. The swimming is lovely and everything else is a queue."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year from about the tenth of September: warm sea, thinning crowds, the grape harvest on the terraces and the clearest light. Boats run into October."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Many restaurants and guesthouses close, ferries stop, the sea is rough and rain can shut the paths. Beautiful, empty and limited — a walking trip rather than a beach one."
+      }
+    ],
+    "avoid": "The middle of a summer day, when cruise passengers arrive from La Spezia and the villages reach their limits. Nine to eleven in the morning and after five in the evening are different places entirely."
+  },
+  "itinerary": {
+    "title": "Three days in the Cinque Terre",
+    "intro": "One walking day, one boat and swimming day, and one for the quieter high paths and Portovenere. Assumes you are sleeping in one of the villages.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The classic walk",
+        "summary": "The two best coast-path sections, done early.",
+        "morning": "Train to Corniglia and walk down to Vernazza on the coast path.",
+        "afternoon": "Vernazza to Monterosso, then swim off the sand at Fegina.",
+        "evening": "Back east on the train, and dinner in your own village once the crowds have gone."
+      },
+      {
+        "day": 2,
+        "title": "By water",
+        "summary": "The coast as it was meant to be seen.",
+        "morning": "The boat west along the coast, past the villages from the sea.",
+        "afternoon": "Swim from the rocks at Manarola, then Riomaggiore's harbour.",
+        "evening": "Sunset from Punta Bonfiglio above Manarola, with a glass of the local white."
+      },
+      {
+        "day": 3,
+        "title": "High paths and Portovenere",
+        "summary": "Above the crowds, then out of the park.",
+        "morning": "Manarola up to Volastra and along the vineyard terraces to Corniglia.",
+        "afternoon": "Boat or bus to Portovenere for San Pietro on its rock spur.",
+        "evening": "Anchovies in Monterosso, or back to La Spezia for the onward train."
+      }
+    ]
+  },
+  "tipsIntro": "This is a small, fragile place under heavy pressure. Almost every tip here is about timing.",
+  "tips": [
+    "Sleep in one of the five villages. Between about six in the evening and nine in the morning they are quiet and residential, and that is the version of the Cinque Terre worth coming for.",
+    "Check the park's trail status before planning a walking day. Sections of the coast path close after landslides and have stayed shut for years at a time; the Via dell'Amore only reopened in 2024 after more than a decade.",
+    "Buy the Cinque Terre Treno Card if you expect four or more train journeys in a day. It covers unlimited local trains, the shuttle buses and trail access, and the fees pay for the wall maintenance that holds the landscape up.",
+    "Walk before nine. The paths are narrow with few passing places, and by mid-morning in season they are single-file queues in full sun.",
+    "Only Monterosso has real sand. Everywhere else you swim from rocks and slipways into deep clear water, which is better — but bring water shoes and expect the sea to be cold before June.",
+    "Take the shuttle bus up to Corniglia and walk down. The Lardarina staircase from the station is 382 steps and there is no reason to do it in the uphill direction.",
+    "Travel light. Village streets are steep, stepped and often too narrow for a wheeled case, and only Monterosso is remotely flat.",
+    "Try the high sanctuary and vineyard paths rather than only the coast route. They are harder, far emptier and give you the terracing at close range, which is the thing that makes this a UNESCO landscape."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Cinque Terre?",
+      "a": "Two or three. One day walks the best coast-path sections, one covers the boats and the swimming, and a third lets you take the quieter high routes and get out to Portovenere. A single day is possible and is what most visitors do, which is exactly why the villages feel overwhelmed between eleven and four."
+    },
+    {
+      "q": "Which village should I stay in?",
+      "a": "Monterosso if you want a beach, a proper hotel and level ground — it is much the easiest with luggage. Vernazza for the prettiest evenings. Manarola or Riomaggiore for atmosphere, rock swimming and sunsets. Corniglia if quiet matters more than convenience, accepting the 382 steps. Levanto and La Spezia are cheaper and just outside, at the cost of the early mornings."
+    },
+    {
+      "q": "Can you walk between all five villages?",
+      "a": "Not always. The low coastal Sentiero Azzurro has had sections closed by landslides for years at a time, though the Via dell'Amore between Riomaggiore and Manarola reopened in 2024. Vernazza–Monterosso and Corniglia–Vernazza are the classic stretches and are usually open. The higher sanctuary and vineyard paths connect everything regardless and are quieter — check the national park's current trail status before you plan a day around any specific route."
+    },
+    {
+      "q": "Do I need the Cinque Terre Card?",
+      "a": "The trekking card is required for the paid sections of the coast path, and the train version adds unlimited local trains between Levanto and La Spezia plus the shuttle buses. If you expect four or more train journeys in a day — which is normal here — the train card pays for itself. The fees fund the dry-stone wall and footpath maintenance that keeps the landscape standing."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "May to June and mid-September to October. Those months give you open trails, running ferries, swimmable sea from June, and villages that are busy rather than impassable. July and August are at capacity, with standing-room trains and single-file paths. From November to March many places close, boats stop and rain can shut the trails."
+    },
+    {
+      "q": "Should I drive to the Cinque Terre?",
+      "a": "No. Vehicle access to the villages is restricted, parking is minimal and expensive, and the road above the coast is narrow and slow. The local train runs every fifteen to twenty minutes and links all five villages in under half an hour end to end. If you already have a car, leave it in La Spezia or Levanto and take the train in."
+    },
+    {
+      "q": "Are the Cinque Terre too crowded to enjoy?",
+      "a": "Between about eleven and four in high season, in the two or three most photogenic villages, yes. But the crowding is concentrated in a narrow window and a small area. Sleeping in a village, walking before nine, using the high paths instead of the coast route, and choosing late September over August changes the experience completely."
+    }
+  ],
+  "related": ["florence-tuscany", "amalfi-coast", "milan", "nice-french-riviera"],
+  "relatedArticles": ["unesco-worth-planning-around", "europe-by-train", "packing-by-season"]
+}

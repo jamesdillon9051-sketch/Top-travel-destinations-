@@ -1,0 +1,384 @@
+{
+  "slug": "puglia-matera",
+  "name": "Puglia & Matera",
+  "shortName": "Puglia",
+  "country": "italy",
+  "region": "Puglia and Basilicata",
+  "categories": ["historic", "unesco", "coastal", "food-and-wine"],
+  "tagline": "Whitewashed hill towns, conical stone huts, Baroque Lecce and a cave city that Italy was ashamed of and is now proud of.",
+  "highlight": "The Sassi of Matera — a whole town carved into a ravine, lived in for millennia, emptied in the 1950s and reoccupied since.",
+  "shortDescription": "The heel of Italy and the region above it: 800 km of coast, olive groves that have been worked since antiquity, three UNESCO sites and the best value in the country.",
+  "metaDescription": "A Puglia and Matera travel guide: the Sassi, Alberobello's trulli, Lecce's Baroque, the Salento beaches, Castel del Monte, when to go and a seven-day itinerary.",
+  "suggestedStay": "5–7 days",
+  "nearestAirport": "Bari (BRI) or Brindisi (BDS)",
+  "knownFor": "The Sassi, trulli, Lecce, orecchiette, burrata",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "Road trips, food, beaches, architecture, value",
+  "coords": { "lat": 40.6663, "lng": 16.6043 },
+  "image": {
+    "file": "File:View of Sassi di Matera, Matera, Italy (PPL2-Enhanced) julesvernex2.jpg",
+    "alt": "The stone cave dwellings of the Sassi di Matera stacked up the side of a ravine"
+  },
+  "intro": [
+    "Matera is not in Puglia — it is just over the border in Basilicata — but nobody plans one without the other, and the two belong in the same trip. It is a town built into and out of a limestone ravine, where houses were quarried into the rock and the stone taken out was used to build the fronts, so the same material is both wall and hollow. People lived there continuously for thousands of years. By the 1940s they were living there with their animals in extreme poverty, and after Carlo Levi's book made it a national scandal the government evacuated some fifteen thousand of them into new housing in the 1950s. The Sassi stood empty for thirty years, became a UNESCO site in 1993, and were named a European Capital of Culture in 2019.",
+    "Puglia proper is the heel: eight hundred kilometres of coast, a limestone plateau in the middle, and olive groves that have been worked since before the Romans, some of the trees a thousand years old. It has three distinct pieces. In the middle, the Valle d'Itria is full of trulli — round dry-stone huts with conical roofs, built without mortar so they could be dismantled when the tax inspector came — and whitewashed hill towns above them. Further south, Lecce is a small Baroque city carved out of a limestone so soft it can be worked like wood. And the Salento peninsula at the tip has rocky Adriatic cliffs on one side and Ionian sand on the other.",
+    "It is also the best value in Italy. Masserie — fortified farmhouses — have been converted into hotels at prices that would buy a room above a Tuscan car park. The food is genuinely regional and largely vegetable-based, the wine is Primitivo and Negroamaro, and outside August the coast is not crowded. This is where a second or third Italian trip should go."
+  ],
+  "whyVisit": {
+    "intro": "Three UNESCO sites, two coastlines and one of the most distinctive food cultures in Italy — for noticeably less money than anywhere north of Naples.",
+    "points": [
+      {
+        "title": "Matera is unlike any other town in Europe",
+        "text": "A whole settlement carved into a ravine, with around 150 rock-cut churches, some frescoed. Sleeping in a converted cave here is one of the few genuinely unusual hotel experiences left in Italy."
+      },
+      {
+        "title": "The trulli are a working landscape",
+        "text": "Alberobello has around 1,500 of them and is UNESCO-listed, but the whole Valle d'Itria is scattered with trulli standing in olive groves and vineyards, still used and still being repaired."
+      },
+      {
+        "title": "Lecce is Baroque you can walk in an evening",
+        "text": "The local limestone is soft enough to carve like wood, so the facades erupt with fruit, animals and figures. It is a small, warm, liveable city with a Roman amphitheatre in the main square."
+      },
+      {
+        "title": "Two coasts, twenty minutes apart",
+        "text": "In the Salento you can swim off Adriatic rock in the morning and Ionian sand in the afternoon. Neither is developed the way the Amalfi Coast is, and both are far cheaper."
+      },
+      {
+        "title": "The food is regional and vegetable-led",
+        "text": "Orecchiette with turnip tops, broad bean purée with wild chicory, burrata from Andria, bombette grilled at the butcher's counter, and pasticciotto for breakfast in Lecce."
+      }
+    ]
+  },
+  "attractionsIntro": "This is a long region — Matera to the tip of the Salento is three hours — so plan it as a linear drive rather than a hub and spokes.",
+  "attractions": [
+    {
+      "name": "The Sassi di Matera",
+      "text": "Two districts of cave dwellings, Sasso Caveoso and Sasso Barisano, stacked either side of a ravine, with rock-cut churches carrying Byzantine frescoes and a reconstructed cave house showing how families and animals shared one room.",
+      "tip": "Walk the Murgia park path on the far side of the ravine for the view back. The Casa Grotta museum takes ten minutes and reframes everything."
+    },
+    {
+      "name": "Alberobello",
+      "text": "Around 1,500 trulli in two districts — busy Rione Monti and quieter Aia Piccola — with conical dry-stone roofs, whitewashed walls and painted symbols on some of the pinnacles.",
+      "tip": "Overwhelming by day and lovely at eight in the morning or after seven at night. Aia Piccola is where people still live."
+    },
+    {
+      "name": "The Valle d'Itria",
+      "text": "The plateau between Alberobello and Ostuni: Locorotondo, a circular white town on a hill; Cisternino, where butchers grill your meat while you wait; and Martina Franca, unexpectedly grand and Baroque.",
+      "tip": "This is the best area to base in. The three towns are fifteen minutes apart and each is worth an evening."
+    },
+    {
+      "name": "Lecce",
+      "text": "The Baroque capital of the south, built in a golden limestone soft enough to carve in extraordinary detail — Santa Croce's facade above all — with a Roman amphitheatre sunk into the main square.",
+      "tip": "Walk it after dark when the stone is floodlit. Two nights is right; it is a city to sit in rather than tick off."
+    },
+    {
+      "name": "Ostuni",
+      "text": "The città bianca: a hill town lime-washed brilliant white, visible for miles across the olive plain that runs down to the Adriatic, with a rose-window cathedral at the top of a maze of lanes.",
+      "tip": "Park below and walk up. The best views of Ostuni are from the approach road, not from inside it."
+    },
+    {
+      "name": "Polignano a Mare and Monopoli",
+      "text": "Two Adriatic towns half an hour from Bari: Polignano built on a cliff over the Lama Monachile cove, and Monopoli with a working harbour, a whitewashed old town and far fewer visitors.",
+      "tip": "Polignano is best early or late. Monopoli is the better dinner and the better swim."
+    },
+    {
+      "name": "Otranto and the Salento coast",
+      "text": "The easternmost town in Italy, with an Aragonese castle and a cathedral whose entire floor is a twelfth-century mosaic of the Tree of Life. South of it, cliffs run to Santa Maria di Leuca at the tip.",
+      "tip": "The mosaic is extraordinary and largely overlooked. The coast road south towards Castro is one of Italy's best drives."
+    },
+    {
+      "name": "Castel del Monte",
+      "text": "Frederick II's octagonal castle of the 1240s, with eight octagonal towers, no obvious military purpose and a geometry that has kept historians arguing for centuries. It appears on the Italian one-cent coin.",
+      "tip": "Inland from Trani, and reached by a shuttle from the car park. Combine with Trani's Romanesque cathedral on the sea."
+    }
+  ],
+  "thingsToDoIntro": "Puglia rewards slowness: two or three bases, short drives, long lunches and a swim in the afternoon.",
+  "thingsToDo": [
+    {
+      "title": "Sleep in a cave or a masseria",
+      "text": "Matera's Sassi hotels are converted rock dwellings with vaulted stone ceilings. In the Valle d'Itria, fortified farmhouses have become hotels with olive groves, pools and their own oil.",
+      "tip": "Both are far cheaper than the equivalent in Tuscany. Book the cave rooms with natural light unless you like total darkness."
+    },
+    {
+      "title": "Watch orecchiette being made",
+      "text": "In Bari Vecchia, women make orecchiette at tables in the street on the Arco Basso, dragging each piece off the board with a knife and thumb. It is a working street, not a display.",
+      "tip": "Mornings. Buy a bag of fresh pasta, and be respectful about photographs — people live there."
+    },
+    {
+      "title": "Eat at a fornello pronto",
+      "text": "In Cisternino and Martina Franca, butchers double as grill houses: you choose your meat at the counter, they cook it over coals, and you eat it upstairs with bread and wine.",
+      "tip": "Ask for bombette — rolled pork parcels stuffed with cheese. Evenings only, and there will be a queue."
+    },
+    {
+      "title": "Swim on both coasts",
+      "text": "The Adriatic side of the Salento is limestone cliffs, sea caves and rock platforms; the Ionian side is long shallow sand. They are twenty to thirty minutes apart across the peninsula.",
+      "tip": "Grotta della Poesia near Roca for the sinkhole, Pescoluse near the tip for the sand. Both get busy in August only."
+    },
+    {
+      "title": "Walk into the rock churches",
+      "text": "Around Matera and in the Murgia gorge opposite, more than a hundred churches were cut into the limestone between the eighth and thirteenth centuries, some still carrying Byzantine frescoes.",
+      "tip": "The park across the ravine needs proper shoes and, in summer, an early start. A guide is worth it for the frescoed ones."
+    },
+    {
+      "title": "Drink Primitivo where it grows",
+      "text": "Manduria and the Salento make dense, warm Primitivo and the lighter Negroamaro, at prices that make northern Italian wine look like a mistake. Many estates take visitors.",
+      "tip": "Ask for Verdeca or a Salento rosato in summer — the whites and rosés here are underrated and better suited to the heat."
+    }
+  ],
+  "foodIntro": "Puglian cooking is cucina povera at its best: wheat, vegetables, olive oil, and very good bread — with meat and fish as punctuation rather than the point.",
+  "foods": [
+    {
+      "name": "Orecchiette con cime di rapa",
+      "text": "Little ear-shaped pasta made by hand, with turnip tops, garlic, chilli, anchovy and toasted breadcrumbs. The regional dish, bitter and savoury, and best where the pasta was made that morning.",
+      "whereToTry": "Bari and the Valle d'Itria. In Bari Vecchia the pasta is made on tables in the street."
+    },
+    {
+      "name": "Burrata and mozzarella",
+      "text": "Burrata was invented at Andria, north of Bari: a mozzarella shell filled with cream and torn curd, eaten within a day of being made. Alongside it, stracciatella and fresh sheep's ricotta.",
+      "whereToTry": "Any caseificio in the morning, ideally in Andria itself. Eat it the same day — it does not keep."
+    },
+    {
+      "name": "Focaccia barese and panzerotti",
+      "text": "A thick, oily focaccia dimpled with cherry tomatoes and olives, sold by weight all day; and panzerotti, half-moons of dough filled with tomato and mozzarella and deep-fried.",
+      "whereToTry": "Bakeries in Bari and Altamura, whose bread has protected status and keeps for a week."
+    },
+    {
+      "name": "Bombette and fave e cicoria",
+      "text": "Bombette are rolled pork parcels stuffed with cheese and grilled at the butcher's; fave e cicoria is a purée of dried broad beans with wild chicory and olive oil — poor food that has become the regional signature.",
+      "whereToTry": "Cisternino and Martina Franca for the bombette; any trattoria for the fave."
+    },
+    {
+      "name": "Pasticciotto and caffè leccese",
+      "text": "A small shortcrust pastry filled with custard, eaten warm for breakfast in the Salento; and caffè leccese, espresso poured over ice with almond milk, which is the local answer to a hot morning.",
+      "whereToTry": "Lecce's bars from seven in the morning. The pasticciotto should still be warm from the oven."
+    },
+    {
+      "name": "Primitivo and Negroamaro",
+      "text": "Puglia's two great reds: dense, ripe Primitivo from around Manduria and the more savoury Negroamaro of the Salento, plus rosato that has been made here far longer than it has been fashionable.",
+      "whereToTry": "Estate cellars around Manduria and Salice Salentino, and by the carafe in any trattoria for a few euros."
+    }
+  ],
+  "accommodation": {
+    "intro": "Puglia's converted masserie and Matera's cave hotels are the reason to come at this budget — both cost a fraction of the northern equivalent.",
+    "areas": [
+      {
+        "name": "Matera",
+        "bestFor": "Two nights, in a cave",
+        "text": "Hotels carved into the Sassi with vaulted stone rooms, some with windows onto the ravine and some without any natural light at all. The town empties in the evening and is remarkable then."
+      },
+      {
+        "name": "The Valle d'Itria",
+        "bestFor": "The best central base",
+        "text": "Masserie and converted trulli around Locorotondo, Cisternino and Martina Franca, with olive groves, pools and easy reach of Alberobello, Ostuni and the Adriatic coast."
+      },
+      {
+        "name": "Lecce",
+        "bestFor": "Baroque and city evenings",
+        "text": "Courtyard palazzi in the historic centre, walkable, warm and lively after dark, and the natural base for the Salento's beaches and Otranto."
+      },
+      {
+        "name": "Ostuni and the Adriatic",
+        "bestFor": "Views and beaches together",
+        "text": "The white town on its hill with the coast eight kilometres below, plus Polignano and Monopoli further north. Good for combining swimming with hill-town evenings."
+      },
+      {
+        "name": "The Salento tip",
+        "bestFor": "Beaches, in season",
+        "text": "Otranto, Gallipoli and the coast down to Santa Maria di Leuca. Lively in July and August, quiet and partly closed the rest of the year."
+      }
+    ],
+    "budget": [
+      { "label": "Masseria or trullo, mid-range", "value": "€90–180 per night" },
+      { "label": "Cave hotel in Matera", "value": "€100–200 per night" },
+      { "label": "Car hire", "value": "€30–50 per day, and essential" },
+      { "label": "Dinner with local wine", "value": "€20–35 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Two airports at either end of the region, and a high-speed line down the Adriatic that stops well short of the Salento.",
+    "options": [
+      {
+        "mode": "Bari Airport (BRI)",
+        "text": "The main gateway, with European and domestic routes and a train link into Bari Centrale in about fifteen minutes. Best for Matera, the Valle d'Itria and the north.",
+        "detail": "Matera is about an hour by road; a direct coach runs from the airport."
+      },
+      {
+        "mode": "Brindisi Airport (BDS)",
+        "text": "Smaller, further south, and much closer to Lecce and the Salento — around 40 minutes to Lecce by shuttle bus.",
+        "detail": "Flying into Bari and out of Brindisi, or the reverse, saves a long backtrack."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "[[rome|Rome]] to Bari in about 4h and [[naples-pompeii|Naples]] to Bari in 3h30 by fast train, continuing to Brindisi and Lecce on slower services.",
+        "detail": "Comfortable to Bari and Lecce. Everything between them is far easier with a car."
+      },
+      {
+        "mode": "Ferries to Greece and Albania",
+        "text": "Bari and Brindisi run overnight ferries to Corfu, Igoumenitsa and Patras, and fast crossings to Durrës in Albania.",
+        "detail": "A genuinely useful way to combine Puglia with the Ionian islands or the Balkans."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car, without much argument. Puglia's attractions are small towns spread across a large agricultural region, and the trains connect very few of them.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The way to do the Valle d'Itria, the coast roads and the Salento. Roads are flat, wide and empty by Italian standards, and driving here is easy.",
+        "detail": "Every old town has a ZTL. Park outside the walls — the historic centres are small enough to walk in ten minutes."
+      },
+      {
+        "mode": "Ferrovie del Sud Est",
+        "text": "A regional narrow-gauge network linking Bari, Alberobello, Martina Franca and Lecce. Slow, infrequent and closed at weekends on some lines, but it reaches the trulli towns.",
+        "detail": "Workable for Alberobello as a day trip from Bari. Not a substitute for a car across a week."
+      },
+      {
+        "mode": "Adriatic coast trains",
+        "text": "The main line links Bari, Polignano a Mare, Monopoli, Brindisi and Lecce frequently and cheaply, which covers several of the coastal towns without driving.",
+        "detail": "Stations are usually a short walk from the old centres. Validate regional tickets before boarding."
+      },
+      {
+        "mode": "Buses to Matera",
+        "text": "Coaches run from Bari and Bari airport to Matera in about an hour and a quarter. Matera's own rail link is a separate regional line and slower.",
+        "detail": "Matera's centre is pedestrian and steep. Park at the top and walk down into the Sassi."
+      },
+      {
+        "mode": "Walking",
+        "text": "Every town here is small and best on foot — Matera's Sassi, Ostuni's lanes, Lecce's centre and Alberobello's trulli districts are all walkable in an hour or two.",
+        "detail": "Matera in particular is stairs and steep stone. Shoes with grip matter, and it is hard going with limited mobility."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "This is the hottest, driest part of mainland Italy and its beach season is short and intense. Either side of it, the region is warm, empty and cheap.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Wildflowers across the Murgia, green olive groves, 18–28°C and the sea swimmable from late May. Everything is open by Easter and the coast is not yet busy."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Frequently 35°C and above, with almost no shade in Matera or Alberobello. August is the Italian holiday month and the Salento coast fills entirely, with prices to match."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. The sea stays warm into October, the olive harvest begins, the crowds vanish after the first week of September and the light on the white towns is at its best."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Mild at 12–16°C with some rain, and very cheap. Matera and Lecce are excellent in winter; the coastal resorts of the Salento largely close."
+      }
+    ],
+    "avoid": "August, unless the beach is the entire trip. The Salento coast is at Italian-holiday capacity, accommodation doubles in price, and Matera and Alberobello are exposed stone towns in 35-degree heat."
+  },
+  "itinerary": {
+    "title": "Seven days in Puglia and Matera",
+    "intro": "A linear drive from Bari to the Salento, with three bases: Matera, the Valle d'Itria and Lecce. Fly out of Brindisi to avoid backtracking.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bari and Matera",
+        "summary": "Arrive, then straight into the ravine.",
+        "morning": "Bari Vecchia, the Basilica di San Nicola and the orecchiette street.",
+        "afternoon": "Drive to Matera, about an hour, and settle into a cave hotel.",
+        "evening": "The Sassi after dark, lit and almost empty."
+      },
+      {
+        "day": 2,
+        "title": "Matera",
+        "summary": "The cave city, inside and out.",
+        "morning": "Sasso Caveoso, the Casa Grotta and two rock-cut churches.",
+        "afternoon": "Walk into the Murgia park across the ravine for the view back.",
+        "evening": "Dinner on a terrace over the Sassi."
+      },
+      {
+        "day": 3,
+        "title": "Into the trulli",
+        "summary": "West into Puglia's stone country.",
+        "morning": "Drive to Alberobello, arriving before the coaches.",
+        "afternoon": "Locorotondo and Martina Franca, fifteen minutes apart.",
+        "evening": "Cisternino, and bombette grilled at a butcher's counter."
+      },
+      {
+        "day": 4,
+        "title": "The Adriatic",
+        "summary": "White towns and clear water.",
+        "morning": "Ostuni, walked uphill from the car park below.",
+        "afternoon": "Polignano a Mare and a swim in the Lama Monachile cove.",
+        "evening": "Monopoli's harbour for dinner, which is better than Polignano's."
+      },
+      {
+        "day": 5,
+        "title": "South to Lecce",
+        "summary": "Baroque in golden stone.",
+        "morning": "Drive south, stopping at a masseria or a Primitivo estate.",
+        "afternoon": "Lecce — Santa Croce, the Duomo square and the Roman amphitheatre.",
+        "evening": "The centre floodlit, with a pasticciotto for the walk back."
+      },
+      {
+        "day": 6,
+        "title": "Otranto and the Salento",
+        "summary": "Two coasts in one day.",
+        "morning": "Otranto's castle and the Tree of Life mosaic in the cathedral.",
+        "afternoon": "The cliff road south, then across to the Ionian sand.",
+        "evening": "Back to Lecce, or stay on the coast."
+      },
+      {
+        "day": 7,
+        "title": "Castel del Monte or the beach",
+        "summary": "One last inland detour, or nothing at all.",
+        "morning": "Frederick II's octagonal castle, or a final swim.",
+        "afternoon": "Trani's cathedral on the sea, if you are heading back north.",
+        "evening": "Fly out of Brindisi or Bari."
+      }
+    ]
+  },
+  "tipsIntro": "Puglia is easy driving and hard sun. Most of what goes wrong here is heat, August, or a ZTL.",
+  "tips": [
+    "Matera is in Basilicata, not Puglia. It is an hour from Bari and belongs in the same trip, but it is a different region with a different feel — and its own regional rail line rather than Puglia's.",
+    "Hire a car and fly open-jaw. Bari and Brindisi are at opposite ends of the region, and driving back for a departure flight wastes most of a day.",
+    "Park outside the old towns. Matera, Ostuni, Lecce, Alberobello and Locorotondo all have ZTL zones, and every centre is small enough to cross on foot in ten or fifteen minutes.",
+    "See Alberobello at eight in the morning or after seven in the evening. In between it is one of the most coach-heavy places in southern Italy; at either end it is nearly empty.",
+    "Book a cave hotel in Matera, but check whether the room has natural light. Some of the best rooms are entirely internal, which is atmospheric for one night and oppressive for three.",
+    "Avoid August if you can. It is the Italian holiday month, the Salento coast fills completely, prices roughly double and the inland stone towns sit above 35°C with no shade.",
+    "Eat burrata the day it is made, from a caseificio rather than a supermarket. It comes from Andria, north of Bari, and it does not survive travel — which is why it tastes different here.",
+    "The two Salento coasts are different and both worth doing: the Adriatic side is limestone cliffs and sea caves, the Ionian is long shallow sand. They are twenty to thirty minutes apart."
+  ],
+  "faq": [
+    {
+      "q": "Is Matera in Puglia?",
+      "a": "No — Matera is in Basilicata, the region immediately west, though it sits only about an hour from Bari and is almost always visited as part of a Puglian trip. The distinction matters mainly for transport: Matera is served by a separate regional railway and is easiest reached by coach from Bari or Bari airport, or by car."
+    },
+    {
+      "q": "How many days do you need in Puglia and Matera?",
+      "a": "Five at a minimum, seven comfortably. Two nights in Matera, two or three in the Valle d'Itria for the trulli towns and the Adriatic coast, and two in Lecce for the Baroque and the Salento. The region runs about 250 km from Bari to the tip, so a linear route with three bases works far better than day trips from one hotel."
+    },
+    {
+      "q": "Do I need a car in Puglia?",
+      "a": "Yes, for almost everything. The main Adriatic railway links Bari, Polignano, Monopoli, Brindisi and Lecce well, and a regional narrow-gauge line reaches Alberobello, but the masserie, the Valle d'Itria towns, Castel del Monte and the Salento coast are all effectively car-only. Driving here is easy — the roads are flat, wide and quiet by Italian standards."
+    },
+    {
+      "q": "What are trulli?",
+      "a": "Round dry-stone huts with conical corbelled roofs, built without mortar so that they could be dismantled quickly — traditionally to avoid a property tax on permanent buildings. Alberobello has around 1,500 of them and is UNESCO-listed, but they are scattered across the whole Valle d'Itria in olive groves and vineyards, and many have been converted into houses and holiday rentals."
+    },
+    {
+      "q": "What happened to the Sassi of Matera?",
+      "a": "By the 1940s the cave districts housed some fifteen thousand people in severe poverty, often sharing a single room with their livestock. Carlo Levi's book brought national attention, the conditions were denounced in parliament as a national shame, and the government evacuated the Sassi into new housing during the 1950s. They stood empty for decades, were made a UNESCO World Heritage Site in 1993, and have been gradually reoccupied as homes, restaurants and hotels since."
+    },
+    {
+      "q": "When is the best time to visit Puglia?",
+      "a": "May to June and September to October. Spring brings wildflowers across the Murgia and a sea swimmable from late May; September and October give warm water, the olive harvest and empty towns. July and August regularly exceed 35°C with no shade in Matera or Alberobello, and August in particular fills the Salento coast with Italian holidaymakers at double the price."
+    },
+    {
+      "q": "Are the beaches in Puglia good?",
+      "a": "Very. The Salento has two quite different coasts twenty to thirty minutes apart: the Adriatic side is limestone cliffs, sea caves and rock platforms with exceptionally clear water, and the Ionian side around Gallipoli and Pescoluse is long, shallow and sandy. Further north, Polignano a Mare's cove and the Gargano peninsula's beaches are both excellent. Outside August, none of it is crowded."
+    }
+  ],
+  "related": ["sicily", "naples-pompeii", "amalfi-coast", "cappadocia"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around", "best-time-southern-europe"]
+}

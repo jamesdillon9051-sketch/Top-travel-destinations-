@@ -1,0 +1,368 @@
+{
+  "slug": "san-francisco",
+  "name": "San Francisco & the California Coast",
+  "shortName": "San Francisco",
+  "country": "united-states",
+  "region": "California",
+  "categories": ["major-city", "coastal", "cultural", "scenic"],
+  "tagline": "Seven miles square, forty-odd hills, a bridge that disappears into fog, and the Pacific coast starting at the end of the road.",
+  "highlight": "Walking or cycling the Golden Gate Bridge, with the fog moving through the towers beneath you.",
+  "shortDescription": "The most walkable major city on the American West Coast, with cable cars, Victorian terraces and a food culture built on Californian produce — plus redwoods, wine country and Highway 1 within two hours.",
+  "metaDescription": "A San Francisco travel guide: the Golden Gate Bridge, Alcatraz, cable cars, the Mission, day trips to Muir Woods, Napa and Highway 1, when to go and a five-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "San Francisco (SFO) and Oakland (OAK)",
+  "knownFor": "The Golden Gate Bridge, Alcatraz, cable cars, fog",
+  "budget": "$230–380 per day, mid-range",
+  "goodFor": "Walking, food, coast, day trips",
+  "coords": { "lat": 37.7749, "lng": -122.4194 },
+  "image": {
+    "file": "File:Golden Gate Bridge at sunset 1.jpg",
+    "alt": "The Golden Gate Bridge in orange light with the Pacific behind it at sunset"
+  },
+  "intro": [
+    "San Francisco occupies the tip of a peninsula seven miles square, which makes it by far the most compact major American city and one of only a handful where a visitor genuinely does not need a car. It is also built on more than forty hills, some of them absurdly steep — Filbert Street hits a 31.5% gradient — which is why the cable cars exist and why walking here is more strenuous than the distances suggest.",
+    "The fog is the other defining feature and it is worth understanding rather than resenting. Cold Pacific water meets warm inland air and the result rolls in through the Golden Gate most summer afternoons, dropping the temperature ten degrees in an hour. It means San Francisco's summer is often its coolest, foggiest season, and September and October are its warmest and clearest months — the reverse of almost everywhere else.",
+    "The city's other strength is as a base. Muir Woods' redwoods are 40 minutes north, Napa and Sonoma an hour, Point Reyes ninety minutes, and Highway 1 runs south along the cliffs towards Big Sur. Few American cities put this much variety within a morning's drive, and the drive itself is one of the best in the country."
+  ],
+  "whyVisit": {
+    "intro": "San Francisco is the American city that feels most European to visitors — compact, walkable, food-obsessed, and surrounded by landscape.",
+    "points": [
+      {
+        "title": "The Golden Gate Bridge is better in person",
+        "text": "2.7 kilometres of orange steel across the entrance to the bay, and you can walk or cycle it. The colour, International Orange, was chosen deliberately to stand out against the fog, and on a day when cloud is pouring through the towers it is genuinely spectacular."
+      },
+      {
+        "title": "It is walkable and car-free",
+        "text": "Seven miles square, with cable cars, streetcars, buses and a metro. Alongside New York, this is the American city where a rental car is a liability rather than an asset — parking is scarce, expensive and heavily ticketed."
+      },
+      {
+        "title": "Californian food starts here",
+        "text": "Produce-driven cooking, the Ferry Building's farmers' market, the Mission's burritos, three distinct Chinatowns' worth of Chinese food, and the highest density of good eating on the West Coast."
+      },
+      {
+        "title": "Alcatraz is genuinely worth it",
+        "text": "A federal prison on an island in the bay, closed since 1963, with an audio tour narrated by former inmates and guards that is one of the best-made museum experiences anywhere."
+      },
+      {
+        "title": "The surroundings are exceptional",
+        "text": "Muir Woods' coast redwoods 40 minutes north, Point Reyes' wild coastline at 90, Napa and Sonoma at an hour, and Highway 1 south towards Big Sur. Yosemite is four hours inland."
+      }
+    ]
+  },
+  "attractionsIntro": "The city itself fills three days. Two more take you to the redwoods, the wine country or the coast.",
+  "attractions": [
+    {
+      "name": "The Golden Gate Bridge",
+      "text": "Opened in 1937 and for 27 years the longest suspension span in the world. The 2.7 km walkway is free and open to pedestrians during daylight; cycling it and continuing to Sausalito is the classic half-day.",
+      "tip": "Battery Spencer on the Marin side gives the best photograph, looking back at the bridge with the city behind. Crissy Field is the best view from the city side."
+    },
+    {
+      "name": "Alcatraz",
+      "text": "A maximum-security federal penitentiary from 1934 to 1963 on an island 2 km offshore, holding Al Capone and Machine Gun Kelly among others. The cellhouse audio tour uses recordings of the men who were there and is exceptionally well made.",
+      "tip": "Tickets sell out weeks ahead and are only sold by the official operator. The night tour is smaller and better."
+    },
+    {
+      "name": "The cable cars",
+      "text": "The last manually operated cable car system in the world, running since 1873 and gripping a continuously moving underground cable. Three lines survive of the original twenty-three.",
+      "tip": "The Powell–Hyde line has the best views and the longest queue. Board at a mid-route stop rather than the turnaround to skip most of the wait."
+    },
+    {
+      "name": "The Mission District",
+      "text": "The city's oldest neighbourhood, centred on the 1776 Mission Dolores, and now Latino, muralled and full of the burritos the city is known for. Clarion Alley and Balmy Alley hold decades of political murals.",
+      "tip": "The Mission sits in a rain and fog shadow and is reliably the sunniest part of the city — useful when the rest is under cloud."
+    },
+    {
+      "name": "Golden Gate Park",
+      "text": "Larger than Central Park at 412 hectares, running five kilometres to the ocean, holding the de Young Museum, the California Academy of Sciences, a Japanese tea garden and a bison paddock.",
+      "tip": "JFK Drive is permanently closed to cars, which makes the park excellent for cycling. Sundays are busiest and best."
+    },
+    {
+      "name": "Chinatown and North Beach",
+      "text": "The oldest Chinatown in North America, established in the 1840s, next to the historically Italian North Beach with its Beat-era bookshops and cafés. Two dense, adjacent neighbourhoods that feel nothing alike.",
+      "tip": "Walk up Stockton Street rather than Grant Avenue — Stockton is where Chinatown actually shops."
+    },
+    {
+      "name": "Muir Woods and Marin",
+      "text": "Forty minutes north across the bridge, a valley of coast redwoods up to 78 metres tall and over a thousand years old. Beyond it, Marin's headlands, Stinson Beach and Point Reyes.",
+      "tip": "Muir Woods requires an advance parking or shuttle reservation — you cannot simply turn up. Book before you drive."
+    },
+    {
+      "name": "Highway 1 and the coast",
+      "text": "The Pacific Coast Highway runs south from the city along cliffs through Half Moon Bay and Santa Cruz to Monterey, Carmel and Big Sur — one of the world's great coastal drives.",
+      "tip": "Big Sur is a 3h drive each way and deserves an overnight rather than a day trip. Check for road closures, which are frequent after winter storms."
+    }
+  ],
+  "thingsToDoIntro": "San Francisco rewards walking and it rewards eating. Structure the days around neighbourhoods rather than attractions.",
+  "thingsToDo": [
+    {
+      "title": "Cycle the bridge to Sausalito",
+      "text": "Hire a bike at Fisherman's Wharf, ride through Crissy Field, cross the Golden Gate, descend into Sausalito for lunch and take the ferry back with the skyline ahead of you. About 13 km and the best half-day in the city.",
+      "tip": "The ferry back sells out on summer afternoons. Buy the return ticket when you arrive in Sausalito, not at the pier."
+    },
+    {
+      "title": "Eat a Mission burrito",
+      "text": "A San Francisco invention: rice, beans, meat, salsa and cheese wrapped tightly in a steamed flour tortilla and foil, large enough to be two meals. The Mission has a dozen contenders and the arguments are serious.",
+      "tip": "Ask for it super, which adds guacamole and sour cream. Expect to queue and expect it to cost under $15."
+    },
+    {
+      "title": "Walk the Lands End coastal trail",
+      "text": "A cliff path along the city's northwestern edge with views to the bridge, shipwreck remains visible at low tide, and the ruins of the Sutro Baths at the western end.",
+      "tip": "Free, rarely crowded, and about 5 km round trip. Best in the late afternoon."
+    },
+    {
+      "title": "Ride a cable car and a streetcar",
+      "text": "The cable cars for the hills and the historic F-line streetcars — restored trams from Milan, Philadelphia and elsewhere — along the Embarcadero. Both are working transport rather than rides.",
+      "tip": "A day pass covers both plus the buses and metro, and pays for itself in three cable car rides."
+    },
+    {
+      "title": "Do the Ferry Building market",
+      "text": "A restored 1898 ferry terminal housing food stalls year-round and a large farmers' market on Saturday mornings — the clearest demonstration of why Californian cooking is produce-led.",
+      "tip": "Saturday from 08:00 is the full market. Tuesday and Thursday have smaller versions."
+    },
+    {
+      "title": "Get out of the city for a day",
+      "text": "Muir Woods for redwoods, Point Reyes for wild coast and elephant seals, Napa or Sonoma for wine, or Highway 1 south. All are between 40 minutes and two hours away.",
+      "tip": "Wine country needs a driver or a tour. Point Reyes is the best value and the least visited by tourists."
+    }
+  ],
+  "foodIntro": "Californian cooking is produce-led, lighter than most American food, and heavily shaped by Mexican and East Asian immigration. San Francisco is where most of it was worked out.",
+  "foods": [
+    {
+      "name": "The Mission burrito",
+      "text": "Invented in the Mission District in the 1960s: rice, beans, meat, salsa, cheese and optionally guacamole and sour cream, rolled tightly in a steamed tortilla and wrapped in foil. Enormous, cheap and a genuine local institution.",
+      "whereToTry": "Taquerías throughout the Mission. Locals have strong and specific loyalties."
+    },
+    {
+      "name": "Sourdough bread",
+      "text": "San Francisco's wild yeast and bacteria produce a distinctive sour tang, and the city has been baking it since the Gold Rush. Served as a bowl for clam chowder at the wharf, which is touristy and genuinely good.",
+      "whereToTry": "Bakeries throughout the city; the wharf for the chowder bowl version."
+    },
+    {
+      "name": "Dungeness crab",
+      "text": "Caught off the Northern California coast, in season roughly November to June, and eaten cracked with butter or in cioppino — a tomato and seafood stew invented by Italian fishermen in North Beach.",
+      "whereToTry": "Fisherman's Wharf crab stands in season, and the older North Beach and wharf restaurants for cioppino."
+    },
+    {
+      "name": "Dim sum",
+      "text": "San Francisco's Chinese community dates to the 1840s and is the oldest in North America. The best dim sum is in the Richmond and Sunset districts rather than in Chinatown itself.",
+      "whereToTry": "Clement Street in the Inner Richmond, which is where the city's Chinese population largely moved."
+    },
+    {
+      "name": "Californian produce",
+      "text": "Not a dish but the foundation: the state grows a third of America's vegetables and three-quarters of its fruit and nuts. The Ferry Building market is the showcase and the reason restaurant menus here change monthly.",
+      "whereToTry": "The Ferry Building farmers' market on Saturday mornings."
+    },
+    {
+      "name": "Napa and Sonoma wine",
+      "text": "An hour north, with Napa concentrating on cabernet sauvignon and Sonoma more varied and more relaxed. Tasting fees are high by European standards, often $30–75, and usually require appointments.",
+      "whereToTry": "Sonoma for value and informality; Napa for the famous names. Book ahead and arrange a driver."
+    }
+  ],
+  "accommodation": {
+    "intro": "San Francisco hotel rates are high and the neighbourhood matters more than in most cities — some central areas are noticeably rough at street level. Staying slightly out is usually better value and pleasanter.",
+    "areas": [
+      {
+        "name": "Nob Hill and Union Square",
+        "bestFor": "Central location and cable cars",
+        "text": "The traditional hotel district, on the cable car lines and walkable to Chinatown and downtown. Convenient, though the blocks immediately west towards the Tenderloin are visibly troubled and worth avoiding on foot at night."
+      },
+      {
+        "name": "North Beach and Fisherman's Wharf",
+        "bestFor": "First-time visitors and the waterfront",
+        "text": "Close to the bay, the ferry terminals and the bike route to the bridge. North Beach has the better restaurants; the wharf itself is the most touristic part of the city."
+      },
+      {
+        "name": "The Mission",
+        "bestFor": "Food, sunshine, local life",
+        "text": "The city's sunniest neighbourhood and its best eating, with murals, bars and taquerías. Fifteen minutes to downtown by BART, and better value than the centre."
+      },
+      {
+        "name": "Hayes Valley and the Castro",
+        "bestFor": "Walkable, characterful, calmer",
+        "text": "Central-west neighbourhoods with good restaurants, independent shops and Victorian terraces. Well connected by the metro and considerably more pleasant to walk around in the evening."
+      },
+      {
+        "name": "The Marina and Cow Hollow",
+        "bestFor": "The bridge and the waterfront",
+        "text": "Northern edge of the city near Crissy Field and the bridge approach, with a jogging and cycling waterfront. Quiet, residential and further from downtown."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "$50–90 per night" },
+      { "label": "Mid-range hotel", "value": "$200–340 per night, plus tax and often a facility fee" },
+      { "label": "Alcatraz ticket", "value": "About $45; sold only by the official operator and booked weeks ahead" },
+      { "label": "Hotel parking", "value": "$50–75 per night, which is the main argument against a car" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Two international airports serve the Bay Area, both with direct rail links into the city, which is unusual for the United States.",
+    "options": [
+      {
+        "mode": "San Francisco International (SFO)",
+        "text": "Twenty kilometres south, with BART trains running directly from the international terminal into downtown in about 30 minutes for around $10.",
+        "detail": "BART is far cheaper than a taxi or ride-hail, which run $60–90 depending on traffic."
+      },
+      {
+        "mode": "Oakland (OAK)",
+        "text": "Across the bay, often with cheaper domestic fares. A connector train links it to BART, giving a total journey of about 45 minutes to downtown San Francisco.",
+        "detail": "Worth checking alongside SFO — the fare difference is sometimes substantial."
+      },
+      {
+        "mode": "Driving in from elsewhere",
+        "text": "Los Angeles is about 6h on Interstate 5 or 9–10h on the coastal Highway 1. [[grand-canyon|The Grand Canyon]] is a long day's drive or a short flight; Yosemite is 4h east.",
+        "detail": "If arriving by car, drop it at the rental office rather than paying $50–75 a night to park it."
+      },
+      {
+        "mode": "By train",
+        "text": "Amtrak's Coast Starlight runs from Seattle to Los Angeles via Emeryville across the bay, with a bus connection into the city. Scenic, slow and frequently delayed.",
+        "detail": "A journey worth taking for itself rather than a practical way of getting anywhere."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk, ride the Muni network and take BART for longer hops. A car is a genuine liability here — the parking costs and ticketing alone are reason enough.",
+    "options": [
+      {
+        "mode": "Muni — buses, metro, streetcars, cable cars",
+        "text": "The city transit system covers everything within San Francisco. A day pass includes the cable cars, which otherwise cost $8 a ride, and pays for itself quickly.",
+        "detail": "The historic F-line streetcars along the Embarcadero use restored trams from cities around the world."
+      },
+      {
+        "mode": "Walking",
+        "text": "The city is seven miles square and most neighbourhoods are 20–30 minutes apart on foot. The hills are the complication — some blocks are genuinely steep enough to have steps instead of pavement.",
+        "detail": "Check the gradient before planning a route. Filbert Street's steepest block runs at 31.5%."
+      },
+      {
+        "mode": "BART",
+        "text": "The regional metro, linking SFO and Oakland to downtown and running under Market Street. Useful for the airport, the Mission and crossing the bay.",
+        "detail": "Distinct from Muni with separate fares, though a few stations are shared."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "The waterfront, Golden Gate Park and the bridge crossing are all excellent by bike, with hire available at the wharf and in the park. The hills in between are not.",
+        "detail": "The bridge-to-Sausalito ride with a ferry return is the standard route and worth doing."
+      },
+      {
+        "mode": "Rental car for day trips only",
+        "text": "Needed for Point Reyes, wine country and Highway 1, and useless within the city. Hire for the specific days rather than the whole stay.",
+        "detail": "Car break-ins are a genuine and well-documented problem. Leave nothing visible, ever, including in the boot."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "September–October",
+    "summary": "San Francisco's seasons run counter to expectation. Summer is the foggiest and coolest time in the city, and early autumn is warm and clear — the opposite of the surrounding region.",
+    "seasons": [
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The city's warmest and clearest months, at 18–24°C, with the summer fog gone and the wine country in harvest. Comfortably the best time to visit and priced accordingly."
+      },
+      {
+        "season": "Spring (April–June)",
+        "rating": "good",
+        "text": "Mild at 14–20°C, green from the winter rain, and generally clear in April and May before the fog season begins in earnest. Good for the coast and the redwoods."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Cool, grey and often foggy in the city itself, at 15–20°C, with cloud rolling in through the Golden Gate most afternoons. Inland and the wine country are hot and sunny at the same time — a 20-degree difference over 40 km."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Mild at 10–15°C but this is the wet season, with most of the year's rain falling between December and March. Cheapest hotel rates, Dungeness crab in season, and the hills at their greenest."
+      }
+    ],
+    "avoid": "Assuming summer means sunshine. Mark Twain probably never said the line about the coldest winter he ever spent being a summer in San Francisco, but the observation holds — pack layers for July."
+  },
+  "itinerary": {
+    "title": "Five days in San Francisco and the coast",
+    "intro": "Three days in the city on foot and by transit, two using a car for the surroundings. Assumes Alcatraz is booked in advance.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Downtown, Chinatown and North Beach",
+        "summary": "Get the geography and the hills into your legs.",
+        "morning": "The Ferry Building and the Embarcadero, then the F-line streetcar north.",
+        "afternoon": "Chinatown up Stockton Street, then North Beach and the climb to Coit Tower.",
+        "evening": "Dinner in North Beach, then a cable car over Nob Hill."
+      },
+      {
+        "day": 2,
+        "title": "The bridge",
+        "summary": "The city's defining structure, crossed rather than looked at.",
+        "morning": "Hire bikes at the wharf and ride through Crissy Field to the Golden Gate.",
+        "afternoon": "Cross the bridge, descend into Sausalito for lunch, and take the ferry back.",
+        "evening": "Sunset at Baker Beach or Lands End, with the bridge side-on."
+      },
+      {
+        "day": 3,
+        "title": "Alcatraz and the Mission",
+        "summary": "The island in the morning, the sunniest neighbourhood in the afternoon.",
+        "morning": "The first Alcatraz ferry and the cellhouse audio tour — allow three hours in total.",
+        "afternoon": "BART to the Mission for murals, Mission Dolores and a burrito.",
+        "evening": "Mission bars, or Hayes Valley for dinner."
+      },
+      {
+        "day": 4,
+        "title": "Redwoods and the Marin coast",
+        "summary": "Collect a car and head north.",
+        "morning": "Muir Woods on a pre-booked reservation — thousand-year-old coast redwoods, 40 minutes from the city.",
+        "afternoon": "The Marin Headlands for the classic bridge view, or on to Stinson Beach and Point Reyes.",
+        "evening": "Back over the bridge into the city at dusk."
+      },
+      {
+        "day": 5,
+        "title": "Wine country or Highway 1",
+        "summary": "North to the vineyards or south along the cliffs.",
+        "morning": "Sonoma for informal tasting, or Highway 1 south through Half Moon Bay.",
+        "afternoon": "Santa Cruz and the coast, or a second winery — with a designated driver either way.",
+        "evening": "Golden Gate Park and the de Young if there is time, then depart."
+      }
+    ]
+  },
+  "tipsIntro": "San Francisco specifics, one of which is about a genuinely common problem.",
+  "tips": [
+    "Car break-ins are a well-documented and persistent problem, particularly at trailhead and viewpoint car parks. Leave absolutely nothing visible in a parked car, including in the boot, and preferably do not rent one for the city days at all.",
+    "Book Alcatraz weeks ahead through the official operator. It regularly sells out, and tickets sold by third parties at inflated prices are the main scam aimed at visitors here.",
+    "Muir Woods requires an advance parking or shuttle reservation and turns away vehicles without one. Book before you set out.",
+    "Pack layers for summer. The city's July and August are cool, grey and foggy at 15–20°C, while the wine country 40 km inland is 30°C. September and October are San Francisco's warm, clear months.",
+    "A Muni day pass includes the cable cars, which cost $8 a single ride otherwise. It pays for itself on the third ride.",
+    "Board the cable car at a stop partway along the route rather than at the Powell Street turnaround, where the queue routinely runs 45 minutes.",
+    "The blocks around the Tenderloin, immediately west of Union Square, have visible street homelessness and drug use. It is not dangerous to visitors in daylight but it is confronting, and worth routing around at night.",
+    "Hotel parking runs $50–75 a night on top of the room. Rent a car only for the days you leave the city."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in San Francisco?",
+      "a": "Four to five. Three covers the city itself — downtown and Chinatown, the Golden Gate Bridge, Alcatraz and the Mission — and two more let you reach the redwoods, Point Reyes, wine country or Highway 1. The surroundings are a large part of the case for coming, so leaving time for them matters."
+    },
+    {
+      "q": "Do you need a car in San Francisco?",
+      "a": "Not in the city, where it is an active liability — hotel parking runs $50–75 a night, street parking is scarce and heavily ticketed, and car break-ins are a persistent problem. The Muni network and BART cover everything. Rent a car only for the specific days you are heading to Muir Woods, Point Reyes, wine country or Highway 1."
+    },
+    {
+      "q": "When is the best time to visit San Francisco?",
+      "a": "September and October, which are the city's warmest and clearest months at 18–24°C. San Francisco's seasons run counter to expectation: July and August are cool, grey and foggy at 15–20°C because cold Pacific water meets warm inland air. Winter is mild but wet. Pack layers whatever month you choose."
+    },
+    {
+      "q": "Is Alcatraz worth visiting?",
+      "a": "Yes, and it is one of the better-made museum experiences anywhere. The cellhouse audio tour is narrated by former inmates and guards, the island itself is atmospheric, and the boat ride gives you the city from the water. Book weeks ahead through the official operator — it sells out routinely and third-party resellers are the main visitor scam in the city."
+    },
+    {
+      "q": "Can you walk across the Golden Gate Bridge?",
+      "a": "Yes — the eastern walkway is free and open to pedestrians during daylight hours, and it is 2.7 km each way. Cycling it is arguably better: hire a bike at Fisherman's Wharf, ride through Crissy Field, cross the bridge, descend to Sausalito for lunch and take the ferry back. That circuit is about 13 km and is the best half-day in the city."
+    },
+    {
+      "q": "Is San Francisco safe?",
+      "a": "For visitors, generally yes, with two specific caveats. Car break-ins are frequent and well documented, particularly at trailheads and viewpoints — leave nothing visible in a parked car. And the Tenderloin, immediately west of Union Square, has visible street homelessness and drug use that many visitors find confronting; it is worth routing around, especially at night."
+    },
+    {
+      "q": "What day trips are worth doing from San Francisco?",
+      "a": "Muir Woods for coast redwoods, 40 minutes north but requiring an advance parking reservation. Point Reyes at 90 minutes for wild coastline and elephant seals, and the least visited of the options. Napa or Sonoma at an hour for wine, with a driver. And Highway 1 south towards Santa Cruz and Monterey — Big Sur is three hours each way and deserves an overnight."
+    }
+  ],
+  "related": ["yellowstone", "grand-canyon", "new-york-city", "maui"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season", "underrated-destinations"]
+}

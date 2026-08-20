@@ -1,0 +1,155 @@
+{
+  "country": "italy",
+  "title": "The Complete Italy Travel Guide",
+  "subtitle": "How the country divides, why the train spine changes everything, and what a fortnight can honestly cover.",
+  "summary": "Italy has more UNESCO World Heritage Sites than any other country and a rail network that makes three of its greatest cities effortless to combine — which is exactly why most first trips see a fifth of what is worth seeing. This guide covers how the regions differ, when the high-speed spine helps and when a car is unavoidable, what the seasons really mean from the Alps to Sicily, and the two mistakes that cost visitors the most money.",
+  "readingTime": "16 min read",
+  "updated": "2026",
+  "sections": [
+    {
+      "id": "how-italy-divides",
+      "title": "How Italy divides",
+      "navLabel": "The regions",
+      "body": [
+        "Italy became a single country only in 1861. Before that it was a collection of kingdoms, republics, duchies and papal territories that spent several centuries competing with one another, and the practical legacy of that competition is that provincial towns hold cathedrals and picture galleries that would be national treasures anywhere else. It is also why the food, the dialects and the architecture change every hundred kilometres, and why people identify with their city before their country.",
+        "**The classic centre.** [[rome|Rome]], [[florence-tuscany|Florence]] and [[venice|Venice]], strung along a high-speed line that connects them in under four hours end to end. Three completely different cities — imperial, Renaissance and maritime — and the most visited corridor in the country. Every one of them deserves its reputation and every one of them is crowded.",
+        "**The industrial north.** [[milan|Milan]], the lakes, Turin and Bologna: wealthier, faster, less picturesque and much less visited by foreigners. This is where the design, the opera, the car industry and arguably the best everyday eating in Italy are.",
+        "**The mountains.** The [[dolomites|Dolomites]] in the north-east, where two-thirds of the population speaks German and the food is dumplings and speck. A completely separate holiday with its own two seasons — summer hiking and winter skiing — and dead months between them.",
+        "**The Ligurian and Amalfi coasts.** [[cinque-terre|The Cinque Terre]] in the north-west and the [[amalfi-coast|Amalfi Coast]] south of Naples: two vertical coastlines, both UNESCO-listed cultural landscapes, both small, both under real pressure from their own popularity.",
+        "**The south.** [[naples-pompeii|Naples]] and the excavations at Pompeii and Herculaneum, [[puglia-matera|Puglia and Matera]] in the heel, and [[sicily|Sicily]] offshore. Cheaper, hotter, more layered and less polished, and the part of Italy where a second trip should go."
+      ],
+      "note": "The practical unit is two or three of these, not five. The rail spine makes the classic centre easy; everything else needs a car, a flight, or both."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If this is your first trip",
+          "text": "[[rome]], [[florence-tuscany|Florence]] and [[venice]], connected by high-speed train. Four nights in Rome, three in Florence with a day out into Tuscany, and two or three in Venice. It is the standard route because it works: three genuinely great cities, no car, and about eight hours of travel across ten days."
+        },
+        {
+          "title": "If you have been before",
+          "text": "[[naples-pompeii|Naples and Pompeii]] and the [[amalfi-coast|Amalfi Coast]] together, or [[puglia-matera|Puglia and Matera]], or [[sicily]]. All three cost less, feel less rehearsed and give you more per day than a fourth museum in Florence. Sicily and Puglia each want a week of their own."
+        },
+        {
+          "title": "If you want mountains",
+          "text": "The [[dolomites|Dolomites]] between late June and September, or December to early April for skiing. Cable cars put you at 2,500 metres in fifteen minutes, mountain huts serve lunch, and it is the one part of Italy at its best in high summer."
+        },
+        {
+          "title": "If you want to swim",
+          "text": "The [[amalfi-coast|Amalfi Coast]] for drama at a price, [[cinque-terre|the Cinque Terre]] for rock swimming between five villages, [[sicily]] for the widest choice, and [[puglia-matera|Puglia]] for the best value and two coasts twenty minutes apart."
+        },
+        {
+          "title": "If you want the archaeology",
+          "text": "[[naples-pompeii|Pompeii and Herculaneum]] first, with the Naples museum that holds everything taken out of them, then [[sicily]] for the Greek temples at Agrigento and the theatre at Syracuse, which are older than anything Roman."
+        },
+        {
+          "title": "If you have a long weekend",
+          "text": "[[milan]], which most itineraries skip and which is two days well spent, with Lake Como forty minutes away by train — or [[venice]], which is small, walkable and best over two nights rather than a day."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Getting around: trains, cars and one expensive mistake",
+      "navLabel": "Getting around",
+      "body": [
+        "Italy has one of Europe's best high-speed rail networks and two operators — Trenitalia's Frecciarossa and the private Italo — competing on the same routes, which keeps advance fares genuinely cheap. [[rome|Rome]] to [[florence-tuscany|Florence]] is 1h30, Rome to [[naples-pompeii|Naples]] 1h10, [[milan|Milan]] to [[venice|Venice]] 2h15. Booked two to six weeks ahead these cost a fraction of the walk-up price, and they land you in city centres rather than at airports.",
+        "**Regional trains** are slower, cheaper, unreserved and the way to reach smaller places — the [[cinque-terre|Cinque Terre]] villages, the Tuscan hill towns, the Circumvesuviana out to Pompeii. Paper tickets for these must be validated in the platform machines before boarding; inspectors fine hard for it, and the fine is not negotiable.",
+        "**A car is unavoidable** for Tuscany's Val d'Orcia, [[puglia-matera|Puglia]], [[sicily|Sicily]] and the [[dolomites|Dolomites]]. The trick is to hire it only for that leg. A car parked in Florence for three days costs money and achieves nothing, and in Rome, Venice or Naples it is worse than useless.",
+        "**Ferries** matter more than people expect: along the Amalfi Coast, where the boat is faster than the corniche road in summer; between the Cinque Terre villages; from Naples to Capri, Ischia and overnight to Palermo; and from Bari and Brindisi across to Greece and Albania.",
+        "And then there is the ZTL. A **zona a traffico limitato** is a camera-enforced restricted zone covering the historic centre of almost every Italian town, open only to residents and permit holders. There is no barrier, often only a small sign, and each camera you pass generates a separate fine that arrives months later through your hire company with an administration charge attached. It is the single most expensive avoidable mistake visitors make in Italy."
+      ],
+      "note": "Park outside the walls and walk in. Every Italian historic centre is small enough to cross on foot in fifteen minutes, and the ZTL cameras do not warn you twice."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Italy runs 1,200 km from the Alps to within 150 km of Africa, so 'the best time' depends entirely on which Italy. Two windows work almost everywhere: **April to early June** and **September to October**.",
+        "**Spring** is the strongest season for the cities and the south. Rome, Florence and Naples sit between 18 and 27°C, the coast becomes swimmable from late May, and everything is open by Easter — which is itself the one very busy week, particularly at the Vatican.",
+        "**July and August** are the months to avoid almost everywhere. Rome, Florence and the south regularly pass 35°C, the archaeological sites have no shade, prices peak and crowding is at its worst. Italians take August off, so cities empty of locals and family restaurants close for two or three weeks around Ferragosto on 15 August. The [[dolomites|Dolomites]] are the exception and are at their best.",
+        "**September and October** are arguably the best of all: the sea is still warm through September, the grape harvest and then the truffles arrive, the light is superb and the crowds fall away sharply after the first week of September.",
+        "**Winter** empties the coast and the islands — much of the [[amalfi-coast|Amalfi Coast]] closes from November to Easter — but the cities become cheap, quiet and walk-in. [[venice|Venice]] in November fog and [[rome|Rome]] in January are both genuinely better than their summer versions. The Dolomites switch to skiing, which is a separate and excellent trip.",
+        "The one place that inverts all of this is the mountains. The Dolomites have two seasons and two dead periods: lifts and mountain huts run roughly late June to late September and December to early April, and between those the cable cars stop and much of the accommodation closes."
+      ],
+      "note": "The fortnight around Ferragosto, 15 August, is the worst time to arrive anywhere in Italy without a plan. Family businesses close, cities shutter and the coast is at capacity."
+    },
+    {
+      "id": "money",
+      "title": "Costs, tickets and what you must book",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Mid-range travel in Italy runs roughly **€140–220 per person per day**, which puts it in line with France and above Spain or Portugal. Backpacking works at €65–100; comfortable travel with good hotels and a car runs €250–420. The variation is regional rather than seasonal: [[venice|Venice]], [[florence-tuscany|Florence]], [[milan|Milan]] and the [[amalfi-coast|Amalfi Coast]] are expensive, while [[naples-pompeii|Naples]], [[puglia-matera|Puglia]] and [[sicily|Sicily]] cost noticeably less for the same quality.",
+        "**Tourist tax** is charged per person per night on top of the room rate, varies by city and star rating, and is often collected in cash at check-out. Budget €1–10 per person per night and do not be surprised by it.",
+        "**Coperto** is a per-person cover charge added by most restaurants. It is legal, normal, not a tip, and should be printed on the menu — if it is not, that tells you something about the restaurant. Tipping beyond rounding up is not expected and is not built into wages.",
+        "**Book these in advance, without exception:** Leonardo's Last Supper in Milan, which releases fifteen-minute slots months ahead and sells out in hours; the Borghese Gallery in Rome, which is timed-entry only and never available on the door; the Colosseum, especially the underground and arena tickets; the Uffizi and the Accademia in Florence; the dome climb at Florence's Duomo; and the Doge's Palace in Venice.",
+        "**Small savings that add up:** coffee standing at the bar costs about a euro against three or four sitting down; tap water is safe everywhere and Rome has free street fountains running continuously; house wine by the carafe is local, good and a fraction of bottle prices; and pizza al taglio sold by weight is the best cheap lunch in the country."
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": "Culture, churches and how meals work",
+      "navLabel": "Etiquette",
+      "body": [
+        "Italy is more formal than visitors expect in some ways and more relaxed in others. **La bella figura** — presenting yourself well — is a real social value, and being slightly smarter than strictly necessary is normal in restaurants, in churches and on the evening walk. Beachwear stays at the beach.",
+        "**Churches enforce a dress code.** Shoulders and knees covered, for everyone, at St Peter's, Venice's Basilica, Florence's Duomo and most working churches. Guards turn people away every day. A light scarf in a bag solves it permanently.",
+        "**Meals have a structure.** Antipasto, then a primo of pasta or risotto, then a secondo of meat or fish with contorni ordered separately, then dolce. You need not order all of it, but a primo is not a starter and a secondo will not arrive with vegetables unless you ask for them.",
+        "**Say buongiorno on the way in.** Greeting people when you enter a shop, a bar or a small restaurant, and saying arrivederci on the way out, is close to compulsory and its absence reads as rudeness. The bill will never come unprompted, because hurrying a table is considered impolite — ask for il conto.",
+        "**Regional pride is not a joke.** Food is the main battleground: carbonara belongs to [[rome|Rome]], pesto to Liguria, cotoletta to [[milan|Milan]], orecchiette to [[puglia-matera|Puglia]]. Asking what the local speciality is will get a far warmer response than comparing it to somewhere else's version.",
+        "Finally, take the **passeggiata** seriously. The evening walk before dinner, done by everyone in their good clothes, is the most reliable way to see a town as it actually is. Small towns do it better than big cities, and it costs nothing."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Four routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Ten days: the classic triangle",
+          "text": "Four nights in [[rome]], three in [[florence-tuscany|Florence]] with a day into Tuscany, three in [[venice]], all by high-speed train. The most trodden route in Italy and still the right first trip — three cities that could not be more different, with no car and minimal logistics.",
+          "tip": "Book the Colosseum, Borghese, Uffizi and the Florence dome climb before you leave home. All four are timed-entry and all four sell out."
+        },
+        {
+          "title": "Two weeks: north to south",
+          "text": "The itinerary on the [[c:italy|Italy country page]]: [[rome]], [[florence-tuscany|Florence]] and [[venice]] by rail, then south to [[naples-pompeii|Naples and Pompeii]] and the [[amalfi-coast|Amalfi Coast]]. Adds the excavations, the archaeological museum and a coastline, with a car needed only at the end.",
+          "tip": "Fly home from Naples rather than backtracking to Rome. It saves the better part of a day."
+        },
+        {
+          "title": "Ten days in the south",
+          "text": "[[naples-pompeii|Naples]] for three nights, then a hire car through [[puglia-matera|Puglia and Matera]] — the Sassi, the trulli of the Valle d'Itria, Lecce's Baroque and the Salento coast — flying out of Brindisi. Cheaper, hotter and far less rehearsed than the classic route.",
+          "tip": "Fly into one airport and out of another. Bari and Brindisi are at opposite ends and backtracking wastes a day."
+        },
+        {
+          "title": "A week in one place",
+          "text": "[[sicily]] with a car and three bases, or the [[dolomites|Dolomites]] in summer with two. Both reward a full week and neither works as a three-day add-on to a city trip — Sicily is 250 km across and the Dolomites' valleys connect slowly.",
+          "tip": "For Sicily, fly into Palermo and out of Catania. For the Dolomites, check that your dates fall inside the lift season."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long do I need in Italy?",
+      "a": "Ten to fourteen days for a first trip. Eight to ten covers Rome, Florence and Venice properly with a day out from each; twelve to sixteen lets you add Naples, Pompeii and the Amalfi Coast. Four or five days is enough for one city, and Rome alone genuinely justifies it. Sicily and Puglia each want a week of their own rather than a few days bolted on."
+    },
+    {
+      "q": "Should I hire a car in Italy?",
+      "a": "Only for the legs that need one — Tuscany's hill towns, Puglia, Sicily and the Dolomites. The high-speed trains between Rome, Florence, Venice, Milan and Naples are faster, cheaper and land you in the centre, and a car in any of those cities is a liability. When you do drive, never enter a ZTL: the camera-enforced restricted zones cover almost every historic centre and generate fines that reach you months later through the hire company."
+    },
+    {
+      "q": "What is the single most expensive mistake visitors make?",
+      "a": "Driving into a limited-traffic zone. There is no barrier and often only a small sign, each camera you pass generates a separate fine, and they arrive months later with the hire company's administration charge added on top. People routinely collect several from one afternoon. Park outside the walls and walk in — every Italian historic centre is small enough."
+    },
+    {
+      "q": "When should I avoid Italy?",
+      "a": "The fortnight around Ferragosto on 15 August, when much of the country stops: family businesses close, cities empty of locals, the coast fills to capacity and temperatures peak. Easter week is the other one to plan around, particularly in Rome. Neither is a reason to cancel a trip, but both are reasons to shift it by a week if you can."
+    }
+  ]
+}

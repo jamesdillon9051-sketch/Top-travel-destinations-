@@ -1,0 +1,352 @@
+{
+  "slug": "charleston",
+  "name": "Charleston, South Carolina",
+  "shortName": "Charleston",
+  "country": "united-states",
+  "region": "South Carolina",
+  "categories": ["historic", "coastal", "food-and-wine", "off-the-beaten-path"],
+  "tagline": "More surviving pre-1840 American architecture than any other city, on a peninsula between two rivers — and almost no international visitors.",
+  "highlight": "The pastel houses of Rainbow Row and the double piazzas of Church Street, walked at 08:00 with nobody about.",
+  "shortDescription": "A walkable colonial port with the best-preserved historic centre in the United States, an outstanding food scene, and a history of slavery that the city has increasingly stopped avoiding.",
+  "metaDescription": "A Charleston travel guide: the historic peninsula, Lowcountry food, plantation and Gullah history, beaches, when to go, where to stay and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Charleston International (CHS)",
+  "knownFor": "Colonial architecture, Lowcountry cooking, Fort Sumter, Gullah culture",
+  "budget": "$200–330 per day, mid-range",
+  "goodFor": "Architecture, food, history, walking",
+  "coords": { "lat": 32.7765, "lng": -79.9311 },
+  "image": {
+    "file": "File:Rainbow Row Charleston July 2024 1.jpg",
+    "alt": "The pastel-painted Georgian houses of Rainbow Row in Charleston"
+  },
+  "intro": [
+    "Charleston was founded in 1670 and became, by the 1770s, the wealthiest city in Britain's American colonies. That wealth came from rice and indigo, and it came from slavery — roughly 40% of all enslaved Africans brought to North America arrived through this port. The city has spent much of the last two decades reckoning with that history more directly than it once did, and the International African American Museum, opened in 2023 on the wharf where those ships landed, is the clearest expression of it.",
+    "What survives physically is remarkable. Charleston was too poor after the Civil War to knock anything down and too proud to let anyone else, and an early preservation ordinance in 1931 — the first in the United States — protected the rest. The result is roughly 1,400 pre-Civil War buildings on a small peninsula: pastel Georgian townhouses, single houses turned sideways to catch the sea breeze, church steeples, and cobbled streets under live oaks.",
+    "The third thing is the food. Lowcountry cooking — shrimp and grits, she-crab soup, Hoppin' John, Carolina Gold rice — was shaped substantially by West African cooks and the rice-growing knowledge enslaved people brought with them. Charleston has become one of the best eating cities in the United States over the past fifteen years, and the standard is high enough to justify the trip on its own."
+  ],
+  "whyVisit": {
+    "intro": "Charleston is one of the most rewarding American cities for a European visitor and one of the least visited by them, which is a combination worth exploiting.",
+    "points": [
+      {
+        "title": "The best-preserved historic centre in America",
+        "text": "Around 1,400 buildings predating the Civil War on a peninsula you can walk end to end in forty minutes. The 1931 preservation ordinance was the first in the country and it worked — very little modern building intrudes."
+      },
+      {
+        "title": "The food is genuinely first-rank",
+        "text": "Lowcountry cooking with a strong West African inheritance, plus a modern restaurant scene that has drawn national attention for fifteen years. For a city of 150,000, the density of good eating is extraordinary."
+      },
+      {
+        "title": "The history is being told properly now",
+        "text": "The International African American Museum, the Old Slave Mart, and plantation sites like McLeod that centre the enslaved rather than the owners. This is a city that has changed how it presents itself, and the result is far more honest and more interesting."
+      },
+      {
+        "title": "Gullah Geechee culture survives here",
+        "text": "The descendants of enslaved West Africans on the Sea Islands retained a distinct creole language and cultural practice — sweetgrass basketry, foodways, music — that continues today and is unlike anything else in the United States."
+      },
+      {
+        "title": "Beaches and islands are twenty minutes away",
+        "text": "Sullivan's Island, Folly Beach and the Isle of Palms are all a short drive from the historic peninsula, with wide Atlantic sand and none of the resort development of Florida."
+      }
+    ]
+  },
+  "attractionsIntro": "The historic peninsula is small — about 4 km long and 2 km wide — and almost everything below Calhoun Street is walkable.",
+  "attractions": [
+    {
+      "name": "The historic peninsula on foot",
+      "text": "Rainbow Row's thirteen pastel Georgian houses, the double piazzas of Church and Tradd streets, the Battery seawall with its mansions facing the harbour, and cobbled Chalmers Street. It is a small area and rewards repeated aimless walking.",
+      "tip": "Go at 08:00. The same streets that are full of carriages and tour groups by 11:00 are silent and genuinely lovely first thing."
+    },
+    {
+      "name": "International African American Museum",
+      "text": "Opened in 2023 on Gadsden's Wharf, where an estimated 100,000 enslaved Africans were landed. The building is raised on pillars so that the ground itself remains untouched, and the galleries cover the transatlantic trade, resistance, and the African diaspora.",
+      "tip": "Allow three hours and book ahead. The African Ancestors Memorial Garden below the building is part of the experience."
+    },
+    {
+      "name": "Fort Sumter",
+      "text": "The island fort in the harbour where the American Civil War began in April 1861, reached by a 30-minute ferry from Liberty Square or Patriots Point. The boat ride gives the best view of the peninsula from the water.",
+      "tip": "Ferry and fort together take about two and a half hours. Book ahead in summer — sailings sell out."
+    },
+    {
+      "name": "The single houses and the piazzas",
+      "text": "Charleston's distinctive house form: one room wide, turned side-on to the street with a long two-storey porch — a piazza — down the flank to catch the sea breeze. The front door on the street opens onto the porch, not the house.",
+      "tip": "Several house museums are open, including the Nathaniel Russell and the Aiken-Rhett. The Aiken-Rhett is preserved unrestored and includes the intact slave quarters, which makes it the more important visit."
+    },
+    {
+      "name": "McLeod Plantation",
+      "text": "A former sea island cotton plantation on James Island, presented from the perspective of the enslaved people who worked it rather than the family who owned it, with the original cabins standing.",
+      "tip": "The best of the plantation sites near Charleston for historical honesty. Middleton Place has finer gardens; McLeod has the better history."
+    },
+    {
+      "name": "The City Market and sweetgrass baskets",
+      "text": "A market building of 1804 running four blocks, now largely craft stalls — but with Gullah artisans still coiling sweetgrass baskets using techniques brought from West Africa over three centuries ago.",
+      "tip": "The baskets are expensive because they take days to make. Buying from the maker directly is the point."
+    },
+    {
+      "name": "The beaches",
+      "text": "Sullivan's Island for quiet and a lighthouse, Folly Beach for surf and a pier, the Isle of Palms for the widest sand. All between 20 and 30 minutes from downtown by car.",
+      "tip": "Sullivan's Island has no commercial development on the beach itself, which is why locals prefer it."
+    },
+    {
+      "name": "Angel Oak and the sea islands",
+      "text": "A live oak on Johns Island estimated at 400 to 500 years old, with a canopy spreading 500 square metres. Beyond it, the sea islands hold Gullah communities, tidal creeks and salt marsh.",
+      "tip": "Free to visit and takes twenty minutes. Combine with a boat trip into the marsh, which is where the Lowcountry landscape really is."
+    }
+  ],
+  "thingsToDoIntro": "Charleston is a walking and eating city, and the history is best taken with a guide who knows what they are talking about.",
+  "thingsToDo": [
+    {
+      "title": "Walk the peninsula early",
+      "text": "The historic district is at its best between 07:00 and 09:00, before the carriage tours start and while the light is low on the pastel facades. Church Street, Tradd Street, the Battery and Rainbow Row.",
+      "tip": "Charleston's heat and humidity make midday walking unpleasant from May to September. Early mornings are the answer in any season."
+    },
+    {
+      "title": "Take a history walking tour",
+      "text": "The city's architecture, its wealth and its slavery are all connected, and a good guide makes that legible in a way self-guided walking does not. Several operators focus specifically on African American history.",
+      "tip": "Choose a Black-led tour for the slavery and Gullah history. The difference in depth is substantial."
+    },
+    {
+      "title": "Eat Lowcountry food properly",
+      "text": "Shrimp and grits, she-crab soup, Hoppin' John, boiled peanuts and Carolina Gold rice — a cuisine shaped by West African cooking and the rice economy. Charleston's restaurants take it seriously.",
+      "tip": "Reservations at the better restaurants open 30 days out and go quickly. Book before you arrive."
+    },
+    {
+      "title": "Get out onto the water",
+      "text": "The Fort Sumter ferry, a harbour cruise, or a kayak trip into the salt marsh creeks behind the sea islands. The marsh is the actual Lowcountry landscape and most visitors never see it.",
+      "tip": "Dolphins are common in the harbour and the creeks. Sunset harbour cruises give the peninsula from the water in good light."
+    },
+    {
+      "title": "Visit a plantation, but choose carefully",
+      "text": "These sites vary enormously in how honestly they present slavery. McLeod centres the enslaved; Middleton has the finest gardens; Boone Hall has the surviving brick cabins.",
+      "tip": "Read what a site says about itself before booking. Some still present a romanticised version that is worth avoiding."
+    },
+    {
+      "title": "Spend an afternoon at the beach",
+      "text": "Sullivan's Island or Folly Beach, both about twenty-five minutes away, for wide Atlantic sand and a completely different pace from the historic district.",
+      "tip": "Sullivan's Island has no beachfront development and a good handful of restaurants a block back."
+    }
+  ],
+  "foodIntro": "Lowcountry cooking is one of America's genuine regional cuisines, built on rice, seafood and West African technique, and Charleston is its capital.",
+  "foods": [
+    {
+      "name": "Shrimp and grits",
+      "text": "Local creek shrimp over stone-ground grits, with a gravy of bacon, stock and sometimes tomato. Originally a fisherman's breakfast, now the signature dish of the region and served at every level from diner to tasting menu.",
+      "whereToTry": "Everywhere in Charleston. The grits should be stone-ground and slow-cooked, not instant."
+    },
+    {
+      "name": "She-crab soup",
+      "text": "A cream soup of blue crab meat and roe, finished with a splash of sherry. Rich, specific to the Carolina Lowcountry, and the roe is what distinguishes it from ordinary crab bisque.",
+      "whereToTry": "Traditional Charleston restaurants. Best in the cooler months when crab is at its best."
+    },
+    {
+      "name": "Hoppin' John and Carolina Gold rice",
+      "text": "Field peas and rice cooked together, traditionally eaten at New Year for luck. Carolina Gold was the rice variety that made Charleston rich, nearly extinct by the 1920s and now revived by a small group of growers.",
+      "whereToTry": "Restaurants focused on Lowcountry cooking. The revived Carolina Gold is sold in shops to take home."
+    },
+    {
+      "name": "Gullah cooking",
+      "text": "Red rice, okra soup, crab rice and purloo, from the Gullah Geechee communities of the sea islands. A direct line to West African cooking, maintained across three centuries.",
+      "whereToTry": "Gullah-owned restaurants in Charleston and on the sea islands. Worth seeking out specifically."
+    },
+    {
+      "name": "Carolina barbecue",
+      "text": "Whole hog, pulled and dressed with a vinegar and pepper sauce in the eastern Carolinas, or a mustard-based sauce in the South Carolina midlands — the only region in America that uses mustard.",
+      "whereToTry": "Barbecue joints outside the city centre. Mustard sauce is the local signature and worth trying."
+    },
+    {
+      "name": "Boiled peanuts",
+      "text": "Green peanuts boiled in heavily salted water for hours until soft, eaten hot from a paper cup. Sold at roadside stands across the South and a genuinely acquired texture.",
+      "whereToTry": "Roadside stands on the highways out of the city, and some downtown bars."
+    }
+  ],
+  "accommodation": {
+    "intro": "The historic peninsula is small enough that anywhere south of Calhoun Street is walkable to everything. Prices there are high; the areas just north and across the rivers are considerably cheaper.",
+    "areas": [
+      {
+        "name": "South of Broad",
+        "bestFor": "The historic core",
+        "text": "The oldest and grandest part of the peninsula, with the Battery, Rainbow Row and the finest houses. Historic inns rather than hotels, expensive, and beautifully quiet at night."
+      },
+      {
+        "name": "The French Quarter and the Market",
+        "bestFor": "Central and walkable",
+        "text": "Between Broad Street and the market, with the highest concentration of hotels, restaurants and galleries. The most convenient base and busy during the day."
+      },
+      {
+        "name": "Upper King Street",
+        "bestFor": "Restaurants and nightlife",
+        "text": "North of Calhoun, where much of the modern restaurant and bar scene has developed. Twenty minutes' walk to the Battery and noticeably better value."
+      },
+      {
+        "name": "Mount Pleasant",
+        "bestFor": "Value and families",
+        "text": "Across the Ravenel Bridge, with chain hotels, easy parking and the beaches at Sullivan's Island and the Isle of Palms nearby. Ten to fifteen minutes from downtown by car."
+      },
+      {
+        "name": "Sullivan's Island and Folly Beach",
+        "bestFor": "A beach base",
+        "text": "Twenty-five minutes from the historic district, with wide Atlantic beaches and a handful of restaurants. Works well for a longer stay combining the city with the coast."
+      }
+    ],
+    "budget": [
+      { "label": "Mount Pleasant chain hotel", "value": "$130–200 per night" },
+      { "label": "Downtown hotel or historic inn", "value": "$250–450 per night" },
+      { "label": "Museums and sites", "value": "$15–30 each; the African American Museum about $20" },
+      { "label": "Fort Sumter ferry", "value": "About $40 including the fort" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Charleston has its own airport with good domestic connections, and sits on the Atlantic coast about halfway between Washington and Florida.",
+    "options": [
+      {
+        "mode": "Charleston International (CHS)",
+        "text": "Nineteen kilometres northwest, with direct domestic flights from most major American hubs and a handful of seasonal international routes.",
+        "detail": "No rail link — taxi, ride-hail or hire car, about 20 minutes to downtown."
+      },
+      {
+        "mode": "By car",
+        "text": "Savannah is 2h, Atlanta 5h, [[washington-dc|Washington]] 8h and [[new-orleans]] 11h. Interstate 95 runs 45 minutes west of the city.",
+        "detail": "A car is useful for the plantations and beaches but a liability on the peninsula, where parking is scarce and expensive."
+      },
+      {
+        "mode": "As part of a Southern road trip",
+        "text": "The obvious pairing is with Savannah two hours south, and the route continues to New Orleans in about eleven hours with stops.",
+        "detail": "Charleston and Savannah together make an excellent four or five-day trip."
+      },
+      {
+        "mode": "Amtrak",
+        "text": "The Silver Service trains stop at North Charleston, about 20 minutes from downtown, running between New York, Washington, Savannah and Florida.",
+        "detail": "Slow and often delayed, but a workable car-free option from the Northeast."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The historic peninsula is walkable end to end. A car is only needed for the plantations, beaches and sea islands.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic district south of Calhoun Street is about 2 km long and entirely flat. Rainbow Row to the Battery is five minutes, and the whole peninsula can be crossed on foot in forty.",
+        "detail": "Pavements are old brick and slate and frequently uneven. Sensible shoes matter more than the flat terrain suggests."
+      },
+      {
+        "mode": "DASH free shuttle",
+        "text": "Free trolley-style buses on three routes covering the peninsula, including the visitor centre, the market and the aquarium.",
+        "detail": "Useful in summer heat when the walk from Upper King to the Battery becomes unappealing."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Flat and compact, with bike hire widely available and a bike-share scheme. Crossing the Ravenel Bridge to Mount Pleasant on the pedestrian and cycle lane is a genuine outing.",
+        "detail": "The bridge path is 4 km each way with a substantial climb and the best views of the city."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Needed for the plantations, the beaches and the sea islands, all 20–40 minutes out. Downtown parking is metered, scarce and enforced.",
+        "detail": "Rent for the days you leave the peninsula rather than the whole stay."
+      },
+      {
+        "mode": "Boats",
+        "text": "The Fort Sumter ferry, harbour cruises and kayak operators into the salt marsh creeks. The water is central to the city's geography and worth using.",
+        "detail": "Sunset harbour cruises give the best view of the historic waterfront."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "Charleston is subtropical and its summers are hot and humid. Spring and autumn are excellent, and hurricane season overlaps the worst of the heat.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The best season: 18–28°C, azaleas and wisteria in bloom across the historic district, and the Spoleto arts festival in late May. Also the busiest and most expensive."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "avoid",
+        "text": "Hot and very humid at 30–35°C, with afternoon thunderstorms and peak hurricane season. The beaches are the compensation, and hotel rates fall. Walking the historic district at midday is genuinely unpleasant."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "The humidity breaks in October and the weather becomes excellent — 18–26°C, clear, and much quieter than spring. Hurricane risk falls away through November. Arguably the best value of the good months."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Mild at 8–17°C, quiet and cheap, with oysters at their best and the historic district almost empty. Some rain and occasional cold snaps, but the city functions normally."
+      }
+    ],
+    "avoid": "Hurricane season runs 1 June to 30 November and peaks in September. Charleston sits at sea level on a peninsula and floods readily — travel insurance covering weather disruption is worth having."
+  },
+  "itinerary": {
+    "title": "Three days in Charleston",
+    "intro": "Early mornings for the architecture, museums in the heat of the day, and one day out of the city. Reservations for the better restaurants should be made before arrival.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The historic peninsula",
+        "summary": "Walk it early, then take a guided version of the same ground.",
+        "morning": "The Battery, Rainbow Row and Church Street at 08:00 before the tours start.",
+        "afternoon": "A history walking tour, then the Aiken-Rhett House with its intact slave quarters.",
+        "evening": "Dinner on Upper King Street, booked in advance."
+      },
+      {
+        "day": 2,
+        "title": "The harbour and the museum",
+        "summary": "The two sites that explain how the city came to be.",
+        "morning": "The International African American Museum on Gadsden's Wharf — three hours.",
+        "afternoon": "The Fort Sumter ferry, which also gives the best view of the peninsula from the water.",
+        "evening": "She-crab soup and shrimp and grits somewhere traditional."
+      },
+      {
+        "day": 3,
+        "title": "Out of the city",
+        "summary": "Plantation, marsh or beach — or all three if you start early.",
+        "morning": "McLeod Plantation on James Island, told from the perspective of the enslaved.",
+        "afternoon": "The Angel Oak on Johns Island, then Folly Beach or Sullivan's Island.",
+        "evening": "Back over the Ravenel Bridge at sunset, and a last Lowcountry dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Charleston specifics, including how to choose between sites that present the same history very differently.",
+  "tips": [
+    "Walk the historic district between 07:00 and 09:00. It is the difference between having Church Street and Rainbow Row largely to yourself and sharing them with carriage tours, and in summer it is the only comfortable time.",
+    "Plantation sites vary enormously in how honestly they present slavery. McLeod centres the enslaved people who worked it; some others still offer a romanticised version. Read what a site says about itself before booking.",
+    "Book restaurant reservations before you arrive. Charleston's better restaurants release tables 30 days ahead and the best go within hours — this is a genuine food destination and it books like one.",
+    "The International African American Museum stands on the wharf where an estimated 100,000 enslaved Africans were landed, and the building is deliberately raised so the ground beneath is untouched. Allow three hours and include the memorial garden.",
+    "Sweetgrass baskets sold at the City Market are made by Gullah artisans using West African coiling techniques carried across three centuries. They are expensive because they take days — buy from the maker.",
+    "Summer here is 30–35°C with humidity to match, plus afternoon thunderstorms and hurricane season from June to November. Spring and autumn are dramatically more comfortable.",
+    "The peninsula's pavements are old brick and slate and are genuinely uneven. Flat does not mean easy — wear proper shoes.",
+    "A car is unnecessary downtown and parking is scarce and enforced. Rent one only for the plantations, beaches and sea islands."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Charleston?",
+      "a": "Three to four. One for the historic peninsula and a walking tour, one for the International African American Museum and Fort Sumter, and one for a plantation, the sea islands or the beaches. A fourth day lets you slow down or add Savannah two hours south."
+    },
+    {
+      "q": "Which Charleston plantation should I visit?",
+      "a": "McLeod Plantation on James Island, if you want the history told honestly — it is presented from the perspective of the enslaved people who worked it, with the original cabins standing. Middleton Place has the finest gardens and Boone Hall the best-preserved brick cabins. The sites differ substantially in how they handle slavery, so read what each says about itself before booking."
+    },
+    {
+      "q": "When is the best time to visit Charleston?",
+      "a": "March to May and October to November. Spring brings azaleas and wisteria across the historic district and is the busiest and priciest season. Autumn is nearly as good and much quieter. Summer is 30–35°C with heavy humidity, afternoon storms and peak hurricane season, and walking the historic streets at midday becomes genuinely unpleasant."
+    },
+    {
+      "q": "Is Charleston walkable?",
+      "a": "Very. The historic district south of Calhoun Street is about 2 km long and entirely flat, and you can cross the whole peninsula on foot in forty minutes. A free DASH shuttle covers the longer stretches. You only need a car for the plantations, beaches and sea islands, all 20–40 minutes out."
+    },
+    {
+      "q": "What is Lowcountry food?",
+      "a": "The regional cuisine of coastal South Carolina and Georgia — shrimp and grits, she-crab soup, Hoppin' John, red rice and Carolina Gold rice. It was shaped substantially by West African cooks and by the rice-growing knowledge enslaved people brought with them, and Charleston is its capital. Gullah cooking on the sea islands is the closest surviving link to those origins."
+    },
+    {
+      "q": "What is Gullah Geechee culture?",
+      "a": "The culture of the descendants of enslaved West Africans on the Sea Islands of South Carolina and Georgia, who retained a distinct English-based creole language and cultural practices — sweetgrass basketry, foodways, spirituals — because of the islands' relative isolation. It is one of the most direct African cultural survivals in the United States and is still living rather than historical."
+    },
+    {
+      "q": "Should I combine Charleston with Savannah?",
+      "a": "They pair very well and are two hours apart. Savannah has a famous grid of 22 garden squares under live oaks and a more raffish atmosphere; Charleston has more surviving pre-Civil War architecture and a considerably better restaurant scene. Four to five days covering both makes an excellent Southern trip, and the drive between them is easy."
+    }
+  ],
+  "related": ["new-orleans", "washington-dc", "new-york-city", "maui"],
+  "relatedArticles": ["underrated-destinations", "us-national-parks-road-trip", "packing-by-season"]
+}

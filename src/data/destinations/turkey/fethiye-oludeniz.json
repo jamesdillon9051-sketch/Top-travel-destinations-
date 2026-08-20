@@ -1,0 +1,360 @@
+{
+  "slug": "fethiye-oludeniz",
+  "name": "Fethiye & Ölüdeniz",
+  "shortName": "Fethiye",
+  "country": "turkey",
+  "region": "Muğla, Turquoise Coast",
+  "categories": ["coastal", "nature", "scenic", "historic"],
+  "tagline": "A working harbour town beneath Lycian rock tombs, with the most photographed lagoon in Turkey twenty minutes down the road.",
+  "highlight": "Paragliding off Babadağ at 1,965 metres and spiralling down for half an hour onto Ölüdeniz beach.",
+  "shortDescription": "The base for the Turquoise Coast: gulet trips from the harbour, a ghost village in the hills, an 18-kilometre gorge inland, and the start of the 540-kilometre Lycian Way.",
+  "metaDescription": "A Fethiye and Ölüdeniz travel guide: the Blue Lagoon, paragliding from Babadağ, Kayaköy ghost village, gulet cruises, Lycian ruins, when to go and a four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Dalaman (DLM)",
+  "knownFor": "The Blue Lagoon, paragliding, gulet cruises, Lycian tombs",
+  "budget": "€60–120 per day, mid-range",
+  "goodFor": "Swimming, boat trips, walking, adventure sports",
+  "coords": { "lat": 36.6213, "lng": 29.1164 },
+  "image": {
+    "file": "File:Blue Lagoon in Ölüdeniz, Turkey (49070738266).jpg",
+    "alt": "The sheltered turquoise lagoon and pine-backed spit at Ölüdeniz on Turkey's south-west coast"
+  },
+  "intro": [
+    "Ölüdeniz is on the front of more Turkish holiday brochures than anywhere else in the country — a sheltered lagoon of impossibly graded blues behind a curling spit of pebble, pine forest running down to the water, and a mountain wall behind. It is genuinely as good as the photographs, which is unusual, and it is also very small, which is the part the photographs leave out.",
+    "The town you actually stay in is Fethiye, fifteen kilometres north around the headland. It is a working harbour rather than a resort: a fish market where you buy your dinner and pay a restaurant to cook it, a bazaar quarter of a few streets, and a marina full of the broad-beamed wooden gulets that sail the coast. Above the town, cut into the cliff face and visible from the seafront, are the rock tombs of ancient Telmessos, the grandest of them carved around 350 BC as the facade of an Ionic temple.",
+    "What makes this the best base on the Turquoise Coast is everything within an hour of it. A Greek village abandoned in 1923 and never reoccupied. A gorge eighteen kilometres long that you enter by wading a river. Lycian cities on hilltops, a UNESCO site at Xanthos, an eighteen-kilometre beach at Patara where loggerhead turtles nest. And the start of the Lycian Way, a 540-kilometre waymarked path that runs east along the cliffs all the way to [[antalya-turquoise-coast|Antalya]]."
+  ],
+  "whyVisit": {
+    "intro": "Fethiye earns its place by being the one point on the Turkish coast where beach, mountain, archaeology and boat travel all overlap within a short drive.",
+    "points": [
+      {
+        "title": "Ölüdeniz really does look like that",
+        "text": "The lagoon is a protected nature park, closed to motorboats and jet skis, which is why the water stays that colour. It is small and it does get busy, but nothing else on this coast has the same combination of sheltered water, pine and mountain."
+      },
+      {
+        "title": "One of the world's great paragliding sites",
+        "text": "Babadağ rises to 1,969 metres directly behind the beach, with take-off ramps at several heights and a cable car to reach them. Tandem flights descend for twenty to forty minutes over the lagoon. No experience required, and thousands of people do it every season."
+      },
+      {
+        "title": "Kayaköy is a whole abandoned town",
+        "text": "Several hundred roofless stone houses and two large churches on a hillside, emptied of their Greek Orthodox population in the 1923 population exchange and never resettled. It takes an hour or two to walk and is quietly extraordinary."
+      },
+      {
+        "title": "The gulet coast starts here",
+        "text": "Wooden broad-beamed boats run day trips around the twelve islands of Fethiye bay and four-day cruises east towards Olympos, anchoring in coves with no road access. It is the classic way to see this coastline."
+      },
+      {
+        "title": "Serious Lycian archaeology within an hour",
+        "text": "Tlos on its acropolis, the UNESCO-listed Xanthos and Letoon, and Patara with a restored Lycian League assembly building behind an eighteen-kilometre beach. All quiet, all free of the crowds at [[ephesus|Ephesus]]."
+      }
+    ]
+  },
+  "attractionsIntro": "The lagoon and the town take a day between them. Everything else is a drive or a boat ride, and the ruins inland are why you stay a week rather than three days.",
+  "attractions": [
+    {
+      "name": "Ölüdeniz lagoon and Belcekız beach",
+      "text": "The lagoon proper is a nature park with a small entry fee, a footpath through the pines and calm shallow water. Belcekız, the open beach outside the spit, is free, longer and has the paragliders landing on it all day.",
+      "tip": "Go before 10:00 or after 16:00. The lagoon is small and the middle of the day in July is shoulder to shoulder."
+    },
+    {
+      "name": "The rock tombs of Telmessos",
+      "text": "Lycian tombs cut into the cliff above Fethiye, the largest — the Tomb of Amyntas, around 350 BC — carved as a temple facade with columns and a pediment, reached by a long flight of steps from the town.",
+      "tip": "Climb at sunset. The light hits the cliff face and the view over the bay is the best in town."
+    },
+    {
+      "name": "Kayaköy",
+      "text": "The roofless remains of Levissi, a Greek town of several hundred houses and two churches abandoned after the 1923 population exchange between Greece and Turkey. Now a protected site you walk through freely.",
+      "tip": "There is a beautiful two-hour walking path over the hill from Kayaköy down to Ölüdeniz. Do it downhill, and take water."
+    },
+    {
+      "name": "Babadağ",
+      "text": "A 1,969-metre mountain rising straight off the beach, with paragliding ramps at 1,200, 1,700 and 1,965 metres, a cable car to the top and a viewing terrace looking down the length of the coast.",
+      "tip": "You can ride the cable car up without flying. The view over the lagoon from 1,800 m is worth the ticket on its own."
+    },
+    {
+      "name": "Butterfly Valley",
+      "text": "A steep-sided canyon opening onto a beach, reachable only by boat from Ölüdeniz or by a genuinely dangerous scramble down from Faralya. Named for the Jersey tiger moths that gather there in summer.",
+      "tip": "Take the boat. The descent from the top is a rope-assisted climb and people are injured on it every year."
+    },
+    {
+      "name": "Saklıkent Gorge",
+      "text": "An eighteen-kilometre canyon with walls rising hundreds of metres, entered by wading across a fast, freezing river on a rope and then walking upstream between the rock walls.",
+      "tip": "The water is snowmelt and shockingly cold whatever the air temperature. Wear shoes you can soak — grip matters more than dryness."
+    },
+    {
+      "name": "Tlos",
+      "text": "A Lycian hilltop city with rock tombs cut into the cliff below an Ottoman fortress, a theatre, a stadium and baths with a view down the Xanthos valley. The Tomb of Bellerophon carries a relief of the hero on Pegasus.",
+      "tip": "Combine it with Saklıkent — they are twenty minutes apart and make a natural half-day."
+    },
+    {
+      "name": "Xanthos, Letoon and Patara",
+      "text": "Xanthos was the capital of Lycia and Letoon its religious centre; together they are a UNESCO World Heritage Site. Patara nearby has the restored Lycian League assembly building and an eighteen-kilometre beach behind it.",
+      "tip": "Patara's beach is a protected loggerhead turtle nesting site and closes at dusk in summer. Do the ruins first, then swim."
+    }
+  ],
+  "thingsToDoIntro": "This is an outdoors destination first. The best days here involve a boat, a mountain or a river rather than a museum.",
+  "thingsToDo": [
+    {
+      "title": "Fly from Babadağ",
+      "text": "A tandem paraglide from 1,700 or 1,965 metres, spiralling down over the lagoon for twenty to forty minutes before landing on Belcekız beach. No experience needed and it is the single thing people remember from this coast.",
+      "tip": "Morning flights are smoother; afternoon thermals give you longer in the air. Cancellations for wind are common and refunds are normal."
+    },
+    {
+      "title": "Take a gulet cruise",
+      "text": "Day trips around the twelve islands of Fethiye bay, or the classic four-day 'blue cruise' east towards Olympos, sleeping on deck and anchoring in coves that no road reaches.",
+      "tip": "On a day trip, ask how many stops and how long at each. The cheaper boats spend more time motoring and less time swimming."
+    },
+    {
+      "title": "Buy your dinner at the fish market",
+      "text": "Fethiye's covered market has fishmongers in the middle and restaurants around the edge. You choose and buy your fish, then pay a restaurant a small cover to grill it and bring salad, bread and meze.",
+      "tip": "Prices are per kilo and posted. Agree the cooking charge before you sit down, and one fish between two is usually plenty."
+    },
+    {
+      "title": "Walk a stage of the Lycian Way",
+      "text": "The 540-kilometre waymarked path starts at Ovacık above Ölüdeniz and runs east along the cliffs to near Antalya. The first stages, over the hill to Faralya and Kabak, are among the best.",
+      "tip": "Red-and-white waymarks. Spring and autumn only — the exposed sections are brutal in summer heat."
+    },
+    {
+      "title": "Wade Saklıkent",
+      "text": "Cross the river on the rope at the gorge mouth and walk upstream between walls hundreds of metres high, in water that stays cold all summer. A memorable couple of hours.",
+      "tip": "Combine with Tlos and a trout lunch at one of the restaurants built on platforms over the river."
+    },
+    {
+      "title": "Spend a day on Lycian ruins",
+      "text": "Tlos, Pınara, Xanthos, Letoon and Patara are strung along the valley south of Fethiye, mostly unfenced, usually empty, and none of them more than an hour away.",
+      "tip": "A hire car makes this day. By dolmuş you will manage one site, not four."
+    }
+  ],
+  "foodIntro": "This is Aegean and Mediterranean cooking — olive oil, wild greens, fish and honey — and Muğla province takes all four seriously.",
+  "foods": [
+    {
+      "name": "Fish from the market",
+      "text": "Sea bream, sea bass, and in season bonito and red mullet, bought by the kilo from the fishmongers in Fethiye's covered market and grilled by the restaurant of your choice around the edge.",
+      "whereToTry": "The Fethiye fish market — an institution, and cheaper than any harbourside restaurant."
+    },
+    {
+      "name": "Wild herbs and olive-oil meze",
+      "text": "The Aegean speciality: wild greens such as radika, turp otu and sea samphire, blanched and dressed with olive oil and lemon, served cold alongside stuffed vine leaves and beans.",
+      "whereToTry": "Meyhanes in Fethiye's bazaar quarter and village restaurants around Kayaköy. Ask what otlar are in season."
+    },
+    {
+      "name": "Kabak çiçeği dolması",
+      "text": "Courgette flowers stuffed with rice, herbs and pine nuts, served at room temperature in olive oil. A summer dish that appears for only a few weeks and is worth ordering the moment you see it.",
+      "whereToTry": "Traditional restaurants through late spring and early summer."
+    },
+    {
+      "name": "Pine honey and a village breakfast",
+      "text": "Muğla province produces the great majority of the world's pine honey — darker and less sweet than flower honey — and it anchors the serpme kahvaltı, a Turkish breakfast of twenty small plates that takes two hours.",
+      "whereToTry": "The breakfast places up at Kayaköy and in the villages above Ölüdeniz. Go hungry and go early."
+    },
+    {
+      "name": "Gözleme and bazlama",
+      "text": "Thin hand-rolled dough griddled over a sac with cheese, spinach or potato, and the thicker bazlama bread that goes with breakfast. Made in front of you, usually by someone who has done it for decades.",
+      "whereToTry": "Kayaköy, the Saklıkent gorge entrance, and any market day stall."
+    },
+    {
+      "name": "Rakı with meze",
+      "text": "The anise spirit that turns cloudy with water, drunk slowly across a table of cold meze and grilled fish rather than before or after. The evening is the meal, not the drink.",
+      "whereToTry": "The meyhanes in Fethiye's old bazaar streets, which fill up around 21:00 and stay full."
+    }
+  ],
+  "accommodation": {
+    "intro": "The choice is between Fethiye — a real town that stays open all year — and the resort villages above Ölüdeniz, which are seasonal and much more package-holiday in feel.",
+    "areas": [
+      {
+        "name": "Fethiye and Karagözler",
+        "bestFor": "The best all-round base",
+        "text": "The harbour town itself, with the bazaar, the fish market and the marina, and the Karagözler slope above it where small hotels and pensions look down over the bay. Open year-round and walkable."
+      },
+      {
+        "name": "Çalış Beach",
+        "bestFor": "Sunsets and a quieter stay",
+        "text": "A long shallow beach five kilometres north of Fethiye, with a promenade, famous sunsets over the islands, and a water taxi that runs into the harbour in twenty minutes."
+      },
+      {
+        "name": "Ölüdeniz, Ovacık and Hisarönü",
+        "bestFor": "Being on the beach",
+        "text": "Ölüdeniz itself is a small strip behind the beach; Ovacık and Hisarönü sit on the hill above it and are frankly built for the British package market. Convenient for the lagoon and the paragliding."
+      },
+      {
+        "name": "Kayaköy",
+        "bestFor": "Rural quiet with a car",
+        "text": "A valley of small guesthouses beneath the abandoned village, fifteen minutes from both Fethiye and Ölüdeniz. Wonderful food, real quiet and effectively car-dependent."
+      },
+      {
+        "name": "Faralya and Kabak",
+        "bestFor": "Getting away from all of it",
+        "text": "Above the cliffs south of Ölüdeniz, reached by a hairpin road, with simple bungalow camps looking straight down into the sea. The Lycian Way passes through. Not for anyone with mobility concerns."
+      }
+    ],
+    "budget": [
+      { "label": "Pension in Fethiye or Kayaköy", "value": "€30–55 per night" },
+      { "label": "Boutique hotel with a bay view", "value": "€70–140 per night" },
+      { "label": "Tandem paraglide from Babadağ", "value": "€90–130 including photos and video" },
+      { "label": "Four-day gulet cruise", "value": "€250–450 per person including meals" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Dalaman airport is the gateway, and in summer it takes direct charters from across northern Europe.",
+    "options": [
+      {
+        "mode": "Dalaman Airport (DLM)",
+        "text": "Fifty kilometres north, about an hour by road, with seasonal direct flights from the UK and Europe and year-round domestic connections through Istanbul.",
+        "detail": "Havaş shuttle buses meet flights and run to Fethiye otogar. Taxis cost several times as much."
+      },
+      {
+        "mode": "Bus",
+        "text": "Fethiye's otogar connects along the coast: [[antalya-turquoise-coast|Antalya]] about 4h, [[bodrum]] 4h30, [[pamukkale]] 4h, İzmir 5h30 and Istanbul overnight.",
+        "detail": "The coastal road east to Antalya is slow and spectacular. Sit on the right-hand side."
+      },
+      {
+        "mode": "Ferry from Rhodes",
+        "text": "A seasonal catamaran crosses from Rhodes in about ninety minutes, which makes combining the Dodecanese with the Turquoise Coast straightforward from spring to autumn.",
+        "detail": "Runs several times a week in season and stops entirely in winter. Book ahead in August."
+      },
+      {
+        "mode": "By car",
+        "text": "The drive east to Antalya through Kaş and Kalkan is one of the great Mediterranean roads, and a car transforms what you can reach inland.",
+        "detail": "Hire at Dalaman airport. The mountain sections are winding but well surfaced."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dolmuş minibuses cover the local routes cheaply and constantly; a car is what unlocks the Lycian valley.",
+    "options": [
+      {
+        "mode": "Dolmuş",
+        "text": "Shared minibuses run from Fethiye otogar to Ölüdeniz in about 25 minutes, to Kayaköy, Çalış and Saklıkent, leaving when full and stopping wherever you ask.",
+        "detail": "Pay the driver as you board or pass money forward. Frequent until early evening, sparse after dark."
+      },
+      {
+        "mode": "Water taxi",
+        "text": "A regular boat shuttles between Çalış beach and Fethiye harbour in about twenty minutes, which is both the nicest and the simplest way between the two.",
+        "detail": "Runs roughly hourly through the season, less often in shoulder months."
+      },
+      {
+        "mode": "Rental car",
+        "text": "The way to do Tlos, Saklıkent, Xanthos, Letoon and Patara in a day, and to reach Faralya and Kabak on the cliff road.",
+        "detail": "Roads are good. Parking in central Fethiye is tight in high season; use the marina car parks."
+      },
+      {
+        "mode": "Boats",
+        "text": "Day boats leave the harbour each morning for the twelve islands, and from Ölüdeniz for Butterfly Valley and the coves south along the cliffs.",
+        "detail": "Butterfly Valley boats stop running when the sea gets up — check the evening before."
+      },
+      {
+        "mode": "Walking",
+        "text": "Fethiye's centre, market and marina are compact and flat. The Lycian Way and the Kayaköy–Ölüdeniz path start within a short dolmuş ride.",
+        "detail": "The rock tombs involve a long climb of steps from town — worth it, but not in the middle of the day."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "The shoulder months give you warm sea, walkable trails and a coast that is busy rather than overwhelmed. July and August deliver perfect swimming and very little else comfortably.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Wildflowers on the Lycian Way, ruins at their greenest, and the sea warm enough to swim from late May. Everything is open by May and the crowds have not arrived. The best walking of the year."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot at 33–38°C, the lagoon crowded, prices at their peak and the trails too exposed to walk. The sea is at its best and the boat trips are wonderful — it depends entirely on what you came for."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year: the sea is at its warmest in September, the heat eases, the crowds thin after the first week and the walking becomes possible again. October is still swimmable."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Fethiye keeps working — it is a real town — but Ölüdeniz, Ovacık and Hisarönü largely shut. Mild at 15°C, green, wet in places, and very cheap. Not a beach trip."
+      }
+    ],
+    "avoid": "If you have come to walk, avoid July and August outright. The Lycian Way's cliff sections have no shade and no water, and people get into serious difficulty on them every summer."
+  },
+  "itinerary": {
+    "title": "Four days in Fethiye and Ölüdeniz",
+    "intro": "One day for the town, one for the lagoon and the mountain, one on the water and one inland. A car helps from day three.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Fethiye",
+        "summary": "The town, the tombs and the fish market.",
+        "morning": "The bazaar quarter, the marina and the small museum.",
+        "afternoon": "Climb the steps to the rock tombs of Telmessos for the view over the bay.",
+        "evening": "Buy fish at the covered market and have a restaurant grill it."
+      },
+      {
+        "day": 2,
+        "title": "Ölüdeniz and Babadağ",
+        "summary": "The lagoon early, the mountain after.",
+        "morning": "The lagoon before the crowds, then a swim off Belcekız.",
+        "afternoon": "Paraglide from Babadağ, or take the cable car up for the view.",
+        "evening": "Back to Fethiye, or dinner up at Kayaköy."
+      },
+      {
+        "day": 3,
+        "title": "On the water",
+        "summary": "A boat day, which is what this coast is for.",
+        "morning": "The twelve islands boat trip from Fethiye harbour, with swimming stops.",
+        "afternoon": "Continue on the boat, or take the Ölüdeniz boat to Butterfly Valley.",
+        "evening": "Sunset from Çalış beach, then the water taxi back."
+      },
+      {
+        "day": 4,
+        "title": "Lycia inland",
+        "summary": "Ruins and a gorge, best with a car.",
+        "morning": "Tlos — the acropolis, the tombs and the Bellerophon relief.",
+        "afternoon": "Wade into Saklıkent gorge, then trout at one of the river platforms.",
+        "evening": "Walk the abandoned streets of Kayaköy in the low light."
+      }
+    ]
+  },
+  "tipsIntro": "Practicalities for a coast where the good things are spread out and the seasons matter more than usual.",
+  "tips": [
+    "Stay in Fethiye rather than Hisarönü or Ovacık unless the beach is the entire point. Fethiye is a working town with a market, a bazaar and year-round life; the hill resorts are seasonal strips built for package holidays.",
+    "Ölüdeniz lagoon is small. Arrive before 10:00 or after 16:00 in summer, or accept that you are sharing a beach the size of a football pitch with a very large number of people.",
+    "Paragliding cancellations for wind are routine and refunds are normal — book on your second or third day, not your last, so you have room to rebook.",
+    "At the fish market, prices per kilo are posted at the fishmongers but the restaurant's cooking charge is separate. Agree it before you sit down; one fish is usually enough for two.",
+    "Saklıkent's river is snowmelt and stays freezing all summer. Wear shoes with grip that you do not mind soaking, and expect the crossing at the entrance to be genuinely hard work.",
+    "Do not attempt the scramble down into Butterfly Valley from Faralya. It is a rope-assisted descent on loose rock and people are hurt on it every year — the boat from Ölüdeniz takes half an hour.",
+    "A hire car pays for itself the moment you want Tlos, Xanthos, Letoon and Patara in one day. By dolmuş those four become four separate days.",
+    "Patara beach is a loggerhead turtle nesting site and closes at dusk between May and September. Plan the ruins for the morning and the swim for the afternoon."
+  ],
+  "faq": [
+    {
+      "q": "Is Ölüdeniz as beautiful as the photographs?",
+      "a": "Yes — the lagoon is a protected nature park closed to motorboats, which is why the water keeps that colour, and the mountain backdrop is genuinely dramatic. What the photographs hide is the scale: the lagoon beach is very small, and in July and August it is extremely busy. Come early or late in the day and it lives up to the pictures."
+    },
+    {
+      "q": "Should I stay in Fethiye or Ölüdeniz?",
+      "a": "Fethiye, for almost everyone. It is a real town with a fish market, a bazaar and life outside the season, it has the harbour the boats leave from, and Ölüdeniz is only 25 minutes away by dolmuş. Stay at Ölüdeniz itself only if you want to walk out of your hotel onto the beach, and treat Hisarönü and Ovacık above it as package-holiday strips."
+    },
+    {
+      "q": "Is paragliding at Ölüdeniz safe for beginners?",
+      "a": "Tandem flights from Babadağ need no experience — you are strapped to a licensed pilot and the take-off is a few running steps off a ramp. It is one of the busiest paragliding sites in the world, with thousands of flights a season. Choose an established operator, check they are licensed, and expect flights to be cancelled outright when the wind is wrong, which is the system working properly."
+    },
+    {
+      "q": "What is Kayaköy?",
+      "a": "A Greek Orthodox town of several hundred houses and two large churches, abandoned when its population was moved to Greece in the 1923 exchange between the two countries and never resettled. The stone shells still stand roofless on the hillside. It is a protected site, takes an hour or two to walk, and a footpath runs over the hill from it down to Ölüdeniz."
+    },
+    {
+      "q": "Is a gulet cruise worth doing?",
+      "a": "The four-day trip east towards Olympos is the classic experience on this coast — you sleep on deck and anchor in coves that no road reaches. Day trips around the twelve islands of Fethiye bay are a good taster. On both, ask specifically how many swimming stops there are and how long at each; cheaper boats spend more of the day under engine."
+    },
+    {
+      "q": "When is the best time to visit Fethiye?",
+      "a": "May to June and September to October. The sea is swimmable from late May through late October, the Lycian Way and the ruins are comfortable in spring and autumn, and the crowds are manageable. July and August are hot at 33–38°C, the lagoon is packed and the walking becomes unwise. In winter Fethiye stays open but the beach resorts close."
+    },
+    {
+      "q": "Do I need a car in Fethiye?",
+      "a": "Not for the beach, the lagoon or the boat trips — dolmuş minibuses cover all of those cheaply and constantly. You do want one for the Lycian valley inland, where Tlos, Saklıkent, Xanthos, Letoon and Patara are scattered over an hour's drive and public transport reaches them slowly if at all. Two or three days of hire is usually enough."
+    }
+  ],
+  "related": ["antalya-turquoise-coast", "bodrum", "ephesus", "mallorca"],
+  "relatedArticles": ["best-time-southern-europe", "underrated-destinations", "packing-by-season"]
+}

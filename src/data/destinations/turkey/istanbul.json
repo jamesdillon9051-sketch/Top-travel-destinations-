@@ -1,0 +1,367 @@
+{
+  "slug": "istanbul",
+  "name": "Istanbul",
+  "country": "turkey",
+  "region": "Marmara",
+  "categories": ["major-city", "unesco", "historic", "cultural"],
+  "tagline": "Capital of three empires across sixteen centuries, on a strait between two continents, with sixteen million people and a ferry system that doubles as a sightseeing tour.",
+  "highlight": "Hagia Sophia — a cathedral for 916 years, a mosque for 481, a museum for 86, and a mosque again since 2020.",
+  "shortDescription": "The only city on two continents, holding the buildings of the Roman, Byzantine and Ottoman empires, a covered bazaar of 4,000 shops, and a waterway running through the middle of it.",
+  "metaDescription": "An Istanbul travel guide: Hagia Sophia, Topkapı, the Bosphorus ferries, the bazaars, the Asian side, where to stay, when to go and a five-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Istanbul (IST) and Sabiha Gökçen (SAW)",
+  "knownFor": "Hagia Sophia, the Bosphorus, bazaars, the call to prayer",
+  "budget": "€80–150 per day, mid-range",
+  "goodFor": "History, architecture, food, walking",
+  "coords": { "lat": 41.0082, "lng": 28.9784 },
+  "image": {
+    "file": "File:Hagia Sophia Istanbul July 2022-2.jpg",
+    "alt": "The domes and minarets of Hagia Sophia in Istanbul against a clear sky"
+  },
+  "intro": [
+    "Istanbul has been the capital of three empires. Constantine made it the capital of the Roman world in 330. It remained the Byzantine capital for eleven centuries, until the Ottoman conquest in 1453 made it the capital of an empire that lasted until 1922. Very few cities anywhere have that continuity of importance, and almost none have the buildings to show for each phase still standing.",
+    "It is also physically extraordinary. The city sits astride the Bosphorus, a 30-kilometre strait connecting the Black Sea to the Sea of Marmara, with one third of it in Asia and two thirds in Europe. The Golden Horn cuts into the European side, dividing the old imperial city from the districts that grew up opposite. The result is a city where commuting involves ferries, and where the best views are all from the water.",
+    "Sixteen million people live here, which makes it the largest city in Europe and one of the largest in the world. That scale means the historic peninsula — Sultanahmet, where the great monuments are — is a very small part of it, and visitors who never leave it miss the modern, restless, argumentative city that surrounds it. Four days is the minimum; five is better."
+  ],
+  "whyVisit": {
+    "intro": "Istanbul's case rests on layering. Almost every European city has one great period; this one has three, and all of them are still visible.",
+    "points": [
+      {
+        "title": "Hagia Sophia has no equivalent",
+        "text": "Completed in 537 with a dome 31 metres across that was the largest in the world for nearly a thousand years, built with engineering nobody has fully explained. It was the greatest church in Christendom, then an imperial mosque, and its Byzantine mosaics survive alongside Ottoman calligraphy."
+      },
+      {
+        "title": "Three empires, all still standing",
+        "text": "Roman walls and cisterns, Byzantine churches and mosaics, Ottoman mosques and palaces — plus a modern city built on top of all of it. Very few places let you walk through sixteen centuries in an afternoon."
+      },
+      {
+        "title": "The Bosphorus is a working waterway",
+        "text": "Ferries cross constantly between Europe and Asia, and a full-length Bosphorus cruise costs a few euros. The best views of the city are all from the water, and commuting by ferry is one of the genuine pleasures of being here."
+      },
+      {
+        "title": "The food is regional and excellent",
+        "text": "Ottoman court cuisine, Anatolian village food, Black Sea fish, southeastern kebap and Greek-influenced meze all coexist here. Add a long Turkish breakfast and the eating alone justifies several days."
+      },
+      {
+        "title": "It is very good value",
+        "text": "Among the cheapest major cities in Europe for visitors holding euros or pounds — hotels, restaurants and transport all run well below Western European equivalents."
+      }
+    ]
+  },
+  "attractionsIntro": "The great monuments cluster in Sultanahmet, within ten minutes of each other. Everything else is spread across a very large city and reached by tram, metro and ferry.",
+  "attractions": [
+    {
+      "name": "Hagia Sophia",
+      "text": "Justinian's church of 537, with a dome that appears to float on a ring of forty windows. Byzantine gold mosaics of Christ and the emperors survive in the upper galleries alongside enormous Ottoman calligraphic roundels. It reverted to functioning as a mosque in 2020.",
+      "tip": "Now requires a ticket for non-worshippers, with entry via the upper gallery. Go at opening; the queue builds sharply by 10:00."
+    },
+    {
+      "name": "Topkapı Palace",
+      "text": "The Ottoman court for four centuries, arranged as a series of courtyards rather than a single building, with the imperial treasury, the sacred relics and a harem of 300 rooms that housed the sultan's family and household.",
+      "tip": "The Harem is a separate ticket and is the best part. Allow three hours minimum for the whole site, and note it closes on Tuesdays."
+    },
+    {
+      "name": "The Blue Mosque",
+      "text": "Sultan Ahmed's mosque of 1616, facing Hagia Sophia across a garden, with six minarets and an interior lined with more than 20,000 blue İznik tiles. It remains an active place of worship and entry is free outside prayer times.",
+      "tip": "Closed to visitors for about 90 minutes at each of the five daily prayers. Shoulders, knees and — for women — heads covered; scarves are provided."
+    },
+    {
+      "name": "The Basilica Cistern",
+      "text": "A 6th-century underground reservoir held up by 336 columns, dimly lit, with water dripping and carp swimming between them. Two Medusa heads used as column bases sit in a far corner, one upside down and one sideways.",
+      "tip": "Recently restored with lighting and walkways. Cool in summer and a good hour when the heat above is punishing."
+    },
+    {
+      "name": "The Grand Bazaar and the Spice Bazaar",
+      "text": "The Grand Bazaar has around 4,000 shops on 61 covered streets and has operated since 1461. The Spice Bazaar near the waterfront is smaller, more food-focused and considerably more pleasant to shop in.",
+      "tip": "Both close on Sundays. The streets around the Grand Bazaar, where the wholesalers are, are more interesting than the bazaar itself."
+    },
+    {
+      "name": "Süleymaniye Mosque",
+      "text": "Mimar Sinan's masterpiece of 1557, on a hill above the Golden Horn, and by most reckonings the finest Ottoman building in the city. Larger, calmer and far less visited than the Blue Mosque, with a terrace looking over the water.",
+      "tip": "The best mosque in Istanbul and often nearly empty. The courtyard and terrace view alone are worth the walk up."
+    },
+    {
+      "name": "The Bosphorus ferries",
+      "text": "Public ferries cross between Europe and Asia constantly for the price of a bus fare, and a long Bosphorus cruise runs up the strait past waterside mansions, fortresses and the villages at its northern end.",
+      "tip": "The ordinary commuter ferry to Kadıköy costs almost nothing and gives you the whole skyline. Do it at sunset."
+    },
+    {
+      "name": "Kadıköy and the Asian side",
+      "text": "Across the water, a district with a produce and fish market, streets of bars and restaurants, and a completely different feel — younger, more residential, almost no tour groups. The Moda seafront is the local Sunday walk.",
+      "tip": "The market streets around Kadıköy's fish market are the best casual eating in Istanbul. Twenty minutes by ferry from Eminönü."
+    }
+  ],
+  "thingsToDoIntro": "Istanbul rewards using the ferries and walking the neighbourhoods as much as visiting the monuments.",
+  "thingsToDo": [
+    {
+      "title": "Cross to Asia by ferry",
+      "text": "The commuter ferry from Eminönü or Karaköy to Kadıköy takes twenty minutes, costs the price of a bus ride, and gives you the entire historic skyline from the water. Do it at sunset with a glass of tea.",
+      "tip": "Sit on the upper deck at the back. Gulls follow the ferries and people feed them simit rings."
+    },
+    {
+      "title": "Have a long Turkish breakfast",
+      "text": "A serpme kahvaltı is a table covered in small dishes — cheeses, olives, tomato, cucumber, honey with clotted cream, eggs, jams, endless bread and tea. It takes ninety minutes and is the best meal in the city.",
+      "tip": "Weekend mornings in Kadıköy or Beşiktaş, where Istanbul families do this properly."
+    },
+    {
+      "title": "Go to a historic hamam",
+      "text": "The 16th-century baths designed by Sinan are architectural monuments as well as functioning bathhouses. A hot marble room, a vigorous scrub, a foam wash and a rest.",
+      "tip": "Historic hamams cost considerably more than neighbourhood ones and are worth it for the buildings alone."
+    },
+    {
+      "title": "Walk Balat and Fener",
+      "text": "Two neighbourhoods along the Golden Horn, historically Jewish and Greek respectively, with steep streets of coloured wooden houses, the Greek Orthodox Patriarchate and an iron church shipped from Vienna in pieces.",
+      "tip": "About 45 minutes' walk from Eminönü along the water, or a short taxi. Quiet, photogenic and increasingly fashionable."
+    },
+    {
+      "title": "Eat fish under the Galata Bridge",
+      "text": "Balık ekmek — grilled fish in bread — from the boats at Eminönü, and the restaurants under the bridge itself with anglers casting from the deck above.",
+      "tip": "Cheap, chaotic and genuinely good. Eat it standing at the waterfront rather than sitting down."
+    },
+    {
+      "title": "See a Bosphorus mansion village",
+      "text": "The ferry up the strait stops at villages like Arnavutköy, Bebek and Anadolu Kavağı, with wooden waterfront mansions, fish restaurants and a Genoese castle at the northern end.",
+      "tip": "The full-length public ferry runs a couple of times daily and takes about 90 minutes each way. Far better value than the tourist cruises."
+    }
+  ],
+  "foodIntro": "Istanbul eats the whole country. Ottoman court cooking, Black Sea fish, southeastern kebap, Aegean meze and Anatolian village food all have their restaurants here.",
+  "foods": [
+    {
+      "name": "Turkish breakfast",
+      "text": "A spread rather than a dish: white cheese, olives, tomato, cucumber, sucuk sausage, eggs, honey with kaymak clotted cream, several jams, bread and tea that keeps arriving. Ninety minutes, minimum.",
+      "whereToTry": "Breakfast salons in Kadıköy, Beşiktaş and Bebek, especially at weekends."
+    },
+    {
+      "name": "Meze and rakı",
+      "text": "A long evening of small dishes — stuffed vine leaves, aubergine purée, marinated anchovies, broad beans in olive oil — with anise spirit cut with water. The meal is the pace as much as the food.",
+      "whereToTry": "Meyhanes in Beyoğlu, Kumkapı and along the Bosphorus. Allow three hours."
+    },
+    {
+      "name": "Balık ekmek",
+      "text": "Grilled mackerel or bonito in half a loaf with onion and rocket, sold from boats and stalls at Eminönü beneath the Galata Bridge. The definitive Istanbul street food.",
+      "whereToTry": "Eminönü waterfront and Karaköy. A few euros and eaten standing."
+    },
+    {
+      "name": "Kebap, southeastern style",
+      "text": "Adana kebap of hand-minced lamb with red pepper, İskender of döner over bread with tomato and yoghurt, and the ocakbaşı grill houses where you sit around the coals.",
+      "whereToTry": "Ocakbaşı restaurants in Beyoğlu and Kadıköy, and the southeastern places around Aksaray."
+    },
+    {
+      "name": "Simit and street snacks",
+      "text": "Sesame-crusted bread rings sold from red carts everywhere, plus roasted chestnuts in winter, grilled corn, stuffed mussels sold by the piece, and kokoreç for the adventurous.",
+      "whereToTry": "Street carts across the city. Simit with tea is the standard Istanbul breakfast on the move."
+    },
+    {
+      "name": "Baklava and Turkish delight",
+      "text": "Pistachio baklava, best from a specialist rather than a tourist shop, and lokum — Turkish delight — in flavours far beyond the rose most visitors know.",
+      "whereToTry": "Long-established confectioners in Karaköy and the Spice Bazaar area. Ask for a taste before buying."
+    }
+  ],
+  "accommodation": {
+    "intro": "The main choice is between Sultanahmet, where the monuments are, and the districts across the Golden Horn where the city actually lives. Both are connected by tram and ferry.",
+    "areas": [
+      {
+        "name": "Sultanahmet",
+        "bestFor": "First-time visitors and the monuments",
+        "text": "Walking distance to Hagia Sophia, the Blue Mosque, Topkapı and the cisterns. Convenient and heavily geared to tourism, with correspondingly mediocre restaurants and persistent carpet-shop attention."
+      },
+      {
+        "name": "Karaköy and Galata",
+        "bestFor": "The best all-round base",
+        "text": "Across the Golden Horn beneath the Galata Tower, with the best restaurant and café scene in the city, a tram to Sultanahmet in ten minutes and ferries from the door. Steep streets."
+      },
+      {
+        "name": "Beyoğlu and Cihangir",
+        "bestFor": "Nightlife and local life",
+        "text": "Around İstiklal Caddesi and the streets south of it, with bars, meyhanes and independent shops. Cihangir in particular is residential, leafy and full of good cafés."
+      },
+      {
+        "name": "Kadıköy",
+        "bestFor": "The Asian side and value",
+        "text": "Across the water, with the best casual eating in Istanbul, a market, and almost no tourists. Twenty minutes by ferry to the old city and noticeably cheaper."
+      },
+      {
+        "name": "Beşiktaş and the Bosphorus villages",
+        "bestFor": "Waterfront and quiet",
+        "text": "Along the European shore of the strait, with waterside restaurants and ferry connections. Further from the monuments and considerably calmer."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€12–25 per night" },
+      { "label": "Comfortable hotel", "value": "€55–110 per night" },
+      { "label": "Boutique hotel in Karaköy or Galata", "value": "€110–200 per night" },
+      { "label": "Istanbulkart", "value": "A few euros, then under €0.50 per journey on ferries, trams and metro" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Istanbul is one of the world's biggest aviation hubs, with two large airports on two different continents — a distinction that matters more than it sounds.",
+    "options": [
+      {
+        "mode": "Istanbul Airport (IST)",
+        "text": "The main hub, on the European side about 40 km northwest of the centre. The M11 metro connects to the city network, and the HAVAIST bus runs to Taksim and Sultanahmet in about an hour.",
+        "detail": "One of the largest airports in the world. Allow time to walk between gates."
+      },
+      {
+        "mode": "Sabiha Gökçen (SAW)",
+        "text": "On the Asian side, about 45 km southeast, used mostly by low-cost carriers. The M4 metro plus a ferry or the Marmaray tunnel reaches the old city in around 90 minutes.",
+        "detail": "Cheaper flights, longer transfer. Fine if you are staying on the Asian side."
+      },
+      {
+        "mode": "The two-airport problem",
+        "text": "IST and SAW are on different continents and about two hours apart in traffic. Booking a same-day connection between them is a common and costly error.",
+        "detail": "Always check which airport your flight uses. They are not interchangeable."
+      },
+      {
+        "mode": "Domestic connections",
+        "text": "Frequent cheap flights to [[cappadocia]] (90 minutes), İzmir for [[ephesus]] (1 hour), [[antalya-turquoise-coast|Antalya]] (75 minutes) and [[trabzon-black-sea|Trabzon]] (100 minutes).",
+        "detail": "High-speed rail reaches [[ankara]] in about 4h30 and Konya in under five."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Trams, metro, funiculars and ferries, all on one card. Never drive — Istanbul's traffic is among the worst in Europe and parking is close to nonexistent.",
+    "options": [
+      {
+        "mode": "Istanbulkart",
+        "text": "A single rechargeable card covering ferries, trams, metro, buses, funiculars and the Marmaray tunnel, at a fraction of single-fare prices. It can be shared between several people.",
+        "detail": "Buy one at any machine on arrival. It is the single most useful thing you can do in your first ten minutes."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Public ferries cross the Bosphorus and the Golden Horn constantly and are both transport and sightseeing. Eminönü, Karaköy, Beşiktaş, Kadıköy and Üsküdar are the main piers.",
+        "detail": "The commuter crossing to Kadıköy at sunset is the best-value hour in the city."
+      },
+      {
+        "mode": "The T1 tram",
+        "text": "Runs from Kabataş across the Galata Bridge through Sultanahmet and out to the city walls, linking almost every major sight on the historic peninsula.",
+        "detail": "Frequent and crowded. It is the workhorse line for visitors."
+      },
+      {
+        "mode": "Metro and Marmaray",
+        "text": "An expanding metro network plus the Marmaray, a rail tunnel under the Bosphorus connecting the European and Asian suburbs in four minutes.",
+        "detail": "The Marmaray is the fastest way between continents and connects to Sabiha Gökçen's line."
+      },
+      {
+        "mode": "Walking and taxis",
+        "text": "Sultanahmet is walkable and Beyoğlu is walkable if steep. Taxis are cheap but traffic makes them slow, and meter disputes are not unknown.",
+        "detail": "Use a ride-hailing app where possible, which removes the fare negotiation entirely."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Istanbul has a genuine four-season climate — hot humid summers, cold wet winters, and two excellent shoulder seasons.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "The city at its best: 15–22°C, tulips across the parks in April — the flower originates here rather than in the Netherlands — and comfortable walking weather for the hills and the monuments."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot and humid at 26–32°C, with the monuments crowded and the queues long. The compensation is the Bosphorus, the long evenings and the rooftop terraces. Many locals leave for the coast."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Arguably the best window. The humidity breaks, temperatures settle at 17–24°C, the light is superb and the summer crowds thin. October in particular is excellent."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold, grey and wet at 5–12°C, with occasional snow that transforms the domes and minarets. Very few visitors, the lowest prices of the year, and an atmospheric city — the monuments are indoors anyway."
+      }
+    ],
+    "avoid": "Mosques close to visitors for about 90 minutes at each of the five daily prayers, and for longer on Friday around midday. Plan mosque visits around the prayer schedule, which shifts with the seasons."
+  },
+  "itinerary": {
+    "title": "Five days in Istanbul",
+    "intro": "The monuments early, the neighbourhoods and the water later, and at least one full day on the Asian side. Assumes an Istanbulkart from arrival.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sultanahmet",
+        "summary": "The imperial core, starting at opening to beat the queues.",
+        "morning": "Hagia Sophia at opening, then the Basilica Cistern next door.",
+        "afternoon": "The Blue Mosque between prayers, and the Hippodrome's obelisks.",
+        "evening": "Dinner in Karaköy across the bridge, and the mosques floodlit from the water."
+      },
+      {
+        "day": 2,
+        "title": "Topkapı and the bazaars",
+        "summary": "The Ottoman court, then the commercial city that funded it.",
+        "morning": "Topkapı Palace and the Harem — three hours, and closed on Tuesdays.",
+        "afternoon": "The Grand Bazaar, then downhill through the wholesale streets to the Spice Bazaar.",
+        "evening": "Balık ekmek at Eminönü, then a meyhane in Beyoğlu."
+      },
+      {
+        "day": 3,
+        "title": "The Asian side",
+        "summary": "Cross the water and stay there.",
+        "morning": "Ferry to Kadıköy, the produce and fish market, and the food streets around it.",
+        "afternoon": "The Moda seafront walk, or Üsküdar's mosques and the Maiden's Tower view.",
+        "evening": "Ferry back at sunset, with the whole skyline in front of you."
+      },
+      {
+        "day": 4,
+        "title": "The Bosphorus",
+        "summary": "Up the strait and back.",
+        "morning": "The long public ferry north past the waterfront mansions and fortresses.",
+        "afternoon": "Lunch at Anadolu Kavağı at the top, and the castle above the village.",
+        "evening": "Back down at dusk, then dinner in Beşiktaş or Cihangir."
+      },
+      {
+        "day": 5,
+        "title": "Sinan, Balat and a hamam",
+        "summary": "The best mosque in the city and its most photogenic streets.",
+        "morning": "Süleymaniye Mosque and its terrace over the Golden Horn.",
+        "afternoon": "Balat and Fener's coloured houses and the Greek Patriarchate.",
+        "evening": "A historic hamam, then a last long dinner."
+      }
+    ]
+  },
+  "tipsIntro": "Istanbul specifics, the first of which prevents a genuinely expensive mistake.",
+  "tips": [
+    "Check which airport your flight uses. Istanbul Airport (IST) is European and Sabiha Gökçen (SAW) is Asian, and they are about two hours apart in traffic. Booking a same-day connection between them goes wrong regularly.",
+    "Buy an Istanbulkart within ten minutes of arriving. It covers ferries, trams, metro, buses and funiculars at a fraction of single fares and can be shared between several people.",
+    "Mosques close to visitors for roughly 90 minutes around each of the five daily prayers, and longer on Friday. Check the day's prayer times and plan around them rather than turning up and being turned away.",
+    "Take the ordinary commuter ferry to Kadıköy rather than a tourist cruise. It costs a fraction as much, takes twenty minutes and gives you the entire historic skyline from the water.",
+    "Eat away from Sultanahmet. The restaurants around the monuments are geared to one-time visitors; Karaköy, Kadıköy and Beşiktaş are where the city actually eats and cost less.",
+    "Topkapı Palace closes on Tuesdays and Hagia Sophia's visitor access is restricted around prayer times. Build the Sultanahmet day around those two constraints.",
+    "The friendly stranger who strikes up a conversation near the tourist sites and suggests a bar or a carpet shop is running a well-established routine. Decline politely and keep walking.",
+    "Istanbul is built on seven hills and the streets in Galata and Beyoğlu are genuinely steep. There are funiculars for the worst of them — use the Tünel, which has run since 1875."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Istanbul?",
+      "a": "Four to five. Two days covers Sultanahmet's monuments, but the city is far larger than its historic peninsula and the neighbourhoods across the Golden Horn and on the Asian side are much of what makes it worth coming. Five days lets you add a Bosphorus ferry day, Balat, a hamam and time to eat properly."
+    },
+    {
+      "q": "Can you visit Hagia Sophia?",
+      "a": "Yes. It reverted to functioning as a mosque in 2020 and now charges non-worshippers for entry, with visitor access via the upper gallery where the Byzantine mosaics are. Dress modestly, remove shoes where indicated, and go at opening — the queue builds sharply from about 10:00. It remains extraordinary."
+    },
+    {
+      "q": "Is Istanbul in Europe or Asia?",
+      "a": "Both. The Bosphorus strait runs through the middle of the city, with roughly two-thirds of the population on the European side and one-third on the Asian. Ferries cross constantly for the price of a bus fare, and the Marmaray rail tunnel does the crossing in about four minutes. Spending a day on the Asian side is strongly recommended."
+    },
+    {
+      "q": "What should I wear to visit a mosque in Istanbul?",
+      "a": "Shoulders and knees covered regardless of gender, and a head covering for women — scarves are provided free at every visitor-facing mosque. Shoes come off at the entrance and are carried or left on the racks. Avoid the five daily prayer times, when mosques close to visitors for about 90 minutes, and Friday around midday."
+    },
+    {
+      "q": "Is Istanbul safe for tourists?",
+      "a": "Yes, with ordinary city precautions. The realistic risks are pickpocketing in crowded areas like the Grand Bazaar and on packed trams, and the well-established scam in which a friendly stranger near the tourist sites steers you to a bar or carpet shop with inflated prices. Both are avoided by keeping bags in front and politely declining unsolicited invitations."
+    },
+    {
+      "q": "When is the best time to visit Istanbul?",
+      "a": "April to May and September to October. Spring brings tulips — the flower originates in Turkey — and comfortable 15–22°C walking weather. Autumn has the same temperatures with better light and thinner crowds. Summer is hot, humid and busy; winter is cold and grey but very cheap, and most of the great monuments are indoors anyway."
+    },
+    {
+      "q": "How do you get around Istanbul?",
+      "a": "Buy an Istanbulkart on arrival — it covers ferries, trams, metro, buses and funiculars on one card at a fraction of single-fare prices. The T1 tram links the main sights on the historic peninsula, the ferries cross to Asia constantly, and the Marmaray tunnel runs under the Bosphorus. Do not drive; Istanbul's traffic is among the worst in Europe."
+    }
+  ],
+  "related": ["cappadocia", "ephesus", "ankara", "venice"],
+  "relatedArticles": ["first-trip-to-europe", "unesco-worth-planning-around", "best-time-southern-europe"]
+}

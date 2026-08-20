@@ -1,0 +1,351 @@
+{
+  "slug": "valencia",
+  "name": "Valencia",
+  "country": "spain",
+  "region": "Valencian Community",
+  "categories": ["major-city", "coastal", "food-and-wine", "cultural"],
+  "tagline": "Spain's third city gave the world paella, drained its river into a nine-kilometre park, and costs a third less than Barcelona.",
+  "highlight": "The Turia — a river diverted after a flood and turned into a green park running right through the middle of the city.",
+  "shortDescription": "A Mediterranean city with a Gothic old town, Europe's most striking modern architectural complex, a city beach and the best-value eating of any major Spanish city.",
+  "metaDescription": "A Valencia travel guide: the Turia park and City of Arts and Sciences, real paella, the Albufera, beaches, Las Fallas, where to stay and a three-day itinerary.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Valencia (VLC), 8 km west",
+  "knownFor": "Paella, the Turia park, City of Arts and Sciences, Las Fallas",
+  "budget": "€100–170 per day, mid-range",
+  "goodFor": "Food, cycling, beaches, value",
+  "coords": { "lat": 39.4699, "lng": -0.3763 },
+  "image": {
+    "file": "File:El Hemisférico, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 71.JPG",
+    "alt": "The eye-shaped Hemisfèric building reflected in a pool at the City of Arts and Sciences in Valencia"
+  },
+  "intro": [
+    "In 1957 the Turia river flooded Valencia and killed dozens of people. The city's response was radical: it diverted the river around the south of the city entirely, leaving a dry bed running nine kilometres through the middle. The plan was to fill it with a motorway. Residents campaigned instead for a park, won, and Valencia now has a continuous green corridor with cycle paths, sports pitches and gardens curving through its centre where the water used to be.",
+    "At the eastern end of that park sits the City of Arts and Sciences — a complex of white ceramic-clad buildings by Santiago Calatrava that looks like a set of vertebrae, an eye and a helmet arranged around reflecting pools. It is the most photographed thing in the city and among the most striking modern architecture in Europe, whatever you make of what it cost.",
+    "Between the two is an old town with a Gothic silk exchange, a cathedral claiming the Holy Grail, and a covered market of extraordinary quality. And south of the city is the Albufera lagoon and the rice fields where paella was invented — which means the version you eat here bears very little resemblance to the seafood-and-chorizo thing served elsewhere. Valencia is Spain's third city and it costs about a third less than Barcelona for a comparable trip."
+  ],
+  "whyVisit": {
+    "intro": "Valencia is the value proposition among Spain's big three, and it has two genuinely unusual things — the park and the paella — that neither of the others can match.",
+    "points": [
+      {
+        "title": "The Turia is a great piece of urban planning",
+        "text": "Nine kilometres of continuous park in a former riverbed, crossed by the old stone bridges that used to span water. It is how Valencians get to work, exercise and spend Sunday, and it makes the city genuinely pleasant to move around in."
+      },
+      {
+        "title": "Paella is actually from here",
+        "text": "Valencian paella is rabbit, chicken, flat green beans, garrofó beans, tomato, saffron and rice, cooked over orange wood — no seafood, no chorizo, no onion. Eating it at lunch in the Albufera villages where it was invented is a genuinely different dish from what the name usually means."
+      },
+      {
+        "title": "The City of Arts and Sciences",
+        "text": "A science museum, an opera house, an aquarium and a planetarium in a complex of white shells and skeletal structures. Europe's largest aquarium is here, and the buildings work whether or not you go inside any of them."
+      },
+      {
+        "title": "City and beach without the crowds",
+        "text": "Malvarrosa beach is a wide sandy strip twenty minutes from the old town by tram, backed by seafood restaurants and considerably calmer than Barcelona's equivalent."
+      },
+      {
+        "title": "It is markedly cheaper",
+        "text": "Rooms, meals and drinks run roughly 25–35% below Barcelona for equivalent quality, and the Mercat Central is arguably the best food market in Spain."
+      }
+    ]
+  },
+  "attractionsIntro": "Valencia divides into three: the Gothic old town, the Turia park with the Calatrava complex at its end, and the coast. One day each works well.",
+  "attractions": [
+    {
+      "name": "The Turia Gardens",
+      "text": "Nine kilometres of park in the old riverbed, running from the west of the city to the sea. Palm groves, orange trees, running tracks, football pitches, a giant Gulliver climbing sculpture for children, and eighteen historic bridges crossing overhead.",
+      "tip": "Hire a bike and ride the full length. It takes about an hour each way and is the single best way to understand the city."
+    },
+    {
+      "name": "City of Arts and Sciences",
+      "text": "Calatrava's complex at the eastern end of the Turia: the eye-shaped Hemisfèric cinema, the vertebral Príncipe Felipe science museum, the Palau de les Arts opera house, and the Oceanogràfic — Europe's largest aquarium, with 45,000 animals.",
+      "tip": "The exteriors and reflecting pools are free and are most of the appeal. Pick one interior — the Oceanogràfic if you have children, the science museum otherwise."
+    },
+    {
+      "name": "Mercat Central",
+      "text": "A 1928 modernista market hall of iron, glass and tile covering 8,000 square metres, with around a thousand stalls. It is a working food market rather than a tourist attraction, and one of the largest fresh markets in Europe.",
+      "tip": "Open mornings only, Monday to Saturday, closing around 15:00. Go before noon and buy lunch."
+    },
+    {
+      "name": "La Lonja de la Seda",
+      "text": "The 15th-century silk exchange opposite the market, UNESCO-listed and one of the finest late Gothic civil buildings anywhere. Its trading hall has spiralling twisted columns rising into palm-frond vaulting.",
+      "tip": "Cheap entry, rarely crowded, and takes twenty minutes. Easily the most underrated building in the city."
+    },
+    {
+      "name": "The Cathedral and Micalet tower",
+      "text": "A cathedral built over a mosque built over a Roman temple, holding a chalice that has been venerated as the Holy Grail since the 1400s, plus two Goyas. The octagonal Micalet bell tower is 207 steps to a view over the whole old town.",
+      "tip": "The Grail chapel is a side room and easily missed. The tower is worth it for the rooftop panorama of the Barrio del Carmen."
+    },
+    {
+      "name": "Barrio del Carmen",
+      "text": "The old town's medieval core — narrow lanes, two surviving city gates (Torres de Serranos and Torres de Quart), street art, and the highest concentration of bars in the city. Genuinely lived-in rather than preserved.",
+      "tip": "Climb the Torres de Serranos at sunset for a low, close view over the rooftops. It costs almost nothing."
+    },
+    {
+      "name": "Albufera Natural Park",
+      "text": "A freshwater lagoon and rice paddies ten kilometres south, where paella was invented. Flat-bottomed boats run at sunset across water that reflects the sky, and the village of El Palmar is where the dish is cooked properly.",
+      "tip": "Go for a late lunch and stay for the sunset boat trip. Bus 25 runs from the city, or it is a flat 40-minute cycle."
+    },
+    {
+      "name": "Malvarrosa beach and El Cabanyal",
+      "text": "A wide sandy beach twenty minutes from the centre, with a promenade of seafood restaurants. Behind it, El Cabanyal is the old fishermen's quarter of tile-fronted houses, slowly being restored.",
+      "tip": "El Cabanyal's tiled facades are worth an hour's walk and almost nobody does it."
+    }
+  ],
+  "thingsToDoIntro": "Valencia is a city to move through rather than queue in. Bikes, markets and long lunches do most of the work.",
+  "thingsToDo": [
+    {
+      "title": "Cycle the Turia end to end",
+      "text": "Flat, traffic-free and nine kilometres each way, from the Bioparc in the west to the City of Arts in the east and on to the sea. Bike hire is cheap and the city has over 150 km of lanes beyond the park.",
+      "tip": "Ride out to the coast, eat at the beach, and come back along the seafront rather than retracing the park."
+    },
+    {
+      "title": "Eat paella at lunch, in the Albufera",
+      "text": "Valencian paella is a midday dish, cooked to order over about an hour, and locals do not eat it in the evening. El Palmar and the villages around the lagoon are where it is made properly.",
+      "tip": "Order for a minimum of two and expect to wait. The prized part is the socarrat — the caramelised crust on the bottom of the pan."
+    },
+    {
+      "title": "Do the Mercat Central properly",
+      "text": "A thousand stalls under a modernista dome: jamón, oranges, seafood on ice, and horchata. Buy breakfast, buy lunch, and watch a city do its actual shopping.",
+      "tip": "The Mercat de Colón nearby is a smaller restored market now full of bars and horchata counters — a good afternoon stop."
+    },
+    {
+      "title": "Drink horchata with fartons",
+      "text": "A cold, sweet drink made from tiger nuts, unrelated to the Mexican rice version, served with long sugared pastries for dipping. Entirely Valencian and available on almost every corner.",
+      "tip": "The town of Alboraya just north is where the tiger nuts are grown and where the best horchaterías are."
+    },
+    {
+      "title": "Spend an evening in Ruzafa",
+      "text": "The city's most interesting neighbourhood — a grid of early 20th-century blocks south of the station, now full of independent restaurants, bars and a good covered market. Where Valencia goes out.",
+      "tip": "Fifteen minutes' walk from the old town and considerably better value for dinner."
+    },
+    {
+      "title": "See Las Fallas, or deliberately avoid it",
+      "text": "For five days in March the city fills with enormous satirical papier-mâché sculptures, daily street explosions at 14:00, and a final night when nearly all of them are burned. It is one of Europe's great festivals and it is overwhelming.",
+      "tip": "15–19 March. Book a year ahead, or avoid the week entirely — there is no middle option."
+    }
+  ],
+  "foodIntro": "Valencian cooking is rice, seafood, citrus and vegetables from the surrounding huerta — one of the most productive market-garden areas in Europe, irrigated by channels laid out under Moorish rule.",
+  "foods": [
+    {
+      "name": "Paella valenciana",
+      "text": "Rabbit, chicken, flat green beans, garrofó butter beans, tomato, saffron and short-grain rice, cooked over orange wood in a wide shallow pan. No seafood, no chorizo, no onion, no peas. Snails when in season.",
+      "whereToTry": "El Palmar and the Albufera villages, at lunch. In the city, restaurants that require a 45-minute wait are the ones cooking it properly."
+    },
+    {
+      "name": "Arròs a banda and arròs negre",
+      "text": "The seafood rices, which Valencians distinguish carefully from paella. Arròs a banda is cooked in fish stock and served separately from the fish; arròs negre is blackened with squid ink.",
+      "whereToTry": "The beachfront restaurants of Malvarrosa and El Cabanyal."
+    },
+    {
+      "name": "Horchata and fartons",
+      "text": "A cold drink pressed from tiger nuts — chufas — grown just north of the city, served very cold with long glazed pastries for dipping. Sweet, nutty and completely unlike its Mexican namesake.",
+      "whereToTry": "Horchaterías throughout the city, and Alboraya where the chufas are grown."
+    },
+    {
+      "name": "Agua de Valencia",
+      "text": "Cava, fresh orange juice, gin and vodka, served by the jug. Invented in a Valencia bar in the 1950s and considerably stronger than it tastes.",
+      "whereToTry": "Bars in the Barrio del Carmen. Ordered by the jug for a table, not by the glass."
+    },
+    {
+      "name": "Esgarraet and titaina",
+      "text": "Two salt-cod dishes: esgarraet is shredded cod with roasted red pepper, garlic and olive oil; titaina is a fisherman's stew of tuna, pepper, tomato and pine nuts from El Cabanyal.",
+      "whereToTry": "Traditional tapas bars, particularly in El Cabanyal and Ruzafa."
+    },
+    {
+      "name": "Oranges",
+      "text": "The surrounding province produces some of the best citrus in Europe, and the season runs roughly November to May. Street trees across the city are bitter Seville oranges, not the eating kind.",
+      "whereToTry": "The Mercat Central, and freshly squeezed at any breakfast bar. Do not eat the street oranges."
+    }
+  ],
+  "accommodation": {
+    "intro": "Valencia's old town and the neighbourhoods around it are all walkable or a short bike ride apart. The beach is a genuine alternative if you want sea over sightseeing.",
+    "areas": [
+      {
+        "name": "Ciutat Vella and Barrio del Carmen",
+        "bestFor": "First-time visitors",
+        "text": "The medieval centre, walking distance to the cathedral, the market and the Lonja, and full of bars. The Carmen end is noisy at weekends; the streets near the cathedral are calmer."
+      },
+      {
+        "name": "Ruzafa",
+        "bestFor": "Food, nightlife, value",
+        "text": "A grid of early 20th-century blocks south of the centre, and the most interesting eating in the city. Fifteen minutes' walk to the old town and noticeably cheaper."
+      },
+      {
+        "name": "L'Eixample and Colón",
+        "bestFor": "Quiet and comfortable",
+        "text": "The 19th-century expansion east of the old town, with the restored Mercat de Colón, wide streets and the better hotels. Calm, central and well connected."
+      },
+      {
+        "name": "El Cabanyal and the beach",
+        "bestFor": "Sea and space",
+        "text": "The old fishermen's quarter behind Malvarrosa beach, with tile-fronted houses and seafood restaurants. Twenty minutes to the centre by tram, and much cheaper."
+      },
+      {
+        "name": "Near the City of Arts",
+        "bestFor": "Modern hotels and families",
+        "text": "The southeastern end of the Turia, close to the Oceanogràfic and the science museum. Newer buildings, more space, and a pleasant walk into the centre through the park."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€20–35 per night" },
+      { "label": "Comfortable hotel", "value": "€80–140 per night" },
+      { "label": "Las Fallas (15–19 March)", "value": "Three to four times normal rates, booked a year ahead" },
+      { "label": "Paella for two in the Albufera", "value": "€35–55 including the wait and the wine" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Valencia sits on the Mediterranean coast midway between Barcelona and Andalusia, with its own airport and a fast rail link to Madrid.",
+    "options": [
+      {
+        "mode": "Valencia Airport (VLC)",
+        "text": "Eight kilometres west, with routes across Europe. Metro lines 3 and 5 reach the centre in about 20 minutes for a few euros.",
+        "detail": "The metro is by far the simplest airport transfer of any major Spanish city."
+      },
+      {
+        "mode": "AVE from Madrid",
+        "text": "One hour fifty minutes from Madrid Atocha, with frequent departures on competing operators. Joaquín Sorolla station is a 15-minute walk from the old town.",
+        "detail": "Note that AVE trains use Joaquín Sorolla, while regional services use the more central Estació del Nord."
+      },
+      {
+        "mode": "From Barcelona",
+        "text": "About 3h by train along the coast, or 3h30 by car. The coastal route is scenic in stretches and considerably cheaper than flying.",
+        "detail": "There is no full high-speed line on this corridor yet, so the journey is longer than the distance suggests."
+      },
+      {
+        "mode": "Ferries to the Balearics",
+        "text": "Overnight and daytime crossings to [[mallorca]] and Ibiza from the port, taking roughly 5 to 8 hours.",
+        "detail": "A cabin on the overnight sailing saves a hotel night and a day of travel."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Flat, compact and one of the best cycling cities in Spain. A bike covers Valencia better than anything else.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "Over 150 km of lanes plus the traffic-free Turia park running through the middle of the city. Valenbisi is the public scheme and private hire is everywhere.",
+        "detail": "The park connects the old town to both the City of Arts and, via a short extension, the sea."
+      },
+      {
+        "mode": "Walking",
+        "text": "The old town is about 1.5 km across and entirely flat. Cathedral to the Mercat Central is five minutes, to the Turia ten.",
+        "detail": "The City of Arts is a 35-minute walk from the centre through the park, which is a pleasant way to arrive."
+      },
+      {
+        "mode": "Metro and tram",
+        "text": "Ten lines covering the airport, the beach and the outer city. Tram line 4 and 6 reach Malvarrosa and El Cabanyal.",
+        "detail": "The old town has few metro stops because the streets are too narrow — walk or cycle instead."
+      },
+      {
+        "mode": "Buses",
+        "text": "A comprehensive network including bus 25 to El Palmar and the Albufera, which takes about 45 minutes.",
+        "detail": "The Albufera bus is the simplest way to reach the paella villages without a car."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Unnecessary in the city and useful only for exploring the coast north towards Peñíscola or inland to the Requena wine region.",
+        "detail": "The old town is a restricted-traffic zone. Park outside it."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Valencia has one of the mildest climates in mainland Spain — warmer than Barcelona in winter, less brutal than Seville in summer. There is no genuinely bad month, only one very loud week in March.",
+    "seasons": [
+      {
+        "season": "Spring (March–June)",
+        "rating": "best",
+        "text": "Warm and bright at 18–28°C, with the sea swimmable from about June. Orange blossom in March and April. Las Fallas dominates 15–19 March completely."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and humid at 28–33°C, but the coastal position keeps it well below inland Andalusia. The beach and the Albufera come into their own, and the city is noticeably less crowded than Barcelona."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best window: sea at its warmest in September, temperatures easing to the mid-twenties, and very few visitors. October is mild and quiet. Note that this is also the season for occasional intense storms."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Mild at 10–18°C with a lot of sun — among the warmest winters on the Spanish mainland. Orange season, cheap rooms and empty museums. Too cold to swim."
+      }
+    ],
+    "avoid": "Las Fallas, 15–19 March, unless you specifically want it. The city is full, rates multiply, and there are controlled explosions in the main square every day at 14:00. It is magnificent and it is not a quiet city break."
+  },
+  "itinerary": {
+    "title": "Three days in Valencia",
+    "intro": "One day in the old town, one on the bike and at the Calatrava complex, one on the lagoon and the coast. No queues to plan around.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Gothic old town",
+        "summary": "Market, silk exchange, cathedral, and the Carmen after dark.",
+        "morning": "Mercat Central before noon, then La Lonja de la Seda opposite — twenty minutes for one of Spain's finest Gothic interiors.",
+        "afternoon": "The cathedral and the Micalet tower for the rooftop view, then the lanes of the Barrio del Carmen.",
+        "evening": "Torres de Serranos at sunset, then dinner and agua de Valencia in the Carmen."
+      },
+      {
+        "day": 2,
+        "title": "The Turia and the City of Arts",
+        "summary": "The park end to end, and Calatrava's complex at the far end of it.",
+        "morning": "Hire a bike and ride the Turia from the western end, under the old stone bridges.",
+        "afternoon": "The City of Arts and Sciences — the pools and exteriors, plus the Oceanogràfic or the science museum.",
+        "evening": "Ruzafa for dinner, which is where the city actually eats."
+      },
+      {
+        "day": 3,
+        "title": "Albufera and the beach",
+        "summary": "Where paella comes from, then the sea.",
+        "morning": "Bus or cycle south to the Albufera lagoon and the rice fields.",
+        "afternoon": "Paella at lunch in El Palmar — ordered on arrival, eaten an hour later — then the sunset boat across the lagoon.",
+        "evening": "Back via Malvarrosa beach and El Cabanyal's tiled streets for a last drink by the sea."
+      }
+    ]
+  },
+  "tipsIntro": "Valencia is an easy city. These are the few things worth knowing in advance.",
+  "tips": [
+    "Paella is a lunch dish here and is cooked to order over about an hour. Any restaurant serving it instantly, in the evening, or with a photograph of it outside is not cooking the real thing.",
+    "Valencian paella contains rabbit and chicken, not seafood. The seafood versions are called arròs a banda or arròs negre and are separate dishes — asking for 'seafood paella' marks you out immediately.",
+    "The Mercat Central closes around 15:00 and does not open on Sundays. Go in the morning.",
+    "Las Fallas runs 15–19 March and completely takes over the city, with room rates three to four times normal and daily controlled explosions at 14:00. Book a year ahead or avoid that week entirely.",
+    "AVE trains use Joaquín Sorolla station while regional services use Estació del Nord. They are a few minutes apart but not the same building — check which you need.",
+    "Hire a bike. The Turia park runs nine traffic-free kilometres through the city and connects the old town, the City of Arts and the sea. It is the single best thing about getting around here.",
+    "The orange trees lining the streets are bitter Seville oranges grown for decoration, not for eating. The good ones are in the market.",
+    "Valencia is roughly 25–35% cheaper than Barcelona for equivalent accommodation and meals, which makes it the best value of Spain's three biggest cities."
+  ],
+  "faq": [
+    {
+      "q": "Is Valencia worth visiting compared to Barcelona?",
+      "a": "Yes, and it is the better value by a clear margin — roughly 25–35% cheaper for equivalent rooms and meals, with far fewer crowds. Barcelona has Gaudí and a stronger set of headline sights. Valencia has the Turia park, the City of Arts and Sciences, a superb food market, the Albufera and real paella, plus a beach that is genuinely pleasant rather than packed."
+    },
+    {
+      "q": "Where can I eat real paella in Valencia?",
+      "a": "El Palmar and the villages around the Albufera lagoon, ten kilometres south, at lunchtime. Valencian paella is rabbit, chicken, flat beans and garrofó — no seafood, no chorizo, no onion — cooked to order over about an hour. In the city itself, the restaurants worth eating at are the ones that make you wait 45 minutes and require a minimum of two people."
+    },
+    {
+      "q": "How many days do you need in Valencia?",
+      "a": "Three. One for the Gothic old town, the Mercat Central and La Lonja; one for cycling the Turia and the City of Arts and Sciences; and one for the Albufera lagoon and the beach. Two days covers the city but misses the lagoon, which is where the food culture comes from."
+    },
+    {
+      "q": "What is the Turia park?",
+      "a": "A nine-kilometre park in the bed of the Turia river, which was diverted around the city after a catastrophic flood in 1957. The original plan was a motorway; residents campaigned for a park instead and won. It now runs through the middle of Valencia, crossed by the old stone bridges, and connects the old town to the City of Arts and Sciences and on towards the sea."
+    },
+    {
+      "q": "When is Las Fallas and should I go?",
+      "a": "15–19 March. Enormous satirical papier-mâché sculptures fill the streets, there are controlled explosions in the main square daily at 14:00, and on the final night almost all the sculptures are burned. It is one of Europe's great festivals and it is genuinely overwhelming — room rates triple or quadruple and must be booked a year ahead. Either commit to it or avoid the week."
+    },
+    {
+      "q": "Does Valencia have a good beach?",
+      "a": "Yes — Malvarrosa is a wide sandy beach about twenty minutes from the old town by tram or bike, backed by a promenade of seafood restaurants. It is noticeably calmer and cleaner than Barcelona's Barceloneta, and behind it El Cabanyal, the old fishermen's quarter of tile-fronted houses, is worth an hour's walk."
+    },
+    {
+      "q": "What is horchata?",
+      "a": "A cold sweet drink pressed from tiger nuts — chufas — grown just north of the city at Alboraya, served very cold with long glazed pastries called fartons for dipping. It is entirely Valencian and unrelated to the Mexican rice drink of the same name."
+    }
+  ],
+  "related": ["barcelona", "mallorca", "madrid", "seville"],
+  "relatedArticles": ["best-time-southern-europe", "underrated-destinations", "europe-by-train"]
+}

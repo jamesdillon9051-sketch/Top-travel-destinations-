@@ -1,0 +1,116 @@
+{
+  "slug": "mediterranean-coasts",
+  "title": "Choosing a Mediterranean Coast",
+  "kicker": "Where to go",
+  "subtitle": "Seven stretches of coastline across France, Spain, Italy and Turkey, and how to work out which one you actually want.",
+  "summary": "The Mediterranean coasts in this guide are not interchangeable. Some have sand and some have rock; some are glamorous and some are cheap; two of them are effectively closed for half the year. This is a comparison by the things that decide whether a coastal week works — swimming, crowds, cost, transport and what there is to do when you get out of the water.",
+  "readingTime": "9 min read",
+  "image": {
+    "file": "File:Calanques vue de Cassis.jpg",
+    "alt": "White limestone cliffs and turquoise inlets of the Calanques near Cassis in southern France"
+  },
+  "featuredDestinations": ["amalfi-coast", "fethiye-oludeniz", "nice-french-riviera"],
+  "sections": [
+    {
+      "id": "what-differs",
+      "title": "Five questions that separate them",
+      "navLabel": "What differs",
+      "body": [
+        "Every Mediterranean coast photographs the same way — blue water, a town on a hill, a boat. The differences that matter on a real trip are less photogenic, and there are five of them.",
+        "**Sand or rock.** This decides more holidays than anything else. The [[amalfi-coast|Amalfi Coast]], the [[cinque-terre|Cinque Terre]] and much of the Turkish coast are rock platforms, pebble and slipways; [[puglia-matera|Puglia]]'s Ionian side, [[mallorca|Mallorca]] and parts of the French Riviera have real sand. Neither is better, but arriving expecting one and finding the other ruins a week.",
+        "**How you get around.** Some coasts have a train running along them — the Cinque Terre, the Riviera, the Ligurian and Costa Brava lines — which changes everything. Others have a single-lane corniche road shared with coaches, or need a hire car and a ferry.",
+        "**How long the season lasts.** The Amalfi Coast and the Cinque Terre largely close from November to Easter. Turkey's Turquoise Coast is mild enough to visit year-round even when the resorts shut. The Costa del Sol and the Canaries function all winter.",
+        "**What is behind the beach.** A week of swimming needs something to do on the third afternoon. Ruins, a city, mountains or wine make a coastal week; a strip of hotels does not.",
+        "**Price.** The spread across these coasts is roughly threefold for the same standard of accommodation, which is a bigger difference than most people assume when they are choosing between them."
+      ],
+      "note": "If you take one thing from this article: check whether your chosen coast has sand. It is the single most common mismatch between expectation and reality."
+    },
+    {
+      "id": "the-coasts",
+      "title": "Seven coasts, compared",
+      "navLabel": "The coasts",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "The Amalfi Coast, Italy — drama, at a price",
+          "text": "The most spectacular of the seven and the least practical: towns stacked on cliffs, no flat ground, a single-lane corniche that gridlocks in summer and almost no sand. [[amalfi-coast|Positano, Amalfi and Ravello]] are extraordinary and expensive, and the season runs Easter to October only.",
+          "tip": "Travel by ferry rather than road, split your nights between two towns, and check how many steps your hotel involves before booking."
+        },
+        {
+          "title": "The Turquoise Coast, Turkey — the best value by far",
+          "text": "Eight hundred kilometres of pine-backed coves between [[fethiye-oludeniz|Fethiye]] and [[antalya-turquoise-coast|Antalya]], with Lycian rock tombs above the water, gulet cruises, the 540-km Lycian Way and prices roughly half those of Italy or France.",
+          "tip": "Combine a few days on a wooden gulet with a base ashore. The coast road between Fethiye and Antalya is one of the Mediterranean's great drives."
+        },
+        {
+          "title": "The Cinque Terre, Italy — walking between villages",
+          "text": "Five villages on eleven kilometres of Ligurian cliff, connected by a train every twenty minutes and by footpaths through terraced vineyards. [[cinque-terre|Compact, walkable and under real pressure]] — four million visitors a year to a resident population of about four thousand.",
+          "tip": "Sleep in a village and walk before nine. Only Monterosso has real sand; everywhere else you swim off rocks."
+        },
+        {
+          "title": "The French Riviera — cities, art and organisation",
+          "text": "[[nice-french-riviera|Nice]], Antibes, Villefranche and Menton, with a railway along the shore, an international airport in the middle, and more twentieth-century art than any comparable stretch of coast — Matisse, Chagall, Picasso and the Fondation Maeght.",
+          "tip": "The best-connected coast of the seven: you can do it entirely by train, and Nice works as a city break in its own right."
+        },
+        {
+          "title": "The Balearics and the Costa Brava, Spain — sand and coves",
+          "text": "[[mallorca|Mallorca]]'s Serra de Tramuntana on one side and quiet calas on the other, and the Costa Brava's pine-backed inlets north of Barcelona. Genuine sand, warm shallow water, and a very short, very intense August.",
+          "tip": "Go in late September. The sea is at its warmest, the prices halve and the roads empty."
+        },
+        {
+          "title": "Puglia and the Salento, Italy — two coasts, twenty minutes apart",
+          "text": "In the heel, the Adriatic side is limestone cliffs, sea caves and rock platforms, and the Ionian side is long shallow sand. [[puglia-matera|Add whitewashed hill towns, Baroque Lecce and trulli]] and it is the best-value coastal week in Italy.",
+          "tip": "Avoid August, when Italian holidaymakers fill the Salento entirely. May, June and September are empty by comparison."
+        },
+        {
+          "title": "The Aegean, Turkey — ruins and a coastline together",
+          "text": "The stretch around [[bodrum|Bodrum]] and down towards Fethiye combines a proper coastline with the densest concentration of Greek and Roman archaeology anywhere — [[ephesus|Ephesus]], Priene, Didyma and Aphrodisias are all within reach.",
+          "tip": "The Bodrum peninsula is rock and wooden decks rather than beach. If you want sand, look south."
+        }
+      ]
+    },
+    {
+      "id": "season",
+      "title": "Season is more important than destination",
+      "navLabel": "When to go",
+      "body": [
+        "Across all seven, the same pattern holds: **June and September are better than July and August in every measurable way**. The sea is warmest in September, not August, because it takes the whole summer to heat up. Prices in the first half of September are typically 30–50% below the first half of August. And the crowds fall away sharply after the first week of September, when European schools go back.",
+        "**May and early June** are the other window. The water is cooler — genuinely cold before late May in Liguria and the northern Adriatic, warmer earlier in Turkey and southern Italy — but the walking is at its best, the landscape is green, and everything has reopened for the season.",
+        "**Winter divides them.** The Amalfi Coast and the Cinque Terre largely shut: hotels close, ferries stop and Positano becomes a village of a few hundred people. The French Riviera and the Turkish coast keep working — [[antalya-turquoise-coast|Antalya]] averages 15–17°C in January with a great deal of sun, and its archaeological sites are empty. Nothing is swimmable, but a February week of ruins and long lunches is a legitimate trip.",
+        "The one coast that inverts this is the archaeological one. If your week is really about [[ephesus|Ephesus]], Pompeii or the Lycian sites rather than the water, high summer is actively unwise: these are unshaded sites where midday temperatures routinely exceed 38°C."
+      ],
+      "note": "The sea is warmest in September and the crowds are gone by the second week. If you can move a coastal trip by one month, move it later."
+    },
+    {
+      "id": "choosing",
+      "title": "So which one?",
+      "navLabel": "Choosing",
+      "list": [
+        {
+          "title": "You want sand and shallow water",
+          "text": "Puglia's Ionian coast or Mallorca. Both have long, genuinely sandy beaches with shallow entry, which the Amalfi Coast and the Cinque Terre simply do not."
+        },
+        {
+          "title": "You want the best photographs of your life",
+          "text": "The Amalfi Coast, and accept the price and the traffic. Nothing else on this list looks like it, and the arrival into Positano by boat is the best on the Mediterranean."
+        },
+        {
+          "title": "You are travelling without a car",
+          "text": "The French Riviera or the Cinque Terre. Both have a train running along the shore stopping in every town, which makes a car pointless rather than merely inconvenient."
+        },
+        {
+          "title": "Budget is the main constraint",
+          "text": "Turkey's Turquoise Coast, which is roughly half the cost of the Italian and French options for equivalent quality, then Puglia."
+        },
+        {
+          "title": "You want ruins with the swimming",
+          "text": "The Turkish Aegean or the Lycian coast, where a morning at Ephesus or a Lycian hillside city and an afternoon in the sea is the standard day."
+        },
+        {
+          "title": "You want to walk as much as swim",
+          "text": "The Cinque Terre for short village-to-village paths, or the Lycian Way in Turkey for something far more serious. Both are best in spring and autumn, not summer."
+        }
+      ]
+    }
+  ],
+  "readNext": ["best-time-southern-europe", "packing-by-season"]
+}

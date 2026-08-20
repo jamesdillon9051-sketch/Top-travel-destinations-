@@ -1,0 +1,360 @@
+{
+  "slug": "yellowstone",
+  "name": "Yellowstone National Park",
+  "shortName": "Yellowstone",
+  "country": "united-states",
+  "region": "Wyoming, Montana and Idaho",
+  "categories": ["national-park", "nature", "unesco", "mountains"],
+  "tagline": "The world's first national park, sitting on an active supervolcano, with half the planet's geysers and the densest concentration of large wildlife in the lower 48.",
+  "highlight": "Wolves and bison in the Lamar Valley at dawn — the closest thing to an African game drive in North America.",
+  "shortDescription": "Nearly 9,000 square kilometres of high volcanic plateau in Wyoming, holding over 10,000 thermal features, grizzly bears, wolves, and herds of bison that stop the traffic.",
+  "metaDescription": "A Yellowstone travel guide: geysers, the Lamar Valley wildlife, where to stay inside the park, road opening dates, safety around bison and bears, and a four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Bozeman (BZN), Jackson (JAC) or Cody (COD)",
+  "knownFor": "Old Faithful, Grand Prismatic Spring, bison, wolves",
+  "budget": "$200–330 per day, mid-range",
+  "goodFor": "Wildlife, geology, hiking, families",
+  "coords": { "lat": 44.428, "lng": -110.5885 },
+  "image": {
+    "file": "File:Yellowstone National Park (WY, USA), Grand Prismatic Spring -- 2022 -- 2514.jpg",
+    "alt": "The orange, yellow and deep blue bands of the Grand Prismatic Spring in Yellowstone"
+  },
+  "intro": [
+    "Yellowstone became the world's first national park in 1872, which means the entire global idea of protected wilderness starts here. It covers nearly 9,000 square kilometres of high plateau — most of it above 2,400 metres — spread across Wyoming, Montana and Idaho, and it is essentially the top of an active supervolcano. The last full-scale eruption was 640,000 years ago and the magma chamber beneath is still driving everything you see.",
+    "That geology produces more than 10,000 thermal features, roughly half the world's geysers, and hot springs coloured by heat-loving bacteria in bands of orange, yellow and green. Grand Prismatic Spring is 110 metres across and deeper than a ten-storey building. Old Faithful erupts every 60 to 110 minutes and has done so, more or less reliably, since it was named in 1870.",
+    "The wildlife is the other half of the case, and for many visitors the better half. Yellowstone holds around 5,000 bison — the only place in the United States where they have lived continuously since prehistoric times — plus grizzly and black bears, elk, moose, bighorn sheep and the wolves reintroduced in 1995 after a seventy-year absence. In the Lamar Valley at dawn you can see several of these in an hour without leaving the roadside."
+  ],
+  "whyVisit": {
+    "intro": "Yellowstone is two extraordinary things in one place — a volcanic thermal landscape and a functioning large-mammal ecosystem — and there is nowhere else in the temperate world that combines them.",
+    "points": [
+      {
+        "title": "Half the world's geysers are here",
+        "text": "Over 500 active geysers and more than 10,000 thermal features, in a park that contains roughly half of all the geysers on earth. Old Faithful is the famous one; the Upper Geyser Basin around it holds the greatest concentration anywhere."
+      },
+      {
+        "title": "The wildlife viewing is genuinely exceptional",
+        "text": "Around 5,000 bison, several hundred wolves in the wider ecosystem, grizzlies, black bears, elk, moose and bighorn sheep. The Lamar Valley at dawn is regularly called the Serengeti of North America and the comparison is not absurd."
+      },
+      {
+        "title": "The colours are unlike anywhere",
+        "text": "Grand Prismatic Spring's bands of orange, yellow and green come from thermophilic bacteria living at different temperatures, ringing a centre of deep blue water at 70°C. Photographs look enhanced and are not."
+      },
+      {
+        "title": "It invented the idea of a national park",
+        "text": "Designated in 1872, before Wyoming was even a state, and the direct model for every national park system in the world since. It is also a UNESCO World Heritage Site and an International Biosphere Reserve."
+      },
+      {
+        "title": "Grand Teton is an hour south",
+        "text": "A completely different landscape — a 4,200 m mountain range rising abruptly from a flat valley floor with no foothills — and the two parks are almost always visited together."
+      }
+    ]
+  },
+  "attractionsIntro": "The park's roads form a figure of eight about 230 km around. Distances are long and bison jams are frequent, so plan two areas a day at most.",
+  "attractions": [
+    {
+      "name": "Grand Prismatic Spring",
+      "text": "The largest hot spring in the United States at 110 metres across, ringed with bacterial mats in orange, yellow and green around a deep blue centre. The boardwalk crosses it at ground level; the overlook trail from Fairy Falls gives the aerial view.",
+      "tip": "The boardwalk shows you steam; the Fairy Falls overlook, a 1.6 km walk, shows you the colours. Do the overlook, in the middle of the day when the sun is high."
+    },
+    {
+      "name": "Upper Geyser Basin and Old Faithful",
+      "text": "The densest concentration of geysers on earth, with about 150 in one square mile. Old Faithful erupts every 60 to 110 minutes to 30–55 metres; Grand, Riverside and Castle geysers nearby are less predictable and arguably more impressive.",
+      "tip": "Predicted eruption times for several geysers are posted at the visitor centre and on the park app. Walk the boardwalk loop rather than only watching Old Faithful."
+    },
+    {
+      "name": "The Lamar Valley",
+      "text": "A wide glacial valley in the park's northeast, and the best wildlife viewing in the lower 48 states. Bison herds in the hundreds, plus wolves, bears, pronghorn and coyotes, most reliably seen at dawn and dusk.",
+      "tip": "Be there before sunrise. Bring binoculars or a spotting scope — the wolf watchers parked along the road are usually happy to share a view."
+    },
+    {
+      "name": "Grand Canyon of the Yellowstone",
+      "text": "A 32 km canyon of yellow rhyolite up to 370 metres deep, with the Lower Falls dropping 94 metres — twice the height of Niagara. Artist Point on the south rim is the classic view.",
+      "tip": "Artist Point for the falls, Uncle Tom's and Lookout Point for different angles. Early morning gives the best light on the yellow rock."
+    },
+    {
+      "name": "Mammoth Hot Springs",
+      "text": "Terraces of white travertine built up by hot water depositing limestone, forming stepped pools that shift and dry out over years as the plumbing changes. Elk graze on the lawns of the historic fort at the base.",
+      "tip": "The formations change constantly — sections that were flowing a decade ago are now dry. The upper terrace loop can be driven."
+    },
+    {
+      "name": "Norris Geyser Basin",
+      "text": "The hottest and most changeable thermal area in the park, with acidic springs and Steamboat Geyser — the tallest active geyser in the world at up to 120 metres, though it erupts unpredictably, sometimes years apart.",
+      "tip": "The Back Basin trail is quieter than Porcelain Basin and equally strange. The ground here is genuinely unstable — stay on the boardwalk."
+    },
+    {
+      "name": "Hayden Valley and Yellowstone Lake",
+      "text": "The park's other great wildlife valley, in the centre, with large bison herds and frequent grizzly sightings. Yellowstone Lake beyond it is the largest high-altitude lake in North America at 2,357 m.",
+      "tip": "West Thumb Geyser Basin on the lake shore has thermal features running into the water, including cones that were once fished from."
+    },
+    {
+      "name": "Grand Teton National Park",
+      "text": "An hour south, where the Teton range rises 2,100 metres straight out of the valley floor with no foothills. Jenny Lake, Schwabacher Landing and the Snake River overlook are the classic viewpoints.",
+      "tip": "Almost always visited alongside Yellowstone, and worth two or three days of its own. The two share an entrance road."
+    }
+  ],
+  "thingsToDoIntro": "The park rewards early starts more than almost anywhere. Wildlife moves at dawn and dusk, and the geyser basins are best before the coaches.",
+  "thingsToDo": [
+    {
+      "title": "Watch wildlife at dawn",
+      "text": "Be in the Lamar or Hayden Valley before sunrise with binoculars. Bison, elk and pronghorn are near-certain; wolves and bears are realistic. This is the single best thing the park offers and it is free.",
+      "tip": "The wolf-watching community gathers at known pull-outs with spotting scopes and is generally welcoming. Ask politely and you will usually get a look."
+    },
+    {
+      "title": "Walk the geyser basin boardwalks",
+      "text": "Upper, Midway, Lower and Norris basins each have several kilometres of boardwalk over ground too hot and fragile to stand on. Doing all four across two days shows you the full range of thermal behaviour.",
+      "tip": "Stay on the boardwalk without exception. The crust is thin, the water is above boiling, and people have died stepping off."
+    },
+    {
+      "title": "Hike away from the road",
+      "text": "Over 1,600 km of trails, and the vast majority of visitors never leave the tarmac. Mount Washburn, Fairy Falls, Mystic Falls and the Bunsen Peak trail are all half-day walks with a fraction of the crowds.",
+      "tip": "Carry bear spray, know how to use it, and make noise on blind corners. This is genuine grizzly country."
+    },
+    {
+      "title": "Drive to Grand Teton",
+      "text": "An hour south on the John D. Rockefeller Parkway, into a completely different landscape of sharp granite peaks rising abruptly from a flat sagebrush plain.",
+      "tip": "Schwabacher Landing at dawn, with the range reflected in the Snake River, is one of the great American views."
+    },
+    {
+      "title": "See the park in winter",
+      "text": "From December to March the interior roads close and access is by snowcoach or snowmobile only. Geysers steam against snow, wolves are easier to spot against white ground, and visitor numbers collapse.",
+      "tip": "Only the north road from Gardiner to Cooke City stays open to cars. Winter trips need booking well ahead through park concessioners."
+    },
+    {
+      "title": "Soak in the Boiling River, conditions permitting",
+      "text": "Where a hot spring runoff meets the cold Gardner River near Mammoth, creating a natural bathing spot. Access varies year to year with river conditions and flood damage.",
+      "tip": "Check whether it is currently open before planning around it. Swimming in thermal features themselves is illegal and lethal."
+    }
+  ],
+  "foodIntro": "Yellowstone is a remote wilderness park and its food is functional. The good eating is in the gateway towns, and Montana and Wyoming have their own solid regional traditions.",
+  "foods": [
+    {
+      "name": "Bison",
+      "text": "Leaner and slightly sweeter than beef, served as steak, burger or chilli throughout the region. Sourced from ranch herds rather than the park's wild population.",
+      "whereToTry": "Restaurants in Jackson, Bozeman, Gardiner and West Yellowstone, and the park lodges."
+    },
+    {
+      "name": "Trout",
+      "text": "Cutthroat, brown and rainbow trout from the rivers of the Greater Yellowstone ecosystem, usually pan-fried whole or grilled. The region is one of the world's great fly-fishing destinations.",
+      "whereToTry": "Gateway town restaurants. The Madison, Gallatin and Yellowstone rivers are the famous waters."
+    },
+    {
+      "name": "Elk and game",
+      "text": "Elk steak, sausage and jerky appear across Wyoming and Montana menus, alongside venison and occasionally antelope. Distinctly regional and largely unavailable elsewhere in the country.",
+      "whereToTry": "Jackson and Cody in particular, where the ranching and hunting culture is strongest."
+    },
+    {
+      "name": "Huckleberries",
+      "text": "A wild mountain berry, impossible to farm commercially, harvested in late summer and turned into jam, pie, ice cream and syrup across the northern Rockies.",
+      "whereToTry": "Roadside shops and cafés across Montana and Wyoming, best from late July onwards."
+    },
+    {
+      "name": "The park lodge dining rooms",
+      "text": "Old Faithful Inn's timber dining hall and the Lake Yellowstone Hotel are the two worth eating in for the buildings alone — the Inn is a 1904 log structure with a 23-metre lobby.",
+      "whereToTry": "Inside the park. Dinner reservations are required and open months ahead."
+    },
+    {
+      "name": "The gateway town breweries",
+      "text": "Bozeman, Jackson and Cody all have serious craft brewing scenes, and a post-hike beer at altitude is a regional institution.",
+      "whereToTry": "Bozeman has the strongest scene and the best restaurants within reach of the park."
+    }
+  ],
+  "accommodation": {
+    "intro": "Staying inside the park is transformative because wildlife viewing happens at dawn and the drives are long — but in-park lodging opens 13 months ahead and fills within days.",
+    "areas": [
+      {
+        "name": "Inside the park — the historic lodges",
+        "bestFor": "Dawn wildlife and geysers without a drive",
+        "text": "Old Faithful Inn, Lake Yellowstone Hotel, Mammoth and Canyon Lodge. Rooms are simple and often without air conditioning or televisions; the value is entirely in being inside the park at first light."
+      },
+      {
+        "name": "Gardiner, Montana",
+        "bestFor": "The north entrance and Lamar Valley",
+        "text": "At the original north gate, the closest base to the Lamar Valley wildlife and the only entrance open to cars all year. A small town with motels, outfitters and a few good restaurants."
+      },
+      {
+        "name": "West Yellowstone, Montana",
+        "bestFor": "The geyser basins",
+        "text": "At the west entrance, closest to Old Faithful and the Madison valley, with the widest choice of accommodation of any gateway town. Functional rather than charming."
+      },
+      {
+        "name": "Jackson, Wyoming",
+        "bestFor": "Grand Teton and a real town",
+        "text": "An hour south of the south entrance and right beside Grand Teton, with the best restaurants, shops and airport in the region. Expensive, and further from Yellowstone's interior."
+      },
+      {
+        "name": "Cooke City and Silver Gate",
+        "bestFor": "Serious wildlife watchers",
+        "text": "Tiny settlements at the northeast entrance, right at the top of the Lamar Valley. Very limited facilities and the single best position for dawn wolf watching."
+      }
+    ],
+    "budget": [
+      { "label": "Park entry", "value": "$35 per vehicle for 7 days, or free with the $80 annual pass" },
+      { "label": "In-park lodge", "value": "$180–400 per night, booked 13 months ahead" },
+      { "label": "Gateway town motel", "value": "$140–260 per night in summer, far less in shoulder season" },
+      { "label": "Campground", "value": "$25–35 per night; most are reservable and fill months ahead" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Yellowstone is genuinely remote and every route involves a drive. Three small regional airports serve it, all with connections through larger hubs.",
+    "options": [
+      {
+        "mode": "Bozeman (BZN)",
+        "text": "About 1h30 to the north entrance at Gardiner, and the region's busiest airport with the widest choice of flights and car hire.",
+        "detail": "Usually the cheapest and most flexible way in, and Bozeman itself is a pleasant town to start or end in."
+      },
+      {
+        "mode": "Jackson Hole (JAC)",
+        "text": "Inside Grand Teton National Park, about an hour from Yellowstone's south entrance. The most scenic arrival and often the most expensive.",
+        "detail": "Ideal if you plan to do Grand Teton first and work north."
+      },
+      {
+        "mode": "Cody and Idaho Falls",
+        "text": "Cody (COD) is about an hour from the east entrance, and Idaho Falls (IDA) roughly two hours from the west. Both are smaller and sometimes cheaper.",
+        "detail": "Check all four airports — fares vary considerably and driving distances are broadly similar."
+      },
+      {
+        "mode": "Road access and seasons",
+        "text": "The park has five entrances. Only the north road between Gardiner and Cooke City stays open to cars year-round; the rest close from roughly early November to late April or May.",
+        "detail": "Opening dates vary annually with snowfall. Check the park's road status page before booking spring or autumn dates."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "You need a car. Yellowstone has no public transport, no shuttle system, and 230 km of road in a figure of eight with long distances between attractions.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential. The Grand Loop Road runs 230 km in a figure of eight linking all the main areas, with the entrance roads adding more. A standard car handles every paved road.",
+        "detail": "Fuel stations inside the park are limited and expensive. Fill up in the gateway towns."
+      },
+      {
+        "mode": "Allowing for bison jams",
+        "text": "Herds crossing or walking along the road stop traffic regularly, sometimes for 30 minutes or more. Plan on average speeds well below the posted 45 mph limit.",
+        "detail": "Never leave your vehicle in a bison jam, and never try to push past. They weigh a tonne and are faster than you."
+      },
+      {
+        "mode": "Distances between areas",
+        "text": "Mammoth to Old Faithful is about 90 minutes without stops; Lamar Valley to Old Faithful is closer to 2h30. The park is much larger than it appears on the map.",
+        "detail": "Two areas per day is a realistic maximum. Choosing a base near what you most want to see saves hours."
+      },
+      {
+        "mode": "Guided wildlife tours",
+        "text": "Naturalist-led dawn tours with spotting scopes dramatically improve wolf and bear sightings, and remove the need to navigate in the dark.",
+        "detail": "Worth it for at least one morning even if you have a car. Operators run from Gardiner and Cooke City."
+      },
+      {
+        "mode": "Winter snowcoach and snowmobile",
+        "text": "From mid-December to mid-March the interior is reachable only by guided snowcoach or snowmobile from West Yellowstone or Mammoth.",
+        "detail": "Book months ahead. It is expensive and it is the most extraordinary time to see the park."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September, with September the pick",
+    "summary": "Yellowstone sits above 2,400 metres and has a short season. Snow closes most roads from November to May, and the summer window is correspondingly busy.",
+    "seasons": [
+      {
+        "season": "Late spring (May–early June)",
+        "rating": "good",
+        "text": "Roads open progressively from late April into May. Bison and elk calves are born, bears emerge with cubs, and waterfalls run at their fullest. Cold at 5–17°C, with some areas still snowbound and facilities opening in stages."
+      },
+      {
+        "season": "Summer (late June–August)",
+        "rating": "shoulder",
+        "text": "All roads and facilities open, temperatures of 20–27°C by day and near freezing at night. Also the busiest period by a wide margin, with full car parks by 09:00 and lodging booked out a year ahead."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best time to come. Crowds drop sharply after the Labor Day weekend, the elk rut begins with bulls bugling across the valleys, and the light is superb. Facilities start closing through October and snow can arrive any time."
+      },
+      {
+        "season": "Winter (November–April)",
+        "rating": "quiet",
+        "text": "Most roads close. The interior is reachable only by snowcoach or snowmobile, and the park is transformed — steaming geysers against snow, wolves visible against white ground, and almost nobody there. Expensive and exceptional."
+      }
+    ],
+    "avoid": "Assuming the roads are open. Yellowstone's opening and closing dates shift by weeks depending on snowfall, and a trip planned for mid-May or late October can find half the park inaccessible. Check the official road status page before booking."
+  },
+  "itinerary": {
+    "title": "Four days in Yellowstone",
+    "intro": "Organised geographically rather than by attraction, because the driving distances are the constraint. Each day starts before sunrise, which is the price of the wildlife.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The geyser basins",
+        "summary": "The thermal half of the park, from a west or south base.",
+        "morning": "Upper Geyser Basin at opening — Old Faithful plus the boardwalk loop past Grand, Riverside and Castle.",
+        "afternoon": "Midway Geyser Basin and the Fairy Falls overlook above Grand Prismatic, when the sun is high enough to bring the colours out.",
+        "evening": "Lower Geyser Basin and the Fountain Paint Pots at dusk."
+      },
+      {
+        "day": 2,
+        "title": "The canyon and Hayden Valley",
+        "summary": "Waterfalls in the morning, wildlife at either end of the day.",
+        "morning": "Hayden Valley before sunrise for bison and grizzlies, then north to the canyon.",
+        "afternoon": "Artist Point and the Lower Falls, then the north rim viewpoints.",
+        "evening": "Back through Hayden Valley at dusk, when the animals move again."
+      },
+      {
+        "day": 3,
+        "title": "The Lamar Valley",
+        "summary": "The best wildlife day, and it starts in the dark.",
+        "morning": "In the Lamar Valley before first light with binoculars. Wolves, bison herds, pronghorn, sometimes bears.",
+        "afternoon": "Mammoth Hot Springs terraces and the historic fort, or the Bunsen Peak hike.",
+        "evening": "Back to Lamar for the evening movement, or an early night before the drive south."
+      },
+      {
+        "day": 4,
+        "title": "Grand Teton",
+        "summary": "An hour south into a completely different landscape.",
+        "morning": "Schwabacher Landing or Oxbow Bend at dawn, with the range reflected in the Snake River.",
+        "afternoon": "Jenny Lake — the boat shuttle and the walk to Hidden Falls and Inspiration Point.",
+        "evening": "Jackson for dinner, and the flight home from there."
+      }
+    ]
+  },
+  "tipsIntro": "Two of these are genuine safety items and the rest will save you hours.",
+  "tips": [
+    "Bison injure more people in Yellowstone than bears do. They look placid, weigh a tonne and can run at 50 km/h. The park requires 25 metres of distance from bison and elk, and 100 metres from bears and wolves — treat those as minimums, not targets.",
+    "Never step off a boardwalk in a thermal area. The crust is thin, the water beneath is above boiling, and the park has had fatalities. This includes for photographs, and includes areas that look like solid ground.",
+    "Book in-park lodging the day reservations open, 13 months ahead. Staying inside the park is what lets you be in the Lamar Valley at dawn without a two-hour drive in the dark.",
+    "Check the park's road status page before booking spring or autumn dates. Opening and closing dates move by weeks with the snowfall, and much of the park is inaccessible outside roughly late May to early November.",
+    "Carry bear spray on any trail and know how to use it. It is sold and rented in every gateway town, cannot be taken on aircraft, and is considerably more effective than the alternatives.",
+    "Allow far more driving time than the distances suggest. Bison jams stop traffic regularly and for a long time, and Lamar Valley to Old Faithful is about 2h30 without stops.",
+    "Grand Prismatic Spring's colours are only visible from the Fairy Falls overlook trail, a 1.6 km walk. The boardwalk at ground level shows you steam and very little else.",
+    "The park sits above 2,400 m. Expect cold nights even in July, breathlessness on the first day, and sunburn faster than the temperature suggests."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Yellowstone?",
+      "a": "Four to five, or more with Grand Teton included. The park is nearly 9,000 square kilometres with 230 km of loop road, and driving between areas takes far longer than the map suggests — Lamar Valley to Old Faithful is about 2h30. Three days covers the geyser basins and the canyon; four lets you add proper wildlife mornings in the Lamar Valley."
+    },
+    {
+      "q": "When is Yellowstone open?",
+      "a": "The interior roads open progressively from late April into May and close from early November, with exact dates shifting by weeks depending on snowfall. Only the north road between Gardiner and Cooke City stays open to cars year-round. From mid-December to mid-March the interior is reachable only by guided snowcoach or snowmobile. Always check the official road status page before booking."
+    },
+    {
+      "q": "Where is the best place to see wildlife in Yellowstone?",
+      "a": "The Lamar Valley in the northeast, before sunrise, with binoculars — bison herds in the hundreds, plus wolves, bears, pronghorn and coyotes. Hayden Valley in the centre is the other great spot, particularly for grizzlies. Both are best in the first and last hour of daylight; in the middle of the day the animals are inactive and hard to find."
+    },
+    {
+      "q": "Is Yellowstone dangerous?",
+      "a": "It has two genuine risks that visitors underestimate. Bison injure more people than bears do — they look docile, weigh a tonne and run at 50 km/h, and the required distance is 25 metres. And thermal areas have thin crust over water above boiling point, which is why the boardwalks exist and why people who step off them have died. Both risks are entirely avoidable by following the posted rules."
+    },
+    {
+      "q": "Do I need to book Yellowstone accommodation in advance?",
+      "a": "For the in-park lodges, very much so: the booking window opens 13 months out and the good dates are gone within days. It is worth the effort, because the wildlife viewing happens at dawn and staying inside saves a long drive in the dark. Gateway towns — Gardiner, West Yellowstone, Cooke City and Jackson — are easier to book but still fill for July and August."
+    },
+    {
+      "q": "Should I combine Yellowstone with Grand Teton?",
+      "a": "Almost everyone does, and it makes sense — they share an entrance road and are about an hour apart. Grand Teton is a completely different landscape, with a 4,200 m granite range rising straight from a flat valley with no foothills. Allow two or three days for it on top of your Yellowstone time; flying into Jackson and out of Bozeman lets you do both without backtracking."
+    },
+    {
+      "q": "What is the best time of year for Yellowstone?",
+      "a": "September. The crowds fall away after the Labor Day weekend, the elk rut begins with bulls bugling across the valleys, the light is at its best and the weather is still workable. June is excellent for newborn animals and full waterfalls but colder and partly snowbound. July and August have everything open and the heaviest crowds of the year."
+    }
+  ],
+  "related": ["grand-canyon", "zion-southern-utah", "san-francisco", "pamukkale"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season", "unesco-worth-planning-around"]
+}

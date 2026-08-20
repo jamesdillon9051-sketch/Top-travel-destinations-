@@ -1,0 +1,119 @@
+{
+  "slug": "food-primer",
+  "title": "A Country-by-Country Food Primer",
+  "kicker": "Food",
+  "subtitle": "What to order in France, Spain, Italy, Turkey and the United States — and the unwritten local rules nobody explains.",
+  "summary": "Eating well abroad is mostly a matter of knowing when meals happen, how the menu is structured and which dish belongs to the place you are standing in. This covers all three for the five countries in this guide, plus the signals that separate a restaurant that feeds locals from one that feeds coaches.",
+  "readingTime": "11 min read",
+  "image": {
+    "file": "File:Boqueria, Barcelona (P1170747).jpg",
+    "alt": "Fruit and vegetable stalls under the ironwork roof of the Boqueria market in Barcelona"
+  },
+  "featuredDestinations": ["san-sebastian-basque", "sanliurfa-gobekli-tepe", "new-orleans"],
+  "sections": [
+    {
+      "id": "spotting-a-good-restaurant",
+      "title": "How to spot a good restaurant anywhere",
+      "navLabel": "Spotting one",
+      "body": [
+        "The signals are consistent across all five countries, and they take about ten seconds to read from the pavement.",
+        "**Bad signs:** photographs of the food; a menu translated into six languages; someone standing outside inviting you in; a menu long enough to require a contents page; and being within fifty metres of a major monument. Any two of those together is enough to keep walking.",
+        "**Good signs:** a short menu, handwritten or printed daily; a board of the day's specials in the local language only; local people eating there at local mealtimes; and a dish on the menu that is specific to that town rather than the country. In Italy, a menu offering carbonara, pesto and Bolognese together is telling you it is aimed at people who do not know that those belong to three different cities.",
+        "The five-minute rule holds almost everywhere: walking five minutes away from a cathedral, a beach or a station typically halves the price and improves the food. This is the most reliable single piece of eating advice for any of these countries."
+      ],
+      "note": "The strongest signal of all is a menu written only in the local language and changed daily. It means the kitchen is cooking for people who will come back."
+    },
+    {
+      "id": "the-five",
+      "title": "The five countries",
+      "navLabel": "By country",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "France — order the formule and read the blackboard",
+          "text": "Lunch is the value meal: the formule or menu du jour gives two or three courses for a fraction of evening prices. Regional cooking is the point — cassoulet in the south-west, choucroute in [[strasbourg-alsace|Alsace]], socca and salade niçoise in [[nice-french-riviera|Nice]], galettes and cider in Brittany, canelés in [[bordeaux|Bordeaux]].",
+          "tip": "A carafe of house wine — 'un pichet' — is local, drinkable and a third of bottle prices. Bread is free and refilled; butter usually is not offered with it."
+        },
+        {
+          "title": "Spain — eat late, eat standing, eat at lunch",
+          "text": "Lunch runs 14:00–16:00 and dinner starts at 21:00 or later. The menú del día is the best-value meal in Europe: three courses with wine on weekdays. Tapas are a way of eating rather than a dish, and in [[san-sebastian-basque|San Sebastián]] they are pintxos, laid on the bar and paid for by the stick.",
+          "tip": "Standing at the bar is cheaper than a table and considerably more sociable. In pintxo bars, take a plate, help yourself and count your sticks at the end."
+        },
+        {
+          "title": "Italy — the region decides the dish",
+          "text": "There is no Italian food, only the food of twenty former countries. Carbonara, cacio e pepe and amatriciana belong to [[rome|Rome]]; pesto to Liguria and [[cinque-terre|the Cinque Terre]]; cotoletta and risotto to [[milan|Milan]]; orecchiette to [[puglia-matera|Puglia]]; pasta alla Norma to [[sicily|Sicily]]. Meals run antipasto, primo, secondo with side dishes ordered separately, then dolce.",
+          "tip": "A secondo does not come with vegetables unless you order contorni. Coffee standing at the bar costs about a euro; the same cup at a table costs four."
+        },
+        {
+          "title": "Turkey — breakfast is the great meal",
+          "text": "Kahvaltı is a spread of twenty small plates — cheeses, olives, tomato, honey with clotted cream, eggs, jams — that takes ninety minutes and is the best meal of the day. Kebap is not one dish but a dozen regional ones, meze precede dinner, and [[sanliurfa-gobekli-tepe|the southeast]] and Gaziantep are the country's culinary heartland.",
+          "tip": "Tea is constant, free-flowing and carries no obligation, including in shops. Rakı with meze and fish is an evening, not a drink."
+        },
+        {
+          "title": "United States — regional, and much older than it looks",
+          "text": "The interesting American food is regional: Creole and Cajun in [[new-orleans|New Orleans]], Lowcountry cooking in [[charleston|Charleston]], barbecue that changes wholesale every few hundred miles, Californian produce-led cooking, and the immigrant food of [[new-york-city|New York]] and [[chicago|Chicago]].",
+          "tip": "Tipping is 18–22% and is how servers are paid. Sales tax is added at the till, so the menu price is roughly 30% below what you will hand over."
+        }
+      ]
+    },
+    {
+      "id": "timings",
+      "title": "When meals actually happen",
+      "navLabel": "Mealtimes",
+      "body": [
+        "Turning up at the wrong hour is the most common way visitors end up eating badly, because the only places open at the wrong time are the ones aimed at visitors.",
+        "**France:** lunch 12:00–14:00, dinner 19:30–22:00. Many kitchens close firmly between services, and in smaller towns a restaurant that stops serving lunch at 13:45 means it.",
+        "**Spain:** lunch 14:00–16:00, dinner 21:00–23:30. A restaurant serving dinner at 19:00 is serving tourists. Bars serve tapas through the afternoon, which is what to do if you cannot wait.",
+        "**Italy:** lunch 12:30–14:30, dinner 19:30–22:30, with the south starting later than the north. Coffee and a pastry standing at the bar is breakfast; anything more is a hotel invention.",
+        "**Turkey:** breakfast is long and can run all morning, lunch is flexible, and dinner starts around 19:30 and continues. Meyhane evenings with meze and rakı begin about 21:00 and last for hours.",
+        "**United States:** everything earlier — lunch from 11:30, dinner from 17:30, and kitchens in smaller towns often close by 21:00. The one country on this list where booking dinner at 18:00 is normal rather than eccentric."
+      ],
+      "note": "In Spain and Italy, the emptiness of a restaurant at 19:00 is not a verdict on the food. Come back two hours later and look again."
+    },
+    {
+      "id": "rules",
+      "title": "The unwritten rules",
+      "navLabel": "Local rules",
+      "list": [
+        {
+          "title": "Coffee has a schedule",
+          "text": "Cappuccino in Italy is a morning drink; ordering one after a meal is not an offence but marks you clearly. In Spain, café con leche is breakfast and cortado is the afternoon version. In France, café means espresso."
+        },
+        {
+          "title": "The bill will not come unprompted",
+          "text": "In France, Spain and Italy, bringing the bill before you ask is considered a way of pushing you out. Ask — l'addition, la cuenta, il conto — and it will arrive at once."
+        },
+        {
+          "title": "Cover charges are normal",
+          "text": "Italy's coperto and Spain's occasional pan charge are per-person cover fees, legal and printed on the menu. They are not tips and they are not a scam — but if they are not printed anywhere, that is a warning about the restaurant."
+        },
+        {
+          "title": "Tipping varies enormously",
+          "text": "The United States expects 18–22% and staff are paid on that basis. France includes service by law and rounding up is enough. Spain and Italy expect little or nothing beyond leaving small change. Turkey sits around 10%."
+        },
+        {
+          "title": "Bread is not a starter",
+          "text": "In Italy and Spain, bread arrives to accompany the meal, not to be eaten with butter and oil beforehand. Oil and vinegar on the table are for salad. Nobody will comment, but it is not what it is for."
+        },
+        {
+          "title": "Share what is meant to be shared",
+          "text": "A bistecca alla fiorentina is a kilo of beef for two or three people. Turkish meze arrive for the table. Spanish tapas are ordered collectively. Ordering one each is expensive and usually wrong."
+        }
+      ]
+    },
+    {
+      "id": "one-dish",
+      "title": "One dish per destination",
+      "navLabel": "What to order",
+      "tone": "tint",
+      "body": [
+        "If you order only one thing in each of these places, make it this. **[[paris|Paris]]:** a steak frites or a properly made croque in a corner bistro. **[[bordeaux|Bordeaux]]:** canelés, and a glass of something from the left bank. **[[nice-french-riviera|Nice]]:** socca, straight from the copper pan on the market square.",
+        "**[[seville|Seville]]:** espinacas con garbanzos, standing at a bar. **[[san-sebastian-basque|San Sebastián]]:** a gilda and whatever is on the counter. **[[valencia|Valencia]]:** paella at lunch, by the rice fields, never at dinner. **[[granada|Granada]]:** whatever free tapa comes with the drink, which is a local institution.",
+        "**[[rome|Rome]]:** cacio e pepe, and a fried artichoke in spring. **[[naples-pompeii|Naples]]:** a margherita in a hundred-year-old pizzeria, folded in four. **[[florence-tuscany|Florence]]:** lampredotto from a street cart for four euros. **[[sicily|Sicily]]:** granita and brioche for breakfast, cannoli filled to order.",
+        "**[[istanbul]]:** a long kahvaltı breakfast, then balık ekmek by the water. **[[sanliurfa-gobekli-tepe|Şanlıurfa]]:** hand-kneaded çiğ köfte and Urfa kebabı. **[[trabzon-black-sea|Trabzon]]:** muhlama, eaten from the pan on a highland plateau.",
+        "**[[new-orleans|New Orleans]]:** gumbo, and beignets at some indefensible hour. **[[charleston|Charleston]]:** shrimp and grits. **[[chicago|Chicago]]:** an Italian beef, dipped. **[[maui]]:** poke from a supermarket counter, which is genuinely where the good stuff is."
+      ]
+    }
+  ],
+  "readNext": ["first-trip-to-europe", "underrated-destinations"]
+}

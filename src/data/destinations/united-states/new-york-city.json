@@ -1,0 +1,390 @@
+{
+  "slug": "new-york-city",
+  "name": "New York City",
+  "country": "united-states",
+  "region": "New York",
+  "categories": [
+    "major-city",
+    "cultural",
+    "coastal"
+  ],
+  "tagline": "Eight and a half million people on a set of islands, with the best museums in the Americas and a subway that runs all night.",
+  "highlight": "The Metropolitan Museum — two million works across 5,000 years, and you could go every day for a month.",
+  "shortDescription": "The densest, most walkable American city, where five distinct boroughs, a 24-hour subway and a century of immigration produce something no other city in the country resembles.",
+  "metaDescription": "A practical New York City travel guide: museums, neighbourhoods worth walking, where to eat, subway advice, which observation deck, when to go and a five-day itinerary.",
+  "suggestedStay": "5 days",
+  "nearestAirport": "JFK, LaGuardia (LGA) and Newark (EWR)",
+  "knownFor": "The Met, Central Park, the subway, pizza and bagels",
+  "budget": "$250–420 per day, mid-range",
+  "goodFor": "Museums, walking, food, first-time US visitors",
+  "coords": {
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  "image": {
+    "file": "File:Lower Manhattan from Brooklyn May 2015 panorama.jpg",
+    "alt": "The Lower Manhattan skyline and the East River seen from Brooklyn"
+  },
+  "intro": [
+    "New York is the least typically American of American cities, which is exactly why it works as a first visit. It is dense, vertical, walkable and served by a subway that runs 24 hours a day — none of which is true of most of the country. About 36% of its residents were born abroad, and around 200 languages are spoken here, which is the single fact that explains most of what the city feels like.",
+    "It is also, physically, five separate boroughs on a set of islands, and most visitors only see part of one. Manhattan alone is 21 kilometres long. Brooklyn has 2.7 million people and would be the fourth largest city in the country on its own. Queens is the most linguistically diverse place on earth. Treating New York as Midtown plus Times Square produces a bad trip; treating it as a collection of neighbourhoods produces a very good one.",
+    "The other thing to understand is that the famous sights are mostly not the best of it. Times Square is an advertising installation. The Statue of Liberty is better from the free Staten Island Ferry than from the queue. What New York actually offers is world-class museums, a food culture built by successive waves of immigration, and the pleasure of walking twenty blocks and passing through three completely different neighbourhoods."
+  ],
+  "whyVisit": {
+    "intro": "New York's case is density — of museums, of food, of things happening — combined with being the one large American city you can navigate entirely on foot and by train.",
+    "points": [
+      {
+        "title": "The museums are genuinely world-class",
+        "text": "The Metropolitan Museum holds two million objects across 5,000 years. MoMA has Starry Night, the Demoiselles and Water Lilies. The American Museum of Natural History, the Frick, the Whitney and the Guggenheim would each anchor a smaller city. No other city in the Americas comes close."
+      },
+      {
+        "title": "You do not need a car, ever",
+        "text": "The subway runs 24 hours a day, 365 days a year — almost unique among world metro systems — with 472 stations. Combined with walkability, it makes New York the easiest American city to visit without driving."
+      },
+      {
+        "title": "The food follows the immigration",
+        "text": "Jewish delis, Italian-American red sauce, Chinese in three regional varieties, Dominican, Greek, Georgian, West African, Korean. Queens alone has restaurants from perhaps sixty national cuisines, most of them cheap and most of them excellent."
+      },
+      {
+        "title": "Central Park is bigger than it looks",
+        "text": "341 hectares, entirely designed and built between 1858 and 1876 on what was swamp and rock. It is four kilometres long, has a reservoir, a rambling woodland, a lake and a castle, and locals use it constantly."
+      },
+      {
+        "title": "Neighbourhoods change every few blocks",
+        "text": "The West Village's crooked streets, the Lower East Side's tenements, Harlem's brownstones, Brooklyn's Brighton Beach with Cyrillic shop signs. Walking is how you see this and it is the best thing the city offers."
+      }
+    ]
+  },
+  "attractionsIntro": "Two of the big museums is plenty for a five-day trip. The rest should be neighbourhoods, parks and food.",
+  "attractions": [
+    {
+      "name": "The Metropolitan Museum of Art",
+      "text": "Two million works spanning 5,000 years, on Fifth Avenue at the edge of Central Park. The Egyptian wing includes a complete temple moved from Nubia; the European paintings and the American Wing are exceptional; the rooftop garden opens in summer.",
+      "tip": "Pick two or three departments. New York State residents pay what they wish; everyone else pays about $30, valid for the same day only."
+    },
+    {
+      "name": "Central Park",
+      "text": "341 hectares of entirely constructed landscape running four kilometres up the middle of Manhattan. The Ramble is genuine woodland, Bethesda Terrace is the formal heart, and the reservoir loop is 2.5 km with the skyline all around it.",
+      "tip": "Enter at 72nd Street and walk north. The park gets progressively quieter and more wooded above 90th Street."
+    },
+    {
+      "name": "The Brooklyn Bridge and DUMBO",
+      "text": "Completed in 1883 and the first steel-wire suspension bridge in the world. Walking it from the Brooklyn side towards Manhattan gives you the skyline ahead the whole way, and DUMBO beneath it has the famous view of the Manhattan Bridge framed between warehouses.",
+      "tip": "Walk from Brooklyn to Manhattan, not the reverse — the view is in front of you. Go early; by noon the walkway is crowded."
+    },
+    {
+      "name": "The 9/11 Memorial and Museum",
+      "text": "Two square voids on the footprints of the towers, with the names of the 2,983 dead inscribed around them and water falling into the centre. The museum below is unflinching and takes at least two hours.",
+      "tip": "The memorial pools are free and open late. The museum is emotionally heavy — do not schedule anything demanding after it."
+    },
+    {
+      "name": "The High Line and Chelsea",
+      "text": "A disused elevated freight railway turned into a 2.3 km linear park running through the West Side, planted with the self-seeded species that colonised the tracks. It passes through Chelsea's gallery district and ends at Hudson Yards.",
+      "tip": "Best early morning or at dusk. Enter at Gansevoort Street and walk north to avoid the busiest section."
+    },
+    {
+      "name": "Museum of Modern Art",
+      "text": "The most important collection of modern art anywhere: Van Gogh's Starry Night, Picasso's Les Demoiselles d'Avignon, Monet's Water Lilies triptych, and a strong photography and design collection.",
+      "tip": "Smaller and more manageable than the Met — three hours does it. Free Friday evenings, which are correspondingly packed."
+    },
+    {
+      "name": "The Staten Island Ferry",
+      "text": "A free, 25-minute commuter ferry that passes directly by the Statue of Liberty in both directions. It runs 24 hours a day and costs nothing, which makes it the best-value thing in New York.",
+      "tip": "Stand on the right side leaving Manhattan. You must disembark and re-board at Staten Island, which takes five minutes."
+    },
+    {
+      "name": "An observation deck",
+      "text": "Three main options: the Empire State Building for the classic Art Deco experience, Top of the Rock for the view that includes the Empire State, and Edge or Summit at Hudson Yards for the modern glass-floor spectacle.",
+      "tip": "Top of the Rock is the best photograph because the Empire State is in it. Sunset slots sell out weeks ahead at all three."
+    }
+  ],
+  "thingsToDoIntro": "The best days in New York involve one fixed thing and a lot of walking between neighbourhoods.",
+  "thingsToDo": [
+    {
+      "title": "Walk a neighbourhood end to end",
+      "text": "The West Village's pre-grid streets, the Lower East Side's tenement blocks, Harlem's brownstones along 125th Street, Williamsburg across the river. Twenty blocks on foot shows you more than any bus tour.",
+      "tip": "Manhattan blocks run about 80 m north–south and 270 m east–west. Twenty north–south blocks is about a mile."
+    },
+    {
+      "title": "Eat a slice standing up",
+      "text": "New York pizza is sold by the slice at counters for a few dollars, folded lengthwise and eaten while walking. It is a genuine institution and the neighbourhood counters are far better than anything near a tourist site.",
+      "tip": "A good slice has a crust you can fold without it cracking. Avoid anywhere with a photograph of pizza in the window."
+    },
+    {
+      "title": "See something live",
+      "text": "Broadway and off-Broadway theatre, jazz at the Village Vanguard or Smalls, comedy in the Village, opera at the Met. The city has more live performance in a night than most countries manage in a week.",
+      "tip": "TKTS booths sell same-day Broadway tickets at 20–50% off. Off-Broadway is cheaper and frequently better."
+    },
+    {
+      "title": "Take the subway to the end of a line",
+      "text": "Brighton Beach for the Russian-speaking boardwalk, Flushing for the best Chinese food in the country, Coney Island for the beach and the 1927 wooden roller coaster. All are 45 minutes and $3 from Midtown.",
+      "tip": "Flushing's Golden Shopping Mall food court is a serious destination and costs almost nothing."
+    },
+    {
+      "title": "Go to a game",
+      "text": "Yankees or Mets baseball from April to September, Knicks or Nets basketball in winter, Rangers ice hockey. Baseball tickets often start under $30 and the pace suits a first-timer.",
+      "tip": "Yankee Stadium is 25 minutes from Midtown on the 4 train. Go for a weekday evening game."
+    },
+    {
+      "title": "Cross the water at sunset",
+      "text": "The free Staten Island Ferry, the NYC Ferry to DUMBO or Williamsburg, or simply the Brooklyn Bridge on foot. New York is an archipelago and its best views are from the water.",
+      "tip": "The NYC Ferry costs the same as a subway ride and the East River route is the most scenic public transport in the city."
+    }
+  ],
+  "foodIntro": "New York food is immigrant food, layered over 150 years. The city's signature dishes are all somebody's home cooking, adapted and then adopted by everyone.",
+  "foods": [
+    {
+      "name": "The slice",
+      "text": "Wide, thin, foldable pizza sold by the slice from counters across the city. Brought by Neapolitan immigrants and reshaped entirely — the New York style is its own thing now, and the by-the-slice format is the point.",
+      "whereToTry": "Neighbourhood counters in any borough, not the tourist strips. A plain cheese slice is the benchmark."
+    },
+    {
+      "name": "Bagels and lox",
+      "text": "Boiled then baked, dense and chewy, split and filled with cream cheese and cured salmon, capers and red onion. An Eastern European Jewish import that became the New York breakfast.",
+      "whereToTry": "Appetising shops on the Upper West Side and the Lower East Side. They should be made the same morning."
+    },
+    {
+      "name": "Pastrami on rye",
+      "text": "Beef navel cured, smoked, steamed for hours and hand-cut thick, piled on rye with mustard. A Romanian Jewish dish that arrived in the 1880s. The classic delis serve portions that genuinely feed two.",
+      "whereToTry": "The surviving Lower East Side and Midtown delicatessens. Order it hand-cut if the option exists."
+    },
+    {
+      "name": "Chinese food, by region",
+      "text": "Manhattan's Chinatown is largely Cantonese and Fujianese; Flushing in Queens has Sichuan, Xi'an, Dongbei and Shanghainese; Sunset Park in Brooklyn is the newest and largest. These are different cuisines, not variations.",
+      "whereToTry": "Flushing's food courts for the best and cheapest. Xi'an hand-pulled noodles are a good entry point."
+    },
+    {
+      "name": "The halal cart",
+      "text": "Chicken or lamb over rice with white sauce and hot sauce, sold from street carts for around $10. Created by Egyptian and Afghan vendors in the 1990s and now one of the city's defining cheap meals.",
+      "whereToTry": "Carts throughout Midtown and Downtown, busiest at lunch and after midnight."
+    },
+    {
+      "name": "Cheesecake and the black-and-white cookie",
+      "text": "New York cheesecake is dense, baked and made with cream cheese rather than curd. The black-and-white is a large soft cake-like cookie iced half vanilla, half chocolate.",
+      "whereToTry": "Old delis and Jewish bakeries throughout the city."
+    }
+  ],
+  "accommodation": {
+    "intro": "New York hotel rooms are small and expensive by any standard. The trade-off is location, and staying outside Midtown usually buys more space and a better neighbourhood for less.",
+    "areas": [
+      {
+        "name": "Midtown",
+        "bestFor": "Convenience and first-time visitors",
+        "text": "Central, on every subway line, walking distance to the Empire State, MoMA and Broadway. Also the least characterful part of the city and dead in the evenings once the offices empty."
+      },
+      {
+        "name": "Greenwich Village and Chelsea",
+        "bestFor": "The best all-round base",
+        "text": "Lower-rise, pre-grid streets, excellent restaurants and bars, the High Line and good subway access. More expensive per square foot than Midtown but a far better place to come back to."
+      },
+      {
+        "name": "The Lower East Side",
+        "bestFor": "Nightlife, food, value",
+        "text": "Tenement blocks turned into one of the city's densest bar and restaurant districts. Cheaper than the Village and lively late. Slightly further from the museums."
+      },
+      {
+        "name": "Brooklyn — Williamsburg or DUMBO",
+        "bestFor": "Space, views, lower prices",
+        "text": "Larger rooms, the best skyline views, strong food scenes, and 15–25 minutes to Manhattan by subway or ferry. Williamsburg for nightlife, DUMBO for the waterfront."
+      },
+      {
+        "name": "Upper West Side",
+        "bestFor": "Quiet, families, museums",
+        "text": "Residential brownstones beside Central Park, with the Natural History Museum and easy access to the Met. Calm in the evenings and better value than downtown."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "$60–110 per night"
+      },
+      {
+        "label": "Mid-range hotel",
+        "value": "$220–380 per night, plus tax and often a facility fee"
+      },
+      {
+        "label": "Museum entry",
+        "value": "$25–30 each; several are pay-what-you-wish for NY residents only"
+      },
+      {
+        "label": "Subway",
+        "value": "$2.90 per ride, capped weekly with contactless OMNY"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Three major airports serve the city and all three have public transport links. The Northeast rail corridor is genuinely competitive with flying to Washington and Boston.",
+    "options": [
+      {
+        "mode": "JFK Airport",
+        "text": "The main international gateway, in southeast Queens. The AirTrain connects to the subway and the Long Island Rail Road; total journey to Midtown is about an hour for around $11.",
+        "detail": "Taxis run a flat fare to Manhattan plus tolls and tip. Ride-hailing is often more expensive at peak times."
+      },
+      {
+        "mode": "Newark (EWR) and LaGuardia (LGA)",
+        "text": "Newark is in New Jersey with an AirTrain to a direct train into Penn Station, about 45 minutes. LaGuardia is closest to Manhattan but has no rail link — bus or taxi only.",
+        "detail": "LaGuardia handles domestic flights only. Newark often has cheaper transatlantic fares than JFK."
+      },
+      {
+        "mode": "Amtrak from Washington and Boston",
+        "text": "Under three hours to [[washington-dc|Washington]] and about four to Boston, arriving at Penn Station in the middle of Manhattan. The one American rail corridor that genuinely beats flying.",
+        "detail": "Acela is faster and considerably more expensive; the regular Northeast Regional is usually better value."
+      },
+      {
+        "mode": "Buses",
+        "text": "Frequent and cheap intercity coaches to Washington, Boston and Philadelphia from Port Authority and various kerbside stops.",
+        "detail": "Half the price of the train and roughly twice the journey time, with traffic risk on both ends."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk and take the subway. New York is one of very few American cities where a car is an active disadvantage.",
+    "options": [
+      {
+        "mode": "The subway",
+        "text": "472 stations on 28 lines, running 24 hours a day, every day. Flat fare per ride regardless of distance, paid by tapping a contactless card or phone at the turnstile.",
+        "detail": "Tap the same card all week and the fare caps automatically after twelve rides. Check whether your train is local or express — express trains skip most stops."
+      },
+      {
+        "mode": "Walking",
+        "text": "Manhattan's grid above 14th Street makes navigation trivial: numbered streets run east–west, avenues north–south. Twenty north–south blocks is about a mile, or 20 minutes.",
+        "detail": "Below 14th Street the grid breaks down into older, crooked streets — which is why the West Village is worth walking."
+      },
+      {
+        "mode": "NYC Ferry",
+        "text": "Routes along the East River and to Rockaway, at roughly the same price as a subway ride, with far better views. The best-value sightseeing in the city.",
+        "detail": "The Staten Island Ferry is entirely free and passes the Statue of Liberty."
+      },
+      {
+        "mode": "Citi Bike",
+        "text": "A large bike-share network with protected lanes along both rivers and through Central Park. Good for the waterfront greenways, less good in Midtown traffic.",
+        "detail": "Day passes are available in the app. The Hudson River Greenway runs the length of Manhattan's west side."
+      },
+      {
+        "mode": "Taxis and ride-hailing",
+        "text": "Yellow cabs are hailed on the street and metered; ride-hailing apps work everywhere. Both are slower than the subway in Manhattan traffic at almost any hour.",
+        "detail": "A congestion charge applies to vehicles entering Manhattan below 60th Street. Budget for it or take the train."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–November",
+    "summary": "New York has genuine four-season weather with hot, humid summers and cold winters. The shoulder seasons are excellent, and the city works in all of them because so much of it is indoors.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The city at its best. Central Park comes into leaf, outdoor dining returns, and temperatures run 15–26°C. May and early June are ideal; the humidity has not yet arrived."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot and very humid at 28–33°C, with the subway platforms notably worse than the streets. The compensation is free outdoor events, rooftop bars, the beaches at Rockaway and Coney Island, and slightly lower hotel rates as business travel drops."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The strongest season: clear, crisp, 12–24°C, with autumn colour in the parks through late October. September and October are peak for both weather and events, and hotel prices reflect it."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Cold at −3 to 7°C with occasional heavy snow. December is festive and expensive; January and February are the cheapest months of the year and the museums are blissfully quiet."
+      }
+    ],
+    "avoid": "The week between Christmas and New Year, when Midtown becomes genuinely impassable and hotel rates peak. Late January and February are the same city at half the price."
+  },
+  "itinerary": {
+    "title": "Five days in New York",
+    "intro": "One major thing each morning and a neighbourhood each afternoon. Deliberately spreads across three boroughs, because staying in Manhattan is how people miss the city.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Downtown and the harbour",
+        "summary": "Start at the bottom of the island and work up.",
+        "morning": "The 9/11 Memorial pools, then the free Staten Island Ferry out and back past the Statue of Liberty.",
+        "afternoon": "Walk north through the Financial District into SoHo and the West Village's crooked streets.",
+        "evening": "Dinner in the Village, then jazz at a Village club."
+      },
+      {
+        "day": 2,
+        "title": "The Met and Central Park",
+        "summary": "One great museum, then the park it sits in.",
+        "morning": "The Metropolitan Museum — three departments, three hours, no more.",
+        "afternoon": "Into Central Park at 79th Street: the Ramble, Bethesda Terrace and north towards the reservoir.",
+        "evening": "Upper West Side for dinner, or a Broadway show with same-day TKTS tickets."
+      },
+      {
+        "day": 3,
+        "title": "Brooklyn",
+        "summary": "Cross the river and stay there all day.",
+        "morning": "Walk the Brooklyn Bridge from the Brooklyn side, then DUMBO and Brooklyn Bridge Park.",
+        "afternoon": "Williamsburg, or Prospect Park and the Brooklyn Museum.",
+        "evening": "Dinner in Williamsburg and the ferry back at dusk with the skyline lit."
+      },
+      {
+        "day": 4,
+        "title": "Midtown and modern art",
+        "summary": "The vertical city, done deliberately rather than by accident.",
+        "morning": "MoMA at opening — three hours is enough.",
+        "afternoon": "The High Line north through Chelsea, then Top of the Rock for the view with the Empire State in it.",
+        "evening": "Koreatown for dinner, then a rooftop bar."
+      },
+      {
+        "day": 5,
+        "title": "Queens or Harlem",
+        "summary": "The New York most visitors never reach.",
+        "morning": "The 7 train to Flushing for the best Chinese food in the country, or the subway to Harlem.",
+        "afternoon": "Harlem's brownstones and the Studio Museum, or the Cloisters at the top of Manhattan.",
+        "evening": "A last slice, and a walk somewhere with a view of the water."
+      }
+    ]
+  },
+  "tipsIntro": "New York specifics, several of which save real money.",
+  "tips": [
+    "Pay for the subway by tapping a contactless card or phone directly at the turnstile. Use the same card all week and the fare caps automatically after twelve rides — there is no need to buy a pass.",
+    "Check whether your train is local or express before boarding. Express trains skip most stops and can carry you 40 blocks past where you meant to go.",
+    "The Metropolitan Museum's pay-what-you-wish policy applies only to New York State residents and students from three neighbouring states. Everyone else pays about $30, valid for that day only.",
+    "The Staten Island Ferry is free, runs 24 hours and passes the Statue of Liberty. It is a better view than the paid Liberty Island tour and costs nothing.",
+    "Sales tax of nearly 9% is added at the till and hotel taxes and facility fees are added at checkout. Budget 15–20% above advertised prices.",
+    "Tip 18–22% at sit-down restaurants and $1–2 per drink at bars. Many bills now print suggested tip amounts, which are frequently calculated on the post-tax total.",
+    "Skip Times Square except for five minutes at night to see it. It is an advertising installation and the restaurants around it are the worst value in the city.",
+    "Manhattan below 60th Street now has a congestion charge for vehicles. It is another reason the subway is the right answer for essentially every journey."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in New York?",
+      "a": "Five is right for a first visit — enough for two major museums, three or four neighbourhoods, a trip to Brooklyn and one outer-borough excursion, without spending the whole time in Midtown. Three days covers the headline sights and misses the neighbourhoods, which is where the city actually is. A week is not too long."
+    },
+    {
+      "q": "Which observation deck is best?",
+      "a": "Top of the Rock at Rockefeller Center, because the view includes the Empire State Building and Central Park — the Empire State's own view does not include itself. Edge and Summit at Hudson Yards are the modern glass-floor spectacle. All three sell out for sunset slots weeks ahead, so book early or accept a daytime slot."
+    },
+    {
+      "q": "Is the New York subway safe?",
+      "a": "Yes, in ordinary use. It runs 24 hours a day and is used by millions daily. Standard city precautions apply — stay aware late at night, ride in a busier carriage in the small hours, and keep your phone in your pocket rather than in your hand near closing doors. It is by a wide margin the fastest way around the city."
+    },
+    {
+      "q": "Do I need a car in New York?",
+      "a": "No, and one would be an active disadvantage. Parking runs $40–60 a night, Manhattan below 60th Street now charges a congestion fee, and traffic is slower than the subway at almost any hour. New York is one of very few American cities where you can do everything on foot and by train."
+    },
+    {
+      "q": "When is the cheapest time to visit New York?",
+      "a": "Late January through February. The weather is cold, but hotel rates are at their annual low, the museums are quiet, and the city functions completely normally — most of what you came for is indoors anyway. The most expensive periods are September to early December and the week between Christmas and New Year."
+    },
+    {
+      "q": "Is Times Square worth visiting?",
+      "a": "For about five minutes, at night, to see the scale of the advertising. It is not a neighbourhood and it has no history beyond the screens; the restaurants around it are the worst value in New York. The theatres nearby are genuinely worth it — the square itself is not somewhere to spend time."
+    },
+    {
+      "q": "How much should I budget per day in New York?",
+      "a": "About $250–420 per person per day at mid-range — that is a $220–380 hotel room plus food, transport and one or two paid attractions. Add roughly 15–20% on top of advertised prices for sales tax, hotel fees and tipping. Costs come down substantially with a Brooklyn or Queens base, subway travel and eating at counters rather than sitting down."
+    }
+  ],
+  "related": ["washington-dc", "chicago", "charleston", "paris"],
+  "relatedArticles": [
+    "us-national-parks-road-trip",
+    "packing-by-season",
+    "underrated-destinations"
+  ]
+}

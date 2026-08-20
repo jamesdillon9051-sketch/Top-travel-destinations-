@@ -1,0 +1,367 @@
+{
+  "slug": "dolomites",
+  "name": "The Dolomites",
+  "country": "italy",
+  "region": "Trentino-Alto Adige and Veneto",
+  "categories": ["mountains", "unesco", "nature", "scenic"],
+  "tagline": "Pale limestone towers rising straight out of green pasture, in a corner of Italy where most people speak German and lunch is dumplings.",
+  "highlight": "The Tre Cime di Lavaredo — three vertical rock towers with a ten-kilometre loop path around their base.",
+  "shortDescription": "A UNESCO-listed range of nine mountain systems, with cable cars to 2,500 metres, mountain huts serving lunch, and a First World War front line still visible in the rock.",
+  "metaDescription": "A Dolomites travel guide: Tre Cime, Alpe di Siusi, Lago di Braies and Seceda, rifugi and via ferrata, the season that actually works, and a five-day itinerary.",
+  "suggestedStay": "5–6 days",
+  "nearestAirport": "Venice (VCE), Verona (VRN) or Innsbruck (INN)",
+  "knownFor": "Tre Cime, cable cars, rifugi, via ferrata, skiing",
+  "budget": "€130–220 per day, mid-range",
+  "goodFor": "Hiking, mountain scenery, skiing, families, summer escapes",
+  "coords": { "lat": 46.4102, "lng": 11.844 },
+  "image": {
+    "file": "File:Drei Zinnen Tre Cime di Lavaredo Dolomites.jpg",
+    "alt": "The three vertical rock towers of the Tre Cime di Lavaredo rising above alpine scree"
+  },
+  "intro": [
+    "The Dolomites do not look like other mountains. They are made of a pale carbonate rock that erodes into vertical towers, blades and walls rather than pyramids, so they rise abruptly out of soft green pasture with almost no transition — meadow, then a 600-metre cliff. At sunset the rock turns pink and then a deep orange, a phenomenon the locals call the enrosadira and which is genuinely worth planning an evening around. UNESCO listed nine separate mountain systems here in 2009, specifically for that landscape.",
+    "They are also unusually easy mountains to be in. A dense network of cable cars and chairlifts, built for skiing, runs through the summer and will put you at 2,000 or 2,500 metres in fifteen minutes; from there the walking is along contours rather than up them. Scattered across the high ground are several hundred rifugi — mountain huts that serve full lunches on sun terraces and offer beds for the night, which makes multi-day hut-to-hut walking possible with a daypack.",
+    "The last thing to know is that this is culturally not the Italy of the rest of this guide. South Tyrol was Austrian until 1919, and roughly two-thirds of its population still speaks German as a first language; in a handful of valleys the first language is Ladin, a Romance language older than either. Every place has two or three names — Val Gardena is Gröden, Alpe di Siusi is Seiser Alm, Tre Cime is Drei Zinnen — and the food is dumplings, speck and strudel rather than pasta and tomatoes. Cortina, on the Venetian side, hosted events at the 2026 Winter Olympics and is the one properly Italian-feeling resort in the range."
+  ],
+  "whyVisit": {
+    "intro": "This is the most accessible spectacular mountain landscape in Europe, and the one where you can walk all day and still eat a three-course lunch at 2,200 metres.",
+    "points": [
+      {
+        "title": "The rock formations are unique",
+        "text": "Vertical dolomite towers rising straight from meadow, with no foothills to soften the transition. The Tre Cime, the Sassolungo and the tilted blade of Seceda look engineered rather than eroded."
+      },
+      {
+        "title": "Lifts do the climbing for you",
+        "text": "The ski infrastructure runs all summer, so a cable car takes you to 2,000–2,500 metres and the walking from there is along the contours. It puts serious high-mountain scenery within reach of ordinary fitness."
+      },
+      {
+        "title": "The rifugio system is a joy",
+        "text": "Hundreds of mountain huts serving proper lunches on terraces facing the peaks, many with beds. You can walk hut to hut for a week carrying almost nothing."
+      },
+      {
+        "title": "A First World War front line in the rock",
+        "text": "The Austro-Italian front ran through these mountains from 1915 to 1917. Tunnels, trenches and gun positions survive — at Lagazuoi you walk down through a tunnel the Italians dug into the mountain."
+      },
+      {
+        "title": "It is cool when Italy is unbearable",
+        "text": "In July and August, when Rome and the south are above 35°C, the high valleys sit in the low twenties and the passes are cooler still. This is the one part of Italy at its best in high summer."
+      }
+    ]
+  },
+  "attractionsIntro": "The range is roughly 100 km across and split between several valleys that do not connect quickly. Choose one or two bases rather than trying to see all of it.",
+  "attractions": [
+    {
+      "name": "Tre Cime di Lavaredo",
+      "text": "Three near-vertical towers standing alone above a scree basin, with a ten-kilometre loop path around their base past two rifugi and the north faces that climbers have been failing on since the 1930s.",
+      "tip": "A toll road climbs to Rifugio Auronzo, where the loop starts. Walk it anticlockwise, and arrive early — the car park fills by nine in August."
+    },
+    {
+      "name": "Alpe di Siusi",
+      "text": "The largest high-alpine meadow in Europe, a rolling 56 square kilometres of pasture at around 1,800 metres with the Sassolungo and Sciliar rising from it and hay barns scattered across it.",
+      "tip": "Daytime car access is restricted; use the cable car from Siusi. Easy, level walking with disproportionate views — ideal for a first day."
+    },
+    {
+      "name": "Lago di Braies",
+      "text": "A deep green lake under a wall of rock at the head of a valley, with a wooden boathouse and rowing boats. The most photographed spot in the range, and correspondingly difficult in high season.",
+      "tip": "Summer access is controlled, with a booking system for cars and shuttle buses instead. Check the current rules, and go at dawn."
+    },
+    {
+      "name": "Seceda and Val Gardena",
+      "text": "A cable car from Ortisei lifts you to the tilted grass ridge of Seceda, which falls away in a single dramatic blade towards the Odle peaks. The valley below is the Ladin heartland and a major ski area.",
+      "tip": "The classic view is a ten-minute walk from the top station. Go up for the last lift and stay for the enrosadira."
+    },
+    {
+      "name": "Val di Funes",
+      "text": "The valley behind the Odle, with the small church of Santa Maddalena set in meadow against a wall of spires — the image that sells the Dolomites — and quiet walking above it.",
+      "tip": "The famous viewpoints are on private farmland with parking fees and time limits. Respect them; the walk up beyond is better anyway."
+    },
+    {
+      "name": "Cortina d'Ampezzo and the Cinque Torri",
+      "text": "The Italian-speaking resort on the Veneto side, an Olympic host in 1956 and again in 2026, with the five rock towers of the Cinque Torri above it and open-air First World War positions restored around them.",
+      "tip": "The Cinque Torri chairlift and its trench museum make an excellent half day, with a rifugio lunch in the middle."
+    },
+    {
+      "name": "Lagazuoi",
+      "text": "A cable car from the Falzarego pass to 2,750 metres, with a rifugio on the summit and, below it, a tunnel the Italian army dug through the mountain in 1917 that you can descend on foot with a helmet and a head torch.",
+      "tip": "The best sunset terrace in the Dolomites. Staying the night at the summit rifugio is worth arranging."
+    },
+    {
+      "name": "The Sella passes",
+      "text": "The Great Dolomites Road and the four passes around the Sella massif — Pordoi, Sella, Gardena and Campolongo — a circuit of hairpins, viewpoints and cable cars that is also a famous cycling loop.",
+      "tip": "Drive it early or late; coaches and motorbikes fill it by mid-morning. The Pordoi cable car reaches 2,950 m in one span."
+    }
+  ],
+  "thingsToDoIntro": "Mix lift-assisted high walking with one longer day and one hut night. That is the shape of a good Dolomites week.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Tre Cime loop",
+      "text": "Ten kilometres around the base of the three towers, mostly level, past rifugi and old gun positions, with the north faces above you for half of it. Three to four hours at an easy pace.",
+      "tip": "Anticlockwise puts the best view of the faces ahead of you rather than behind. Start before nine in summer."
+    },
+    {
+      "title": "Sleep in a rifugio",
+      "text": "A night at 2,000–2,700 metres with half board, shared tables and a sunset over the peaks, then the mountains to yourself before the first cable car brings anyone up.",
+      "tip": "Book months ahead for July and August. Take a sleeping-bag liner, cash and earplugs for the dormitories."
+    },
+    {
+      "title": "Try a via ferrata",
+      "text": "Protected climbing routes with fixed steel cables, ladders and bridges, many descended from wartime supply lines. Easier routes need no climbing experience, just a harness, lanyard and helmet.",
+      "tip": "Hire the kit locally and take a guide the first time. Grade and exposure vary enormously between routes."
+    },
+    {
+      "title": "Ride the cable cars",
+      "text": "Seceda, Lagazuoi, Sass Pordoi and Alpe di Siusi all put you above 2,000 metres in minutes. A summer lift pass makes it cheap to combine several in a day.",
+      "tip": "First and last lifts have the best light and the fewest people. Check closing times — being stranded on top is a long walk down."
+    },
+    {
+      "title": "Have lunch at 2,200 metres",
+      "text": "Rifugio terraces serve barley soup, canederli, goulash and strudel with a view that would cost a fortune anywhere else. This is not a snack stop; it is a proper meal.",
+      "tip": "Most stop serving hot food around 15:00 and many take cash only. Arrive before two."
+    },
+    {
+      "title": "Ski, if it is winter",
+      "text": "Twelve linked areas under one pass, the Sellaronda circuit of four passes on skis in a day, and the wartime Great War ski tour — the largest connected ski network in the world.",
+      "tip": "December to early April. The Sellaronda takes a full day and is best skied clockwise if you want the easier grades."
+    }
+  ],
+  "foodIntro": "South Tyrolean and Ladin cooking is Austrian at heart — dumplings, cured pork, rye bread, butter and strudel — with Italian technique and Italian coffee grafted on.",
+  "foods": [
+    {
+      "name": "Canederli",
+      "text": "Bread dumplings the size of a fist, bound with egg and milk and studded with speck, cheese or spinach, served either in clear broth or dry with melted butter and chives.",
+      "whereToTry": "Every rifugio and valley inn. Two in broth is a light lunch; three dry is not."
+    },
+    {
+      "name": "Speck and the Marende platter",
+      "text": "South Tyrolean speck is lightly smoked, juniper-cured ham matured for months. The Marende is the afternoon board it comes on: speck, mountain cheese, pickles, horseradish and dense rye Schüttelbrot.",
+      "whereToTry": "Farm inns and rifugi in the afternoon, with a glass of Vernatsch or a beer."
+    },
+    {
+      "name": "Schlutzkrapfen and casunziei",
+      "text": "Two local filled pastas: Tyrolean schlutzkrapfen, half-moons of spinach and ricotta in butter and Parmesan; and Cortina's casunziei, beetroot-filled and bright pink, with poppy seeds and browned butter.",
+      "whereToTry": "Schlutzkrapfen throughout South Tyrol; casunziei specifically around Cortina and the Ampezzo valley."
+    },
+    {
+      "name": "Polenta with mushrooms or cheese",
+      "text": "Coarse yellow polenta, either soft with porcini and game or set and fried, served with melted local cheese. The everyday mountain staple on the Veneto side of the range.",
+      "whereToTry": "Rifugi and valley restaurants, especially in September and October when the mushrooms are in."
+    },
+    {
+      "name": "Apfelstrudel and kaiserschmarrn",
+      "text": "Apple strudel in thin pastry with a jug of vanilla sauce, and kaiserschmarrn — a thick pancake torn into pieces, caramelised and served with stewed plums or apple sauce, usually as a whole meal.",
+      "whereToTry": "Rifugio terraces in the afternoon. Kaiserschmarrn is enormous; order one between two."
+    },
+    {
+      "name": "Alto Adige wines",
+      "text": "A small region making unusually good wine: crisp whites from Gewürztraminer, Pinot Bianco and Kerner on high slopes, and dark, savoury Lagrein reds from the valley floor around Bolzano.",
+      "whereToTry": "Wine cellars along the Strada del Vino south of Bolzano, and by the glass everywhere in the valleys."
+    }
+  ],
+  "accommodation": {
+    "intro": "Valleys here connect slowly, so pick one or two bases and accept that the far side of the range is a separate trip. Half board is the local norm and usually good value.",
+    "areas": [
+      {
+        "name": "Val Gardena",
+        "bestFor": "First visits and lift access",
+        "text": "Ortisei, Santa Cristina and Selva, with cable cars to Seceda and Alpe di Siusi from the valley floor, the Sella passes above and a Ladin culture of its own. Busy and very well organised."
+      },
+      {
+        "name": "Alta Badia",
+        "bestFor": "Walking and food",
+        "text": "Corvara, San Cassiano and Badia, at the centre of the Sella circuit, with excellent restaurants — including some serious ones — and quick access to the passes in every direction."
+      },
+      {
+        "name": "Cortina d'Ampezzo",
+        "bestFor": "The Veneto side and the Olympic legacy",
+        "text": "Italian-speaking, smarter and pricier, with the Cinque Torri, Lagazuoi and the Tre Cime approach within reach. Improved road and venue infrastructure after the 2026 Games."
+      },
+      {
+        "name": "Val Pusteria and Val di Funes",
+        "bestFor": "Quiet and the classic views",
+        "text": "The northern valleys towards Braies and Dobbiaco, and the Funes valley behind the Odle. Farm guesthouses, working meadows and the best of the postcard scenery."
+      },
+      {
+        "name": "Rifugi",
+        "bestFor": "Waking up above everything",
+        "text": "Mountain huts with dormitories and small private rooms, half board included, at 2,000 to 2,700 metres. Book months ahead for the summer and bring a liner and cash."
+      }
+    ],
+    "budget": [
+      { "label": "Valley hotel, half board", "value": "€110–200 per person per night" },
+      { "label": "Rifugio, half board", "value": "€60–100 per person, dormitory or small room" },
+      { "label": "Return cable car", "value": "€25–45 per lift, with multi-day summer passes better value" },
+      { "label": "Tre Cime toll road", "value": "Around €30 per car" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "There is no airport in the mountains and no railway into the high valleys, so every arrival ends with a drive or a bus.",
+    "options": [
+      {
+        "mode": "Venice Marco Polo (VCE)",
+        "text": "The most common gateway, about two to two and a half hours by road to Cortina or the Val Gardena, with shuttle services in season.",
+        "detail": "Pairs naturally with a few days in [[venice|Venice]] at either end of a mountain week."
+      },
+      {
+        "mode": "Verona (VRN) or Innsbruck (INN)",
+        "text": "Verona is around two hours to the western valleys; Innsbruck, over the Brenner in Austria, is about ninety minutes to the Val Pusteria and often cheaper to reach.",
+        "detail": "Innsbruck is the shortest transfer for the northern valleys and is frequently overlooked."
+      },
+      {
+        "mode": "By train and bus",
+        "text": "Trains reach Bolzano, Bressanone and Fortezza on the Brenner line, and Calalzo on the Veneto side, with regional buses continuing into the valleys.",
+        "detail": "Feasible and slow. Bolzano to Ortisei takes about an hour by bus; the Tre Cime need a further connection."
+      },
+      {
+        "mode": "By car",
+        "text": "The practical choice for most people, giving access to the passes, trailheads and viewpoints that buses reach infrequently or not at all.",
+        "detail": "Passes close in winter and in bad weather. Winter tyres or chains are a legal requirement in the cold months."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car plus the lift network covers everything. The regional buses are genuinely good, which is rare in Italian mountains.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible option, and necessary for early starts at the Tre Cime and the passes. Roads are excellent and the hairpins are well engineered.",
+        "detail": "Trailhead car parks fill by nine in August. Several — Braies especially — now restrict or charge for access."
+      },
+      {
+        "mode": "Cable cars and chairlifts",
+        "text": "The ski lifts run through the summer, from roughly late June to late September, and are the reason high walking here is so accessible.",
+        "detail": "Multi-day summer passes cover whole valleys. Check first and last departures before committing to a route."
+      },
+      {
+        "mode": "Regional buses",
+        "text": "South Tyrol's bus network is frequent, punctual and integrated, connecting valleys, trailheads and the passes. Many hotels issue a guest card covering it free.",
+        "detail": "Ask about the guest pass at check-in — it often includes buses, trains and some lifts."
+      },
+      {
+        "mode": "Walking",
+        "text": "Trails are numbered, signposted and maintained to a high standard, with times rather than distances given on the signs.",
+        "detail": "Signposted times assume steady mountain walking. Add a third if you stop for photographs, which you will."
+      },
+      {
+        "mode": "Cycling",
+        "text": "The passes are famous road-cycling climbs and there is an extensive network of valley cycle paths, plus e-bike hire almost everywhere.",
+        "detail": "Some passes close to cars for a day each summer for mass cycling events — worth checking or avoiding."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Late June–September for walking, December–early April for skiing",
+    "summary": "The Dolomites have two seasons and two dead periods between them. Arriving in the dead periods is the single most common mistake, because lifts stop and much of the accommodation closes.",
+    "seasons": [
+      {
+        "season": "Summer (late June–early September)",
+        "rating": "best",
+        "text": "Lifts running, rifugi open, meadows in flower and temperatures in the low twenties while the rest of Italy bakes. Busiest in August, when Italians and Germans arrive together."
+      },
+      {
+        "season": "Autumn (mid-September–mid-October)",
+        "rating": "best",
+        "text": "The quietest good weather of the year: larches turning gold, clear air, fewer people and most lifts still running into early October. Nights get cold and huts start closing."
+      },
+      {
+        "season": "Winter (December–early April)",
+        "rating": "good",
+        "text": "The largest linked ski area in the world, with the Sellaronda circuit and reliable snow cover at altitude. A completely different trip, and a very good one."
+      },
+      {
+        "season": "Shoulder (mid-October–November, mid-April–mid-June)",
+        "rating": "avoid",
+        "text": "The in-between seasons. Lifts shut, rifugi close, high passes may be snowed in and many hotels take their annual break. Valleys are open but the mountains largely are not."
+      }
+    ],
+    "avoid": "Late October to early December and mid-April to mid-June. This is not a quiet-season bargain — it is a closed season, and the cable cars that make the range accessible are not running."
+  },
+  "itinerary": {
+    "title": "Five days in the Dolomites",
+    "intro": "Two bases: three nights in the Val Gardena or Alta Badia, two towards Cortina and the northern valleys, with a car throughout and one night in a rifugio.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Alpe di Siusi",
+        "summary": "An easy first day at altitude.",
+        "morning": "Cable car up from Siusi onto the meadow.",
+        "afternoon": "Level walking across the Alpe with the Sassolungo ahead, lunch at a hut.",
+        "evening": "Ortisei, and the enrosadira on the peaks above the valley."
+      },
+      {
+        "day": 2,
+        "title": "Seceda and the Odle",
+        "summary": "The most dramatic ridge in the range.",
+        "morning": "Lifts from Ortisei to Seceda and the walk out along the ridge.",
+        "afternoon": "Down into the Val di Funes for Santa Maddalena in its meadow.",
+        "evening": "Back over to the valley, or a farm inn dinner in Funes."
+      },
+      {
+        "day": 3,
+        "title": "The Sella passes and Lagazuoi",
+        "summary": "Hairpins, wartime tunnels and a summit night.",
+        "morning": "Drive the Pordoi and Falzarego passes, stopping at the viewpoints.",
+        "afternoon": "Cable car to Lagazuoi, then the Great War tunnel down through the mountain.",
+        "evening": "Stay at the summit rifugio for sunset, if you booked ahead."
+      },
+      {
+        "day": 4,
+        "title": "Tre Cime",
+        "summary": "The set piece, done early.",
+        "morning": "Toll road to Rifugio Auronzo and the loop anticlockwise around the towers.",
+        "afternoon": "Lunch at Rifugio Locatelli under the north faces, then complete the circuit.",
+        "evening": "Down into the Val Pusteria for the night."
+      },
+      {
+        "day": 5,
+        "title": "Braies and Cortina",
+        "summary": "The lake at dawn, then south.",
+        "morning": "Lago di Braies at first light, before the shuttle buses start.",
+        "afternoon": "The Cinque Torri chairlift above Cortina and the restored trenches.",
+        "evening": "Cortina for dinner, then the drive back towards Venice."
+      }
+    ]
+  },
+  "tipsIntro": "The Dolomites are easy mountains, but the season and the parking are where trips go wrong.",
+  "tips": [
+    "Check the season before booking anything. Lifts and rifugi generally run from late June to late September and from December to early April; between those, much of the range simply shuts and there is no cable car to get you high.",
+    "Book rifugi months in advance for July and August. There are only so many beds at 2,500 metres, and the good huts fill by spring. Take a sleeping-bag liner, cash and earplugs.",
+    "Arrive at the honeypots early. The Tre Cime toll road car park and the Lago di Braies approach both fill by nine in summer, and Braies now operates access restrictions with shuttle buses instead of cars.",
+    "Place names come in two or three languages. Tre Cime is Drei Zinnen, Alpe di Siusi is Seiser Alm, Val Gardena is Gröden — signs and maps switch between them without warning, so learn both forms for wherever you are going.",
+    "Ask about the guest card at check-in. Many South Tyrolean hotels include a pass covering regional buses, trains and sometimes lifts, which is a substantial saving and makes car-free days easy.",
+    "Rifugio kitchens stop serving hot food around three and many take cash only. Plan lunch for one or two o'clock rather than assuming you can eat when you arrive.",
+    "Signposted trail times assume steady mountain walking with no stops. Add a third for photographs and a lunch, and check the last lift down before you commit to a route.",
+    "Take layers, whatever the valley forecast says. It is routinely ten degrees colder at 2,500 metres, afternoon thunderstorms are common in summer, and exposed ridges get cold fast when cloud comes in."
+  ],
+  "faq": [
+    {
+      "q": "When is the best time to visit the Dolomites?",
+      "a": "Late June to September for hiking and mid-September to early October for the quietest good weather, with golden larches and most lifts still running. December to early April for skiing. Crucially, avoid mid-October to early December and mid-April to mid-June: those are closed seasons here, when lifts stop, rifugi shut and many hotels take their annual break."
+    },
+    {
+      "q": "Do I need a car in the Dolomites?",
+      "a": "It helps a great deal, particularly for early starts at the Tre Cime, the pass roads and the smaller trailheads. That said, South Tyrol's regional buses are frequent and well integrated, many hotels give guests a card covering them free, and a car-free trip based in the Val Gardena or Val Pusteria works well. On the Veneto side around Cortina, public transport is thinner."
+    },
+    {
+      "q": "How hard is the hiking?",
+      "a": "As hard as you choose. Cable cars deliver you to 2,000–2,500 metres, and many of the best walks from there follow contours rather than climbing — the Tre Cime loop and the Alpe di Siusi paths are comfortable for anyone reasonably fit. There is also serious terrain: long hut-to-hut traverses, exposed ridges and via ferrata routes needing a harness, helmet and ideally a guide."
+    },
+    {
+      "q": "What is a rifugio and should I stay in one?",
+      "a": "A mountain hut, usually between 2,000 and 2,700 metres, serving full lunches on a terrace and offering beds — dormitories and sometimes small private rooms — with half board. Staying in one gives you sunset and sunrise on the peaks with nobody else around, which the day visitors never see. Book months ahead for July and August, take a sleeping-bag liner and bring cash."
+    },
+    {
+      "q": "Which valley should I base in?",
+      "a": "Val Gardena for a first visit — the best lift access, with Seceda and Alpe di Siusi straight from the valley floor. Alta Badia for walking and food, right at the centre of the Sella circuit. Cortina for the Veneto side, the Cinque Torri and Lagazuoi. Val Pusteria and Val di Funes for quiet and the classic meadow-and-spires views. Two bases over five or six days beats one."
+    },
+    {
+      "q": "Do people speak Italian in the Dolomites?",
+      "a": "In South Tyrol, roughly two-thirds of the population speaks German as a first language, and in several valleys the first language is Ladin, a Romance language older than Italian. Everything is officially bilingual or trilingual and everyone speaks Italian too, along with excellent English in tourist areas. The Cortina side, in the Veneto, is Italian-speaking."
+    },
+    {
+      "q": "Can I visit the Dolomites from Venice?",
+      "a": "Yes — Venice Marco Polo is the usual gateway, about two to two and a half hours by road to Cortina or the Val Gardena, with seasonal shuttle services. It makes a natural pairing: a few days in [[venice|Venice]] and then five in the mountains. Verona is a similar distance to the western valleys, and Innsbruck over the Brenner is the shortest transfer for the northern ones."
+    }
+  ],
+  "related": ["venice", "milan", "chamonix-mont-blanc", "florence-tuscany"],
+  "relatedArticles": ["packing-by-season", "unesco-worth-planning-around", "underrated-destinations"]
+}

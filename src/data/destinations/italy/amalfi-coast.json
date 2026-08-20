@@ -1,0 +1,359 @@
+{
+  "slug": "amalfi-coast",
+  "name": "The Amalfi Coast",
+  "country": "italy",
+  "region": "Campania",
+  "categories": ["coastal", "unesco", "scenic", "nature"],
+  "tagline": "Fifty kilometres of vertical coastline where towns are stacked on cliffs above the sea and the only flat ground is the beach.",
+  "highlight": "The Path of the Gods — a ridge trail 600 metres above the water, looking down on Positano and across to Capri.",
+  "shortDescription": "A UNESCO-listed stretch of Campanian cliff with lemon terraces, ceramic-domed churches, a Norman-Arab cathedral at Amalfi and Ravello's gardens hanging over the sea.",
+  "metaDescription": "An Amalfi Coast travel guide: Positano, Amalfi, Ravello and Capri, the Path of the Gods, ferries versus the coast road, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Naples Capodichino (NAP)",
+  "knownFor": "Positano, Ravello, lemons, the coast road",
+  "budget": "€160–300 per day, mid-range",
+  "goodFor": "Swimming, walking, boats, long lunches, honeymoons",
+  "coords": { "lat": 40.634, "lng": 14.6027 },
+  "image": {
+    "file": "File:Positano (Italy) 04.jpg",
+    "alt": "The pastel houses of Positano stacked down a cliff to the beach on the Amalfi Coast"
+  },
+  "intro": [
+    "The Amalfi Coast is a fifty-kilometre stretch of the Sorrentine peninsula where the Lattari mountains fall almost vertically into the Tyrrhenian Sea, and where thirteen towns have been built onto that drop anyway. There is essentially no level ground. Positano is a set of pastel houses stacked down a ravine, connected by staircases rather than streets. Atrani, the smallest town in southern Italy, fills a gorge mouth entirely. Ravello sits 350 metres straight above the water on a shelf with two villas and a garden terrace that Wagner used as the model for Klingsor's magic garden.",
+    "Amalfi itself was one of the four medieval maritime republics, trading with Byzantium and the Arab world when Venice was still a competitor rather than a superpower, and its cathedral shows it — striped Norman-Arab arcading, bronze doors cast in Constantinople in the eleventh century, and a cloister of interlaced pointed arches that looks more North African than Italian. The coast became a UNESCO World Heritage Site in 1997 as a cultural landscape: not for any one building, but for the whole terraced, walled, lemon-planted arrangement of a place people made habitable against the odds.",
+    "It is also the most oversubscribed coastline in Italy, and how you handle that determines whether the trip works. The SS163 corniche road is a single lane in each direction with hairpins and coaches, and in July and August it can take two hours to cover fifteen kilometres. The answer is to travel by ferry wherever possible, walk the paths above the road, and treat May, June, September and early October as the season rather than high summer."
+  ],
+  "whyVisit": {
+    "intro": "The coast's reputation is entirely about the view, and the view is entirely deserved. What surprises people is how much walking, history and food sits behind it.",
+    "points": [
+      {
+        "title": "The most dramatic coastline in Italy",
+        "text": "Cliffs of 300 to 600 metres dropping into clear water, with towns built into them in tiers. The approach into Positano by boat is the single best arrival on the Italian coast."
+      },
+      {
+        "title": "Amalfi's cathedral is a Mediterranean hybrid",
+        "text": "Striped arcading, bronze doors cast in Constantinople around 1060, and the Cloister of Paradise with interlaced Arab-Norman arches — the physical evidence of a republic that traded east rather than north."
+      },
+      {
+        "title": "Ravello is the antidote to the crowds",
+        "text": "Three hundred and fifty metres above the sea, reached by a switchback road most day-trippers skip. Villa Rufolo and Villa Cimbrone have the best views on the coast and a summer music festival on a terrace over the drop."
+      },
+      {
+        "title": "The walking is world-class",
+        "text": "The Path of the Gods along the ridge, the Valle delle Ferriere's fern gorge above Amalfi, and the Sentiero dei Limoni through the lemon terraces between Maiori and Minori. All above the traffic."
+      },
+      {
+        "title": "The lemons are a genuine speciality",
+        "text": "The sfusato amalfitano grows on pergola terraces cut into the cliffs, is enormous, thick-skinned and sweet, and goes into limoncello, delizia al limone and a great deal of local pride."
+      }
+    ]
+  },
+  "attractionsIntro": "The coast is a line, not a hub. Pick two bases at most, and move along it by boat rather than doubling back by road.",
+  "attractions": [
+    {
+      "name": "Positano",
+      "text": "The image everyone has of this coast: houses in ochre, pink and white stacked down a ravine to a grey-sand beach, with the majolica dome of Santa Maria Assunta in the middle and no flat street anywhere.",
+      "tip": "It is stairs from top to bottom — well over a thousand of them. Arrive by ferry, and stay above the crowds or below them, not in between."
+    },
+    {
+      "name": "Amalfi and its Duomo",
+      "text": "The old republic's capital, with a striped cathedral up a wide staircase, bronze doors cast in Constantinople in the eleventh century, and the Cloister of Paradise — interlaced pointed arches around a garden of palms.",
+      "tip": "The paper museum up the valley behind town is a genuine curiosity — Amalfi made paper on Arab methods from the thirteenth century."
+    },
+    {
+      "name": "Ravello",
+      "text": "High above Amalfi: Villa Rufolo's gardens with a terrace over a 350-metre drop, Villa Cimbrone's Terrace of Infinity lined with busts, and a cathedral with an eleventh-century bronze door and a carved pulpit on twisted columns.",
+      "tip": "Stay for the evening. Day visitors leave by six and the town becomes silent and extraordinary."
+    },
+    {
+      "name": "The Path of the Gods",
+      "text": "The Sentiero degli Dei, running about seven kilometres along the ridge from Bomerano above Agerola to Nocelle above Positano, six hundred metres above the sea with Capri on the horizon the whole way.",
+      "tip": "Walk it west to east, downhill, ending with 1,500 steps into Positano — or take the bus down from Nocelle instead."
+    },
+    {
+      "name": "Capri",
+      "text": "An hour by ferry: the Faraglioni rock stacks, the Blue Grotto, Villa San Michele in Anacapri, and the chairlift up Monte Solaro for the whole Bay of Naples at once.",
+      "tip": "Go early or stay overnight. Between eleven and four the town is unbearable; Anacapri above it never is."
+    },
+    {
+      "name": "Praiano and Atrani",
+      "text": "The two towns most visitors drive through. Praiano has the best sunsets and a church terrace of majolica tiles; Atrani, just round the headland from Amalfi, is the smallest town in southern Italy and almost untouched.",
+      "tip": "Atrani is a five-minute walk from Amalfi through a tunnel and feels like a different century. Have lunch in its piazza."
+    },
+    {
+      "name": "The Furore fjord and the Emerald Grotto",
+      "text": "A narrow inlet where a fishing hamlet clings under the bridge that carries the coast road across it, and, a little east, a sea cave lit green from below through an underwater opening.",
+      "tip": "The fjord is best seen from the water. The grotto is a short, touristy, but genuinely striking boat visit."
+    },
+    {
+      "name": "Cetara and Vietri sul Mare",
+      "text": "The eastern end: Cetara is still a working anchovy port and makes colatura, a descendant of Roman fish sauce; Vietri is the ceramics town whose tiles you have been looking at all week.",
+      "tip": "Far cheaper and far less visited than the west end. Worth a day if you are based near Salerno."
+    }
+  ],
+  "thingsToDoIntro": "The best days here are half on the water and half above it. Time on the coast road is time wasted.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Path of the Gods",
+      "text": "Bus up to Bomerano, then a ridge path with no shade and enormous views west along the coast and out to Capri, finishing above Positano. Three to four hours at a reasonable pace.",
+      "tip": "Start early, take two litres of water, and wear proper shoes — sections are narrow with a serious drop."
+    },
+    {
+      "title": "Travel by ferry, not by bus",
+      "text": "Boats connect Sorrento, Positano, Amalfi, Salerno and Capri through the season. They are faster than the road in summer, cost little more, and the coast only makes visual sense from the water.",
+      "tip": "Services stop for rough seas and largely shut from November to Easter. Check the evening before."
+    },
+    {
+      "title": "Get on a small boat",
+      "text": "Hire a boat with or without a skipper for half a day and reach the coves, the Furore fjord and the grottoes that no road goes near. Swim off the back where nobody else is.",
+      "tip": "A small boat needs no licence in many cases. Ask when booking, and go in the morning before the wind gets up."
+    },
+    {
+      "title": "Walk the lemon path",
+      "text": "The Sentiero dei Limoni climbs from Maiori through terraced lemon groves on pergolas to Minori — an hour of shade, stone steps and the smell of citrus, with the sea below.",
+      "tip": "Minori's pasta and its cake shop at the bottom are the traditional reward. Go in the morning."
+    },
+    {
+      "title": "Spend an evening in Ravello",
+      "text": "The gardens after the day-trippers have gone, dinner on a terrace, and in summer a concert from the Ravello Festival on a stage built out over the cliff at Villa Rufolo.",
+      "tip": "The last bus down is early. Either stay the night or arrange a taxi in advance."
+    },
+    {
+      "title": "Do Capri properly or not at all",
+      "text": "First boat over, chairlift up Monte Solaro from Anacapri, the Via Krupp and the Faraglioni from the Giardini di Augusto, and back on a late ferry once the day crowds have thinned.",
+      "tip": "The Blue Grotto depends entirely on sea state and light, and involves a queue of boats. Treat it as a bonus, not a plan."
+    }
+  ],
+  "foodIntro": "Campanian cooking with a lemon on top: seafood, buffalo mozzarella from the plain behind, pasta shapes found nowhere else, and citrus in everything sweet.",
+  "foods": [
+    {
+      "name": "Sfusato amalfitano and limoncello",
+      "text": "The local lemon is huge, thick-skinned, low in acid and grown on cliff pergolas under chestnut poles. Its zest steeped in alcohol makes limoncello, drunk ice-cold in a small glass after dinner.",
+      "whereToTry": "Everywhere, but the small producers around Minori and Maiori are better than the souvenir bottles."
+    },
+    {
+      "name": "Delizia al limone",
+      "text": "A dome of sponge soaked in lemon syrup and covered in lemon cream — invented in the 1970s on this coast and now its defining dessert. Light, sharp and much better than it looks.",
+      "whereToTry": "Pastry shops in Minori, Maiori and Amalfi. Minori is where it was created."
+    },
+    {
+      "name": "Scialatielli ai frutti di mare",
+      "text": "A short, thick, irregular fresh pasta invented in Amalfi in the twentieth century, made with milk and herbs and served with clams, mussels and prawns in a light tomato and white wine sauce.",
+      "whereToTry": "Any decent trattoria on the coast. It is the local pasta and it is genuinely local, not folklore."
+    },
+    {
+      "name": "Colatura di alici",
+      "text": "Cetara's anchovy sauce: fish salted in barrels for months and the liquid drawn off, a direct descendant of Roman garum. A few drops over spaghetti with garlic and parsley makes one of Italy's great simple dishes.",
+      "whereToTry": "Cetara at the eastern end of the coast, where it is made. Bottles travel well."
+    },
+    {
+      "name": "Fior di latte and mozzarella di bufala",
+      "text": "Agerola on the ridge above makes fior di latte, cow's-milk mozzarella; the plain north of Salerno makes the buffalo version. Both are eaten within a day of being made and taste like a different food from the exported kind.",
+      "whereToTry": "Village alimentari and the Agerola dairies, ideally in the morning."
+    },
+    {
+      "name": "Totani e patate",
+      "text": "Praiano's dish: squid and potatoes stewed together with tomato and chilli until both give way. Fishermen's cooking, and a good marker of whether a restaurant is aiming at locals or at coaches.",
+      "whereToTry": "Praiano and the smaller towns. Rarely found on the tourist-facing menus in Positano."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you sleep matters more here than almost anywhere, because moving along the coast is slow. Two nights each in two places beats four in one that is badly placed.",
+    "areas": [
+      {
+        "name": "Positano",
+        "bestFor": "The view, at a price",
+        "text": "The most beautiful and the most expensive. Everything is stairs, so consider carefully how far above the beach your room is and how many steps that means with luggage."
+      },
+      {
+        "name": "Amalfi and Atrani",
+        "bestFor": "Central and better value",
+        "text": "The best-connected point on the coast for ferries and buses, with the cathedral and the valley walks on the doorstep. Atrani next door is quieter and cheaper again."
+      },
+      {
+        "name": "Ravello",
+        "bestFor": "Calm and gardens",
+        "text": "High above the sea, cool in summer, and quiet from six in the evening. You need the bus or a taxi to get anywhere, which is precisely the trade-off."
+      },
+      {
+        "name": "Praiano",
+        "bestFor": "Sunsets and sanity",
+        "text": "Between Positano and Amalfi, on the bus and ferry routes, with the best sunsets on the coast and prices well below its neighbours. The pragmatic choice."
+      },
+      {
+        "name": "Sorrento",
+        "bestFor": "Transport and budget",
+        "text": "Not on the Amalfi Coast at all, but the transport hub for it — the train from Naples, ferries to Capri and buses west. Cheaper, flatter and far less special."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel in season", "value": "€180–350 per night, with Positano at the top" },
+      { "label": "Ferry, Positano to Amalfi", "value": "€10–15 one way" },
+      { "label": "Small boat hire, half day", "value": "€150–300 without a skipper, split between four" },
+      { "label": "Beach club sunbed and umbrella", "value": "€25–60 per day depending on the beach" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "There is no airport and no railway on the coast itself. Every arrival ends with a bus, a boat or a transfer.",
+    "options": [
+      {
+        "mode": "Naples Capodichino (NAP)",
+        "text": "The nearest airport, about 60 km away. Curreri coaches run direct from the terminal to Sorrento, from where buses and ferries continue along the coast.",
+        "detail": "Private transfers cost €120–180 and save an hour or more with luggage. Often worth it for a group."
+      },
+      {
+        "mode": "Train to Salerno, then ferry",
+        "text": "High-speed trains reach Salerno from [[rome|Rome]] in about 2h and from [[naples-pompeii|Naples]] in 35 minutes, and ferries run from Salerno to Amalfi and Positano in season.",
+        "detail": "The best arrival of all — you approach the coast from the water and skip the road entirely."
+      },
+      {
+        "mode": "Sorrento and the Circumvesuviana",
+        "text": "The local railway from Naples via [[naples-pompeii|Pompeii]] to Sorrento, then the SITA bus west. Cheap, slow and crowded, but it connects the two things most people want.",
+        "detail": "Notorious for pickpockets and for having no luggage space. The faster Campania Express is worth the supplement."
+      },
+      {
+        "mode": "By car",
+        "text": "Possible and frequently regretted. The SS163 is single-lane with hairpins and coaches, parking is scarce and expensive, and summer traffic schemes have restricted access by number plate on some days.",
+        "detail": "If you drive, check the current summer restrictions and confirm your hotel has parking before booking."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Ferries in season, buses out of it, and a great many steps in both.",
+    "options": [
+      {
+        "mode": "Ferries",
+        "text": "The best way to move along the coast from roughly April to October, linking Sorrento, Positano, Amalfi, Salerno, Capri and sometimes Minori and Maiori.",
+        "detail": "Cancelled in rough seas and almost entirely suspended in winter. Buy tickets at the jetty on the day."
+      },
+      {
+        "mode": "SITA buses",
+        "text": "The public buses along the SS163, running the length of the coast and up to Ravello. Cheap, frequent and the only year-round option.",
+        "detail": "Buy tickets before boarding from a bar or tabaccheria. Sit on the sea side and expect to stand in summer."
+      },
+      {
+        "mode": "Walking and steps",
+        "text": "Within towns, walking is the only option, and it is almost entirely vertical — Positano has well over a thousand steps between top and bottom.",
+        "detail": "This coast is genuinely difficult for anyone with limited mobility. Check what your accommodation actually involves."
+      },
+      {
+        "mode": "Scooter or small car",
+        "text": "Faster than the bus and able to stop where it cannot, at the cost of hairpins, coaches coming the other way and nowhere to park.",
+        "detail": "Only for confident riders and drivers. Parking in Positano and Amalfi can cost €5–8 an hour."
+      },
+      {
+        "mode": "Taxis and transfers",
+        "text": "Plentiful and expensive, with fixed-ish rates between the main towns. The practical solution for a late evening in Ravello or an early flight.",
+        "detail": "Agree the price before setting off — meters are rarely used on the coast road."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–early October",
+    "summary": "This is a genuinely seasonal destination that largely closes in winter and gridlocks in high summer, which leaves two excellent windows either side.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Everything reopens around Easter. May and June bring warm days, wisteria and lemon blossom, a sea swimmable from late May, and the walking paths at their best before the heat."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot, full and slow. The coast road can take two hours to cover fifteen kilometres, hotel prices double, and the paths are too exposed to walk safely in the middle of the day."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best month is September: the warmest sea of the year, the crowds gone after the first week and the light turning. Early October is still good; things begin closing from the end of the month."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "avoid",
+        "text": "Most hotels, restaurants and all the ferries shut. Positano in particular becomes a village of a few hundred people. Beautiful and empty, but there is very little open."
+      }
+    ],
+    "avoid": "Driving the SS163 between mid-July and the end of August. Summer traffic schemes have restricted the coast road by number plate on some days in recent years — check the current rules before hiring a car."
+  },
+  "itinerary": {
+    "title": "Four days on the Amalfi Coast",
+    "intro": "Two nights west and two nights east, moving by ferry, with one full day walking and one on Capri.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Positano",
+        "summary": "Arrive by water and go no further.",
+        "morning": "Ferry in from Sorrento or Salerno — the best arrival on the coast.",
+        "afternoon": "The beach, the majolica dome of Santa Maria Assunta and the stairs between them.",
+        "evening": "Dinner high up, with the town lit below."
+      },
+      {
+        "day": 2,
+        "title": "The Path of the Gods",
+        "summary": "Six hundred metres above everything.",
+        "morning": "Bus up to Bomerano and walk the ridge west with Capri on the horizon.",
+        "afternoon": "Down through Nocelle to Positano, or the bus if the 1,500 steps do not appeal.",
+        "evening": "Praiano for the sunset, which is the best on the coast."
+      },
+      {
+        "day": 3,
+        "title": "Amalfi and Ravello",
+        "summary": "The republic, then the terrace above it.",
+        "morning": "Ferry to Amalfi for the Duomo and the Cloister of Paradise.",
+        "afternoon": "Up to Ravello for Villa Rufolo and Villa Cimbrone's Terrace of Infinity.",
+        "evening": "Stay up in Ravello for dinner after the day-trippers leave."
+      },
+      {
+        "day": 4,
+        "title": "Capri",
+        "summary": "An island day, done early.",
+        "morning": "First ferry across, then the chairlift up Monte Solaro from Anacapri.",
+        "afternoon": "Villa San Michele, the Giardini di Augusto and the Faraglioni.",
+        "evening": "Late ferry back once the day crowds have gone."
+      }
+    ]
+  },
+  "tipsIntro": "Almost every problem on this coast comes from underestimating how slow the road is and how vertical the towns are.",
+  "tips": [
+    "Travel by ferry whenever the season allows. Boats between Sorrento, Positano, Amalfi and Salerno are faster than the coast road in summer, cost little more than the bus, and the coastline only makes sense from the water.",
+    "Think hard before hiring a car. The SS163 is single-lane with hairpins and coaches, parking costs €5–8 an hour where it exists at all, and summer traffic schemes have restricted access by number plate on some days.",
+    "Check how many steps your hotel involves. Positano has well over a thousand between the top of the town and the beach, and there is no lift, no taxi rank halfway and no flat route.",
+    "Base yourself in two places rather than one. Two nights around Positano or Praiano and two around Amalfi or Ravello removes hours of doubling back on a very slow road.",
+    "Stay overnight in Ravello if you can. The day-trippers leave by six and the town — 350 metres above the sea, with two great gardens — becomes one of the quietest places on the coast.",
+    "The coast is genuinely seasonal. Most hotels, restaurants and all the ferries close from around November to Easter, so a winter trip means a beautiful, empty coastline with very little open on it.",
+    "Walk the Path of the Gods early and carry two litres of water. There is no shade, no water on the route, and the drops beside the narrow sections are real.",
+    "Buy limoncello and colatura from small producers rather than souvenir shops — Minori and Maiori for the lemons, Cetara for the anchovy sauce. Both are made within a few kilometres of where you are standing."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need on the Amalfi Coast?",
+      "a": "Three to four. That covers Positano, Amalfi and Ravello properly, one full day walking the Path of the Gods, and a day trip to Capri. Because moving along the coast is slow, split those nights between two bases — one in the west around Positano or Praiano, one in the east around Amalfi or Ravello — rather than commuting from a single hotel."
+    },
+    {
+      "q": "Should I stay in Positano, Amalfi or Ravello?",
+      "a": "Positano for the view, at the highest prices and with an enormous number of steps. Amalfi for the best transport connections and better value, with quiet Atrani a five-minute walk away. Ravello for calm, gardens and cool air, accepting that you need a bus or taxi for everything. Praiano sits between them all and is the most sensible compromise."
+    },
+    {
+      "q": "Do I need a car on the Amalfi Coast?",
+      "a": "No, and it is usually a liability. The SS163 is single-lane with hairpins shared with full-size coaches, parking is scarce and expensive, and in recent summers traffic schemes have restricted the road by number plate on certain days. Ferries in season and SITA buses year-round cover the whole coast, and both are less stressful."
+    },
+    {
+      "q": "When is the best time to visit the Amalfi Coast?",
+      "a": "May, June, September and early October. The sea is swimmable from late May to late October, and those months give you open hotels, running ferries and a road that moves. July and August are hot, extremely crowded and slow. From roughly November to Easter most hotels, restaurants and all ferries close — the coast is beautiful then and almost entirely shut."
+    },
+    {
+      "q": "Is the Path of the Gods difficult?",
+      "a": "It is a moderate hike rather than a technical one: about seven kilometres from Bomerano to Nocelle, mostly level along the ridge with some rough and narrow sections and a serious drop beside a few of them. Three to four hours at a comfortable pace. There is no shade and no water on the route, so start early and carry two litres. The 1,500 steps down into Positano at the end are optional — a bus runs from Nocelle."
+    },
+    {
+      "q": "Is Capri worth a day trip?",
+      "a": "Yes, if you go early and stay late. Between about eleven and four the main town is packed with day crowds; before and after it is a different island. Take the first ferry, head straight up to Anacapri and the Monte Solaro chairlift, and treat the Blue Grotto as a bonus — it depends entirely on sea state and light and involves a long queue of boats."
+    },
+    {
+      "q": "Is the Amalfi Coast suitable for limited mobility?",
+      "a": "Honestly, it is one of the hardest destinations in Italy for anyone with mobility difficulties. The towns are built on cliffs and connected almost entirely by staircases, Positano has over a thousand steps from top to bottom, and buses and ferries involve steep approaches. Sorrento, which is flat, is a far more practical base, with boat trips along the coast instead of stays on it."
+    }
+  ],
+  "related": ["naples-pompeii", "sicily", "cinque-terre", "mallorca"],
+  "relatedArticles": ["best-time-southern-europe", "unesco-worth-planning-around", "packing-by-season"]
+}

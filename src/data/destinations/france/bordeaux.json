@@ -1,0 +1,351 @@
+{
+  "slug": "bordeaux",
+  "name": "Bordeaux",
+  "country": "france",
+  "region": "Gironde, Nouvelle-Aquitaine",
+  "categories": ["major-city", "food-and-wine", "unesco", "cultural"],
+  "tagline": "The largest urban World Heritage site in the world, at the centre of the most famous wine region on earth — and two hours from Paris.",
+  "highlight": "The Miroir d'Eau opposite the Place de la Bourse: the world's largest reflecting pool, and the best free show in France.",
+  "shortDescription": "An 18th-century city of pale limestone facades along a curving river, transformed over two decades from soot-blackened port to one of France's most liveable cities.",
+  "metaDescription": "A Bordeaux travel guide: the UNESCO old town, wine tasting in Saint-Émilion and the Médoc, oysters at Arcachon, where to stay, when to visit, and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Bordeaux–Mérignac (BOD)",
+  "knownFor": "Claret, 18th-century architecture, oysters, the Dune du Pilat",
+  "budget": "€130–210 per day, mid-range",
+  "goodFor": "Wine, food, architecture, easy day trips",
+  "coords": { "lat": 44.8378, "lng": -0.5792 },
+  "image": {
+    "file": "File:Bordeaux place de la bourse sunset and fog with girls.jpg",
+    "alt": "The Place de la Bourse reflected in the water mirror at dusk in Bordeaux"
+  },
+  "intro": [
+    "Bordeaux spent most of the 20th century as a byword for a handsome city that had let itself go — the limestone black with soot, the riverfront a working dock, the centre choked with traffic. Then, from about 1995, it was systematically cleaned, pedestrianised and given a tram network, and what emerged was the largest ensemble of 18th-century urban architecture in Europe outside Paris. UNESCO listed 1,810 hectares of it, making the city the biggest urban World Heritage site anywhere.",
+    "The other reason to come is obvious from the name. The Gironde department has roughly 5,600 wine-producing châteaux across 110,000 hectares, and the appellations that surround the city — Médoc, Saint-Émilion, Pomerol, Graves, Sauternes — are the reference points against which most of the world's red wine is still measured. Almost all of them are within an hour's drive.",
+    "What makes Bordeaux unusually good to visit, though, is that it is a proper city rather than a wine theme park: 260,000 people, a large student population, one of the best food markets in France, and a two-hour TGV ride from Paris. You can spend three days here and drink very little wine and still have a full trip."
+  ],
+  "whyVisit": {
+    "intro": "Bordeaux offers something few French cities manage: world-class wine access without having to leave a place that is interesting in its own right.",
+    "points": [
+      {
+        "title": "The architecture is a single coherent statement",
+        "text": "Most of the centre was built between 1730 and 1790 in the same pale limestone to the same classical rules, which gives it an unusual visual consistency. Walking from the Place de la Bourse through to the Grand Théâtre and the Place des Quinconces is a continuous 18th-century composition."
+      },
+      {
+        "title": "Wine country starts 30 minutes away",
+        "text": "Saint-Émilion is 40 minutes east, the Médoc's great estates 45 minutes north, Graves and Sauternes 45 minutes south. Very few wine regions in the world put this concentration of famous names that close to a city with a tram network and an airport."
+      },
+      {
+        "title": "It has been transformed, visibly",
+        "text": "The riverfront was a car park and a container dock in the 1990s. It is now a continuous four-kilometre promenade with gardens, a skate park and the Miroir d'Eau. Few European cities have changed this much this fast, and the result is a place designed around walking."
+      },
+      {
+        "title": "The Atlantic is an hour away",
+        "text": "Arcachon Bay, the Dune du Pilat — the tallest sand dune in Europe at around 105 metres — and the surf beaches of the Landes coast are all a short train or drive from the city. The combination of a serious city, serious wine and an ocean coast is rare."
+      },
+      {
+        "title": "Excellent food, less-known",
+        "text": "The Marché des Capucins, canelés, entrecôte grilled over vine cuttings, lamprey in red wine, and Arcachon oysters eaten with small sausages. Bordeaux is far less celebrated for food than Lyon or Paris and quietly eats extremely well."
+      }
+    ]
+  },
+  "attractionsIntro": "The city itself is compact and walkable. The bigger decisions are which wine region to visit and whether to head to the coast.",
+  "attractions": [
+    {
+      "name": "Place de la Bourse and the Miroir d'Eau",
+      "text": "The set piece of the city: a curved 18th-century facade facing the river, with a two-centimetre-deep sheet of water laid across the quay in front of it. Every few minutes it drains and refills, or fogs over with mist, and the reflection of the building is close to perfect.",
+      "tip": "Best at dusk when the facade is lit. The mist cycle runs on a timer — wait a few minutes and it will happen."
+    },
+    {
+      "name": "The Cité du Vin",
+      "text": "A striking building on the northern riverfront housing a genuinely well-made museum about wine as a global culture rather than a Bordeaux advertisement. The ticket includes a glass at the top-floor belvedere with a panorama over the city.",
+      "tip": "Allow two to three hours. It is the best possible primer before visiting the vineyards themselves."
+    },
+    {
+      "name": "Saint-Émilion",
+      "text": "A UNESCO-listed medieval wine village 40 minutes east, built in a limestone amphitheatre, with steep cobbled lanes, a monolithic church carved into the rock, and hundreds of small châteaux around it. The most attractive of the wine towns by a distance.",
+      "tip": "The underground monolithic church can only be seen on a guided tour booked at the tourist office. It is worth the effort."
+    },
+    {
+      "name": "The Médoc",
+      "text": "The flat gravel plain north of the city along the Gironde estuary, holding the most famous names in red wine — Margaux, Pauillac, Saint-Julien, Saint-Estèphe. The landscape is unremarkable; the châteaux and the cellars are not.",
+      "tip": "The big classified estates require appointments, often weeks ahead. Smaller producers are far more relaxed and frequently more interesting."
+    },
+    {
+      "name": "Marché des Capucins",
+      "text": "The city's covered market, open Tuesday to Sunday mornings, and the best place to eat in Bordeaux before noon. Oyster stalls with white wine, charcuterie, cheese, and locals doing their actual shopping.",
+      "tip": "Sunday morning is the liveliest. Oysters and a glass of Entre-deux-Mers at a market counter is the definitive Bordeaux breakfast."
+    },
+    {
+      "name": "Dune du Pilat and Arcachon Bay",
+      "text": "An hour southwest, a sand dune 105 metres high and nearly three kilometres long, advancing inland by a few metres a year and burying the forest behind it. The view from the top takes in the Atlantic, the bay and the pine forests of the Landes.",
+      "tip": "Go for sunset and take the stairs rather than the sand. Arcachon town, ten minutes away, has Belle Époque villas and the oyster villages of the bay."
+    },
+    {
+      "name": "The Grand Théâtre and Rue Sainte-Catherine",
+      "text": "A neoclassical opera house of 1780 whose staircase inspired the one in the Paris Opéra, at the head of a 1.2 km pedestrian shopping street — reputedly the longest in Europe — running the length of the old centre.",
+      "tip": "The theatre runs guided tours when there is no rehearsal, and tickets for performances are cheap by comparison with Paris."
+    },
+    {
+      "name": "Bassins des Lumières",
+      "text": "A vast Second World War submarine base on the northern edge of the city, converted into a digital art space where projections cover the concrete walls and reflect in the water of the pens. The scale of the bunker alone justifies a visit.",
+      "tip": "Programmes change annually. Allow an hour and take a jacket — it is cold inside all year."
+    }
+  ],
+  "thingsToDoIntro": "Bordeaux divides neatly into city days and out-of-town days. Two of each is about right.",
+  "thingsToDo": [
+    {
+      "title": "Take a wine tour rather than driving",
+      "text": "French drink-driving limits are strict and tasting is the point. Half and full-day minibus tours from the tourist office visit two or three châteaux with a driver, typically €60–110 including tastings. It removes the only real complication of a Bordeaux trip.",
+      "tip": "Tours to Saint-Émilion generally offer better value and prettier scenery than Médoc tours, which are longer and more formal."
+    },
+    {
+      "title": "Eat oysters at a market counter",
+      "text": "Arcachon oysters arrive daily and are eaten by the half-dozen with a glass of dry white and, traditionally in this region, small hot sausages called crépinettes. It is a mid-morning habit, not an evening one.",
+      "tip": "The Marché des Capucins is the classic spot. Expect to eat standing at a counter surrounded by people doing their shopping."
+    },
+    {
+      "title": "Walk or cycle the riverfront",
+      "text": "Four kilometres of continuous quayside promenade from the Cité du Vin to the Jardin Botanique, with gardens, water features and the tram running alongside. It is the clearest demonstration of what the city has done with itself.",
+      "tip": "Cross the Pont de Pierre at dusk for the view back at the lit facades — the classic Bordeaux photograph."
+    },
+    {
+      "title": "Climb the Dune du Pilat at sunset",
+      "text": "An hour from the city by car or train plus bus. The dune is a genuine natural oddity — a mountain of sand pressed against a pine forest — and the light in the last hour is what makes the trip.",
+      "tip": "Wooden stairs are installed in summer only. Out of season it is a hard climb up soft sand; allow twenty minutes."
+    },
+    {
+      "title": "Visit Saint-Émilion on foot",
+      "text": "Park or arrive by train and walk the village — the monolithic church, the ramparts, the steep lanes and the surrounding vineyards, which come right up to the edge of the houses. Several small châteaux within walking distance receive visitors.",
+      "tip": "The train from Bordeaux takes 35 minutes and drops you 15 minutes' walk below the village. No car needed."
+    },
+    {
+      "title": "Take the tram to Bordeaux's other side",
+      "text": "The Bastide district across the river has the botanical garden, a very different set of views back at the city, and a growing food scene. It is where Bordelais go when the centre is busy.",
+      "tip": "Tram line A crosses the Pont de Pierre. Get off at Stalingrad and walk back along the right bank."
+    }
+  ],
+  "foodIntro": "Southwest French cooking meets the Atlantic: duck and beef from inland, oysters and lamprey from the water, and everything cooked with or served alongside red wine.",
+  "foods": [
+    {
+      "name": "Entrecôte à la bordelaise",
+      "text": "A rib steak grilled over vine cuttings and served with a sauce of red wine, shallots and bone marrow. The vine cuttings are not a gimmick — they burn hot and fast and give the meat a distinct flavour.",
+      "whereToTry": "Traditional brasseries in the Saint-Pierre quarter and around the Marché des Grands Hommes."
+    },
+    {
+      "name": "Arcachon oysters",
+      "text": "Farmed in the bay an hour west and eaten across the city. Locally they come with crépinettes — small flat sausages served hot — which sounds odd and works remarkably well.",
+      "whereToTry": "The Marché des Capucins in the morning, or the oyster villages of Cap Ferret and L'Herbe on the bay itself."
+    },
+    {
+      "name": "Canelé",
+      "text": "A small fluted cake with a dark, almost burnt caramelised crust and a soft custardy centre flavoured with rum and vanilla. Invented in Bordeaux, apparently using egg yolks left over after wineries used the whites for fining.",
+      "whereToTry": "Specialist canelé shops throughout the centre. Best eaten within a few hours of baking, when the crust is still crisp."
+    },
+    {
+      "name": "Lamproie à la bordelaise",
+      "text": "Lamprey — a primitive eel-like river fish — stewed in red wine with leeks and its own blood. It is an acquired taste, genuinely medieval, and one of the last places in Europe where it is still a restaurant dish.",
+      "whereToTry": "Traditional restaurants, in season roughly February to May. Order it as an experience rather than a safe choice."
+    },
+    {
+      "name": "Duck, in southwest style",
+      "text": "Magret, confit and foie gras, usually with potatoes cooked in duck fat. This is the northern edge of the great duck belt that runs down through the [[dordogne-sarlat|Dordogne]] to Toulouse.",
+      "whereToTry": "Bistros throughout the city, and every market. Sarlat-style potatoes are the standard accompaniment."
+    },
+    {
+      "name": "The wines themselves",
+      "text": "Left Bank reds are cabernet-dominant and structured; Right Bank Saint-Émilion and Pomerol are merlot-led and softer. Entre-deux-Mers makes crisp dry whites, and Sauternes produces the world's most famous sweet wine from botrytised grapes.",
+      "whereToTry": "Wine bars around Saint-Pierre, the Cité du Vin's belvedere, or the châteaux themselves."
+    }
+  ],
+  "accommodation": {
+    "intro": "Bordeaux's centre is compact and the tram covers the rest, so anywhere within the old town or just outside it works. The distinction is mostly between atmosphere and quiet.",
+    "areas": [
+      {
+        "name": "Saint-Pierre and the old town",
+        "bestFor": "Atmosphere and restaurants",
+        "text": "The medieval quarter between the Place de la Bourse and the cathedral, full of narrow streets, small squares and the highest concentration of restaurants. Lively and occasionally noisy at weekends."
+      },
+      {
+        "name": "Chartrons",
+        "bestFor": "Quieter, more residential, good food",
+        "text": "The old wine merchants' district north of the centre, with antique shops, a Sunday market on the quay and a strong local restaurant scene. Ten minutes by tram from the centre and generally better value."
+      },
+      {
+        "name": "Around the Grand Théâtre",
+        "bestFor": "Convenience and hotels",
+        "text": "The Triangle d'Or between the theatre, the Place des Quinconces and Rue Sainte-Catherine has most of the city's larger and more comfortable hotels, and puts you on every tram line."
+      },
+      {
+        "name": "Near Gare Saint-Jean",
+        "bestFor": "Budget and rail arrivals",
+        "text": "The station district has been substantially redeveloped and is now a 15-minute walk or a short tram from the centre. The cheapest rooms in the city and convenient for day trips by train."
+      },
+      {
+        "name": "Saint-Émilion",
+        "bestFor": "A night in the vineyards",
+        "text": "Staying in the village itself after the day visitors leave is a genuinely different experience, with small hotels and château guesthouses among the vines. Worth one night on a longer trip."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€30–50 per night" },
+      { "label": "Comfortable hotel", "value": "€100–170 per night" },
+      { "label": "Château guesthouse near Saint-Émilion", "value": "€150–280 per night" },
+      { "label": "Half-day wine tour", "value": "€60–110 per person including tastings" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The high-speed line from Paris opened in 2017 and cut the journey to just over two hours, which changed the city's relationship with the capital considerably.",
+    "options": [
+      {
+        "mode": "TGV from Paris",
+        "text": "Paris Montparnasse to Bordeaux Saint-Jean in about 2h05, with roughly fifteen departures a day. The station is 15 minutes from the centre by tram and has been fully rebuilt.",
+        "detail": "Fares range from about €29 booked months ahead to well over €100 close to departure."
+      },
+      {
+        "mode": "Bordeaux–Mérignac Airport",
+        "text": "Twelve kilometres west, with flights across Europe and North Africa. A shuttle bus reaches the centre in about 30 minutes, and tram line A serves the airport terminus.",
+        "detail": "The tram is cheaper and only slightly slower than the shuttle."
+      },
+      {
+        "mode": "Rail within the southwest",
+        "text": "Toulouse in about 2h, [[dordogne-sarlat|Sarlat]] in around 2h30 via Bergerac, Arcachon in 50 minutes, Saint-Émilion in 35, and Biarritz in about 2h.",
+        "detail": "The Arcachon and Saint-Émilion services are frequent, cheap regional trains with no booking required."
+      },
+      {
+        "mode": "By car",
+        "text": "Paris is about 5h30 on the A10. A car is useful for the Médoc and the smaller Saint-Émilion châteaux but a liability in the city, where the centre is largely pedestrianised.",
+        "detail": "If touring wine country, base in the city without a car and rent for one or two days only — or use tours and avoid the drink-driving problem entirely."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Bordeaux has one of the best tram networks in France and a flat, largely pedestrian centre. A car inside the city is pure disadvantage.",
+    "options": [
+      {
+        "mode": "Trams",
+        "text": "Four lines covering the whole city and the airport, running frequently. Line B follows the river through the centre and line A crosses it. Sections through the historic core use ground-level power supply rather than overhead wires.",
+        "detail": "Flat fare with transfers; day and multi-day passes are good value if you are moving around a lot."
+      },
+      {
+        "mode": "Walking",
+        "text": "The UNESCO centre is about 2 km across and entirely flat. From the Place de la Bourse to the cathedral is ten minutes and to the Cité du Vin about 35.",
+        "detail": "Rue Sainte-Catherine runs 1.2 km straight through the centre and is the simplest orientation line."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "The city is flat with good lanes and a bike-share scheme, and the riverside promenade is entirely traffic-free. Cycle routes also run out towards the Médoc and along the Garonne.",
+        "detail": "The Roger Lapébie greenway runs 60 km east from the city on a former railway line."
+      },
+      {
+        "mode": "Regional trains for day trips",
+        "text": "Saint-Émilion, Arcachon and the Médoc towns are all reachable by TER without a car, at low fixed fares and with no booking.",
+        "detail": "The Saint-Émilion station is a pleasant 15-minute uphill walk from the village."
+      },
+      {
+        "mode": "Wine tours and shuttles",
+        "text": "Minibus tours are the practical answer to visiting châteaux without driving, and seasonal shuttles run to the Dune du Pilat from Arcachon station.",
+        "detail": "Book tours a few days ahead in summer, particularly for Saint-Émilion."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Bordeaux has a mild Atlantic climate with warm summers and few extremes. The wine calendar adds a second dimension: September and early October bring the harvest, which is the most interesting time to be in the vineyards.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild and green, with the vines coming into leaf and the city's terraces filling. Temperatures of 16–25°C and the least rain of the year in June. The best months for combining the city with the coast."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm to hot, often 28–33°C, with the Atlantic coast an hour away providing the obvious escape. The city itself is quieter than you might expect in August as locals leave, though the coast is packed."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The standout season. The grape harvest runs from mid-September into October, the vineyards turn colour, the weather stays warm and the coast empties. Some châteaux restrict visits during picking, so check ahead."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Mild but grey and wet — this is the Atlantic. The city functions normally and hotel rates fall, but the vineyards are bare and many smaller châteaux close to visitors until spring."
+      }
+    ],
+    "avoid": "The Bordeaux Fête le Vin festival in late June fills the city and pushes hotel prices up sharply. It is great fun if you want it and worth avoiding if you do not."
+  },
+  "itinerary": {
+    "title": "Three days in Bordeaux",
+    "intro": "One city day, one wine day and one coast day — the pattern that gets the most out of a short stay. No car required if you use tours and regional trains.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The 18th-century city",
+        "summary": "Walk the UNESCO centre and get oriented before drinking anything.",
+        "morning": "The Marché des Capucins for oysters and white wine, then walk north through Saint-Pierre to the cathedral and the Grand Théâtre.",
+        "afternoon": "The riverfront promenade to the Cité du Vin, two hours in the museum, and the glass at the belvedere.",
+        "evening": "The Miroir d'Eau at dusk, then dinner in Saint-Pierre and a wine bar afterwards."
+      },
+      {
+        "day": 2,
+        "title": "Saint-Émilion",
+        "summary": "The prettiest wine town in the region, on foot and by train.",
+        "morning": "Regional train east, 35 minutes, then the walk up to the village. The monolithic church tour and the ramparts.",
+        "afternoon": "One or two small châteaux within walking distance of the village, or a guided vineyard visit booked ahead.",
+        "evening": "Back to Bordeaux for dinner, or stay in Saint-Émilion once the coaches have gone."
+      },
+      {
+        "day": 3,
+        "title": "The Atlantic",
+        "summary": "Ocean, oysters and the biggest sand dune in Europe.",
+        "morning": "Train to Arcachon in 50 minutes. The Belle Époque villas of the Ville d'Hiver and the seafront.",
+        "afternoon": "Bus or taxi to the Dune du Pilat, and the climb for the view over the bay and the forest.",
+        "evening": "Oysters at Cap Ferret or back in Bordeaux, and a last walk along the quays."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes for a city where the main pitfall is a wine region that assumes you have a car and a driver.",
+  "tips": [
+    "Do not plan to drive yourself around the vineyards. French drink-driving limits are 0.5 g/l — lower for recent licence holders — and tasting is the entire point. Use the organised minibus tours or the train to Saint-Émilion.",
+    "The classified Médoc châteaux almost all require appointments, sometimes weeks in advance. Smaller producers and the Saint-Émilion satellites are far more welcoming to walk-ins and often more interesting.",
+    "Canelés go stale fast. Buy them the same day from a dedicated shop rather than a supermarket, and eat them within a few hours while the crust is still crisp.",
+    "The Marché des Capucins closes at about 13:00 and is shut on Mondays. Sunday morning is the best time to go.",
+    "Saint-Émilion is reachable by regional train in 35 minutes for a few euros, which many visitors never realise and which removes the need for a tour entirely.",
+    "The Dune du Pilat has wooden staircases in summer only. Out of season the climb is up soft sand and takes about twenty minutes of real effort.",
+    "September and early October are harvest, which is the best time to see the vineyards working — but some estates suspend visits while picking. Confirm before travelling out.",
+    "Bordeaux's tram uses a ground-level power supply in the historic centre. It runs almost silently and is easy to miss when crossing — watch for it on the quays."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Bordeaux?",
+      "a": "Three to four. One day for the UNESCO centre and the Cité du Vin, one for Saint-Émilion or the Médoc, and one for Arcachon and the Dune du Pilat. A fourth day lets you add a second wine region or slow the pace down. The city itself can be seen in a day, but the surroundings are the reason to stay longer."
+    },
+    {
+      "q": "Can you visit Bordeaux wine country without a car?",
+      "a": "Yes. Saint-Émilion is 35 minutes by regional train with several services a day, and the village and several châteaux are walkable from the station. For the Médoc, organised minibus tours from the tourist office are the practical option — and given drink-driving limits, they are the sensible choice even if you do have a car."
+    },
+    {
+      "q": "Is Bordeaux worth visiting if you do not drink wine?",
+      "a": "Yes. It is the largest urban World Heritage site in the world, with the most consistent 18th-century townscape in France, a four-kilometre riverfront promenade, one of the country's best food markets, the Bassins des Lumières art space in a submarine bunker, and the Atlantic coast an hour away. Wine is the headline, not the whole offer."
+    },
+    {
+      "q": "What is the best time to visit Bordeaux?",
+      "a": "May to June and September to October. September is arguably the best of all — warm weather, the grape harvest under way, and the coastal crowds gone. Winter is mild but grey and wet, and many smaller châteaux close to visitors between November and spring."
+    },
+    {
+      "q": "Is Saint-Émilion or the Médoc better for a day trip?",
+      "a": "Saint-Émilion for most visitors. It is a beautiful medieval village in a limestone amphitheatre, reachable by train, with the châteaux close enough to walk to and a relaxed approach to visitors. The Médoc has the more famous names — Margaux, Pauillac, Latour — but it is a flat landscape of large formal estates that mostly require advance appointments."
+    },
+    {
+      "q": "How far is Bordeaux from Paris?",
+      "a": "Two hours and five minutes by TGV from Paris Montparnasse, with around fifteen departures a day. That is faster than flying once you account for airports, and it puts you in the middle of the city. By car it is about 5h30 on the A10 with significant tolls."
+    },
+    {
+      "q": "What should I eat in Bordeaux?",
+      "a": "Oysters from Arcachon with crépinettes at the Marché des Capucins in the morning, entrecôte grilled over vine cuttings with a red wine and bone marrow sauce for dinner, and canelés — small caramelised rum-and-vanilla cakes invented here — at any point in between. In season, lamprey stewed in red wine is the region's most distinctive and most divisive dish."
+    }
+  ],
+  "related": ["dordogne-sarlat", "provence-luberon", "paris", "san-sebastian-basque"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train", "underrated-destinations"]
+}

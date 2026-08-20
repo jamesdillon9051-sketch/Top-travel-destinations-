@@ -1,0 +1,360 @@
+{
+  "slug": "washington-dc",
+  "name": "Washington, D.C.",
+  "shortName": "Washington",
+  "country": "united-states",
+  "region": "District of Columbia",
+  "categories": ["capital-city", "cultural", "historic"],
+  "tagline": "Nineteen Smithsonian museums, almost all of them free, arranged around a three-kilometre lawn with a monument at each end.",
+  "highlight": "The National Air and Space Museum and the National Museum of African American History and Culture — free, and among the best of their kind anywhere.",
+  "shortDescription": "A planned capital of low neoclassical buildings and wide avenues, holding the largest museum complex in the world and charging nothing to enter almost any of it.",
+  "metaDescription": "A Washington DC travel guide: the Smithsonian museums, the National Mall and monuments, timed-entry booking, neighbourhoods, cherry blossom season and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Reagan National (DCA), Dulles (IAD) and Baltimore (BWI)",
+  "knownFor": "The Smithsonian, the Mall, the Capitol, cherry blossom",
+  "budget": "$180–300 per day, mid-range",
+  "goodFor": "Museums, history, families, walking",
+  "coords": { "lat": 38.9072, "lng": -77.0369 },
+  "image": {
+    "file": "File:2026-06-17 Lincoln Memorial Reflecting Pool post-restoration Washington DC 18-53-22.jpg",
+    "alt": "The Lincoln Memorial reflected in the long rectangular pool on the National Mall"
+  },
+  "intro": [
+    "Washington was designed rather than grown. Pierre L'Enfant laid it out in 1791 as a grid overlaid with diagonal avenues radiating from the Capitol and the White House, and a height limit imposed in 1910 means almost nothing rises above thirteen storeys. The result is a low, wide, green city that looks like no other American capital city and feels, to many visitors, faintly European.",
+    "Its central asset is the Smithsonian Institution — nineteen museums and a zoo, holding around 155 million objects, and free to enter. The Wright Flyer, the Apollo 11 command module, the Hope Diamond, Lincoln's hat and Dorothy's ruby slippers are all here, in buildings that charge nothing at the door. There is nowhere else in the world with this concentration of major museums at no cost.",
+    "Around the museums is a working city that most visitors miss entirely. Washington's neighbourhoods — Georgetown's 18th-century brick streets, U Street's jazz history, Adams Morgan's Ethiopian restaurants, Capitol Hill's rowhouses — have their own character, and the city's food scene has improved beyond recognition in the past fifteen years. A trip that stays on the Mall sees perhaps a third of what is here."
+  ],
+  "whyVisit": {
+    "intro": "Washington offers more free world-class culture per square kilometre than any city on earth, and it is compact enough to see on foot.",
+    "points": [
+      {
+        "title": "Nineteen major museums, free",
+        "text": "The Smithsonian's Air and Space, Natural History, American History, African American History and Culture, and the National Gallery of Art all charge nothing. Any one of them would be a paid headline attraction in another capital."
+      },
+      {
+        "title": "The African American History museum is exceptional",
+        "text": "Opened in 2016, and structured as a descent to the bottom of the building before climbing chronologically through slavery, segregation, the civil rights movement and modern culture. It is the most powerfully designed museum in the country and requires timed entry."
+      },
+      {
+        "title": "The monuments work at night",
+        "text": "The Lincoln, Jefferson, Vietnam Veterans and Martin Luther King memorials are open 24 hours, lit, and free. Walking them after dark, with almost nobody there, is the best two hours in the city."
+      },
+      {
+        "title": "It is genuinely walkable and well connected",
+        "text": "The Mall is 3 km end to end, the Metro is clean and covers the whole city, and the neighbourhoods are close together. No car needed at all."
+      },
+      {
+        "title": "Ninety minutes from New York",
+        "text": "The Northeast Corridor train reaches [[new-york-city|New York]] in under three hours and Philadelphia in ninety minutes, city centre to city centre. The one American rail corridor that works properly."
+      }
+    ]
+  },
+  "attractionsIntro": "Two museums a day is the sustainable maximum. Several now use free timed-entry passes, which need booking in advance.",
+  "attractions": [
+    {
+      "name": "National Museum of African American History and Culture",
+      "text": "A bronze-latticed building on the Mall, entered by descending to the history galleries at the lowest level and working upward through slavery, Reconstruction, segregation and the civil rights movement, then up again into culture, music and sport.",
+      "tip": "Free but requires a timed-entry pass, released in batches 30 days and one day ahead. Allow four hours and start at the bottom."
+    },
+    {
+      "name": "National Air and Space Museum",
+      "text": "The Wright brothers' 1903 Flyer, the Apollo 11 command module Columbia, Chuck Yeager's Bell X-1 and the Spirit of St Louis, in the most visited museum in the country. A major renovation has reopened it in phases.",
+      "tip": "Free with a timed-entry pass. The Udvar-Hazy annexe near Dulles holds the Space Shuttle Discovery and a Concorde, and is worth the trip if you have a car."
+    },
+    {
+      "name": "The National Mall monuments",
+      "text": "Three kilometres from the Capitol to the Lincoln Memorial, taking in the Washington Monument, the World War II Memorial, the Vietnam Veterans Memorial wall and the reflecting pool. The Jefferson and Martin Luther King memorials sit on the Tidal Basin south of it.",
+      "tip": "All are free, open 24 hours and lit at night. The night walk is quieter, cooler and considerably more affecting than the daytime version."
+    },
+    {
+      "name": "National Gallery of Art",
+      "text": "The only Leonardo painting in the Americas, plus Vermeer, Rembrandt, Monet and one of the strongest American collections anywhere. The East Building holds modern art in a sharp-angled Pei design.",
+      "tip": "Free with no ticket required. The underground concourse between the two buildings has a moving-light installation and a decent café."
+    },
+    {
+      "name": "The Capitol and Library of Congress",
+      "text": "The Capitol offers free guided tours of the Rotunda and Statuary Hall, booked online. Across the road, the Library of Congress's Jefferson Building has the most beautiful interior in Washington and is free to walk into.",
+      "tip": "The Library of Congress reading room is visible from a gallery. It is more impressive than anything in the Capitol and takes ten minutes."
+    },
+    {
+      "name": "Arlington National Cemetery",
+      "text": "Across the Potomac in Virginia, holding over 400,000 graves including John F. Kennedy's eternal flame, with the Changing of the Guard at the Tomb of the Unknown Soldier every hour or half hour.",
+      "tip": "One Metro stop from the Mall. The guard change is precise and moving; the hillside view back across the river is the best in the city."
+    },
+    {
+      "name": "Georgetown",
+      "text": "The oldest neighbourhood, predating the capital itself, with 18th-century brick houses, a canal towpath, and the waterfront. Also the city's best shopping and a good stretch of restaurants.",
+      "tip": "Not on the Metro. Walk from Foggy Bottom station in about 15 minutes, or take the DC Circulator bus."
+    },
+    {
+      "name": "U Street and the Ethiopian quarter",
+      "text": "Once called Black Broadway, where Duke Ellington grew up and Billie Holiday played, now a strip of music venues and one of the largest Ethiopian restaurant districts outside Africa.",
+      "tip": "Washington has the largest Ethiopian population in the United States and the food here is genuinely excellent."
+    }
+  ],
+  "thingsToDoIntro": "The city rewards mixing museums with neighbourhoods, and the monuments are best kept for the evening.",
+  "thingsToDo": [
+    {
+      "title": "Walk the monuments after dark",
+      "text": "The Lincoln, Vietnam, Korean, Martin Luther King and Jefferson memorials are all open 24 hours, lit, and free. After 21:00 they are close to empty, and the Lincoln Memorial at night with the reflecting pool is the image people take home.",
+      "tip": "About 5 km for the full circuit including the Tidal Basin. Comfortable shoes and about two and a half hours."
+    },
+    {
+      "title": "Pick two museums, not five",
+      "text": "The Smithsonian's scale invites overreach. Two properly is better than five badly, and the African American History museum alone deserves half a day.",
+      "tip": "Several now require free timed-entry passes released 30 days ahead. Book them the moment your dates are fixed."
+    },
+    {
+      "title": "Eat Ethiopian on U Street",
+      "text": "Injera bread with spiced stews, eaten with your hands from a shared platter. Washington's Ethiopian community is the largest in the country and the food is a genuine local speciality.",
+      "tip": "Order a combination platter for the table. Vegetarian versions are excellent and traditionally eaten during fasting periods."
+    },
+    {
+      "title": "See the cherry blossom, or deliberately avoid it",
+      "text": "Around 3,800 trees, a gift from Japan in 1912, ring the Tidal Basin and flower for about ten days in late March or early April. It is genuinely beautiful and it draws about 1.5 million people.",
+      "tip": "Peak bloom is forecast about ten days ahead and shifts every year. Go at 06:00 or accept the crowds."
+    },
+    {
+      "title": "Cycle the Mount Vernon Trail",
+      "text": "A paved riverside path running 29 km from Arlington south along the Potomac to George Washington's estate, with the city skyline across the water for the first stretch.",
+      "tip": "Capital Bikeshare docks are everywhere. The northern few kilometres alone make a good hour."
+    },
+    {
+      "title": "Take the train to Philadelphia or New York",
+      "text": "Ninety minutes to Philadelphia and under three hours to [[new-york-city|New York]], city centre to city centre from Union Station. The easiest multi-city trip in the United States.",
+      "tip": "The regular Northeast Regional is usually much better value than the faster Acela for a small time difference."
+    }
+  ],
+  "foodIntro": "Washington's food has changed beyond recognition in fifteen years. Its two genuine specialities are Chesapeake Bay seafood and the country's largest Ethiopian restaurant scene.",
+  "foods": [
+    {
+      "name": "Maryland blue crab",
+      "text": "Steamed whole with Old Bay seasoning and eaten by hand with a mallet on paper-covered tables, or picked into crab cakes that should be almost entirely crab with minimal filler. In season roughly April to November.",
+      "whereToTry": "Crab houses along the Chesapeake in Maryland, and seafood restaurants across the city."
+    },
+    {
+      "name": "Ethiopian food",
+      "text": "Spiced stews — doro wat, tibs, misir wat — served on injera, a spongy sourdough flatbread used instead of cutlery. Washington's Ethiopian community is the largest in the United States.",
+      "whereToTry": "U Street, Shaw and Adams Morgan. Combination platters are the way in."
+    },
+    {
+      "name": "The half-smoke",
+      "text": "A coarse, half-pork half-beef smoked sausage, split, grilled and served with chilli, onions and mustard. Entirely local to Washington and unavailable anywhere else under that name.",
+      "whereToTry": "Long-running U Street chilli counters, several of which have been serving it since the 1950s."
+    },
+    {
+      "name": "Chesapeake oysters",
+      "text": "The bay produces distinctive briny oysters, nearly wiped out by overfishing and pollution and now recovering through aquaculture. Best in the colder months.",
+      "whereToTry": "Oyster bars across the city and the Maine Avenue Fish Market, the oldest continuously operating fish market in the country."
+    },
+    {
+      "name": "The Salvadoran pupusa",
+      "text": "Thick corn flatbreads stuffed with cheese, beans or pork, griddled and served with pickled cabbage. Washington has a large Salvadoran population and pupuserías across the northern neighbourhoods.",
+      "whereToTry": "Columbia Heights, Mount Pleasant and Wheaton just outside the city."
+    },
+    {
+      "name": "Museum-adjacent eating, avoided",
+      "text": "The Mall itself has almost nothing good. Penn Quarter, Shaw and Union Market are all within fifteen minutes and have the city's better restaurants.",
+      "whereToTry": "Union Market northeast of the centre is a food hall with three dozen vendors and is the easiest good option."
+    }
+  ],
+  "accommodation": {
+    "intro": "Washington's Metro is good enough that you do not need to be on the Mall — and staying in a neighbourhood gives you somewhere to eat in the evening, which the Mall does not.",
+    "areas": [
+      {
+        "name": "Penn Quarter and Downtown",
+        "bestFor": "Walking to the museums",
+        "text": "Immediately north of the Mall, within ten minutes of the Smithsonian museums and the National Gallery, with a decent restaurant strip. The most convenient base and priced accordingly."
+      },
+      {
+        "name": "Dupont Circle",
+        "bestFor": "The best all-round base",
+        "text": "Embassy row townhouses, bookshops, bars and a Sunday farmers' market, on the Red Line and 20 minutes' walk to the Mall. Central without being in the government district."
+      },
+      {
+        "name": "Capitol Hill",
+        "bestFor": "Rowhouses and Eastern Market",
+        "text": "Residential brick streets behind the Capitol, with Eastern Market's food hall and Barracks Row's restaurants. Quiet in the evenings and a short walk to the eastern end of the Mall."
+      },
+      {
+        "name": "Shaw and U Street",
+        "bestFor": "Food, music, value",
+        "text": "The city's liveliest eating and drinking district, with the Ethiopian restaurants and the jazz history. On the Green Line, fifteen minutes from the Mall, and better value than downtown."
+      },
+      {
+        "name": "Georgetown",
+        "bestFor": "Historic streets and the waterfront",
+        "text": "Cobbled 18th-century streets, the C&O Canal and the Potomac waterfront. Charming and expensive, with the significant drawback that it has no Metro station."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "$40–70 per night" },
+      { "label": "Comfortable hotel", "value": "$160–280 per night, often cheaper at weekends when business travel drops" },
+      { "label": "Museums", "value": "Free — the Smithsonian and the National Gallery charge nothing" },
+      { "label": "Metro", "value": "$2–6 per ride depending on distance and time of day" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Three airports serve the city and the train from New York is genuinely better than flying.",
+    "options": [
+      {
+        "mode": "Reagan National (DCA)",
+        "text": "Closest, across the river in Virginia, with a Metro station in the terminal reaching downtown in about 20 minutes. Domestic flights only.",
+        "detail": "By far the easiest arrival if your route allows it. The landing approach follows the Potomac past the monuments."
+      },
+      {
+        "mode": "Dulles (IAD) and Baltimore (BWI)",
+        "text": "Dulles handles most international flights, 45 km west, now connected by the Silver Line Metro in about an hour. Baltimore is 50 km northeast with a train link and often cheaper fares.",
+        "detail": "The Dulles Metro extension makes what used to be an awkward transfer straightforward."
+      },
+      {
+        "mode": "Train from New York",
+        "text": "Under three hours from Penn Station to Union Station, city centre to city centre, with departures roughly hourly. Philadelphia is 90 minutes and Boston about seven hours.",
+        "detail": "The Northeast Regional is usually far better value than the faster Acela for a difference of about 30 minutes."
+      },
+      {
+        "mode": "By car",
+        "text": "Baltimore is 45 minutes, Philadelphia 2h30, New York 4h. A car is a liability in the city — parking is expensive and the diagonal avenues confuse navigation.",
+        "detail": "If driving in from elsewhere, park it and use the Metro."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk the Mall and take the Metro for everything else. Washington is one of the more straightforward American cities to navigate without a car.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Six colour-coded lines covering the city and inner suburbs, clean, safe and reaching both Reagan and Dulles airports. Fares vary by distance and time of day.",
+        "detail": "Buy a SmarTrip card or use contactless. Stations are deep, with long escalators — Rosslyn's is among the longest in the world."
+      },
+      {
+        "mode": "Walking",
+        "text": "The Mall is 3 km end to end and the museums line it. Dupont Circle to the Mall is 20 minutes, Capitol Hill to the Lincoln Memorial about an hour.",
+        "detail": "The Mall is deceptively long — the distances between museums are greater than the map suggests. Expect 15,000 steps a day."
+      },
+      {
+        "mode": "Capital Bikeshare",
+        "text": "A large docked bike-share network with good lanes and the flat riverside Mount Vernon Trail. The fastest way along the Mall.",
+        "detail": "Day passes available in the app. Useful for Georgetown, which the Metro does not reach."
+      },
+      {
+        "mode": "DC Circulator and buses",
+        "text": "Cheap bus routes including one along the Mall and one to Georgetown, plus the full Metrobus network.",
+        "detail": "The Georgetown route matters because there is no Metro station there."
+      },
+      {
+        "mode": "Understanding the address system",
+        "text": "The city divides into four quadrants — NW, NE, SW, SE — from the Capitol, and the same address exists in more than one. Numbered streets run north–south, lettered streets east–west.",
+        "detail": "Always check the quadrant. Getting it wrong can put you five kilometres away."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Washington was built on what was effectively a swamp and its summers show it. Spring and autumn are excellent; July and August are genuinely uncomfortable.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The best season, at 15–25°C, with the cherry blossom around the Tidal Basin for about ten days in late March or early April. That fortnight draws 1.5 million visitors and prices reflect it."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Hot and very humid at 30–35°C, with the Mall offering almost no shade and afternoon thunderstorms. The museums are air-conditioned, which is the saving grace, but walking the monuments at midday is unpleasant."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear, mild at 15–25°C and much quieter than spring, with autumn colour through late October. Arguably the single best time to visit — the same weather as spring without the blossom crowds."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "good",
+        "text": "Cold at 0–10°C with occasional snow that closes the city more thoroughly than the amount justifies. Hotels are cheapest, the museums are empty, and everything you came for is indoors."
+      }
+    ],
+    "avoid": "Cherry blossom peak, if crowds bother you — about ten days in late March or early April when 1.5 million people visit the Tidal Basin. Peak bloom is forecast roughly ten days ahead and moves each year."
+  },
+  "itinerary": {
+    "title": "Four days in Washington",
+    "intro": "Two museums a day at most, monuments in the evening, and one day out of the government district entirely.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Mall and the monuments",
+        "summary": "Get the geography, and save the memorials for the dark.",
+        "morning": "The National Gallery of Art — the Leonardo, the Dutch rooms and the American collection.",
+        "afternoon": "Walk the length of the Mall past the Washington Monument to the Lincoln Memorial.",
+        "evening": "The monument circuit after dark — Lincoln, Vietnam, Korean, Martin Luther King and Jefferson."
+      },
+      {
+        "day": 2,
+        "title": "African American History and Culture",
+        "summary": "One museum, half a day, and nothing demanding afterwards.",
+        "morning": "The museum on a booked timed pass — start at the lowest history level and work up. Allow four hours.",
+        "afternoon": "Rest, or the Hirshhorn's sculpture garden and the Freer and Sackler galleries next door.",
+        "evening": "Ethiopian food on U Street, then a jazz set."
+      },
+      {
+        "day": 3,
+        "title": "The Capitol and Arlington",
+        "summary": "The working city and the cemetery across the river.",
+        "morning": "The Capitol tour, booked online, then the Library of Congress reading room gallery.",
+        "afternoon": "Metro to Arlington National Cemetery for the Changing of the Guard and the Kennedy graves.",
+        "evening": "Capitol Hill — Eastern Market and Barracks Row for dinner."
+      },
+      {
+        "day": 4,
+        "title": "Air and Space, and Georgetown",
+        "summary": "One more museum, then the oldest part of the city.",
+        "morning": "Air and Space on a timed pass, or the Natural History museum if travelling with children.",
+        "afternoon": "Georgetown — the canal towpath, the 18th-century streets and the waterfront.",
+        "evening": "Dinner in Georgetown or Dupont, or the train north to Philadelphia and New York."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes, the first of which now catches out a great many visitors.",
+  "tips": [
+    "Several Smithsonian museums now require free timed-entry passes, released in batches 30 days and one day ahead. They are free but they run out — book the moment your dates are fixed, particularly for African American History and Culture.",
+    "Two museums a day is the maximum that works. The Smithsonian's scale invites overreach and the result is a blur; the African American History museum alone deserves four hours.",
+    "Walk the monuments at night. They are open 24 hours, lit, free and close to empty after 21:00 — a completely different experience from the daytime version, and cooler in summer.",
+    "The Mall is much longer than it looks. Capitol to Lincoln Memorial is 3 km with almost no shade, so plan for 15,000 steps a day and carry water in summer.",
+    "Washington addresses carry a quadrant — NW, NE, SW or SE — measured from the Capitol, and the same street address exists in more than one. Always check it; getting it wrong can put you five kilometres out.",
+    "Georgetown has no Metro station. Walk 15 minutes from Foggy Bottom, take the DC Circulator bus, or use a bikeshare.",
+    "Hotel rates drop noticeably at weekends, when the business and government travel that fills the city midweek disappears. A Friday-to-Sunday trip is often substantially cheaper.",
+    "The Mall itself has very poor food. Penn Quarter, Shaw and Union Market are all within fifteen minutes and are where the city actually eats."
+  ],
+  "faq": [
+    {
+      "q": "Are the Smithsonian museums really free?",
+      "a": "Yes — all nineteen Smithsonian museums, the National Zoo and the National Gallery of Art charge nothing to enter. Several now require a free timed-entry pass, released in batches 30 days and one day ahead, which is a queue-management measure rather than a charge. The African American History and Culture museum and Air and Space are the two that most often run out."
+    },
+    {
+      "q": "How many days do you need in Washington?",
+      "a": "Three to four. Two museums a day is the realistic maximum, and the African American History museum alone deserves half a day. Add the Mall monuments, the Capitol and Arlington, plus one day for Georgetown and the neighbourhoods, and four days is comfortable without rushing."
+    },
+    {
+      "q": "When is the cherry blossom in Washington?",
+      "a": "Usually late March or early April, with peak bloom lasting about ten days. The exact dates shift each year with the weather and are forecast roughly ten days ahead by the National Park Service. It is genuinely beautiful and it draws around 1.5 million visitors, so go at 06:00 or plan around it."
+    },
+    {
+      "q": "Which Washington museum is the best?",
+      "a": "The National Museum of African American History and Culture, for most visitors — it is the most powerfully designed museum in the country, structured as a descent to the history galleries and a climb back up through culture. Air and Space has the Wright Flyer and the Apollo 11 capsule. The National Gallery holds the only Leonardo in the Americas. All are free."
+    },
+    {
+      "q": "Is Washington walkable?",
+      "a": "Very. The Mall is 3 km end to end with the museums along it, the Metro covers everything else cleanly and safely, and the neighbourhoods are close together. A car is a liability — parking is expensive and the diagonal avenues make navigation harder than the grid suggests. Georgetown is the one area the Metro does not reach."
+    },
+    {
+      "q": "Can you visit the White House and the Capitol?",
+      "a": "The Capitol offers free guided tours of the Rotunda and Statuary Hall, booked online in advance, and the Library of Congress across the road is free to walk into and more beautiful. White House tours must be requested through your own embassy or a member of Congress, months ahead, and are frequently unavailable to non-US citizens."
+    },
+    {
+      "q": "Is Washington a good addition to a New York trip?",
+      "a": "One of the best in the country. The Northeast Corridor train runs from Penn Station to Union Station in under three hours, city centre to city centre, roughly hourly, and it is faster and far more pleasant than flying. A ten-day trip of five nights in New York and four in Washington works extremely well with no car and no internal flight."
+    }
+  ],
+  "related": ["new-york-city", "charleston", "chicago", "rome"],
+  "relatedArticles": ["us-national-parks-road-trip", "first-trip-to-europe", "packing-by-season"]
+}

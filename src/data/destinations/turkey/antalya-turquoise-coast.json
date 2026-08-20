@@ -1,0 +1,360 @@
+{
+  "slug": "antalya-turquoise-coast",
+  "name": "Antalya & the Turquoise Coast",
+  "shortName": "Antalya",
+  "country": "turkey",
+  "region": "Antalya, Mediterranean",
+  "categories": ["coastal", "major-city", "archaeological", "historic"],
+  "tagline": "A walled Ottoman old town on a cliff above the Mediterranean, with mountains behind it and Roman theatres within an hour.",
+  "highlight": "Aspendos — a Roman theatre from 155 AD so intact that it still holds concerts for 12,000 people.",
+  "shortDescription": "Turkey's Mediterranean capital pairs a beautifully preserved walled old quarter with the best archaeological museum in the country and a mountain range that comes almost to the sea.",
+  "metaDescription": "An Antalya travel guide: Kaleiçi old town, the Antalya Museum, Aspendos and Perge, beaches, the Lycian coast, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Antalya (AYT)",
+  "knownFor": "Kaleiçi, Roman theatres, beaches, the Taurus mountains",
+  "budget": "€70–140 per day, mid-range",
+  "goodFor": "Beaches with ruins, families, winter sun, road trips",
+  "coords": { "lat": 36.8969, "lng": 30.7133 },
+  "image": {
+    "file": "File:Antalya kaleiçi 2.jpg",
+    "alt": "The harbour and Ottoman houses of the walled Kaleiçi quarter in Antalya"
+  },
+  "intro": [
+    "Antalya receives more international visitors than almost anywhere in Turkey — well over ten million a year — and the overwhelming majority of them go straight from the airport to a resort along the coast and never see the city. That is a genuine loss, because Antalya has a walled Ottoman quarter on a cliff above a Roman harbour, the best archaeological museum in the country, and a mountain range rising to 3,000 metres directly behind it.",
+    "The old town, Kaleiçi, is a knot of narrow lanes inside surviving Roman and Ottoman walls, with restored wooden houses, a Roman triumphal arch built for Hadrian's visit in 130 AD, and a fluted minaret that is the city's emblem. It sits on cliffs above a small harbour, and the coast either side of it is limestone cliff rather than beach, with waterfalls dropping directly into the sea.",
+    "What makes the region genuinely rewarding is the density of classical sites in the plain behind. Perge, Aspendos, Side and Termessos are all within an hour or so, and Aspendos in particular has a Roman theatre of 155 AD so complete — stage building, seating, acoustics — that it still hosts an opera festival. This is the eastern end of ancient Lycia and Pamphylia, and there is more here than most visitors realise."
+  ],
+  "whyVisit": {
+    "intro": "Antalya's case is that it combines things that rarely coexist: a real city, a walled historic quarter, world-class ruins, mountains and a warm sea.",
+    "points": [
+      {
+        "title": "Aspendos is astonishingly intact",
+        "text": "A Roman theatre completed around 155 AD, seating some 12,000, with the stage building still standing to its full height — one of only a handful anywhere. The acoustics are so good it is still used for concerts, and the Ottomans used it as a caravanserai, which is why it survived."
+      },
+      {
+        "title": "The Antalya Museum is the best in Turkey",
+        "text": "Outside Istanbul and Ankara, this is the country's finest archaeological collection — Roman statuary from Perge in extraordinary condition, including the Weary Herakles and a hall of emperors and gods."
+      },
+      {
+        "title": "Kaleiçi is a genuinely preserved quarter",
+        "text": "Roman walls, Hadrian's Gate of 130 AD, Ottoman wooden houses on narrow lanes, and a horseshoe-shaped harbour below the cliffs. Restored rather than reconstructed, and a real neighbourhood rather than a museum."
+      },
+      {
+        "title": "Mountains behind the beach",
+        "text": "The Taurus range rises to over 3,000 metres within 50 km of the coast, which means canyons, waterfalls, alpine plateaus and — in spring — the possibility of skiing in the morning and swimming in the afternoon."
+      },
+      {
+        "title": "It works as a winter destination",
+        "text": "Antalya averages 15–17°C in January with a great deal of sun. The sea is too cold to swim but the ruins are empty, prices are low and the city is fully functional."
+      }
+    ]
+  },
+  "attractionsIntro": "Kaleiçi and the museum fill a day. The Roman sites in the plain behind need a car or a tour and are the reason to stay longer.",
+  "attractions": [
+    {
+      "name": "Kaleiçi old town",
+      "text": "The walled quarter on the cliff, with lanes of restored Ottoman houses, the Roman-era harbour below, the fluted Yivli Minare of 1230, and the Kesik Minare — a building that has been a Roman temple, a Byzantine church and a mosque.",
+      "tip": "Wander without a route. The lanes are short and you will emerge at the walls or the cliff edge within a few minutes whichever way you go."
+    },
+    {
+      "name": "Hadrian's Gate",
+      "text": "A triple-arched marble gateway built in 130 AD for the emperor's visit, set into the old city walls, with the original Roman road surface visible beneath it — deeply rutted by cartwheels.",
+      "tip": "The rutted paving is the detail most people miss. Look down as you walk through."
+    },
+    {
+      "name": "Antalya Archaeological Museum",
+      "text": "Thirteen galleries covering the region from prehistory to the Ottomans, with an outstanding hall of Roman statuary excavated at Perge — emperors, gods and dancers in near-perfect condition — plus sarcophagi and a room of Byzantine icons.",
+      "tip": "Two hours minimum. Do it before visiting Perge, which makes the empty site far more legible."
+    },
+    {
+      "name": "Aspendos",
+      "text": "Forty-five kilometres east, a Roman theatre of about 155 AD seating 12,000, with the stage building intact to its full height — vanishingly rare. It survived because the Seljuks used it as a caravanserai and maintained it.",
+      "tip": "Stand at the top and have someone speak from the stage. The acoustics genuinely work. The aqueduct nearby is also substantial."
+    },
+    {
+      "name": "Perge",
+      "text": "Eighteen kilometres east, a large Roman city with a colonnaded main street complete with the water channel that ran down its centre, a stadium seating 12,000, monumental gates and extensive baths.",
+      "tip": "Much of the statuary now in the Antalya Museum came from here. Very little shade — go early."
+    },
+    {
+      "name": "Termessos",
+      "text": "A Pisidian city high in the Taurus mountains at about 1,000 m, which Alexander the Great declined to besiege. Ruins scattered across a forested mountainside, with a theatre on the edge of a precipice.",
+      "tip": "A steep 30-minute climb from the car park. Far and away the most dramatically sited ruin in the region and the least visited."
+    },
+    {
+      "name": "The waterfalls",
+      "text": "The Düden falls drop directly into the sea from a cliff on the city's eastern edge, and an upper section falls into a pool you can walk behind. The Kurşunlu falls sit in a wooded canyon 20 km inland.",
+      "tip": "The Lower Düden falls are best seen from a boat. The upper falls and Kurşunlu are pleasant, shaded and easily reached."
+    },
+    {
+      "name": "The beaches",
+      "text": "Konyaaltı west of the city is a long pebble beach beneath the mountains; Lara to the east is sand. Both are city beaches with full facilities. The better swimming is west towards Kemer and Olympos.",
+      "tip": "Konyaaltı has the mountain backdrop and is a short tram ride from Kaleiçi."
+    }
+  ],
+  "thingsToDoIntro": "Antalya works best as a base: the city itself for a day and a half, and everything else as excursions inland or along the coast.",
+  "thingsToDo": [
+    {
+      "title": "Walk Kaleiçi and the harbour",
+      "text": "The walled quarter takes a couple of hours to wander, ending at the cliff-top park or down at the harbour. Hadrian's Gate, the two minarets and the Ottoman houses are all within a few hundred metres.",
+      "tip": "Early morning or after 18:00. Midday in the lanes is hot and the restaurants are at their most persistent."
+    },
+    {
+      "title": "Do the museum then the ruins",
+      "text": "The Antalya Museum holds the statues taken from Perge, so seeing it first turns an empty colonnaded street into a place you can populate. Then Perge in the morning and Aspendos in the afternoon.",
+      "tip": "A full day for the museum plus both sites, ideally with a car. Neither site has shade."
+    },
+    {
+      "title": "Climb to Termessos",
+      "text": "A mountain city at 1,000 metres in a national park, with ruins scattered through pine forest and a theatre perched above a drop. A steep half-hour climb, and you may have it entirely to yourself.",
+      "tip": "Take water and proper shoes. Cooler than the coast, and best in spring when the wildflowers are out."
+    },
+    {
+      "title": "Take a boat along the cliffs",
+      "text": "Boats leave the old harbour for the Lower Düden waterfall, the cliffs and the coves west towards Kemer. Half-day and full-day trips, with swimming stops.",
+      "tip": "The waterfall dropping straight into the sea can only be seen properly from the water."
+    },
+    {
+      "title": "Head west into Lycia",
+      "text": "The coast road west through Kemer, Olympos and Çıralı — where the Chimaera flames burn naturally from the rock — and on to Kaş and [[fethiye-oludeniz|Fethiye]]. One of the great Mediterranean drives.",
+      "tip": "The Chimaera flames are best after dark, a 30-minute walk uphill from Çıralı. Take a torch."
+    },
+    {
+      "title": "Go up into the Taurus",
+      "text": "Köprülü Canyon for rafting, the Saklıkent gorge, alpine plateaus called yayla where families move flocks in summer, and a ski resort at Saklıkent 50 km from the beach.",
+      "tip": "In March you can genuinely ski in the morning and swim in the afternoon. It is a local point of pride."
+    }
+  ],
+  "foodIntro": "Antalya's cooking is Mediterranean Turkish — olive oil, citrus, fish and vegetables — with strong influences from the mountain villages behind the coast.",
+  "foods": [
+    {
+      "name": "Piyaz",
+      "text": "The Antalya version is quite different from elsewhere: white beans with tahini, garlic, lemon and vinegar, topped with egg, and served as a substantial dish rather than a side. Traditionally eaten with köfte.",
+      "whereToTry": "Traditional restaurants in and around Kaleiçi. Ask for Antalya piyazı specifically."
+    },
+    {
+      "name": "Grilled fish",
+      "text": "Sea bass, bream and in season the migratory fish of the Mediterranean, grilled whole with lemon and rocket. Simple and dependent entirely on freshness.",
+      "whereToTry": "The old harbour and the fish restaurants along the Konyaaltı seafront."
+    },
+    {
+      "name": "Şiş köfte and tandır",
+      "text": "Grilled minced lamb on skewers and slow-cooked pit-oven meat, both staples of the mountain villages behind the coast and served throughout the city.",
+      "whereToTry": "Grill houses away from the harbour, where the prices are half and the meat is better."
+    },
+    {
+      "name": "Citrus",
+      "text": "Antalya province grows a large share of Turkey's oranges, lemons and pomegranates. Fresh juice is sold from carts everywhere, pressed in front of you for very little.",
+      "whereToTry": "Street carts throughout the city, and the roadside stalls on the way to Perge and Aspendos."
+    },
+    {
+      "name": "Hibeş and mountain meze",
+      "text": "Hibeş is a tahini, garlic and cumin dip specific to Antalya, served with bread. It appears alongside the standard Mediterranean meze of aubergine, yoghurt and herbs.",
+      "whereToTry": "Meyhanes and traditional restaurants. Ordered as part of a meze spread."
+    },
+    {
+      "name": "Bici bici and dondurma",
+      "text": "Bici bici is a summer dessert of shaved ice with rose syrup and starch cubes, from nearby Mersin. Maraş dondurma is the stretchy mastic ice cream sold by vendors who make a performance of handing it over.",
+      "whereToTry": "Street stands along the seafront and in Kaleiçi, from late spring through summer."
+    }
+  ],
+  "accommodation": {
+    "intro": "Kaleiçi's converted Ottoman houses are the best places to stay in Antalya and are far more interesting than the resort strips either side of the city.",
+    "areas": [
+      {
+        "name": "Kaleiçi",
+        "bestFor": "The best base by a wide margin",
+        "text": "Restored Ottoman houses converted into small hotels inside the walled old town, with courtyards, pools and the harbour below. Atmospheric, central and walkable to everything in the city."
+      },
+      {
+        "name": "Konyaaltı",
+        "bestFor": "The beach and the mountains",
+        "text": "West of the centre along a long pebble beach with the Taurus rising behind it, and the archaeological museum at its eastern end. A tram ride from Kaleiçi and more modern in feel."
+      },
+      {
+        "name": "Lara",
+        "bestFor": "Sandy beach and large hotels",
+        "text": "East of the city, with sand rather than pebbles and a strip of large all-inclusive resorts. Convenient for the airport and for Perge and Aspendos, less so for the old town."
+      },
+      {
+        "name": "Kemer and Olympos",
+        "bestFor": "The Lycian coast",
+        "text": "Forty minutes to an hour and a half west, where the mountains meet the sea. Olympos and Çıralı in particular have treehouse guesthouses, ruins in the woods and the Chimaera flames."
+      },
+      {
+        "name": "Side",
+        "bestFor": "Ruins on a beach",
+        "text": "An hour east, a resort town built among and around a Roman city, with a temple of Apollo on the point and a theatre in the middle of the shopping streets. Busy and genuinely striking."
+      }
+    ],
+    "budget": [
+      { "label": "Pension in Kaleiçi", "value": "€30–60 per night" },
+      { "label": "Boutique Ottoman house hotel", "value": "€70–150 per night" },
+      { "label": "All-inclusive resort", "value": "€80–200 per night, often cheaper booked as a package" },
+      { "label": "Site entry", "value": "€10–20 each for Aspendos, Perge and Termessos" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Antalya's airport is one of the busiest in Turkey, handling enormous charter volumes from Europe alongside scheduled flights.",
+    "options": [
+      {
+        "mode": "Antalya Airport (AYT)",
+        "text": "Thirteen kilometres east of the city, with direct flights from across Europe and Russia plus frequent domestic services. The tram connects to the city centre in about 40 minutes.",
+        "detail": "Extremely busy in summer with charter traffic. Allow extra time at check-in and passport control."
+      },
+      {
+        "mode": "Bus",
+        "text": "Antalya's otogar connects to everywhere. [[fethiye-oludeniz|Fethiye]] is about 4h along the coast road, [[pamukkale]] 4h30, [[cappadocia]] 9h and Istanbul 12h overnight.",
+        "detail": "The coastal bus west to Fethiye is slow and spectacular. Sit on the right."
+      },
+      {
+        "mode": "By car",
+        "text": "Essential for Termessos and useful for Aspendos and Perge. The coast road west towards Kaş and Fethiye is one of the great Mediterranean drives.",
+        "detail": "Hire at the airport. Roads are good and the mountain sections are winding but well surfaced."
+      },
+      {
+        "mode": "Onward along the coast",
+        "text": "West through Kemer, Olympos, Kaş and Kalkan to [[fethiye-oludeniz|Fethiye]], about 4h with stops, or east to Side and Alanya.",
+        "detail": "Antalya is the eastern anchor of the Turquoise Coast route and Fethiye the western."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Kaleiçi is walkable and the tram covers the city. The ruins inland need a car or an organised tour.",
+    "options": [
+      {
+        "mode": "Walking Kaleiçi",
+        "text": "The old town is only a few hundred metres across and entirely pedestrian in its core, dropping steeply to the harbour. Everything within it is five minutes from everything else.",
+        "detail": "Lanes are cobbled and steep in places. The harbour is reached by stairs or a lift."
+      },
+      {
+        "mode": "The tram",
+        "text": "A modern line runs from the airport through the city past the museum to Konyaaltı, plus a heritage tram along the seafront through Kaleiçi.",
+        "detail": "Cheap and straightforward. The nostalgic tram is slow and largely for the view."
+      },
+      {
+        "mode": "Rental car",
+        "text": "The practical way to reach Termessos, Perge, Aspendos and the Lycian coast west. Distances are short — Perge is 20 minutes, Aspendos 45.",
+        "detail": "Parking in Kaleiçi is very limited. Most old-town hotels arrange something nearby."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Half and full-day trips cover Perge, Aspendos and Side together, or Termessos with the waterfalls. A reasonable option without a car.",
+        "detail": "The standard Perge–Aspendos–Side tour is efficient but rushed. Two sites in a day is better."
+      },
+      {
+        "mode": "Dolmuş and buses",
+        "text": "Minibuses run east and west along the coast and inland to the villages. Perge is reachable by dolmuş; Aspendos and Termessos really are not.",
+        "detail": "Fine for the beaches and the nearer sites, impractical for the mountains."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Antalya has the warmest winters in Turkey and genuinely hot summers. The shoulder seasons give you swimmable sea and bearable ruins at the same time, which July does not.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The best window: 20–30°C, wildflowers in the mountains, sea warm enough to swim from late May, and the archaeological sites comfortable. In March you can ski and swim on the same day."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot and humid at 33–40°C, with the resort coast at capacity and prices at their peak. The sea is lovely; Perge and Aspendos in the middle of the day are genuinely unwise."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. Sea at its warmest in September, heat easing, crowds gone after the first week, and the Aspendos opera festival in the theatre. October is still swimmable."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "The mildest winter in Turkey at 15–17°C with a lot of sun. Too cold to swim, but the ruins are empty, the city is fully open, and prices are at their lowest. Snow on the Taurus behind the beach."
+      }
+    ],
+    "avoid": "Perge, Aspendos and Termessos have almost no shade. In summer they should only be visited at opening or in the last two hours, and Termessos involves a steep climb that is genuinely hard in the heat."
+  },
+  "itinerary": {
+    "title": "Four days in Antalya and around",
+    "intro": "The city and museum first, then the Roman sites, then the mountains and the coast. Assumes a Kaleiçi base and a hire car from day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Kaleiçi",
+        "summary": "The walled town, the harbour and the museum.",
+        "morning": "Hadrian's Gate, the Yivli Minare and the lanes of the old town.",
+        "afternoon": "The Antalya Archaeological Museum — two hours, and the best in the country outside the capitals.",
+        "evening": "The harbour at sunset, then dinner in Kaleiçi."
+      },
+      {
+        "day": 2,
+        "title": "Perge and Aspendos",
+        "summary": "Two Roman cities, both needing an early start.",
+        "morning": "Perge at opening — the colonnaded street, the stadium and the baths.",
+        "afternoon": "Aspendos and its intact theatre, plus the aqueduct nearby.",
+        "evening": "Back to Antalya, or continue to Side for the temple on the point at sunset."
+      },
+      {
+        "day": 3,
+        "title": "Termessos and the waterfalls",
+        "summary": "Up into the Taurus, where it is cooler.",
+        "morning": "Termessos — a steep climb to a mountain city Alexander declined to besiege.",
+        "afternoon": "The Kurşunlu or Upper Düden waterfalls, both shaded and easy.",
+        "evening": "Konyaaltı beach for a swim beneath the mountains."
+      },
+      {
+        "day": 4,
+        "title": "West into Lycia",
+        "summary": "The coast road, and the flames.",
+        "morning": "Drive west through Kemer to Olympos — ruins scattered through woodland behind a beach.",
+        "afternoon": "Swim at Çıralı, then rest before dark.",
+        "evening": "The Chimaera flames after sunset, a 30-minute uphill walk with a torch."
+      }
+    ]
+  },
+  "tipsIntro": "Antalya specifics, several of which are about not wasting the city itself.",
+  "tips": [
+    "Stay in Kaleiçi rather than the resort strips. Converted Ottoman houses inside the walls cost less than the all-inclusives, put you in a genuine old town, and are the main reason Antalya is more than an airport.",
+    "Visit the Antalya Museum before Perge. Almost all the statuary from the site is in the museum, so seeing it first turns an empty colonnaded street into somewhere you can picture populated.",
+    "Aspendos, Perge and Termessos have essentially no shade. Go at opening or in the last two hours, and treat midday in July and August as unusable.",
+    "Termessos needs a car and a steep thirty-minute climb, and it is the most dramatically sited ruin in the region with almost nobody there. Take water and proper shoes.",
+    "The Chimaera flames at Çıralı burn naturally from the rock and are best after dark, reached by a 30-minute uphill walk. Take a torch — there is no lighting on the path.",
+    "The coast road west towards Kaş and Fethiye is one of the great Mediterranean drives and is worth doing even as an out-and-back day trip if you are not continuing.",
+    "Antalya's airport handles enormous charter volumes in summer. Allow substantially more time than usual for check-in and passport control between June and September.",
+    "Ask for Antalya piyazı specifically — the local version with tahini is quite different from the plain bean salad served elsewhere in Turkey, and it is a proper dish rather than a side."
+  ],
+  "faq": [
+    {
+      "q": "Is Antalya worth visiting or is it just a resort?",
+      "a": "The resort strips either side of the city are exactly what their reputation suggests, but Antalya itself has a walled Ottoman old town on a cliff above a Roman harbour, the best archaeological museum in Turkey outside Istanbul and Ankara, and four major classical sites within an hour. Staying in Kaleiçi rather than an all-inclusive changes the trip entirely."
+    },
+    {
+      "q": "What are the best Roman sites near Antalya?",
+      "a": "Aspendos, 45 minutes east, has a theatre from about 155 AD with its stage building intact to full height — one of very few anywhere — and it still hosts concerts. Perge, 20 minutes east, is a large city with a colonnaded street and a stadium. Termessos, an hour inland at 1,000 m in the mountains, is the most dramatic and the least visited."
+    },
+    {
+      "q": "When is the best time to visit Antalya?",
+      "a": "April to June and September to October. Spring gives wildflowers in the Taurus and comfortable conditions for the ruins, with the sea swimmable from late May. September has the warmest sea of the year. Summer reaches 33–40°C, which makes the unshaded archaeological sites genuinely unwise in the middle of the day. Winter is the mildest in Turkey at 15–17°C."
+    },
+    {
+      "q": "Where should I stay in Antalya?",
+      "a": "Kaleiçi, the walled old town, where Ottoman houses have been converted into small hotels with courtyards and pools. It is central, atmospheric, walkable to the harbour and the museum, and considerably more interesting than the resort strips at Lara or Belek. For a beach-focused stay, Konyaaltı has the mountain backdrop and a tram into the old town."
+    },
+    {
+      "q": "Can you swim in Antalya?",
+      "a": "Yes, from late May to late October. Konyaaltı west of the city is a long pebble beach with the Taurus mountains rising behind it; Lara to the east is sand. Both are city beaches with full facilities. The better swimming is west towards Kemer, Olympos and Çıralı, where the mountains come down to the sea."
+    },
+    {
+      "q": "What are the Chimaera flames?",
+      "a": "Natural flames burning from vents in the rock above Çıralı, an hour and a half west of Antalya, fuelled by methane seeping from underground. They have burned continuously for thousands of years and gave rise to the myth of the Chimaera. Best seen after dark, reached by a 30-minute uphill walk — take a torch, as the path is unlit."
+    },
+    {
+      "q": "How do you get from Antalya to Fethiye?",
+      "a": "About four hours by road along the coast, through Kemer, Olympos, Kaş and Kalkan — one of the great Mediterranean drives, and worth doing slowly with stops. Buses run frequently and take a little longer. Antalya and Fethiye are the two anchors of the Turquoise Coast, and the road between them is much of the point."
+    }
+  ],
+  "related": ["fethiye-oludeniz", "bodrum", "ephesus", "amalfi-coast"],
+  "relatedArticles": ["best-time-southern-europe", "unesco-worth-planning-around", "underrated-destinations"]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "underrated-destinations",
+  "title": "Beyond the Big Names: Places Worth the Detour",
+  "kicker": "Where to go",
+  "subtitle": "Every country has a famous shortlist and a second tier that is often better. Here is how to find the second tier.",
+  "summary": "The most visited place in a country is rarely its best, and it is almost never its best value. This is a method for finding the destinations that do not make the postcards — and a set of examples from the five countries on this site.",
+  "readingTime": "8 min read",
+  "image": {
+    "file": "File:View of Puente Nuevo bridge in Ronda Spain.jpg",
+    "alt": "A stone bridge spanning a deep gorge beneath a hilltop town"
+  },
+  "featuredDestinations": ["dordogne-sarlat", "puglia-matera", "trabzon-black-sea"],
+  "sections": [
+    {
+      "id": "why",
+      "title": "Why the famous shortlist is usually incomplete",
+      "navLabel": "Why",
+      "body": [
+        "The most-visited places in any country got that way through a mixture of genuine merit and historical accident — an airport, a cruise terminal, a film, a rail line built in 1870. Merit is only part of it. The consequence is that most countries have a well-known top five that everyone visits and a second tier of six to fifteen places that are frequently as good and sometimes better, at half the cost and a tenth of the crowd.",
+        "There is also a self-reinforcing effect. Once a place is on the standard itinerary, its economy reorganises around visitors: menus get photographs, prices rise, and the things that made it worth visiting get progressively harder to reach through the machinery built to deliver you to them. The second-tier place has none of that yet.",
+        "None of this means avoiding famous places. [[paris|Paris]] is famous because it is extraordinary, and skipping the Alhambra to be contrarian is a bad trade. It means allocating a trip so that the famous places are two of your five stops rather than all five."
+      ]
+    },
+    {
+      "id": "how-to-find",
+      "title": "Four ways to find them",
+      "navLabel": "How to find them",
+      "tone": "tint",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Look one stop past the famous one",
+          "text": "The town an hour beyond the destination everyone stops at is frequently similar in character and completely different in atmosphere, because the coach tours turn around before they reach it. This works with startling reliability on coastlines and along wine routes.",
+          "tip": "On a map, find the famous place, then look for towns of similar size 40–80 km further along the same road or rail line."
+        },
+        {
+          "title": "Follow the food, not the sights",
+          "text": "Regions with a distinct cuisine almost always have a distinct culture and history behind it, and food regions map poorly onto tourist regions. [[strasbourg-alsace|Alsace]], Emilia-Romagna, Galicia and Gaziantep are all food-famous and visitor-light.",
+          "tip": "Search for a region's protected products — cheeses, wines, cured meats. They mark cultural boundaries better than any guidebook."
+        },
+        {
+          "title": "Go where the country's own people holiday",
+          "text": "Domestic holiday destinations are usually good and usually cheap, because they are priced for locals rather than for international visitors. They are also where you find the version of a country that is not performing for an audience.",
+          "tip": "August is the month to identify these, and September is the month to visit them."
+        },
+        {
+          "title": "Prefer regions to single sights",
+          "text": "A famous single sight concentrates everybody in one place at one time. A region — a valley, a coastline, a wine route — spreads the same number of people across fifty kilometres, which changes the experience completely even when total visitor numbers are similar.",
+          "tip": "[[dordogne-sarlat|The Dordogne]] and [[loire-valley|the Loire]] both work this way: busy at the headline sites, empty ten minutes away."
+        }
+      ]
+    },
+    {
+      "id": "examples-france",
+      "title": "Examples from the five countries",
+      "navLabel": "Examples",
+      "body": [
+        "Each of the countries on this site has an obvious shortlist and a much longer set of places that reward the detour. A few of the strongest, drawn from the ten-destination lists elsewhere on the site."
+      ],
+      "list": [
+        {
+          "title": "France: the Dordogne and Alsace",
+          "text": "[[dordogne-sarlat|The Dordogne]] holds Europe's densest concentration of prehistoric art, the best-preserved medieval town in France and its richest regional cooking, and rarely makes an international top five. [[strasbourg-alsace|Alsace]] has a wine route of half-timbered villages and a food culture that belongs to neither France nor Germany.",
+          "tip": "Both are far quieter in September and October than in August, with better weather than their reputation suggests."
+        },
+        {
+          "title": "Spain: Córdoba and Galicia",
+          "text": "Córdoba's Mezquita — a forest of 856 columns under striped arches, with a cathedral built inside it — is arguably more astonishing than anything in Seville, and receives a fraction of the visitors. Galicia in the northwest is green, Atlantic, Celtic-influenced and completely unlike the Spain of the brochures.",
+          "tip": "Córdoba is 45 minutes from Seville by high-speed train, which makes it an easy addition rather than a detour."
+        },
+        {
+          "title": "The United States: Charleston and southern Utah",
+          "text": "Charleston preserves more pre-1840 American architecture than any other city, in a walkable peninsula few international visitors reach. Southern Utah's canyon country delivers landscape on the scale of the Grand Canyon with a fraction of the visitor infrastructure.",
+          "tip": "The US rewards this approach more than most countries, because international visitors concentrate very heavily in about eight cities."
+        },
+        {
+          "title": "Turkey: the Black Sea coast and the southeast",
+          "text": "Turkey's Black Sea coast is green, mountainous and cool — closer to alpine than to Mediterranean — and almost entirely absent from foreign itineraries. The southeast around Şanlıurfa and Gaziantep holds Göbekli Tepe and the country's best food.",
+          "tip": "These regions require more planning than the coast and repay it more."
+        },
+        {
+          "title": "Italy: Puglia and the Dolomites",
+          "text": "Puglia has the trulli of Alberobello, the cave city of Matera, a long coastline and a distinct cuisine, at prices well below Tuscany. The Dolomites are UNESCO-listed limestone peaks with a bilingual Austrian-influenced culture that surprises everyone who goes.",
+          "tip": "Both are best in late spring and September; Puglia is fiercely hot in August and the Dolomite lifts close in the shoulder months."
+        }
+      ]
+    },
+    {
+      "id": "trade-offs",
+      "title": "The honest trade-offs",
+      "navLabel": "Trade-offs",
+      "tone": "tint",
+      "body": [
+        "Less-visited places are less visited for reasons, and not all of the reasons are unfair. It is worth going in with clear expectations.",
+        "Transport is usually the first difference. Second-tier destinations are frequently the ones the railway does not reach, which means a rental car, a longer transfer, or both. Budget an extra half-day at each end compared with a well-connected city.",
+        "English is less widely spoken, opening hours are less geared to visitors, and there may be two restaurants rather than forty. Sunday and Monday closing bites harder in a small town than in a capital. And in genuinely rural regions, the low season can mean that hotels and restaurants simply shut from November to March.",
+        "Against that: prices are typically 30–50% lower, you will be treated as a person rather than as a transaction, and the thing you came to see will not have a queue. For most travellers that is a good trade — but it is a trade, and it works best when at least one stop on the itinerary is somewhere easy."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How do I find less touristy places in a country?",
+      "a": "Four methods work consistently: look one stop beyond the famous destination, since coach routes turn around before they get there; follow distinct regional cuisines, which mark cultural boundaries that tourist maps miss; go where the country's own people take their holidays; and prefer regions to single sights, because a valley spreads visitors across fifty kilometres while a monument concentrates them in one courtyard."
+    },
+    {
+      "q": "Are less-visited places actually cheaper?",
+      "a": "Usually 30–50% cheaper for accommodation and restaurant meals, because they are priced for a domestic market rather than an international one. The saving is partly offset by higher transport costs — these are often the places the train does not reach, so a rental car or a longer transfer is common."
+    },
+    {
+      "q": "What are the downsides of going somewhere less popular?",
+      "a": "Fewer transport options, less English spoken, fewer restaurants, and opening hours geared to residents rather than visitors — Sunday and Monday closures hit much harder in a small town. In genuinely rural regions much of the tourist infrastructure closes entirely from November to March. It is worth pairing one such destination with one easy, well-connected base."
+    },
+    {
+      "q": "Should I skip the famous sights entirely?",
+      "a": "No. Famous places are usually famous for good reasons, and avoiding the Alhambra or the Louvre to be contrarian is a poor trade. The better approach is allocation: make the famous places two of your five stops rather than all five, visit them in the first or last hour of the day, and give the rest of the trip to places nobody has photographed for you already."
+    },
+    {
+      "q": "When is the best time to visit less-touristy destinations?",
+      "a": "May, June, September and early October — the same shoulder seasons that work everywhere, but with an additional benefit here. Smaller destinations often have a much shorter open season than major cities, so the shoulder months are when everything is running but the domestic holiday crowds have not arrived or have already left."
+    }
+  ],
+  "readNext": ["food-primer", "unesco-worth-planning-around", "week-cost-five-countries"]
+}

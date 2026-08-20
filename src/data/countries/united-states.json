@@ -1,0 +1,396 @@
+{
+  "slug": "united-states",
+  "name": "United States",
+  "inlineName": "the United States",
+  "continent": "North America",
+  "countryCode": "US",
+  "tagline": "A canyon a mile deep, a city built on jazz, a supervolcano full of wildlife and 3,000 miles of country between them.",
+  "cardDescription": "Too big to see in one trip and too varied to generalise about. The trick is picking one region and going deep rather than crossing the map.",
+  "metaDescription": "A complete United States travel guide: the 10 best places to visit, national park planning, road trips, tipping and costs, when to go, and a two-week itinerary.",
+  "image": {
+    "file": "File:Forrest Gump Point Monument Valley November 2018 001.jpg",
+    "alt": "A straight desert road running towards the sandstone buttes of Monument Valley"
+  },
+  "destinations": [
+    "new-york-city",
+    "grand-canyon",
+    "san-francisco",
+    "new-orleans",
+    "yellowstone",
+    "washington-dc",
+    "zion-southern-utah",
+    "chicago",
+    "maui",
+    "charleston"
+  ],
+  "intro": [
+    "The United States is 4,500 kilometres from coast to coast — roughly the distance from Lisbon to Moscow — and the single biggest mistake visitors make is treating it as one destination. New York and the Grand Canyon are further apart than London and Istanbul. A trip that tries to include both plus California is a trip spent on aeroplanes.",
+    "It helps to think in regions instead. The Northeast is dense, old by American standards, and walkable. The South has its own food, music and history, and moves at a different speed. The Southwest is canyon country — an arid, geologically spectacular landscape best seen by car. The West Coast has cities and coastline. The Mountain West has the great wilderness parks. And Hawai'i is 4,000 kilometres out into the Pacific and barely comparable to any of it.",
+    "This guide covers ten destinations picked to span that range: three major cities of very different character, a capital, a Southern port town most international visitors never reach, three of the world's great national parks, a canyon-country region, and a Pacific island. Pick one region, or two adjacent ones, and the country becomes manageable."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each to a first-time visitor, though in a country this size the honest answer depends entirely on which corner you fly into.",
+  "thingsToDoIntro": "The experiences that recur across regions, and that make an American trip feel American wherever you end up.",
+  "thingsToDo": [
+    {
+      "title": "Take a road trip",
+      "text": "The car is the country's defining travel mode and the landscape is built around it. The Southwest's canyon loop, California's Highway 1, the Blue Ridge Parkway and the roads through [[yellowstone]] are all destinations in themselves rather than ways of reaching one.",
+      "tip": "Distances are enormous. Two hundred miles a day is a pleasant drive; four hundred is a chore that eats the day."
+    },
+    {
+      "title": "Visit a national park properly",
+      "text": "The park system covers 85 million acres and the best of it is world-class. But the famous parks now require reservations, timed entry or shuttle systems in high season, and turning up unplanned increasingly does not work.",
+      "tip": "Check each park's current reservation system months ahead. Rules change every year and vary by park."
+    },
+    {
+      "title": "Eat regionally",
+      "text": "American food is entirely regional and the national version is the worst of it. Creole and Cajun in [[new-orleans|Louisiana]], barbecue that changes every 200 miles, Lowcountry cooking in [[charleston|South Carolina]], Californian produce, Hawaiian plate lunch.",
+      "tip": "Ask what the local speciality is and order that. The regional divides are real and locals take them seriously."
+    },
+    {
+      "title": "See live music where it started",
+      "text": "Jazz in New Orleans, blues in Chicago and the Mississippi Delta, country in Nashville, and a live scene in almost every mid-sized city. Much of it happens in small bars with no cover charge.",
+      "tip": "In New Orleans, Frenchmen Street rather than Bourbon Street. In Chicago, the South and West Side clubs."
+    },
+    {
+      "title": "Use the cities on foot",
+      "text": "The American reputation for being un-walkable is regional. [[new-york-city|New York]], [[san-francisco]], [[chicago]], [[new-orleans]], [[charleston]] and [[washington-dc|Washington]] are all excellent walking cities with real public transport.",
+      "tip": "Outside those, and outside downtown cores generally, a car is usually necessary."
+    },
+    {
+      "title": "Go to a game",
+      "text": "Baseball, American football, basketball or ice hockey. The sport matters less than the experience, which is a large and specific part of American public life — and baseball in particular is cheap and pleasantly slow.",
+      "tip": "Baseball runs April to September and tickets are often under $30. It is the easiest one to walk into without prior knowledge."
+    }
+  ],
+  "foodIntro": "There is no single American cuisine; there are a dozen strong regional ones, and the difference between them is larger than between many European countries.",
+  "foods": [
+    {
+      "name": "Barbecue",
+      "text": "Meat smoked slowly over wood, and fiercely regional. Texas does beef brisket with salt and pepper; the Carolinas do whole hog with vinegar; Kansas City uses sweet tomato sauce; Memphis does ribs. These are not variations, they are separate traditions.",
+      "whereToTry": "Texas, the Carolinas, Memphis and Kansas City. Look for a wood pile outside and a queue at 11:00."
+    },
+    {
+      "name": "Creole and Cajun cooking",
+      "text": "Gumbo, jambalaya, étouffée and po'boys from [[new-orleans|Louisiana]] — a fusion of French, Spanish, West African and Caribbean traditions found nowhere else. Creole is the city version, Cajun the country one.",
+      "whereToTry": "New Orleans and the bayou country west of it."
+    },
+    {
+      "name": "Lowcountry food",
+      "text": "The coastal South Carolina and Georgia tradition — shrimp and grits, she-crab soup, Hoppin' John, benne wafers — shaped substantially by West African cooking brought by enslaved people who grew the region's rice.",
+      "whereToTry": "[[charleston|Charleston]] and Savannah."
+    },
+    {
+      "name": "The American breakfast",
+      "text": "Pancakes, biscuits and gravy, hash browns, eggs any of six ways, and bottomless coffee, served in diners from 06:00. Enormous, cheap, and a genuine institution.",
+      "whereToTry": "Diners everywhere. The further from a tourist district, the better it usually is."
+    },
+    {
+      "name": "Hawaiian plate lunch and poke",
+      "text": "Two scoops of rice, macaroni salad and a protein — a legacy of the sugar plantations' mixed workforce. Poke is raw cubed fish with soy, sesame and onion, sold at supermarket counters.",
+      "whereToTry": "[[maui|Maui]] and the rest of Hawai'i. The supermarket poke counters are genuinely excellent."
+    },
+    {
+      "name": "New York pizza and the deli",
+      "text": "Wide thin slices folded to eat while walking, and Jewish delicatessen food — pastrami on rye, bagels with lox, matzo ball soup — brought by Eastern European immigrants and now definitively of the city.",
+      "whereToTry": "[[new-york-city|New York]]. Slices at neighbourhood counters, not the ones on Times Square."
+    },
+    {
+      "name": "Californian cooking",
+      "text": "Produce-led, lighter and heavily influenced by Mexican and East Asian cooking. Also the birthplace of the American food truck revival and of the burrito as most of the world now knows it.",
+      "whereToTry": "[[san-francisco|San Francisco]] and the Bay Area. The Mission district for burritos, the Ferry Building for produce."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Most of what catches visitors out in the United States is not logistics but cost structure — tipping, taxes and health care.",
+  "practical": {
+    "capital": "Washington, D.C.",
+    "language": "English. Spanish is very widely spoken, particularly in the Southwest, Florida and major cities.",
+    "currency": "US dollar ($)",
+    "money": "Cards everywhere and contactless is now near-universal. Note that sales tax is added at the till, not shown on the price tag, and varies by state and city — typically 4–10%.",
+    "visa": "Most European, UK, Australian, NZ, Japanese and South Korean citizens travel visa-free under the Visa Waiver Program but must obtain an ESTA online before departure, ideally at least 72 hours ahead. Others need a B-2 visitor visa, which can take months to arrange.",
+    "plugs": "Type A and B, 120 V, 60 Hz. European appliances need a voltage-compatible charger, not just a plug adapter.",
+    "emergency": "911 for police, fire and medical, nationwide.",
+    "tipping": "Not optional in practice. 18–22% at sit-down restaurants, $1–2 per drink at a bar, 15–20% for taxis, $2–5 per night for housekeeping. Restaurant staff are frequently paid below minimum wage on the assumption of tips.",
+    "safety": "Safe for visitors in the areas they typically use. Gun violence is statistically concentrated and rarely affects tourists, but it is real. The greater practical risks are road accidents on long drives, dehydration and heat in the desert parks, and wildlife in the mountain parks.",
+    "connectivity": "Excellent 4G and 5G in cities and along interstates; genuinely absent in large parts of the national parks and rural West. Download offline maps before any park visit.",
+    "timeZone": "Six zones across the states: Eastern (UTC−5), Central, Mountain, Pacific, Alaska and Hawai'i (UTC−10). Arizona does not observe daylight saving; Hawai'i does not either.",
+    "budget": [
+      { "label": "Backpacker", "value": "$110–170 per day — hostels, self-catering, shared car costs" },
+      { "label": "Mid-range", "value": "$220–330 per day — mid-range hotel, one restaurant meal, car hire" },
+      { "label": "Comfortable", "value": "$380–600 per day — good hotels, restaurants, internal flights" },
+      { "label": "Add on top", "value": "Sales tax at the till, 18–22% restaurant tips, resort fees and parking in cities" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "A country spanning six time zones and every climate from subarctic to tropical has no single answer. The general rule works for most of it: late spring and early autumn avoid both the summer crowds and the seasonal extremes. The parks and the desert have their own calendars.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The strongest all-round window. The Southwest deserts are warm rather than dangerous, the national parks open fully through May and June, and the cities are pleasant. Yellowstone's roads open progressively from late April."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Peak season everywhere. The parks are at capacity and often require reservations, prices peak, and the Southwest regularly exceeds 40°C. Good for the mountain parks and the Pacific Northwest; punishing in the desert and humid in the South."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "September is arguably the best month in the country: the parks quieten after Labor Day, the desert cools, New England colour arrives in October, and hurricane risk aside the South becomes comfortable again."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cities are cheap and atmospheric, the Southwest parks are cold but empty, and Hawai'i and Florida are at their best. Yellowstone's roads mostly close and are served only by snowcoach; high-elevation Utah can be snowbound."
+      }
+    ],
+    "avoid": "Memorial Day, Independence Day and Labor Day weekends, when domestic travel peaks and the parks are at their fullest. Atlantic hurricane season runs June to November and peaks in September, which matters for the Southeast and the Gulf."
+  },
+  "tripDuration": {
+    "headline": "12–16 days for one or two regions",
+    "summary": "The country is too large for a general tour. The correct question is not how long you need for the United States but how long you need for the part of it you have chosen.",
+    "options": [
+      {
+        "length": "5–7 days",
+        "text": "One city, done properly, possibly with one nearby addition. New York and Washington pair well by train; San Francisco pairs with the coast; New Orleans stands alone.",
+        "detail": "This is a perfectly good first American trip and far better than a rushed multi-city one."
+      },
+      {
+        "length": "10–12 days",
+        "text": "One region. The Southwest canyon loop from Las Vegas, or California from San Francisco to Los Angeles, or the Northeast cities, or the Deep South from New Orleans.",
+        "detail": "The sweet spot for a first visit, and where a rental car starts to earn its cost."
+      },
+      {
+        "length": "14–18 days",
+        "text": "Two adjacent regions, or one region plus a park circuit. San Francisco and the Southwest; New York, Washington and Charleston; or Yellowstone with the Grand Tetons and Salt Lake.",
+        "detail": "One internal flight is usually needed. Two or more means you are spending the trip in airports."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "A genuine cross-country route, or a coast plus Hawai'i. At this length a themed trip works well — the national parks of the West, the music trail from Chicago to New Orleans, or the Pacific coast end to end.",
+        "detail": "Hawai'i is a five-hour flight from California and works better as its own trip than as an add-on."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "The United States is a driving country with a handful of excellent walkable cities and a rail network that only really works in the Northeast.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential outside the major cities and for every national park. Cheap by European standards, as is fuel. Automatic transmission is standard and roads are wide and well signed.",
+        "detail": "Most companies require a driver aged 25 or over, or charge a young-driver surcharge. An international permit is rarely needed alongside a valid licence."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "The practical way to cross the country. New York to Los Angeles is six hours in the air; driving it takes four days. Fares are competitive and the network is dense.",
+        "detail": "Budget carriers charge for everything including cabin bags. Read the fare conditions before comparing prices."
+      },
+      {
+        "mode": "Trains",
+        "text": "Amtrak's Northeast Corridor between Washington, Philadelphia, New York and Boston is genuinely good and often beats flying. Long-distance routes are scenic, slow and frequently late.",
+        "detail": "The California Zephyr and Coast Starlight are journeys worth taking for their own sake, not for getting anywhere."
+      },
+      {
+        "mode": "City transit",
+        "text": "New York, Washington, Chicago, San Francisco and Boston have real subway or metro systems. Most other cities have limited bus networks and are built around driving.",
+        "detail": "Ride-hailing apps are ubiquitous and often the practical fallback in cities without transit."
+      },
+      {
+        "mode": "Park shuttles",
+        "text": "[[zion-southern-utah|Zion]], parts of [[grand-canyon|the Grand Canyon]] and several other parks close their main roads to private cars in season and run mandatory free shuttles.",
+        "detail": "Check each park's system before arriving — several have changed in recent years."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in the American Southwest",
+    "intro": "Rather than a cross-country tour, this covers one region properly: the canyon country of Arizona and Utah, plus a coastal city at the end. It is a driving route, and the driving is much of the point.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Las Vegas",
+        "morning": "Land, collect a rental car, and adjust to the time zone.",
+        "afternoon": "The Strip once, for the sheer strangeness of it, and the Neon Museum.",
+        "evening": "Early night — tomorrow is a long drive."
+      },
+      {
+        "day": 2,
+        "title": "To Zion",
+        "morning": "Drive northeast to Springdale, about 2h30.",
+        "afternoon": "The Zion shuttle up the canyon, and the Riverside Walk at the end of the road.",
+        "evening": "Springdale, with the canyon walls turning red at sunset."
+      },
+      {
+        "day": 3,
+        "title": "Zion",
+        "morning": "Angels Landing if you secured a permit, or the far safer Observation Point route.",
+        "afternoon": "The Narrows — wading up the river between 300-metre walls.",
+        "evening": "Back to Springdale."
+      },
+      {
+        "day": 4,
+        "title": "Bryce Canyon",
+        "morning": "Drive to Bryce, about 2h, climbing to 2,400 m.",
+        "afternoon": "The Navajo Loop and Queen's Garden trail down among the hoodoos.",
+        "evening": "Sunset Point, then stargazing — Bryce has some of the darkest skies in the country."
+      },
+      {
+        "day": 5,
+        "title": "Scenic Byway 12 to Capitol Reef",
+        "morning": "One of the great American drives, over Boulder Mountain and along a knife-edge ridge.",
+        "afternoon": "Capitol Reef's orchards and the Waterpocket Fold.",
+        "evening": "Torrey, a small town with surprisingly good food."
+      },
+      {
+        "day": 6,
+        "title": "To Moab",
+        "morning": "Drive southeast through the desert, about 2h30.",
+        "afternoon": "Arches National Park — Delicate Arch in the late afternoon light.",
+        "evening": "Moab."
+      },
+      {
+        "day": 7,
+        "title": "Canyonlands",
+        "morning": "Island in the Sky at sunrise — Mesa Arch and the Green River overlook.",
+        "afternoon": "Dead Horse Point, or rafting on the Colorado.",
+        "evening": "Moab again."
+      },
+      {
+        "day": 8,
+        "title": "Monument Valley",
+        "morning": "Drive south into Navajo Nation, about 2h30.",
+        "afternoon": "The valley loop drive, ideally with a Navajo guide for the backcountry.",
+        "evening": "Stay at the valley view, and note that Navajo Nation observes daylight saving when Arizona does not."
+      },
+      {
+        "day": 9,
+        "title": "Antelope Canyon and Horseshoe Bend",
+        "morning": "A guided slot canyon tour at Page — the only way to enter.",
+        "afternoon": "Horseshoe Bend, and Lake Powell.",
+        "evening": "Page."
+      },
+      {
+        "day": 10,
+        "title": "Grand Canyon South Rim",
+        "morning": "Drive west, about 2h30, and arrive at the rim.",
+        "afternoon": "The Rim Trail and Desert View Watchtower.",
+        "evening": "Sunset at Hopi Point, then a night inside the park if you booked far enough ahead."
+      },
+      {
+        "day": 11,
+        "title": "Into the canyon",
+        "morning": "Descend part of the Bright Angel or South Kaibab trail — down as far as your legs allow, remembering the climb back.",
+        "afternoon": "Rest, then the rim shuttle to the western viewpoints.",
+        "evening": "Sunrise and sunset are the two hours that matter here. Take both."
+      },
+      {
+        "day": 12,
+        "title": "West to Las Vegas or on to California",
+        "morning": "Drive back towards Las Vegas, about 4h30, or continue west.",
+        "afternoon": "Fly to [[san-francisco|San Francisco]] for the last leg.",
+        "evening": "Arrive on the coast."
+      },
+      {
+        "day": 13,
+        "title": "San Francisco",
+        "morning": "The Ferry Building, the waterfront and a cable car up Nob Hill.",
+        "afternoon": "Golden Gate Park, or the bridge on foot or by bike.",
+        "evening": "The Mission for burritos and bars."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "Alcatraz if booked, or the Presidio and Lands End coastal path.",
+        "afternoon": "Fly home from San Francisco.",
+        "evening": ""
+      }
+    ]
+  },
+  "culture": {
+    "intro": "American social norms are friendlier and more direct than in much of Europe, and the service culture is genuinely different — but it rests on a tipping system that visitors frequently get wrong, at real cost to the people serving them.",
+    "etiquette": [
+      {
+        "title": "Tipping is not optional",
+        "text": "Restaurant servers in most states are legally paid below minimum wage on the assumption that tips make up the difference. 18–22% at a sit-down restaurant is standard, $1–2 per drink at a bar, 15–20% for taxis. Leaving nothing is not a statement about service; it takes money from someone's wage."
+      },
+      {
+        "title": "Prices exclude tax",
+        "text": "Sales tax is added at the till and varies by state and city, typically 4–10%. The price on the shelf is never the price you pay, and hotel taxes and resort fees can add 15–20% on top of a quoted room rate."
+      },
+      {
+        "title": "Service is chatty by design",
+        "text": "Servers introduce themselves, check on you repeatedly and bring the bill unprompted. This is attentiveness, not a hint to leave. If you want to linger, say so."
+      },
+      {
+        "title": "Personal space and volume",
+        "text": "Americans generally stand slightly further apart than southern Europeans and speak more loudly than northern ones. Small talk with strangers — in queues, lifts, shops — is normal and friendly rather than intrusive."
+      },
+      {
+        "title": "Alcohol rules are strict and local",
+        "text": "The drinking age is 21 everywhere and ID is checked regardless of apparent age. Open containers in public are illegal in most places, and liquor laws vary sharply by state and even by county."
+      },
+      {
+        "title": "Health care is expensive",
+        "text": "There is no universal system and an uninsured emergency visit can run into thousands of dollars. Comprehensive travel insurance with medical cover is genuinely essential, not a formality."
+      }
+    ],
+    "dos": [
+      "Tip 18–22% at restaurants and $1–2 per drink at bars",
+      "Buy comprehensive travel medical insurance before you go",
+      "Get an ESTA at least 72 hours before flying if you are visa-exempt",
+      "Book national park entry, lodging and permits months ahead",
+      "Carry ID — you will be asked for it when buying alcohol at any age",
+      "Download offline maps before entering any national park"
+    ],
+    "donts": [
+      "Don't assume the shelf price is what you pay — tax is added at the till",
+      "Don't underestimate driving distances; states are the size of countries",
+      "Don't rely on mobile signal in national parks or the rural West",
+      "Don't hike in the desert parks at midday in summer, or without far more water than feels necessary",
+      "Don't approach wildlife in the parks — bison injure more Yellowstone visitors than bears do",
+      "Don't expect trains outside the Northeast Corridor to be a practical way of getting around"
+    ]
+  },
+  "tipsIntro": "The things that most often catch international visitors out, and the planning that genuinely has to happen months ahead.",
+  "tips": [
+    "Book national park lodging and permits as early as humanly possible. In-park hotels at the Grand Canyon and Yellowstone open bookings 13 months ahead and fill within days, and Zion's Angels Landing permit runs a lottery.",
+    "Sales tax is added at the till and hotel resort fees are added at checkout. Budget 10–25% above advertised prices depending on the state and the property.",
+    "Tipping is a wage, not a bonus. 18–22% at sit-down restaurants and $1–2 per drink is the norm, and servers in most states are paid below minimum wage on that assumption.",
+    "Buy travel insurance with substantial medical cover. There is no universal health system and an uninsured emergency room visit routinely costs thousands of dollars.",
+    "If you are visa-exempt, apply for an ESTA at least 72 hours before departure. It is not automatic and airlines will refuse boarding without one.",
+    "Arizona does not observe daylight saving, but Navajo Nation within it does — which means the time can change twice on a single day's drive through Monument Valley.",
+    "Mobile coverage is genuinely absent across large parts of the national parks and the rural West. Download offline maps and tell someone your route.",
+    "Distances are the single biggest planning error. Los Angeles to San Francisco is 380 miles; New York to Chicago is 790. Check drive times before assuming two places pair well."
+  ],
+  "faq": [
+    {
+      "q": "How long do you need in the United States?",
+      "a": "Long enough for one region, not the country. Twelve to sixteen days covers one or two adjacent regions properly — the Southwest canyon loop, California, the Northeast cities, or the Deep South. Five to seven days is enough for a single city done well. Attempting New York, the Grand Canyon and California in two weeks means spending the trip in airports."
+    },
+    {
+      "q": "Do I need a car in the United States?",
+      "a": "Outside the major cities, almost always. New York, Washington, Chicago, San Francisco, Boston and New Orleans are genuinely walkable with real public transport, and a car there is a liability. Everywhere else — and every national park — needs one. The usual pattern is flying between regions and renting a car within them."
+    },
+    {
+      "q": "How much should I tip in the United States?",
+      "a": "18–22% at sit-down restaurants, $1–2 per drink at a bar, 15–20% for taxis and ride-hailing, and $2–5 per night for hotel housekeeping. This is not discretionary in the way it is in Europe: servers in most states are legally paid below minimum wage on the assumption that tips make up the difference."
+    },
+    {
+      "q": "Do I need a visa to visit the United States?",
+      "a": "Citizens of most European countries, the UK, Australia, New Zealand, Japan and South Korea can travel visa-free under the Visa Waiver Program, but must obtain an ESTA online before departure — apply at least 72 hours ahead. Everyone else needs a B-2 visitor visa, which requires an interview and can take months to arrange, so start early."
+    },
+    {
+      "q": "When is the best time to visit the United States?",
+      "a": "May to June and September to October for most of the country. September is particularly good: the national parks quieten after the Labor Day weekend, the desert cools, and the humid South becomes comfortable again. July and August are peak season everywhere, with the parks at capacity and the Southwest above 40°C."
+    },
+    {
+      "q": "Do I need to book national parks in advance?",
+      "a": "Increasingly, yes. Several major parks now use timed-entry reservations, mandatory shuttles or permit lotteries in high season, and the rules change annually. In-park lodging at the Grand Canyon and Yellowstone opens 13 months ahead and fills within days. Check each park's current system rather than assuming you can turn up."
+    },
+    {
+      "q": "Is the United States expensive?",
+      "a": "Yes, and more than the headline prices suggest. Mid-range travel runs about $220–330 per person per day, and on top of quoted prices you should expect sales tax added at the till, 18–22% restaurant tips, hotel resort fees and city parking charges. Budget roughly 10–25% above advertised rates. Car hire and fuel, by contrast, are cheap by European standards."
+    }
+  ]
+}

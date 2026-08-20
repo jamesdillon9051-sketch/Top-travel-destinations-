@@ -1,0 +1,107 @@
+{
+  "slug": "europe-by-train",
+  "title": "Getting Around Europe by Train",
+  "kicker": "Transport",
+  "subtitle": "When rail beats flying, when it does not, and how to avoid paying four times what the person next to you paid.",
+  "summary": "European rail is genuinely excellent and genuinely confusing — six national operators, three completely different pricing models, and a rail pass that is either a bargain or a waste depending on where you are going. Here is how to work out which.",
+  "readingTime": "9 min read",
+  "image": {
+    "file": "File:SNCF TGV Duplex Cize-Bolozon.jpg",
+    "alt": "A double-decker TGV crossing a stone viaduct in the French countryside"
+  },
+  "featuredDestinations": ["paris", "milan", "madrid"],
+  "sections": [
+    {
+      "id": "when-train-wins",
+      "title": "When the train genuinely beats flying",
+      "navLabel": "Train vs plane",
+      "body": [
+        "The honest comparison is not flight time against journey time; it is door to door. A one-hour flight involves getting to an airport on the edge of a city, arriving two hours early, waiting for bags and then travelling back into another city centre — call it five hours minimum, and often six. A train leaves from the middle of one city and arrives in the middle of another, and you turn up five minutes before departure.",
+        "The crossover point sits at roughly four hours of rail time. Below that, the train almost always wins on total time and always wins on comfort. Paris to [[bordeaux]] is 2h05, Paris to [[strasbourg-alsace|Strasbourg]] 1h50, London to Paris 2h20, Rome to Florence 1h30, Madrid to Seville 2h30 — every one of these is faster than flying once you count the airport.",
+        "Between four and six hours it becomes a genuine trade-off, and above six the plane usually wins on time unless you take a sleeper. France has settled the argument legislatively: short domestic flights are banned on routes where a train does the same journey in under 2h30."
+      ],
+      "note": "Rail also wins decisively on luggage. There is no weight limit, no liquid rule, no fee, and no bag drop — you carry your case on and put it on a rack."
+    },
+    {
+      "id": "pricing-models",
+      "title": "The three pricing models, and why they matter",
+      "navLabel": "How fares work",
+      "tone": "tint",
+      "body": [
+        "Almost all the confusion around European rail comes from the fact that different countries price tickets in completely different ways. Get this wrong and you either overpay enormously or waste money on a pass you did not need."
+      ],
+      "list": [
+        {
+          "title": "Dynamic pricing with compulsory reservations",
+          "text": "France, Spain and Italy's high-speed services price like airlines: cheap when tickets open, expensive close to departure, and you must have a reserved seat. A Paris–Bordeaux fare ranges from about €29 to €140 for the same seat depending only on when you buy.",
+          "tip": "Tickets typically open four to six months ahead. Booking in the first week they are available is the single biggest saving available."
+        },
+        {
+          "title": "Fixed fares, no reservation needed",
+          "text": "Regional trains across most of Europe — France's TER, Italy's Regionale, Germany's RE and RB — charge the same price whenever you buy and let you board any departure. There is no advantage to booking ahead and no penalty for missing a train.",
+          "tip": "This is what makes day trips easy. You can decide over breakfast and still pay the standard fare."
+        },
+        {
+          "title": "Advance fares without compulsory reservations",
+          "text": "Germany, Switzerland, Austria and the Netherlands mostly let you buy a cheap advance ticket tied to a specific train, or a flexible full-fare ticket valid all day. You choose which trade-off you want.",
+          "tip": "If your plans might slip, the flexible fare is often worth the premium here in a way it is not in France."
+        }
+      ]
+    },
+    {
+      "id": "rail-passes",
+      "title": "Is a rail pass worth it?",
+      "navLabel": "Rail passes",
+      "body": [
+        "Interrail (for European residents) and Eurail (for everyone else) sell a pass covering a number of travel days across a period. They are excellent for some trips and a straightforward waste of money for others, and the deciding factor is which pricing model your route falls under.",
+        "A pass makes sense when you are covering long distances across several countries, when your plans are genuinely undecided, or when you are travelling mostly in countries with fixed regional fares where a pass replaces a lot of small tickets. Germany, Switzerland, Austria and the Czech Republic are pass-friendly.",
+        "A pass usually does not make sense for a trip inside France, Spain or Italy alone. Those countries' high-speed trains still require a paid seat reservation on top of the pass — typically €10–20 a leg — and if you were going to book three months out anyway, individual advance tickets are frequently cheaper than the pass plus the reservations.",
+        "The test is simple: price your actual intended route as individual advance tickets, then compare. If the pass is not clearly cheaper, buy the tickets — they are less hassle and they guarantee you a seat."
+      ],
+      "note": "Pass or no pass, seat reservations on French, Spanish and Italian high-speed trains sell out on popular routes in summer. A pass does not protect you from a full train."
+    },
+    {
+      "id": "practicalities",
+      "title": "Practicalities that catch people out",
+      "navLabel": "Practicalities",
+      "list": [
+        {
+          "title": "Cities have more than one station",
+          "text": "[[paris|Paris]] has six long-distance terminals pointing in different directions, and they are 20–40 minutes apart. Milan, Brussels, London and Barcelona all have several too. Book the station, not just the city, and check it again the night before."
+        },
+        {
+          "title": "Validate paper tickets where required",
+          "text": "Italy and some French regional services require you to stamp a paper ticket in a platform machine before boarding. An unvalidated ticket is treated as no ticket and the fine is real. Digital tickets bought in an app do not need validating."
+        },
+        {
+          "title": "Coach numbers and platform position",
+          "text": "Long platforms have lettered zones, and a 400-metre double-decker train means the difference between zone A and zone H is a five-minute walk with luggage. Displays show where your coach will stop — check before the train arrives, not after."
+        },
+        {
+          "title": "Border-crossing trains have their own rules",
+          "text": "Eurostar requires check-in and passport control 45–90 minutes ahead, as does the Channel Tunnel generally. Most other intra-Schengen services have no checks at all and you simply cross."
+        },
+        {
+          "title": "Night trains are back, partially",
+          "text": "Austria's ÖBB Nightjet network has expanded across Central Europe, and Sweden, Italy and Spain run their own sleepers. They save a hotel night and a travel day, but book far ahead — couchettes on popular routes sell out months out."
+        },
+        {
+          "title": "Buy from the national operator",
+          "text": "Third-party booking sites add fees and complicate refunds. SNCF Connect, Trenitalia, Renfe, ÖBB and Deutsche Bahn all sell in English and take foreign cards. The exception is when you genuinely need a cross-border itinerary that no single operator sells."
+        }
+      ]
+    },
+    {
+      "id": "worth-riding",
+      "title": "Journeys worth taking for their own sake",
+      "navLabel": "Scenic routes",
+      "tone": "tint",
+      "body": [
+        "A handful of European rail journeys are destinations rather than transfers. The Glacier Express across Switzerland from Zermatt to St Moritz takes eight hours to cover 180 miles and is deliberately slow. The Bernina Express crosses into Italy over a UNESCO-listed alpine line. The Flåm Railway in Norway drops 866 metres in 20 kilometres.",
+        "France has a quieter example: the Train des Merveilles from [[nice-french-riviera|Nice]] up the Roya valley into the mountains, which climbs from Mediterranean palms to alpine villages in under two hours for the price of a regional ticket. Italy's coastal line through [[cinque-terre|the Cinque Terre]] does something similar — a functional commuter service that happens to be one of the best coastal rides in Europe.",
+        "None of these need a pass or a premium fare. They are ordinary trains on ordinary tickets, which is rather the point."
+      ]
+    }
+  ],
+  "readNext": ["first-trip-to-europe", "week-cost-five-countries", "best-time-southern-europe"]
+}

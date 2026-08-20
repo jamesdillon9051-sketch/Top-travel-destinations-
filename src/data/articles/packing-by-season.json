@@ -1,0 +1,130 @@
+{
+  "slug": "packing-by-season",
+  "title": "Packing by Season and Trip Type",
+  "kicker": "Practical",
+  "subtitle": "One bag, four climates, and the specific items that matter more than any packing list suggests.",
+  "summary": "Most packing advice is a list of things. This is the opposite: the small number of decisions that determine whether your luggage helps or hinders, organised by the kind of trip you are actually taking.",
+  "readingTime": "8 min read",
+  "image": {
+    "file": "File:-TravelTuesday with My Public Lands (24898234425).jpg",
+    "alt": "A wide open landscape of hills and trail under a broad sky"
+  },
+  "featuredDestinations": ["chamonix-mont-blanc", "dolomites", "sicily"],
+  "sections": [
+    {
+      "id": "one-bag",
+      "title": "The case for one bag you can carry",
+      "navLabel": "One bag",
+      "body": [
+        "The single most useful packing decision is not what to bring but how much you can physically carry up two flights of stairs without stopping. European cities are cobbled, older buildings frequently have no lift, and a great many train stations have stairs between platforms. A bag you can lift comfortably changes what is possible — you can take the metro instead of a taxi, walk fifteen minutes to the hotel, and change plans without logistics.",
+        "In practice this means one wheeled cabin bag or a 35–45 litre backpack for most trips of up to two weeks. Beyond about two weeks the amount you need barely increases, because laundry exists everywhere: coin laundrettes in every European town, laundry services in most hotels, and a sink plus a travel clothesline for the gaps.",
+        "The corollary is packing for four or five days and repeating. Two pairs of trousers, four or five tops, one warm layer, one waterproof, and one set of something smarter. Everything in a colour that goes with everything else. This is not an ascetic exercise — it is what people who travel constantly actually do."
+      ],
+      "note": "The main exception is a trip with a genuine equipment requirement — skiing, serious hiking, diving, a wedding. Then take a second bag deliberately rather than expanding the first one past what you can carry."
+    },
+    {
+      "id": "by-season",
+      "title": "What changes by season",
+      "navLabel": "By season",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "Spring and autumn (April–June, September–October)",
+          "text": "The most demanding seasons to pack for, because the range within a single day is widest: 8°C at breakfast and 24°C by mid-afternoon is normal. Layering is the whole answer — a t-shirt, a light knit, a packable waterproof shell, and trousers rather than shorts.",
+          "tip": "A genuinely waterproof shell that packs to the size of a fist is the highest-value item for these months."
+        },
+        {
+          "title": "Summer (July–August)",
+          "text": "Southern Europe routinely exceeds 33°C inland. Light natural fabrics — linen, cotton — in loose cuts, a hat, high-factor sun cream and a refillable bottle. Bring one long-sleeved light layer for evenings and for churches, which require covered shoulders.",
+          "tip": "Air conditioning is far from universal in older accommodation. Confirm rather than assume when booking for July or August."
+        },
+        {
+          "title": "Winter (November–March)",
+          "text": "Cold and damp rather than cold and dry in most of Europe, which is harder to dress for. A properly warm layer, a waterproof outer, and shoes that keep water out matter more than a heavy coat. Days are short, so a small torch or a phone with charge left is genuinely useful.",
+          "tip": "Christmas markets involve standing outdoors for hours. Thermal base layers and warm socks make the difference."
+        },
+        {
+          "title": "Mountains, any season",
+          "text": "Altitude breaks the normal rules. It can be 25°C in the valley and below freezing at 3,800 m on the same day, as at [[chamonix-mont-blanc|the Aiguille du Midi]]. A warm layer, a windproof shell, sunglasses and sun cream go up the mountain regardless of what the weather looks like from below.",
+          "tip": "Alpine sun at altitude burns much faster than at sea level, including on cloudy days and especially over snow."
+        }
+      ]
+    },
+    {
+      "id": "footwear",
+      "title": "Shoes are the decision that matters",
+      "navLabel": "Footwear",
+      "body": [
+        "More trips are damaged by footwear than by anything else in a suitcase. Sightseeing in a European city means 12,000 to 18,000 steps a day on cobbles, uneven stone and stairs, which is a completely different load from a normal day at home.",
+        "The rule is two pairs, both already broken in, and neither of them new. One pair for walking all day — a supportive trainer or a light walking shoe. One pair that is either smarter or lighter depending on the trip: something you can wear to dinner, or sandals for a beach destination. Anything you have not worn for a full day before is a risk you are taking on holiday.",
+        "Three specific cases worth planning for. Pebble beaches — much of the [[nice-french-riviera|French Riviera]] and large parts of the Italian coast — need rubber swimming shoes, sold everywhere locally for a few euros and the difference between pleasant and painful. Churches and religious sites in Italy, Spain and Turkey generally require covered shoulders and knees, and mosques require shoes to be removed, so slip-ons are easier than laces. And in Turkey and much of southern Europe, older stone streets are polished and slippery when wet."
+      ]
+    },
+    {
+      "id": "the-short-list",
+      "title": "The things people wish they had brought",
+      "navLabel": "Worth bringing",
+      "numbered": true,
+      "list": [
+        {
+          "title": "A universal adapter with USB ports",
+          "text": "Continental Europe uses Type C and E sockets at 230 V; the UK uses Type G; the US and Turkey differ again. One adapter with two or three USB outlets replaces a bag full of chargers and lets everyone in the room charge overnight."
+        },
+        {
+          "title": "A refillable water bottle",
+          "text": "Most Italian and Spanish cities have public drinking fountains, and tap water is safe across all five countries covered on this site. In restaurants, asking for tap water rather than bottled saves money in France in particular, where it is free by law."
+        },
+        {
+          "title": "A packable waterproof",
+          "text": "Weather in northern France, Normandy and the Alps changes fast. A shell that compresses to the size of a fist means you carry it every day rather than leaving it behind on the day it rains."
+        },
+        {
+          "title": "A small daypack",
+          "text": "For the water, the layer and the camera. It also solves the museum locker problem — most large museums require bags above a certain size to be checked, and a small pack usually passes."
+        },
+        {
+          "title": "Any prescription medication, in original packaging",
+          "text": "European pharmacies are excellent and pharmacists can advise and dispense far more than in many countries, but a specific prescription may not be available. Bring what you need plus a few days' margin, in labelled packaging."
+        },
+        {
+          "title": "A physical backup of key documents",
+          "text": "A photograph of your passport, insurance details and booking confirmations, saved offline rather than in an email you need signal to reach. Phones are lost and batteries die at the worst moment."
+        }
+      ]
+    },
+    {
+      "id": "leave-behind",
+      "title": "What to leave at home",
+      "navLabel": "Leave behind",
+      "tone": "tint",
+      "body": [
+        "Travel adaptors for countries you are not visiting, a hairdryer — almost every hotel has one — and more than one book unless you have no e-reader. A full-size towel, unless you are staying in hostels that do not provide them.",
+        "Most of a first-aid kit. Pharmacies with a green cross are on nearly every high street in France, Spain and Italy, they are open long hours, and the pharmacist will diagnose and dispense for minor complaints without an appointment. Bring the specific things you rely on and buy the rest if you need it.",
+        "And most importantly, the outfits packed for a version of the trip that is not going to happen. The formal dinner you are probably not attending, the second pair of shoes for one evening, the third jacket in case. On the balance of a whole trip, the cost of not having something you can buy locally is almost always lower than the cost of carrying everything up four flights of stairs every few days."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much luggage should I take to Europe?",
+      "a": "One bag you can carry up two flights of stairs without stopping — for most people a cabin-sized wheeled case or a 35–45 litre backpack. European cities are cobbled, many older buildings have no lift, and plenty of train stations have stairs between platforms. Pack for four or five days and use laundry, which is available everywhere, rather than packing for the full trip."
+    },
+    {
+      "q": "What plug adapter do I need in Europe?",
+      "a": "Continental Europe including France, Spain, Italy and Turkey uses 230 V with Type C and Type E sockets — two round pins, with an earth pin in the wall on Type E. The UK and Ireland use Type G, and the US uses Type A and B at 110 V. A single universal adapter with two or three built-in USB ports covers everything and replaces a bag of chargers."
+    },
+    {
+      "q": "What shoes should I pack for a European city trip?",
+      "a": "Two pairs, both already broken in. One supportive walking shoe or trainer for 12,000 to 18,000 steps a day on cobbles and stairs, and one lighter or smarter pair for evenings. Never take shoes you have not already worn for a full day. If you are visiting pebble beaches on the French or Italian coast, add cheap rubber swimming shoes — or buy them locally for a few euros."
+    },
+    {
+      "q": "Do I need to dress up in Europe?",
+      "a": "Not formally, but a little more considered than in the US or Australia. Athletic wear outside a gym, beachwear away from the beach and flip-flops in a restaurant all read as odd, particularly in France and Italy. Churches, cathedrals and mosques generally require covered shoulders and knees, so one light long-sleeved layer and one pair of long trousers or a longer skirt earn their space."
+    },
+    {
+      "q": "What should I pack for the mountains in summer?",
+      "a": "Warm and windproof layers regardless of the valley forecast. On a 25°C summer day in Chamonix, the terrace at the top of the Aiguille du Midi cable car at 3,842 m can be around freezing. Add sunglasses and high-factor sun cream — alpine sun burns much faster at altitude and reflects off snow — plus proper footwear if you intend to walk any distance."
+    }
+  ],
+  "readNext": ["first-trip-to-europe", "best-time-southern-europe", "mediterranean-coasts"]
+}

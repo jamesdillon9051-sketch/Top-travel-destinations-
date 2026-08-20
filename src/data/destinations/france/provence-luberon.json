@@ -1,0 +1,384 @@
+{
+  "slug": "provence-luberon",
+  "name": "Provence & the Luberon",
+  "shortName": "Provence",
+  "country": "france",
+  "region": "Vaucluse, Provence-Alpes-Côte d'Azur",
+  "categories": [
+    "scenic",
+    "food-and-wine",
+    "historic",
+    "unesco"
+  ],
+  "tagline": "Hill villages, Roman engineering and lavender — the France that everyone pictures, an hour inland from the coast.",
+  "highlight": "The Pont du Gard, a three-tier Roman aqueduct that has stood for two thousand years without mortar.",
+  "shortDescription": "A landscape of ochre cliffs, perched stone villages and vineyards between the Rhône and the Alps, with the best-preserved Roman monuments outside Italy on its western edge.",
+  "metaDescription": "A guide to Provence and the Luberon: hill villages, Roman sites, lavender season, markets, where to base yourself, why you need a car, and a four-day driving itinerary.",
+  "suggestedStay": "4–6 days",
+  "nearestAirport": "Marseille (MRS) or Avignon TGV station",
+  "knownFor": "Lavender, hill villages, Roman ruins, markets",
+  "budget": "€150–250 per day, mid-range",
+  "goodFor": "Driving, markets, photography, slow travel",
+  "coords": {
+    "lat": 43.9111,
+    "lng": 5.2
+  },
+  "image": {
+    "file": "File:Village of Gordes.jpg",
+    "alt": "The stone village of Gordes stacked up a hillside above the Luberon valley"
+  },
+  "intro": [
+    "Provence is a large and varied region, and the part most visitors actually mean is quite specific: the triangle between Avignon, Aix-en-Provence and the Luberon hills, plus the Roman sites along the Rhône. Within about ninety minutes' driving you have the best-preserved Roman aqueduct in the world, a dozen hill villages built out of the rock they stand on, ochre quarries the colour of a sunset, and — for three weeks a year — the lavender fields that sell the entire region.",
+    "It is also the part of France that most rewards having a car and most punishes not having one. The villages sit on hilltops precisely because they were built to be defensible, which means no railway ever reached them. Public transport between Gordes, Roussillon, Bonnieux and Ménerbes ranges from infrequent to non-existent, and the whole pleasure of the place is the driving between them.",
+    "The other thing worth knowing before you book is the timing. Lavender does not flower until the very end of June, peaks through July and is harvested in the first half of August — a much narrower window than the marketing suggests. Come in May and the landscape is beautiful and green, with no purple in it at all."
+  ],
+  "whyVisit": {
+    "intro": "Provence has been painted, filmed and written about to the point of cliché. It survives that treatment because the things that made it famous are genuinely there and genuinely unusual.",
+    "points": [
+      {
+        "title": "The Roman remains are extraordinary",
+        "text": "The Pont du Gard carried water 50 km on a gradient of one in three thousand and still stands without mortar. Orange has the best-preserved Roman theatre wall in existence; Arles has an amphitheatre still used for events; Nîmes has a temple more intact than anything in Rome. Together they are the strongest concentration of Roman architecture outside Italy."
+      },
+      {
+        "title": "Villages that grew out of the rock",
+        "text": "Gordes, Roussillon, Bonnieux, Ménerbes, Lacoste and Saignon are all built from local stone and stacked up hillsides with no straight lines anywhere. They are on every calendar for good reason, and each takes an hour to walk and no more."
+      },
+      {
+        "title": "The markets are the real institution",
+        "text": "Every town has its day — Apt on Saturday, Isle-sur-la-Sorgue on Sunday, Coustellet on Sunday morning, Saint-Rémy on Wednesday. These are working produce markets with the odd antiques stall, not craft fairs, and they are where the region's food culture is most visible."
+      },
+      {
+        "title": "The light and the colour",
+        "text": "Van Gogh produced around 300 works in fifteen months at Arles and Saint-Rémy, and Cézanne painted the same mountain sixty times. The ochre cliffs at Roussillon and the Colorado Provençal come in seventeen documented shades from pale yellow to deep red, all of it mined for pigment until the 1930s."
+      },
+      {
+        "title": "It is quiet in the right months",
+        "text": "Outside July and August, Provence is startlingly empty. A village that has four coaches parked below it in August will have you and two locals in it in late September, with the same weather and better food."
+      }
+    ]
+  },
+  "attractionsIntro": "These are spread across roughly 80 km, so group them geographically rather than by preference. The Luberon villages are one cluster, the Roman sites another.",
+  "attractions": [
+    {
+      "name": "Pont du Gard",
+      "text": "A three-tier aqueduct bridge 49 metres high, built around 50 AD to carry water across the Gardon river, and assembled from precisely cut blocks weighing up to six tonnes without a drop of mortar. You can walk across the lowest tier and swim in the river below it, which puts the scale into perspective better than any viewing platform.",
+      "tip": "Parking is charged per car and covers site entry. Go at opening or after 18:00 in summer, when the light is better and the crowds have gone."
+    },
+    {
+      "name": "Gordes",
+      "text": "The most photographed village in the Luberon, spiralling up a rock face in pale stone with a castle at the top. The classic view is from the layby on the D15 as you approach from the south. Twenty minutes down the road is the Abbaye de Sénanque, a 12th-century Cistercian abbey with a lavender field in front of it.",
+      "tip": "Gordes is busy from mid-morning. The village is at its best at 08:30 or at dusk, and parking below is far easier at both times."
+    },
+    {
+      "name": "Roussillon and the ochre trail",
+      "text": "A village painted in every shade of the ochre that was mined beneath it, sitting on cliffs of the same material. The Sentier des Ocres is a 30 or 50-minute marked walk through the old workings, which look like a small canyon in Utah dropped into a French forest.",
+      "tip": "The ochre dust stains. Do not wear anything white, and it genuinely does not come out of pale trainers."
+    },
+    {
+      "name": "Arles",
+      "text": "A working town with a Roman amphitheatre still in use, a Roman theatre, the Alyscamps necropolis and the Fondation Vincent van Gogh. Van Gogh painted the Café Terrace at Night and the Yellow House here, and marked panels around town show the paintings where he stood.",
+      "tip": "Wednesday and Saturday mornings bring one of the biggest markets in Provence, spilling right along the boulevard."
+    },
+    {
+      "name": "Avignon",
+      "text": "The seat of the papacy for most of the 14th century, with the enormous Palais des Papes to show for it, a complete circuit of medieval walls, and the famous half-bridge over the Rhône. It has the region's best rail connections and works well as an arrival point.",
+      "tip": "The Palais is largely empty rooms — the audio-visual tablet tour is genuinely worth the supplement to make sense of it."
+    },
+    {
+      "name": "L'Isle-sur-la-Sorgue",
+      "text": "A small town built on branches of a startlingly clear river, with old waterwheels still turning in the streets and the largest antiques trade in France outside Paris. The Sunday market takes over the whole centre and is the busiest and best in the region.",
+      "tip": "Go on Sunday for the market or on a weekday for the town. On Sunday afternoons the traffic in and out is genuinely bad."
+    },
+    {
+      "name": "The lavender plateaus",
+      "text": "The postcard fields are mostly on the Valensole plateau, an hour east of the Luberon, and around Sault further north. Valensole flowers earlier, from late June; Sault is higher and peaks in mid-July, giving you a second chance if you arrive late.",
+      "tip": "Harvest starts in the first half of August and the fields are cut fast. Late June to the third week of July is the reliable window."
+    },
+    {
+      "name": "Aix-en-Provence",
+      "text": "An elegant university town of plane-tree avenues and fountains, with a daily produce market, Cézanne's studio preserved as he left it, and the Montagne Sainte-Victoire rising east of the city. It is the most urban thing in the region and a good change of pace after four days of villages.",
+      "tip": "The Cours Mirabeau's cafés are for people-watching and priced accordingly. Eat in the lanes north of it instead."
+    }
+  ],
+  "thingsToDoIntro": "Provence rewards a low-intensity itinerary — one village and one market a day, with long lunches in between.",
+  "thingsToDo": [
+    {
+      "title": "Do a market properly",
+      "text": "Pick the day, arrive by 09:00, and buy lunch rather than souvenirs: a rotisserie chicken, tapenade, goat's cheese rolled in herbs, tomatoes that smell of tomato, and a bottle of Côtes du Ventoux. Then find a view and eat it.",
+      "tip": "Saturday is Apt and Arles, Sunday is Isle-sur-la-Sorgue and Coustellet, Wednesday is Saint-Rémy. Plan your week around them."
+    },
+    {
+      "title": "Drive the Luberon village loop",
+      "text": "Gordes, Roussillon, Bonnieux, Lacoste, Ménerbes and Oppède-le-Vieux form a circuit of about 60 km on small roads through vineyards and cherry orchards. It takes a full day if you stop properly, and the driving is a large part of the point.",
+      "tip": "Go anticlockwise starting at Gordes early, so you reach the quieter villages when the coaches arrive at the famous ones."
+    },
+    {
+      "title": "Swim in the Gardon or the Sorgue",
+      "text": "The river beneath the Pont du Gard has shallow beaches and is genuinely swimmable in summer. The Sorgue emerges from a spring at Fontaine-de-Vaucluse — one of the largest in the world — and is cold and clear enough to be startling.",
+      "tip": "The Gardon can run low by late August. Early summer gives you the better water."
+    },
+    {
+      "title": "Taste in a Côtes du Rhône cellar",
+      "text": "Châteauneuf-du-Pape, Gigondas and Vacqueyras are within 40 minutes of Avignon, and dozens of small domaines run informal tastings. This is red wine country — grenache-based, warm and generous — with excellent rosé for the summer.",
+      "tip": "Most cellars close 12:00–14:00. Ring or email small producers a day ahead."
+    },
+    {
+      "title": "Cycle the Calavon greenway",
+      "text": "A flat, traffic-free path along a disused railway from Apt towards Cavaillon, running through the middle of the Luberon with village turn-offs along the way. It is the one part of the region that works well without a car.",
+      "tip": "Bike hire is available in Apt, Coustellet and Isle-sur-la-Sorgue. The full route is about 40 km one way."
+    },
+    {
+      "title": "Walk up a mountain in the evening",
+      "text": "The Montagne Sainte-Victoire above Aix, the ridge above Bonnieux, or Mont Ventoux if you are ambitious — a bare limestone summit at 1,910 m that features regularly in the Tour de France and is drivable to the top.",
+      "tip": "Ventoux's summit road usually closes from November to May because of snow."
+    }
+  ],
+  "foodIntro": "Provençal cooking runs on olive oil, garlic, tomatoes, herbs and vegetables, with lamb and goat's cheese from the hills and fish from the coast an hour south.",
+  "foods": [
+    {
+      "name": "Ratatouille",
+      "text": "Aubergine, courgette, pepper, onion and tomato cooked slowly in olive oil with herbs. Done properly the vegetables are cooked separately and combined at the end so each one keeps its character — which is exactly what the cheap versions skip.",
+      "whereToTry": "Traditional restaurants across the region, usually as a side to lamb or on its own at lunch."
+    },
+    {
+      "name": "Tapenade and anchoïade",
+      "text": "Black olive paste with capers and anchovy, and a warm anchovy-and-garlic dip for raw vegetables. Both arrive as an aperitif with bread and both are far more intense than the supermarket versions.",
+      "whereToTry": "Every market in the region sells them by weight from tubs. Buy small quantities of several."
+    },
+    {
+      "name": "Daube provençale",
+      "text": "Beef braised for hours in red wine with orange peel, olives and herbs — the region's cold-weather dish, usually served with pasta or polenta rather than potatoes. Best from October through spring.",
+      "whereToTry": "Village restaurants in the Luberon, particularly in the off season."
+    },
+    {
+      "name": "Goat's cheese",
+      "text": "Banon is the local star: a small cheese wrapped in chestnut leaves and tied with raffia, sold at every stage from fresh and chalky to strongly ripened. Ask the stallholder which stage you want and when you plan to eat it.",
+      "whereToTry": "Any Provençal market. The town of Banon itself, north of Apt, has the best selection."
+    },
+    {
+      "name": "Melon de Cavaillon",
+      "text": "Small orange-fleshed melons from the town at the western end of the Luberon, in season from June to September and genuinely different from what supermarkets sell. Traditionally eaten with a splash of Beaumes-de-Venise wine.",
+      "whereToTry": "Roadside stalls and every summer market. Cavaillon holds a melon festival in July."
+    },
+    {
+      "name": "Calisson d'Aix",
+      "text": "A small almond-and-candied-melon sweet with a royal icing top, made in Aix-en-Provence since the 15th century. Shaped like a pointed oval and sold in boxes from specialist shops around the old town.",
+      "whereToTry": "Confiseries in central Aix. Several have been making them for more than a century."
+    }
+  ],
+  "accommodation": {
+    "intro": "You have a real choice between a town base with restaurants and transport, or a village base with atmosphere and silence. With a car, either works; without one, you must be in a town.",
+    "areas": [
+      {
+        "name": "Avignon",
+        "bestFor": "Arriving by train, restaurants, the Roman sites",
+        "text": "The most practical base: TGV station, a walled old town full of places to eat, and 40 minutes from both the Pont du Gard and the western Luberon. The trade-off is that it is a city, and the Luberon villages are a drive rather than a stroll."
+      },
+      {
+        "name": "Isle-sur-la-Sorgue or Cavaillon",
+        "bestFor": "Central position between everything",
+        "text": "Small towns on the western edge of the Luberon with rail connections, plenty of accommodation, and 20–30 minutes to most villages. Isle-sur-la-Sorgue is much the prettier and busier of the two."
+      },
+      {
+        "name": "A Luberon village",
+        "bestFor": "Atmosphere and evenings",
+        "text": "Bonnieux, Ménerbes, Saignon or Lourmarin. Waking up inside a stone village and having it to yourself after the day-trippers leave is the best thing about staying here. You will need a car and should expect two or three restaurants at most."
+      },
+      {
+        "name": "A rural mas or gîte",
+        "bestFor": "Longer stays, families, a pool",
+        "text": "The classic Provence stay: a converted stone farmhouse with shutters and a pool, usually rented by the week. Excellent value for four or more people and the reason many visitors come back."
+      },
+      {
+        "name": "Aix-en-Provence",
+        "bestFor": "A more urban, elegant base",
+        "text": "Better restaurants and shopping than anywhere else in the region and a lively student population, but it sits at the southeastern corner — an hour from the Luberon villages, which makes daily trips longer."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Simple hotel or B&B",
+        "value": "€85–130 per night"
+      },
+      {
+        "label": "Comfortable hotel or chambre d'hôtes",
+        "value": "€140–220 per night"
+      },
+      {
+        "label": "Rural mas with a pool",
+        "value": "€200–350 per night, often weekly rental"
+      },
+      {
+        "label": "Car hire",
+        "value": "€45–75 per day, plus fuel and tolls"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Arrive by TGV at Avignon and pick up a car there. Flying into Marseille also works and puts you an hour from the Luberon.",
+    "options": [
+      {
+        "mode": "Avignon TGV",
+        "text": "Direct from Paris in 2h40, from Lyon in 1h, from [[nice-french-riviera|Nice]] in about 3h. The TGV station is out of town with a shuttle to the centre, and all the major car hire desks are there.",
+        "detail": "Book the car for collection at Avignon TGV rather than the town centre — the station desks have far more stock."
+      },
+      {
+        "mode": "Marseille Provence Airport",
+        "text": "The nearest major airport, about 50 minutes from the western Luberon and 30 from Aix, with flights across Europe and a good spread of hire companies.",
+        "detail": "A shuttle bus links the airport to Aix-en-Provence and Marseille if you would rather collect a car later."
+      },
+      {
+        "mode": "By car from elsewhere in France",
+        "text": "The A7 motorway runs down the Rhône valley: Lyon to Avignon is about 2h30, Paris around 7h. From the coast, Nice to the Luberon is roughly 2h30 on the A8 and A7.",
+        "detail": "Tolls on the Paris–Avignon run are substantial, in the region of €55–65."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "The TER network links Avignon, Cavaillon, L'Isle-sur-la-Sorgue, Arles and Aix, which covers the towns but none of the hill villages.",
+        "detail": "Useful for a car-free trip focused on the Roman sites and the market towns, which is a perfectly good holiday in itself."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "This is the one destination in this guide where a car is close to essential. The villages exist on hilltops with no rail access and minimal buses, and the driving between them is genuinely part of the experience.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Roads are excellent, well signed and quiet outside July and August. Distances are short — rarely more than 30 minutes between villages — but the roads are winding, so allow more time than the map suggests.",
+        "detail": "Village parking is usually in a designated lot below the walls, often charged in summer. Do not attempt to drive into the old centres."
+      },
+      {
+        "mode": "Regional buses",
+        "text": "The Zou! network runs services from Avignon and Cavaillon to some Luberon villages, but often only a couple of times a day and rarely in a pattern that allows a return trip.",
+        "detail": "Workable for reaching one village and staying overnight; not workable for touring."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "The Calavon greenway is flat and traffic-free, and the vineyard roads are a pleasure. Reaching the villages themselves means serious climbs — Gordes and Bonnieux are both sharp ascents.",
+        "detail": "Electric bikes are widely available and transform the hill villages from an ordeal into a good day out."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "Half and full-day minibus tours run from Avignon and Aix, covering the village loop, the lavender fields in season and the wine villages. A reasonable fallback if you do not want to drive.",
+        "detail": "Book ahead in summer — the lavender tours in July sell out well in advance."
+      },
+      {
+        "mode": "Walking",
+        "text": "Each village takes 45 minutes to an hour to walk. Between them, the GR6 and GR97 long-distance paths cross the Luberon and offer excellent day walks with village-to-village options.",
+        "detail": "Summer walking needs an early start — there is very little shade on the ridges."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September, with July for lavender",
+    "summary": "Provence has a strong seasonal calendar and the right month depends on what you came for. If lavender is the point, you are locked into late June and July. If it is not, September is the best month of the year here.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green, mild and quiet, with cherry and almond blossom in April and everything open by May. Temperatures of 18–26°C are ideal for walking the villages. The mistral wind can blow hard and cold for days at a time in spring."
+      },
+      {
+        "season": "Lavender season (late June–mid July)",
+        "rating": "good",
+        "text": "The three weeks the region is famous for. Valensole flowers from about 25 June, Sault a fortnight later. It is beautiful and it is busy — sunrise at the popular fields now draws crowds and drones. Book accommodation months ahead."
+      },
+      {
+        "season": "High summer (late July–August)",
+        "rating": "avoid",
+        "text": "Hot, often above 33°C, crowded, and with the lavender cut by early August. Village parking fills by 10:00, the coastal roads gridlock, and prices peak. The pools and the long evenings are genuinely lovely, but everything else is a compromise."
+      },
+      {
+        "season": "Autumn and winter (September–March)",
+        "rating": "best",
+        "text": "September is superb — warm, empty, with the grape harvest under way. October brings colour and the first rain. From November many rural hotels and restaurants close entirely, and while the villages are beautiful in winter light, you may find nowhere open to eat."
+      }
+    ],
+    "avoid": "The mistral, a cold northerly wind that funnels down the Rhône valley, can blow at 60–90 km/h for three, six or nine days at a stretch, most often in winter and spring. It clears the sky beautifully and makes sitting outside impossible."
+  },
+  "itinerary": {
+    "title": "Four days in Provence",
+    "intro": "Based in or near the western Luberon with a car, and built around two market mornings. Adjust the days to match whichever markets fall while you are there.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Avignon and the Pont du Gard",
+        "summary": "Arrive, get the car, and start with the Roman engineering.",
+        "morning": "Collect the car at Avignon TGV and walk the walled old town — the Palais des Papes and the bridge.",
+        "afternoon": "Drive 40 minutes to the Pont du Gard for late afternoon, when the light is best and the coaches have left. Swim in the river if it is warm.",
+        "evening": "Drive to your Luberon base and eat in the village."
+      },
+      {
+        "day": 2,
+        "title": "The Luberon village loop",
+        "summary": "The classic day: six villages, small roads, long lunch.",
+        "morning": "Gordes by 08:30 for the village and the viewpoint on the D15, then the Abbaye de Sénanque below it.",
+        "afternoon": "Roussillon and the ochre trail, then Bonnieux and Lacoste on the south side of the valley.",
+        "evening": "Sunset from the terrace at Ménerbes or Oppède-le-Vieux, then dinner in Bonnieux."
+      },
+      {
+        "day": 3,
+        "title": "Market morning and Arles",
+        "summary": "Buy lunch at a market, then head west to Van Gogh country.",
+        "morning": "Whichever market falls today — Apt on Saturday, Isle-sur-la-Sorgue on Sunday, Saint-Rémy on Wednesday. Assemble a picnic.",
+        "afternoon": "Drive to Arles for the amphitheatre, the Roman theatre and the Van Gogh trail through the streets.",
+        "evening": "Dinner in Arles, or back via Saint-Rémy and the Alpilles."
+      },
+      {
+        "day": 4,
+        "title": "Lavender, wine or Aix",
+        "summary": "Pick one depending on season and taste.",
+        "morning": "In late June or July, drive to the Valensole plateau for the lavender at first light. Otherwise, taste in Châteauneuf-du-Pape or Gigondas.",
+        "afternoon": "Alternatively, Aix-en-Provence for the daily market, Cézanne's studio and the plane-tree boulevards.",
+        "evening": "Last dinner in the Luberon, or drop the car at Avignon and take the evening train."
+      }
+    ]
+  },
+  "tipsIntro": "Provence-specific practicalities that catch people out.",
+  "tips": [
+    "Lavender flowers from about 25 June on the Valensole plateau and mid-July at higher Sault, and is harvested in early August. Arriving in May or late August means no purple at all — this is the single most common disappointment in the region.",
+    "Village parking is nearly always in a signposted lot below the walls, and fills by mid-morning in summer. Do not try to drive up into the old centres; the lanes are barely wider than a car and often end in steps.",
+    "The mistral wind can blow hard for several days at a time. It is not dangerous but it makes outdoor dining and photography difficult — check the forecast rather than assuming Provençal weather means calm.",
+    "Most shops and many restaurants close from roughly 12:30 to 14:30 or later, and small villages may have nothing open after 21:00. Plan meals rather than assuming you will find something.",
+    "Ochre from the Roussillon trail stains clothing and shoes permanently. Wear dark colours and old footwear.",
+    "From November to March a significant number of rural hotels and restaurants close for the season. Confirm directly before booking a winter trip.",
+    "Fill up with fuel in towns rather than villages — rural stations are sparse and many are unmanned card-only pumps that reject some foreign cards.",
+    "The Pont du Gard, Gordes and Sénanque are all far better before 10:00 or after 18:00. Building the day around those two windows changes the experience completely."
+  ],
+  "faq": [
+    {
+      "q": "When is lavender in bloom in Provence?",
+      "a": "Late June to mid-July on the Valensole plateau, and roughly a fortnight later on the higher ground around Sault. Harvest begins in the first days of August and the fields are cut quickly. The reliable window is 25 June to about 20 July — outside it there is no lavender to see, which surprises a great many visitors."
+    },
+    {
+      "q": "Do I need a car in Provence?",
+      "a": "For the Luberon hill villages, effectively yes. They sit on hilltops with no railway and only sparse buses that rarely allow a return trip in one day. You can have a good car-free trip based in Avignon or Arles focused on the Roman sites and market towns, which are all rail-connected — but the villages that define the region need a car or an organised tour."
+    },
+    {
+      "q": "How many days do you need in Provence?",
+      "a": "Four to six. Four covers the Luberon village loop, one Roman site, one market and Arles or Avignon. Six lets you add the lavender plateaus, a wine day in Châteauneuf-du-Pape and Aix-en-Provence without rushing. The region rewards slowness, so err on the longer side if you can."
+    },
+    {
+      "q": "What is the best base for exploring the Luberon?",
+      "a": "L'Isle-sur-la-Sorgue or Cavaillon for practicality — central, rail-connected, with plenty of restaurants and 20–30 minutes to most villages. For atmosphere, stay in a village such as Bonnieux, Lourmarin or Saignon and accept that you will need the car for everything. Avignon is the best choice if you are arriving by train and want a city."
+    },
+    {
+      "q": "Is Provence worth visiting outside lavender season?",
+      "a": "Yes — arguably more so. September gives you warm weather, the grape harvest, empty villages and half the prices, with the same light, food, markets and Roman sites. May is green and mild. The lavender is one very photogenic feature of a region that has a great deal else going on."
+    },
+    {
+      "q": "What is the mistral?",
+      "a": "A cold, dry northerly wind that funnels down the Rhône valley, most common in winter and spring. It can blow at 60–90 km/h and traditionally lasts three, six or nine days. It leaves brilliantly clear skies behind it, which is partly why the light here is so prized, but it makes eating outside and flying a drone impractical while it lasts."
+    },
+    {
+      "q": "Can I combine Provence with the French Riviera?",
+      "a": "Easily. [[nice-french-riviera|Nice]] is about 2h30 from the Luberon by car and 3h from Avignon by train. A common and very good two-week trip is four or five days in Provence with a car, then dropping the car and spending four days on the coast using the local railway. The two regions are close together and feel completely different."
+    }
+  ],
+  "related": ["nice-french-riviera", "dordogne-sarlat", "bordeaux", "florence-tuscany"],
+  "relatedArticles": [
+    "best-time-southern-europe",
+    "underrated-destinations",
+    "unesco-worth-planning-around"
+  ]
+}

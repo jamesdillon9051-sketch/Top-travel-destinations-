@@ -1,0 +1,381 @@
+{
+  "slug": "loire-valley",
+  "name": "The Loire Valley",
+  "shortName": "The Loire Valley",
+  "country": "france",
+  "region": "Centre-Val de Loire",
+  "categories": [
+    "historic",
+    "unesco",
+    "food-and-wine",
+    "scenic"
+  ],
+  "tagline": "Three hundred châteaux along one slow river, and the easiest region in France to travel without a car.",
+  "highlight": "Chenonceau, arched on five spans across the River Cher — the most beautiful building in France by most reckonings.",
+  "shortDescription": "France's royal playground for two centuries: Renaissance châteaux, formal gardens and crisp white wine strung along 170 miles of the country's longest river, an hour from Paris.",
+  "metaDescription": "A Loire Valley travel guide: which châteaux are actually worth your time, how to visit without a car, Loire wines, where to base yourself, when to go, and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Paris CDG, then TGV to Tours or Blois",
+  "knownFor": "Chambord, Chenonceau, Renaissance gardens, Sancerre and Vouvray",
+  "budget": "€120–200 per day, mid-range",
+  "goodFor": "First-time France, history, cycling, families",
+  "coords": {
+    "lat": 47.3936,
+    "lng": 1.2451
+  },
+  "image": {
+    "file": "File:Chambord Castle Northwest facade.jpg",
+    "alt": "The turreted roofline and long facade of the Château de Chambord reflected in water"
+  },
+  "intro": [
+    "For roughly two hundred years, from the mid-1400s to the mid-1600s, the French court did not live in Paris. It lived along the Loire, and the kings, queens, mistresses and financiers who followed it built the most concentrated collection of Renaissance architecture in Europe — several hundred châteaux within a hundred miles of river, of which about thirty are open and perhaps eight are genuinely unmissable.",
+    "What makes the Loire unusually easy is the terrain. This is the flattest, gentlest landscape in France: a wide slow river, sandbanks, poplars, vineyards on the slopes and small towns every few miles. The whole valley from Sully to Chalonnes is a UNESCO World Heritage Site, and a 900-km signposted cycle route, the Loire à Vélo, runs along it on almost entirely level ground.",
+    "The trap is château fatigue, which is real and sets in faster than people expect. Four in two days is plenty; six in three days is too many. The valley is better treated as a place to move slowly through — market towns, troglodyte cellars cut into the tufa cliffs, riverside picnics — with a great building or two each day rather than a forced march through the lot."
+  ],
+  "whyVisit": {
+    "intro": "The Loire is the softest introduction to France there is: close to Paris, low-effort to travel in, and full of things that are simply beautiful without requiring much prior knowledge.",
+    "points": [
+      {
+        "title": "The architecture is genuinely first-rank",
+        "text": "Chambord has 440 rooms, 282 fireplaces and a double-helix staircase that may have been sketched by Leonardo da Vinci, who died five miles away. Chenonceau spans a river on arches. Villandry's gardens are laid out as geometric vegetable parterres. These are not provincial curiosities — they are among the most significant buildings of the European Renaissance."
+      },
+      {
+        "title": "It works without a car",
+        "text": "Tours, Blois, Amboise and Saumur are all on the railway, and shuttle buses, bikes and short taxi rides cover the rest. This is unusual in rural France and makes the Loire the obvious choice if you would rather not drive."
+      },
+      {
+        "title": "Excellent, underrated wine",
+        "text": "Sancerre and Pouilly-Fumé at the eastern end, Vouvray and Montlouis in the middle, Chinon and Bourgueil for reds, Saumur and Crémant de Loire for sparkling. Many of the cellars are cut into the soft tufa cliffs along the river, which makes visiting them memorable in itself."
+      },
+      {
+        "title": "Flat, safe cycling",
+        "text": "The Loire à Vélo route is well signed, largely traffic-free and almost entirely level. Families with children ride it comfortably, and a bike is the ideal speed for a valley where the distances between things are short."
+      },
+      {
+        "title": "It pairs perfectly with Paris",
+        "text": "An hour by TGV from Paris to Tours or Blois. Three days in the capital followed by three in the Loire is the single best first trip to France, and neither leg feels rushed."
+      }
+    ]
+  },
+  "attractionsIntro": "There are around thirty châteaux you could visit. These are the ones that justify the ticket, plus the towns worth basing yourself in.",
+  "attractions": [
+    {
+      "name": "Château de Chambord",
+      "text": "The largest and strangest of them all — a hunting lodge with 440 rooms that François I visited for a total of about seven weeks. The famous double-helix staircase lets two people ascend without meeting, and the roof terrace is a forest of chimneys, turrets and dormers designed to be walked among.",
+      "tip": "Go up to the roof terrace first and work down. Most visitors do the reverse and reach the best part exhausted."
+    },
+    {
+      "name": "Château de Chenonceau",
+      "text": "Built across the River Cher on five arches, with a long gallery spanning the water. It was run by a succession of women — Diane de Poitiers, Catherine de' Medici, and later a family who used the gallery as a First World War hospital. The most beautiful and the most visited château in the valley.",
+      "tip": "The first hour after opening is the only quiet one. The flower garden and the maze behind the house are worth the extra half hour."
+    },
+    {
+      "name": "Château de Villandry",
+      "text": "Visited entirely for its gardens: six hectares of Renaissance parterres reconstructed in the early 20th century, including an ornamental vegetable garden laid out in coloured geometric blocks that is replanted twice a year. The house itself is a modest afterthought.",
+      "tip": "Best from June to October when the vegetable garden is at full colour. Climb to the belvedere for the overhead view — it is the only angle that makes sense of the design."
+    },
+    {
+      "name": "Amboise and Clos Lucé",
+      "text": "A walkable riverside town beneath a royal château where Leonardo da Vinci is buried. Five minutes away, Clos Lucé is the manor where he spent his last three years, now filled with working models built from his notebooks — much more engaging than another set of tapestried rooms.",
+      "tip": "Clos Lucé is genuinely good with children. The gardens contain full-size machines you can operate."
+    },
+    {
+      "name": "Château de Chaumont",
+      "text": "A hilltop castle above the river that hosts an international garden festival each year from April to November — thirty experimental show gardens by designers from around the world, replaced annually. It is the one château in the valley that offers something new every visit.",
+      "tip": "Combine it with a stop in the village below, which has a good weekly market."
+    },
+    {
+      "name": "Château d'Azay-le-Rideau",
+      "text": "A small, perfectly proportioned early Renaissance house on an island in the Indre, reflected in the water on three sides. Far quieter than Chenonceau and, at close quarters, arguably as lovely.",
+      "tip": "The walk around the moat and through the park is free of the interior queue and gives you the best views."
+    },
+    {
+      "name": "Saumur and the troglodyte cellars",
+      "text": "A white-stone town at the western end of the valley, known for sparkling wine, a cavalry school and miles of caves cut into the tufa cliffs. Several cellars offer tastings underground, and some caves are used to grow mushrooms commercially.",
+      "tip": "The nearby village of Turquant has troglodyte houses converted into workshops and restaurants — an unusual hour."
+    },
+    {
+      "name": "Blois and Tours",
+      "text": "The two main towns. Blois has a royal château that shows four architectural periods stacked on one courtyard, and a compact old centre. Tours is bigger, with a lively old quarter around the Place Plumereau and the best restaurant scene in the valley.",
+      "tip": "Tours has the better transport links and nightlife; Blois is closer to Chambord and more manageable."
+    }
+  ],
+  "thingsToDoIntro": "Two châteaux a day is the sustainable maximum. Fill the rest with the river, the cellars and the markets.",
+  "thingsToDo": [
+    {
+      "title": "Cycle a stretch of the Loire à Vélo",
+      "text": "The signposted route runs along the river on flat, largely traffic-free paths. The stretch from Blois to Chaumont, or Tours to Villandry, makes a perfect half day, and bikes can often be dropped at a different town from where you hired them.",
+      "tip": "Hire outlets in Tours, Blois, Amboise and Saumur all participate in a one-way scheme. Book a day ahead in summer."
+    },
+    {
+      "title": "Taste in a tufa cave cellar",
+      "text": "The soft white limestone of the valley has been quarried for centuries, and the resulting caves hold a constant cool temperature that is ideal for wine. Vouvray, Montlouis, Bourgueil and Saumur all have cellars cut straight into the cliffs.",
+      "tip": "Take a jumper — the caves sit at around 12°C year-round regardless of the weather outside."
+    },
+    {
+      "title": "Take a traditional river boat",
+      "text": "Flat-bottomed wooden boats called toues and gabares once carried freight up the Loire. Several operators run short trips from Amboise, Blois and Saumur, and seeing the châteaux from the water is a completely different perspective.",
+      "tip": "The Loire is shallow and sandbanked, so trips depend on water levels and rarely run in late summer droughts."
+    },
+    {
+      "title": "Visit a market and picnic by the river",
+      "text": "Amboise on Sunday, Tours on Saturday and Blois on Saturday morning. Rillettes, goat's cheese, a baguette and a bottle of Vouvray on a sandbank in the middle of the Loire is a better lunch than any château restaurant.",
+      "tip": "The river sandbanks are accessible in summer when levels drop. Do not swim — the Loire has strong hidden currents."
+    },
+    {
+      "title": "See a son et lumière",
+      "text": "Several châteaux run summer evening shows projecting light and story onto their facades. Blois and Chambord both do it well, and the buildings look extraordinary lit from outside after dark.",
+      "tip": "Shows generally run from May to September and start late — often 22:00 in midsummer."
+    },
+    {
+      "title": "Walk into the countryside behind the river",
+      "text": "The valley floor gets the visitors; the plateau above it has quiet lanes, sunflower fields and small villages. An hour's walk uphill from almost any riverside town puts you somewhere completely empty.",
+      "tip": "The GR3 long-distance path follows the Loire and is well marked for shorter sections."
+    }
+  ],
+  "foodIntro": "The Loire is called the garden of France for a reason: soft cheeses, river fish, orchard fruit and light wines rather than the heavy cooking of the north and southwest.",
+  "foods": [
+    {
+      "name": "Rillettes de Tours",
+      "text": "Pork slow-cooked in its own fat for hours until it shreds, then potted. The Tours version is darker and drier than the Le Mans style. Spread thickly on bread with a glass of Chinon and it is the region's default lunch.",
+      "whereToTry": "Charcuteries and markets throughout Touraine. Buy it by the pot from a market stall."
+    },
+    {
+      "name": "Goat's cheese",
+      "text": "The Loire produces five protected goat's cheeses, including the ash-covered pyramid of Valençay and the log-shaped Sainte-Maure-de-Touraine with a straw through its centre. Pair them with a dry Sancerre — the classic regional match.",
+      "whereToTry": "Any market or fromagerie. Ask for a cheese at the stage of ripeness you want."
+    },
+    {
+      "name": "Loire river fish",
+      "text": "Pike, pike-perch and shad, often served as quenelles or with a beurre blanc — a butter and shallot sauce reduced in white wine that was invented in the lower Loire and is now used across France.",
+      "whereToTry": "Riverside restaurants in Saumur, Amboise and around Nantes at the river's mouth."
+    },
+    {
+      "name": "Tarte Tatin",
+      "text": "Upside-down caramelised apple tart, created by accident by two sisters running a hotel at Lamotte-Beuvron in the Sologne, just east of the valley. Served warm, usually with crème fraîche rather than ice cream.",
+      "whereToTry": "Almost every restaurant in the region, and the original hotel at Lamotte-Beuvron still serves it."
+    },
+    {
+      "name": "Fouées",
+      "text": "Small hollow breads baked in a wood oven for a few minutes until they puff, then split open at the table and filled with rillettes, goat's cheese or white beans. Traditionally eaten in the troglodyte caves around Saumur.",
+      "whereToTry": "Cave restaurants near Saumur and Doué-la-Fontaine. Usually served as an all-you-can-eat meal."
+    },
+    {
+      "name": "Loire wine",
+      "text": "Sancerre and Pouilly-Fumé for flinty sauvignon blanc, Vouvray and Montlouis for chenin blanc from bone dry to sweet, Chinon and Bourgueil for light cabernet franc reds, and Crémant de Loire for sparkling at a fraction of Champagne prices.",
+      "whereToTry": "Cellars along the river, particularly the cave cellars at Vouvray, ten minutes from Tours."
+    }
+  ],
+  "accommodation": {
+    "intro": "Base yourself in one of the riverside towns rather than moving every night — the valley is small enough that everything is within an hour, and unpacking once is worth a great deal.",
+    "areas": [
+      {
+        "name": "Amboise",
+        "bestFor": "The best all-round base",
+        "text": "Small, walkable, on the river with its own château and Clos Lucé, direct trains to Paris and Tours, and central for Chenonceau, Chaumont and Blois. Enough restaurants to eat well for several nights without repeating."
+      },
+      {
+        "name": "Tours",
+        "bestFor": "Transport, restaurants, nightlife",
+        "text": "The largest town in the valley, with a TGV connection to Paris in an hour, a lively old quarter around Place Plumereau and the widest choice of accommodation. Slightly less charming than the smaller towns, considerably more practical."
+      },
+      {
+        "name": "Blois",
+        "bestFor": "Chambord and the eastern châteaux",
+        "text": "A compact old town with a fine château of its own, closest to Chambord and Chaumont, and on the direct Paris line. Quieter in the evening than Tours or Amboise."
+      },
+      {
+        "name": "Saumur",
+        "bestFor": "Wine, caves and the western valley",
+        "text": "White-stone town at the far end of the valley, with the best cave cellars and sparkling wine, and access to Fontevraud Abbey where the Plantagenet kings are buried. Further from the headline châteaux."
+      },
+      {
+        "name": "A château hotel",
+        "bestFor": "A splurge night",
+        "text": "Dozens of smaller châteaux operate as hotels, often in their own parkland at prices well below what a comparable room would cost in Paris. Worth one night even on a modest trip."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel or budget hotel",
+        "value": "€55–90 per night"
+      },
+      {
+        "label": "Comfortable hotel or B&B",
+        "value": "€100–160 per night"
+      },
+      {
+        "label": "Château hotel",
+        "value": "€180–350 per night"
+      },
+      {
+        "label": "Château entry",
+        "value": "€12–19 each; combination tickets save 15–25%"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Loire is one of the easiest French regions to reach from Paris, with fast trains to three separate towns in the valley.",
+    "options": [
+      {
+        "mode": "TGV from Paris",
+        "text": "Paris Montparnasse to Tours (Saint-Pierre-des-Corps) in about 1h05. Paris Austerlitz to Blois takes around 1h25 on a slower direct service. Both put you in the valley in time for lunch.",
+        "detail": "Tours has two stations — the TGV stops at Saint-Pierre-des-Corps, with a five-minute shuttle to Tours centre."
+      },
+      {
+        "mode": "Regional trains along the valley",
+        "text": "TER services link Orléans, Blois, Amboise, Tours, Saumur and Angers along the river, roughly hourly, at fixed low fares with no booking needed.",
+        "detail": "This is how a car-free Loire trip works. Amboise and Blois are both directly on the line."
+      },
+      {
+        "mode": "By car",
+        "text": "Paris to Tours is about 2h30 on the A10. A car makes Villandry, Azay-le-Rideau and the smaller châteaux much easier, though it is not required for the main ones.",
+        "detail": "Château car parks are large and usually free — a rare luxury in France."
+      },
+      {
+        "mode": "Onward connections",
+        "text": "Tours connects west to Nantes and the Atlantic, and south towards [[bordeaux]] in around 3h. [[normandy-d-day-beaches|Normandy]] is reachable via Le Mans in about 3h.",
+        "detail": "Most cross-country routes are quicker via Paris despite the detour."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Uniquely for rural France, you have real options here. Trains cover the towns, dedicated shuttles cover the big châteaux, and the cycle route covers everything in between.",
+    "options": [
+      {
+        "mode": "Bicycle",
+        "text": "The Loire à Vélo is flat, signposted and largely off-road. Hire from Tours, Amboise, Blois or Saumur, with one-way drop-offs available between participating outlets. Chenonceau, Chaumont and Villandry are all comfortable ride distances from a nearby town.",
+        "detail": "Electric bikes are widely available. Reckon on 12–15 km/h with stops."
+      },
+      {
+        "mode": "Château shuttle buses",
+        "text": "Seasonal shuttles run from Blois station to Chambord and Chaumont, and from Tours to several châteaux, timed around opening hours. Cheap and simple, but limited to roughly April–October.",
+        "detail": "Check the current timetable before relying on it — services thin out sharply outside high season."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "Amboise, Blois, Tours, Onzain (for Chaumont) and Saumur all have stations on the valley line, with several services an hour at peak times.",
+        "detail": "Chenonceaux has its own small station on the Tours–Vierzon line, a five-minute walk from the château gate."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Gives you Villandry, Azay-le-Rideau, Fontevraud and the smaller houses without timetable juggling. Roads are flat, quiet and well signed.",
+        "detail": "Two days of car hire in the middle of a rail-based trip is often the best compromise."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Half and full-day minibus tours from Tours, Amboise and Blois cover two or three châteaux with commentary. Useful if you have one day and want the highlights.",
+        "detail": "Typically €50–75 per person including transport but excluding château entry."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September",
+    "summary": "The Loire is a gentle-weather region with no extremes, so the calendar is driven by gardens and crowds rather than climate. Gardens peak in early summer, crowds peak in August, and September gives you both at their best.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The valley at its greenest, with blossom in April, the gardens filling out through May and June, and the Chaumont garden festival open from late April. Temperatures of 15–24°C are ideal for cycling. Some rain is likely."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Warm, long-dayed and busy. Chenonceau and Chambord get genuinely crowded, and the son et lumière shows run. Villandry's vegetable garden is at full colour. Book château tickets and accommodation ahead."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best month is September: warm, quiet after the first week, with the grape harvest under way and the gardens still good. October brings colour along the river and the last of the shoulder-season shuttle buses."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Several châteaux close entirely or open only at weekends, the shuttle buses stop, and the gardens are bare. Chambord and Chenonceau stay open year-round and are wonderfully empty, but a winter trip needs checking site by site."
+      }
+    ],
+    "avoid": "Château opening hours vary a great deal by season and several close for lunch in the low season. Check each one individually rather than assuming a standard 09:00–18:00."
+  },
+  "itinerary": {
+    "title": "Three days in the Loire Valley",
+    "intro": "Based in Amboise, reachable by train from Paris in about two hours, and doable entirely without a car if you use the bikes and shuttles. Two châteaux a day, no more.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Amboise and Leonardo",
+        "summary": "Arrive, settle in, and start with the town's own two sights.",
+        "morning": "Train from Paris, check in, and walk the riverside and the market streets of Amboise.",
+        "afternoon": "The royal château above the town, where Leonardo is buried, then Clos Lucé and its working models of his machines.",
+        "evening": "Dinner in Amboise, and a walk along the river with the château floodlit."
+      },
+      {
+        "day": 2,
+        "title": "Chenonceau and the Cher",
+        "summary": "The most beautiful château in the valley, early, then a slow afternoon.",
+        "morning": "Chenonceau at opening — 20 minutes by train or a 12 km cycle from Amboise. The gallery over the water, the two rival gardens, and the maze.",
+        "afternoon": "Cycle or drive back via a Vouvray cave cellar for a tasting, or take the afternoon slowly along the river.",
+        "evening": "Back in Amboise, or a cave restaurant for fouées if you have a car."
+      },
+      {
+        "day": 3,
+        "title": "Chambord and Blois",
+        "summary": "The largest château of them all, and the town with four centuries stacked in one courtyard.",
+        "morning": "Train to Blois, then the shuttle to Chambord. The roof terrace first, then the double-helix staircase and the state rooms.",
+        "afternoon": "Back to Blois for the royal château and the old town, or continue to Chaumont for the garden festival in season.",
+        "evening": "Direct train from Blois back to Paris in about 1h25, or a last night in the valley."
+      }
+    ]
+  },
+  "tipsIntro": "Practical notes for a valley where the main risk is seeing too much of the same thing.",
+  "tips": [
+    "Two châteaux a day is the sustainable limit and one is often better. Château fatigue is real, and the fourth set of tapestried rooms looks very much like the first.",
+    "Buy combination tickets where they exist — most of the big sites offer them in pairs or trios at 15–25% off, and Chambord and Chenonceau both sell timed entry online that skips the queue.",
+    "Chenonceau and Chambord are both dramatically quieter in the first hour after opening. It is the single most useful piece of planning here.",
+    "Villandry is worth visiting only for the gardens, so go between June and October. In winter the parterres are bare earth.",
+    "The tufa cave cellars sit at about 12°C all year. Take a jumper even in August.",
+    "Do not swim in the Loire. It looks placid and has strong, shifting currents and sudden depth changes; there are drownings most years.",
+    "Château shuttle buses run roughly April to October only. Outside those months a car-free trip is harder and needs more planning.",
+    "Book bikes a day or two ahead in summer, and ask about one-way drop-off — riding downstream from Blois to Amboise and taking the train back is far better than a there-and-back route."
+  ],
+  "faq": [
+    {
+      "q": "How many châteaux should I visit in the Loire Valley?",
+      "a": "Four or five over three days, at a rate of no more than two a day. Chambord, Chenonceau and Villandry are the three that most reward a visit, with Amboise, Chaumont or Azay-le-Rideau as the fourth. Beyond about five they begin to blur, and the valley's towns, cellars and riverside are a better use of the remaining time."
+    },
+    {
+      "q": "Can you visit the Loire Valley without a car?",
+      "a": "Yes — it is the easiest rural region in France to do car-free. Amboise, Blois, Tours and Saumur are all on the railway, Chenonceau has its own station, seasonal shuttle buses serve Chambord and Chaumont from Blois, and the flat Loire à Vélo cycle route connects most of the rest. Villandry and Azay-le-Rideau are the two that are noticeably easier with a car."
+    },
+    {
+      "q": "What is the best base for the Loire Valley?",
+      "a": "Amboise for most people — small, walkable, on the river, with direct trains from Paris and a central position for Chenonceau, Chaumont and Blois. Tours is the better choice if you want more restaurants and the fastest TGV link; Blois is best if Chambord is your priority."
+    },
+    {
+      "q": "How far is the Loire Valley from Paris?",
+      "a": "About an hour by TGV from Paris Montparnasse to Tours, or roughly 1h25 on a direct train from Paris Austerlitz to Blois. By car it is about 2h30 on the A10. It is close enough that day trips are sold, but the valley genuinely deserves two or three nights."
+    },
+    {
+      "q": "When is the best time to visit the Loire Valley?",
+      "a": "May to June and September. The gardens are at their best from late spring through early autumn, the weather is mild, and September in particular is warm and much quieter than August. In winter several châteaux close or cut their hours, the shuttle buses stop and the gardens are bare."
+    },
+    {
+      "q": "Is the Loire Valley good for children?",
+      "a": "Unusually so. Clos Lucé has full-size working models of Leonardo's machines that children can operate, Chambord has a roof terrace and rowing boats, the cycle route is flat and safe, and several châteaux run costumed events and treasure hunts in summer. The mix of outdoor space and short indoor visits works far better than a city trip at that age."
+    },
+    {
+      "q": "What wine is the Loire Valley known for?",
+      "a": "White, mostly. Sancerre and Pouilly-Fumé are flinty sauvignon blanc from the eastern end; Vouvray and Montlouis are chenin blanc ranging from bone dry to sweet; Chinon and Bourgueil produce light cabernet franc reds; and Saumur makes Crémant de Loire, a traditional-method sparkling wine at a fraction of Champagne prices. Many cellars are cut into the tufa cliffs along the river."
+    }
+  ],
+  "related": [
+    "paris",
+    "mont-saint-michel",
+    "normandy-d-day-beaches",
+    "dordogne-sarlat"
+  ],
+  "relatedArticles": [
+    "first-trip-to-europe",
+    "unesco-worth-planning-around",
+    "europe-by-train"
+  ]
+}

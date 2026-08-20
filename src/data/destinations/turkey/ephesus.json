@@ -1,0 +1,344 @@
+{
+  "slug": "ephesus",
+  "name": "Ephesus & Selçuk",
+  "shortName": "Ephesus",
+  "country": "turkey",
+  "region": "İzmir, Aegean",
+  "categories": ["unesco", "archaeological", "historic"],
+  "tagline": "A Roman city of a quarter of a million people, with marble streets you walk down and a library facade still standing two storeys high.",
+  "highlight": "The Terrace Houses — six Roman apartments with mosaic floors, painted walls and plumbing, under a modern roof.",
+  "shortDescription": "The best-preserved classical city in the Mediterranean, where you walk the actual paved streets past a 24,000-seat theatre, public latrines and a library, with a small Turkish town alongside it.",
+  "metaDescription": "An Ephesus travel guide: the Library of Celsus and Terrace Houses, the Great Theatre, Selçuk and Şirince, avoiding the heat and the crowds, and a two-day plan.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "İzmir Adnan Menderes (ADB), about 1 hour",
+  "knownFor": "The Library of Celsus, the Great Theatre, the Temple of Artemis",
+  "budget": "€60–120 per day, mid-range",
+  "goodFor": "Archaeology, history, a short stop, day trips",
+  "coords": { "lat": 37.9395, "lng": 27.3417 },
+  "image": {
+    "file": "File:Ephesus Celsus Library Façade.jpg",
+    "alt": "The two-storey marble facade of the Library of Celsus at Ephesus"
+  },
+  "intro": [
+    "Ephesus was one of the largest cities of the Roman world — estimates run to about 250,000 people at its peak, making it perhaps the second city of the eastern empire after Alexandria. It was a port, though the harbour silted up centuries ago and the sea is now five kilometres away, which is both why the city declined and why so much of it survives: it was abandoned rather than built over.",
+    "What that means for a visitor is unusual. At most classical sites you look at foundations and imagine. At Ephesus you walk down the actual marble-paved Curetes Street, past shopfronts, fountains, a public latrine with the seats still in place, and the two-storey facade of the Library of Celsus, into a theatre that held 24,000 people. The scale and the state of preservation are closer to Pompeii than to anything else in the eastern Mediterranean.",
+    "The town of Selçuk sits three kilometres away beneath a Byzantine castle and is where you should stay. It holds the last standing column of the Temple of Artemis — one of the Seven Wonders of the Ancient World, of which almost nothing remains — plus the Ephesus Archaeological Museum, the Basilica of St John, and a genuinely pleasant small-town Turkish atmosphere that the site itself lacks."
+  ],
+  "whyVisit": {
+    "intro": "Ephesus is the single best-preserved classical city in the Mediterranean and it is reachable in an hour from İzmir, which makes it an unusually efficient piece of archaeology.",
+    "points": [
+      {
+        "title": "You walk the actual streets",
+        "text": "Curetes Street and the Marble Road are paved with the original stone, rutted by cartwheels, running downhill between colonnades, shopfronts and fountains. This is not a reconstruction and it is not foundations — it is a street."
+      },
+      {
+        "title": "The Library of Celsus is extraordinary",
+        "text": "A two-storey marble facade of 117 AD, built as a tomb-monument for a Roman senator, with statues in niches representing wisdom, knowledge, intelligence and virtue. It held around 12,000 scrolls and its reconstructed front is the image of Ephesus."
+      },
+      {
+        "title": "The Terrace Houses are the best part",
+        "text": "Six Roman apartments built into the hillside, with mosaic floors, frescoed walls, marble cladding, heated floors and running water — the domestic life of the wealthy, preserved under a modern protective roof. A separate ticket and most people skip it."
+      },
+      {
+        "title": "The Great Theatre held 24,000",
+        "text": "Cut into the hillside and still standing, with the paved Harbour Street running from its foot towards where the sea used to be. It is where St Paul is said to have addressed the Ephesians, and it is still used for occasional concerts."
+      },
+      {
+        "title": "Selçuk makes a good base",
+        "text": "A small Turkish town with a castle, storks nesting on the aqueduct, one of Turkey's best archaeological museums, and the last column of a Wonder of the Ancient World — plus far better and cheaper food than anywhere near the site."
+      }
+    ]
+  },
+  "attractionsIntro": "The site itself takes three to four hours. Selçuk and the surrounding sites fill the rest of a second day.",
+  "attractions": [
+    {
+      "name": "The Library of Celsus",
+      "text": "Built in 117 AD as a monument and tomb for the Roman governor Celsus, whose sarcophagus lies beneath it. The facade was reconstructed from original fragments in the 1970s and rises two storeys with columns, niches and statues.",
+      "tip": "It faces east and is best photographed in the morning. The gate beside it leads to the Agora."
+    },
+    {
+      "name": "The Terrace Houses",
+      "text": "Six luxury apartments on the hillside above Curetes Street, occupied from the 1st to the 7th centuries, with mosaic floors, wall frescoes, marble panelling, underfloor heating and piped water. Excavation and conservation are ongoing and visible.",
+      "tip": "A separate and slightly expensive ticket, and easily the best part of Ephesus. Most visitors walk past the entrance. Do not."
+    },
+    {
+      "name": "Curetes Street and the Marble Road",
+      "text": "The main axis of the city, paved in marble and running downhill between the Hercules Gate and the library, lined with shopfronts, fountains, statue bases and a public latrine with its bench of seats intact.",
+      "tip": "Walk downhill from the upper gate to the lower one. Buses drop at the top and collect at the bottom, so you never retrace."
+    },
+    {
+      "name": "The Great Theatre",
+      "text": "Carved into Mount Pion and expanded by the Romans to hold about 24,000 people, with the paved Harbour Street running from its base towards the vanished port. The acoustics still work.",
+      "tip": "Climb to the top row for the view down Harbour Street. It gives you the scale of the vanished city better than anything else."
+    },
+    {
+      "name": "The Ephesus Archaeological Museum",
+      "text": "In Selçuk, holding the finds from the site — including the two famous statues of Artemis of Ephesus, covered in what may be breasts, eggs or bull testicles, depending on which scholar you ask.",
+      "tip": "Go after the site rather than before. The objects make far more sense once you have seen where they came from."
+    },
+    {
+      "name": "The Temple of Artemis",
+      "text": "One of the Seven Wonders of the Ancient World, four times the size of the Parthenon, of which a single reassembled column now stands in a marshy field with a stork's nest on top. The contrast is the point.",
+      "tip": "Free, takes ten minutes, and is unexpectedly affecting precisely because there is nothing there."
+    },
+    {
+      "name": "Şirince",
+      "text": "A hillside village eight kilometres from Selçuk, built by Greek residents before the 1923 population exchange, with stone and timber houses, fruit wines sold from every doorway and views over olive groves.",
+      "tip": "Very busy at midday with day-trippers. Go late afternoon or stay overnight, when it becomes lovely."
+    },
+    {
+      "name": "The Basilica of St John and the House of the Virgin Mary",
+      "text": "A ruined 6th-century basilica in Selçuk built over what is traditionally held to be the apostle John's tomb, and a small stone house on a hillside above Ephesus revered as the Virgin Mary's final home.",
+      "tip": "The basilica's castle-hill setting is worth the walk. The Mary house is a place of pilgrimage rather than an archaeological site."
+    }
+  ],
+  "thingsToDoIntro": "Ephesus is a half-day site done well and a full day done badly. The rest of the time belongs to Selçuk and the villages.",
+  "thingsToDo": [
+    {
+      "title": "Walk the site downhill, early",
+      "text": "Enter at the upper gate and walk down through Curetes Street to the library and the theatre, leaving by the lower gate. Three to four hours, starting at opening.",
+      "tip": "Cruise passengers from Kuşadası arrive between about 10:00 and 14:00. Be there at 08:00 or after 16:00."
+    },
+    {
+      "title": "Pay for the Terrace Houses",
+      "text": "The separate ticket costs roughly as much again as the main site and gives you the interiors of six Roman apartments with mosaics, frescoes and plumbing. It is the best-preserved Roman domestic architecture outside Pompeii.",
+      "tip": "Also the coolest part of the site, being under a roof — useful in summer heat."
+    },
+    {
+      "title": "Do the museum afterwards",
+      "text": "The Ephesus Archaeological Museum in Selçuk holds everything portable that was found on the site, including the Artemis statues. Seeing it after the ruins rather than before makes both make sense.",
+      "tip": "Small, well-organised and about an hour. Air-conditioned, which matters in July."
+    },
+    {
+      "title": "Stay in Selçuk and walk up to the castle",
+      "text": "A Byzantine fortress on the hill above the town, with the Basilica of St John below it and views over the plain to where the sea once reached. Storks nest on the Roman aqueduct in the town centre.",
+      "tip": "Selçuk's Saturday market is one of the best in the Aegean and fills several streets."
+    },
+    {
+      "title": "Go up to Şirince in the late afternoon",
+      "text": "A Greek-built hillside village of stone houses, olive groves and fruit wine, eight kilometres from Selçuk. Overwhelmed by day-trippers at midday and lovely at 17:00.",
+      "tip": "The fruit wines are sweet and mostly a novelty. The village and the views are the real reason to go."
+    },
+    {
+      "title": "Add a second classical site",
+      "text": "Aphrodisias, two hours east, is arguably better preserved than Ephesus and receives a fraction of the visitors, with a stadium seating 30,000 almost intact. Priene and Miletus are closer.",
+      "tip": "Aphrodisias works as a stop on the drive between Ephesus and [[pamukkale|Pamukkale]]."
+    }
+  ],
+  "foodIntro": "This is the Aegean, which means olive oil, herbs, vegetables and seafood — the lightest regional cooking in Turkey and the closest to Greek.",
+  "foods": [
+    {
+      "name": "Zeytinyağlılar",
+      "text": "Vegetables cooked in olive oil and served cold — green beans, artichokes, stuffed vine leaves, broad beans. The defining Aegean style and quite different from the meat-heavy cooking inland.",
+      "whereToTry": "Any traditional restaurant in Selçuk or along the Aegean coast, usually displayed in a counter to choose from."
+    },
+    {
+      "name": "Çöp şiş",
+      "text": "Small cubes of marinated lamb grilled on wooden skewers, a speciality of the villages around Selçuk, served with flatbread, onion and grilled peppers.",
+      "whereToTry": "Grill restaurants in Selçuk and the surrounding villages. Ordered by the skewer."
+    },
+    {
+      "name": "Aegean herbs",
+      "text": "Wild greens — şevketi bostan, radika, deniz börülcesi — gathered locally and served with olive oil and lemon. A distinctly Aegean habit and increasingly fashionable in Turkish cooking.",
+      "whereToTry": "Market stalls and traditional restaurants, seasonally from late winter into spring."
+    },
+    {
+      "name": "Şirince fruit wine",
+      "text": "Sweet wines made from peach, melon, mulberry, pomegranate and blackberry, sold from every shopfront in Şirince. More a curiosity than a serious drink, and offered freely for tasting.",
+      "whereToTry": "Şirince village, where it is close to unavoidable. Buy small bottles."
+    },
+    {
+      "name": "Gözleme and village bread",
+      "text": "Hand-rolled flatbread folded around cheese, spinach or potato and cooked on a domed griddle, sold at village stops and market stalls throughout the region.",
+      "whereToTry": "Selçuk's Saturday market and the roadside cafés between Selçuk and Şirince."
+    },
+    {
+      "name": "Figs and olive oil",
+      "text": "The Aegean produces most of Turkey's figs and a large share of its olive oil, and both are excellent, cheap and easy to take home from the markets.",
+      "whereToTry": "Selçuk's Saturday market. Dried figs from Aydın province are the ones to look for."
+    }
+  ],
+  "accommodation": {
+    "intro": "Selçuk is the sensible base — small, cheap, walkable and three kilometres from the site. Kuşadası is the cruise port and İzmir the nearest city, but neither is better.",
+    "areas": [
+      {
+        "name": "Selçuk",
+        "bestFor": "The best base by a distance",
+        "text": "A small town of family-run pensions beneath a Byzantine castle, three kilometres from Ephesus with frequent minibuses. Cheap, friendly, with the museum, the Temple of Artemis and a good Saturday market."
+      },
+      {
+        "name": "Şirince",
+        "bestFor": "Village atmosphere",
+        "text": "Eight kilometres up in the hills, with restored Greek stone houses converted into small hotels. Beautiful once the day-trippers leave, and a lovely place to wake up. You will need a taxi or a car."
+      },
+      {
+        "name": "Kuşadası",
+        "bestFor": "Beaches and cruise connections",
+        "text": "A resort town twenty minutes away with beaches, a marina and a cruise terminal. Considerably more developed and less pleasant than Selçuk, but the coastal option."
+      },
+      {
+        "name": "İzmir",
+        "bestFor": "A real city and the airport",
+        "text": "An hour north, Turkey's third city, with a long waterfront promenade, an excellent bazaar and good restaurants. A viable base if you want a city, and where the airport is."
+      },
+      {
+        "name": "Rural boutique hotels",
+        "bestFor": "Quiet and olive groves",
+        "text": "Several converted farmhouses and small hotels sit in the countryside between Selçuk and Şirince, with pools and gardens. Good for a two or three-night stay with a car."
+      }
+    ],
+    "budget": [
+      { "label": "Pension in Selçuk", "value": "€25–50 per night" },
+      { "label": "Boutique hotel or Şirince house", "value": "€60–120 per night" },
+      { "label": "Ephesus entry", "value": "About €40, with the Terrace Houses a substantial separate ticket" },
+      { "label": "Minibus Selçuk to Ephesus", "value": "Under €1, running every few minutes" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "İzmir's airport is an hour away and Selçuk is on the regional railway, which makes this one of the easier archaeological sites in the Mediterranean to reach.",
+    "options": [
+      {
+        "mode": "İzmir Airport (ADB)",
+        "text": "About an hour by road, with frequent domestic flights from both Istanbul airports and a growing set of European routes. Car hire is at the terminal.",
+        "detail": "The suburban train from the airport reaches Selçuk in about 75 minutes for a couple of euros."
+      },
+      {
+        "mode": "Train from İzmir",
+        "text": "İZBAN suburban trains and regional services run from İzmir to Selçuk several times a day, taking about 90 minutes and costing very little.",
+        "detail": "Selçuk's station is a few minutes' walk from the town centre and most pensions."
+      },
+      {
+        "mode": "Bus",
+        "text": "Frequent coaches connect Selçuk with İzmir, Kuşadası, Bodrum (about 3h), Pamukkale (about 3h) and Fethiye. The otogar is central.",
+        "detail": "Dolmuş minibuses run to Ephesus and Şirince every few minutes throughout the day."
+      },
+      {
+        "mode": "Onward along the coast",
+        "text": "[[pamukkale]] is about 3h east, [[bodrum]] 3h south, and [[fethiye-oludeniz|Fethiye]] around 5h. All are straightforward by bus or car.",
+        "detail": "Ephesus, Pamukkale and the Turquoise Coast form the standard Aegean and Mediterranean route."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Selçuk is small and walkable, and everything else is a short minibus ride or a taxi.",
+    "options": [
+      {
+        "mode": "Dolmuş to the site",
+        "text": "Minibuses run from Selçuk otogar to the Ephesus lower gate every few minutes for under a euro, taking about five minutes.",
+        "detail": "They drop at the lower gate. If you want to walk the site downhill, take a taxi to the upper gate and walk back to the lower one."
+      },
+      {
+        "mode": "Walking the site",
+        "text": "Ephesus runs about 1.5 km from the upper gate to the lower, downhill. Three to four hours including the Terrace Houses, over uneven marble and stone.",
+        "detail": "Almost no shade. Hat, water and proper shoes, and go at either end of the day in summer."
+      },
+      {
+        "mode": "Taxi to Şirince",
+        "text": "Eight kilometres uphill, about fifteen minutes, with minibuses also running several times a day from Selçuk otogar.",
+        "detail": "The minibus is cheap but the last one back leaves earlier than you might want in the evening."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Useful for Aphrodisias, Priene, Miletus and Didyma, and for continuing to Pamukkale or the coast. Unnecessary if you are only doing Ephesus and Selçuk.",
+        "detail": "Hire at İzmir airport if you are continuing along the coast."
+      },
+      {
+        "mode": "Guided tours",
+        "text": "Guides at the gate can be hired by the hour and make a substantial difference to what you understand — Ephesus has almost no interpretive signage.",
+        "detail": "Agree the price and duration before starting. Two hours is usually enough."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "This is the Aegean coast, where summer is hot and the archaeological site has essentially no shade. The shoulder seasons are dramatically more comfortable and less crowded.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "The best season: 18–26°C, green countryside, wildflowers among the ruins, and comfortable conditions for three or four hours on an unshaded site. Storks return to the aqueduct in Selçuk."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Regularly 33–38°C with no shade on the site and marble that reflects the heat. Visiting is still possible at opening or after 16:00, but the middle of the day is genuinely unwise. Cruise crowds peak."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The heat breaks through September and October is excellent — warm, clear, quiet, with the fig and olive harvest under way. Arguably the single best month here."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild at 10–17°C with some rain, and the site nearly empty. Selçuk is quiet, several pensions close, and walking the ruins in soft winter light with nobody around is a genuine pleasure."
+      }
+    ],
+    "avoid": "Cruise ship days. Kuşadası is a major Mediterranean cruise port and thousands of passengers arrive at Ephesus between roughly 10:00 and 14:00. Being on site at 08:00 or after 16:00 avoids nearly all of it."
+  },
+  "itinerary": {
+    "title": "Two days at Ephesus and Selçuk",
+    "intro": "The site early on the first morning, everything else afterwards. Assumes a Selçuk base and no car.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ephesus",
+        "summary": "On site at opening, off it before the cruise crowds.",
+        "morning": "Taxi to the upper gate at 08:00 and walk down — the Odeon, Curetes Street, the Terrace Houses, the Library and the Great Theatre.",
+        "afternoon": "Out by the lower gate, then the Ephesus Archaeological Museum in Selçuk once you have seen the site.",
+        "evening": "Selçuk — the castle hill, the Basilica of St John, and çöp şiş in town."
+      },
+      {
+        "day": 2,
+        "title": "Selçuk, Artemis and Şirince",
+        "summary": "The town, a vanished Wonder, and a hill village.",
+        "morning": "The single column of the Temple of Artemis, the aqueduct with its storks, and the Saturday market if the day matches.",
+        "afternoon": "The House of the Virgin Mary above the site, or a second classical site such as Priene.",
+        "evening": "Şirince in the late afternoon for the village and the view, then dinner there or back in Selçuk."
+      }
+    ]
+  },
+  "tipsIntro": "Three of these make a real difference to how much you enjoy the site.",
+  "tips": [
+    "Kuşadası is a major cruise port and Ephesus receives thousands of passengers between about 10:00 and 14:00. Be on site at opening or after 16:00 and it is a substantially different place.",
+    "Pay the separate ticket for the Terrace Houses. It is the best-preserved Roman domestic architecture outside Pompeii, it is under a roof and therefore cool, and most visitors walk straight past the entrance.",
+    "Walk the site downhill. Take a taxi to the upper gate and exit at the lower one, where the minibuses to Selçuk wait. Doing it uphill in the heat is needlessly hard.",
+    "There is almost no shade anywhere on the site and the marble reflects heat. Hat, sun cream, water and proper shoes — the paving is uneven and polished slippery in places.",
+    "Ephesus has very little interpretive signage. A guide hired at the gate for two hours, or a good audio guide, changes how much of it you actually understand.",
+    "Stay in Selçuk rather than Kuşadası. It is three kilometres from the site, far cheaper, genuinely pleasant, and has the museum, the castle and a proper Turkish market.",
+    "Visit the archaeological museum after the site, not before. The Artemis statues and the household objects make sense once you have walked the streets they came from.",
+    "Şirince is overwhelmed by day-trippers between about 11:00 and 16:00. Go late afternoon, or stay the night, and it becomes a completely different village."
+  ],
+  "faq": [
+    {
+      "q": "How long do you need at Ephesus?",
+      "a": "Three to four hours for the site itself, including the Terrace Houses. Add the archaeological museum in Selçuk afterwards and that is a full day. A second day covers the Temple of Artemis, the Basilica of St John, Şirince and possibly another classical site — which is why two nights in Selçuk works better than a day trip."
+    },
+    {
+      "q": "Are the Terrace Houses worth the extra ticket?",
+      "a": "Yes, comfortably. They cost roughly as much again as the main site entry and give you six Roman apartments with mosaic floors, wall frescoes, marble panelling and plumbing — the best-preserved Roman domestic interiors outside Pompeii. They are also under a roof, which makes them the coolest part of the site in summer. Most visitors skip them."
+    },
+    {
+      "q": "When is the best time to visit Ephesus?",
+      "a": "April to May and September to October, and within the day, at opening or after 16:00. The site has essentially no shade and summer temperatures reach 33–38°C on reflective marble. Kuşadası's cruise passengers arrive between roughly 10:00 and 14:00, so the early and late windows avoid both the heat and most of the crowds."
+    },
+    {
+      "q": "Where should I stay to visit Ephesus?",
+      "a": "Selçuk, three kilometres from the site — a small town with family-run pensions, a Byzantine castle, the archaeological museum, the Temple of Artemis and frequent minibuses to the ruins for under a euro. It is far cheaper and considerably more pleasant than Kuşadası, the nearby cruise resort."
+    },
+    {
+      "q": "Can you visit Ephesus as a day trip from Istanbul?",
+      "a": "It is possible with a 06:00 flight to İzmir and a late return, and it makes for a long and rushed day arriving in the hottest, busiest window. Two nights in Selçuk costs very little and lets you see the site at opening, add the museum, the Temple of Artemis and Şirince, and eat properly. It is a much better trip."
+    },
+    {
+      "q": "Is there anything left of the Temple of Artemis?",
+      "a": "One reassembled column standing in a marshy field, with a stork's nest on top. The temple was one of the Seven Wonders of the Ancient World and four times the size of the Parthenon. It takes ten minutes to visit, it is free, and the near-total absence of it is oddly more affecting than a ruin would be."
+    },
+    {
+      "q": "Do I need a guide at Ephesus?",
+      "a": "It helps a great deal. The site has very little interpretive signage, and much of what you are looking at — the function of a building, what the reliefs mean, why the harbour vanished — is not self-evident. Guides can be hired at the gate by the hour; two hours is usually enough. Agree the price and duration before starting."
+    }
+  ],
+  "related": ["pamukkale", "bodrum", "istanbul", "naples-pompeii"],
+  "relatedArticles": ["unesco-worth-planning-around", "best-time-southern-europe", "first-trip-to-europe"]
+}

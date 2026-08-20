@@ -1,0 +1,351 @@
+{
+  "slug": "seville",
+  "name": "Seville",
+  "country": "spain",
+  "region": "Andalusia",
+  "categories": ["major-city", "cultural", "unesco", "historic"],
+  "tagline": "Andalusia's capital: orange trees, a Moorish palace still used by the royal family, and the largest Gothic cathedral in the world.",
+  "highlight": "The Real Alcázar — an Islamic palace rebuilt by Christian kings in the same style, and still a working royal residence.",
+  "shortDescription": "The heart of southern Spain, where flamenco, tapas and Holy Week processions are living traditions rather than performances, wrapped around a medieval core of white walls and orange trees.",
+  "metaDescription": "A Seville travel guide: the Alcázar and cathedral, Triana and Santa Cruz, flamenco, tapas, dealing with the summer heat, where to stay and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Seville (SVQ), 10 km northeast",
+  "knownFor": "The Alcázar, flamenco, Semana Santa, orange trees",
+  "budget": "€110–180 per day, mid-range",
+  "goodFor": "Culture, food, walking, spring travel",
+  "coords": { "lat": 37.3891, "lng": -5.9845 },
+  "image": {
+    "file": "File:Plaza de España (Sevilla) - 01.jpg",
+    "alt": "The curved brick and tile facade of the Plaza de España in Seville reflected in its canal"
+  },
+  "intro": [
+    "Seville is the largest city in Andalusia and, for most of the 16th century, was the richest in Europe — it held the legal monopoly on trade with the Americas, and the silver came through here. That wealth built the largest Gothic cathedral in the world, a river frontage of palaces and warehouses, and a merchant class with the money to commission Murillo and Velázquez, who was born here.",
+    "Before that it was Ishbiliya, a major city of Al-Andalus for five centuries, and the Islamic layer is more visible than the Christian one in places. The Giralda bell tower is a converted minaret. The Real Alcázar is a Christian palace built by Muslim craftsmen in the Islamic style, a hundred years after the reconquest, because the kings who commissioned it thought it the most beautiful architecture available.",
+    "What makes Seville different from a city of monuments is that its traditions are still in use. Semana Santa processions involve tens of thousands of participants and are religious events rather than displays. Flamenco is performed in small rooms across Triana and the centre most nights of the week. And the tapas culture is not a tourist product — it is simply how the city eats, standing up, late, and in several places per evening."
+  ],
+  "whyVisit": {
+    "intro": "Seville is the most concentrated expression of everything people mean by Andalusia, with three major monuments inside ten minutes of each other.",
+    "points": [
+      {
+        "title": "Three UNESCO monuments in one square",
+        "text": "The cathedral, the Alcázar and the Archivo de Indias sit adjacent to one another and are jointly listed. The cathedral is the largest Gothic church in the world by volume; the Alcázar is the oldest royal palace in Europe still in use."
+      },
+      {
+        "title": "The Alcázar is extraordinary and underrated",
+        "text": "Christian kings employed Muslim craftsmen to build a palace in the Nasrid style a century after the reconquest. The result is a building that is Islamic in every detail and Christian in commission, surrounded by gardens of orange trees, pools and hedged walks."
+      },
+      {
+        "title": "Flamenco as a live tradition",
+        "text": "Triana across the river is one of the form's historic centres, and Seville has small venues, peñas and street performance most nights. This is not a show put on for coaches; it is a form still being argued about by the people who perform it."
+      },
+      {
+        "title": "The city is built for walking",
+        "text": "The historic centre is one of the largest car-free old towns in Europe, a dense grid of narrow white lanes designed to hold shade. Almost everything is within twenty minutes on foot, and the city has excellent bike lanes for the rest."
+      },
+      {
+        "title": "Spring here is exceptional",
+        "text": "Orange blossom in March, Semana Santa and the April Feria, and temperatures in the low twenties before the summer heat arrives. Few European cities have a better six-week window."
+      }
+    ]
+  },
+  "attractionsIntro": "The three big monuments are within a five-minute walk of each other and two of them need booking. The rest of Seville is neighbourhoods.",
+  "attractions": [
+    {
+      "name": "The Real Alcázar",
+      "text": "A palace complex begun under Muslim rule and rebuilt in the 1360s by Pedro I using craftsmen from Granada and Toledo — Islamic architecture commissioned by a Christian king. The Patio de las Doncellas, the Salón de Embajadores under its golden dome, and seven hectares of gardens beyond.",
+      "tip": "Book a timed slot online. The upper royal apartments are a separate ticket bought on the day and worth the supplement."
+    },
+    {
+      "name": "Seville Cathedral and the Giralda",
+      "text": "The largest Gothic cathedral in the world by volume, built on the site of the Almohad mosque, whose minaret survives as the bell tower. Columbus's tomb is carried by four figures representing the kingdoms of Spain. The Giralda is climbed by 34 ramps rather than stairs — built wide enough to ride a horse up.",
+      "tip": "The rooftop tour, booked separately, gets you onto the vaults and buttresses. It is the best thing in the building."
+    },
+    {
+      "name": "Plaza de España",
+      "text": "A vast semicircular brick and tile complex built for the 1929 Ibero-American Exposition, with a canal, bridges and 48 tiled alcoves representing the provinces of Spain. Extravagant, photogenic and free.",
+      "tip": "Go early morning. It is on every coach itinerary and largely empty before 09:30."
+    },
+    {
+      "name": "Barrio Santa Cruz",
+      "text": "The old Jewish quarter beside the Alcázar, a maze of whitewashed lanes barely wide enough for two, with hidden patios, orange trees and small squares. Deliberately narrow to hold shade in summer.",
+      "tip": "It is touristy at midday and lovely at 08:00 and after 21:00. Eat one street outside it, not inside it."
+    },
+    {
+      "name": "Triana",
+      "text": "Across the river, historically the district of sailors, potters and flamenco families. It has a covered market on the site of a castle, tile workshops still in operation, and a bar-lined riverfront looking back at the city.",
+      "tip": "Calle Betis at dusk, with the cathedral lit across the water, is the best free view in Seville."
+    },
+    {
+      "name": "Metropol Parasol",
+      "text": "A vast timber lattice structure over the Plaza de la Encarnación, locally called Las Setas — the mushrooms. A walkway across the top gives a 360-degree view over the old city, and Roman remains found during construction are displayed underneath.",
+      "tip": "Go at sunset. The ticket is cheap and includes a drink at the top."
+    },
+    {
+      "name": "Casa de Pilatos",
+      "text": "A 16th-century aristocratic palace blending Mudéjar, Gothic and Renaissance, with one of the finest tiled courtyards in the city and a Roman sculpture collection. Far quieter than the Alcázar and, for some visitors, more enjoyable.",
+      "tip": "The upper floor is by guided tour only and included in the full ticket."
+    },
+    {
+      "name": "Museo de Bellas Artes",
+      "text": "Spain's second-best collection of Spanish painting after the Prado, in a converted convent — heavy on Murillo, Zurbarán and Valdés Leal, all Seville painters. The building itself, arranged around three cloisters, is worth the visit.",
+      "tip": "Sunday morning brings a painters' market in the square outside. Free entry for EU citizens."
+    }
+  ],
+  "thingsToDoIntro": "Seville is a city to be in rather than a checklist. Two monuments, two neighbourhoods and a lot of standing at bars is a good three days.",
+  "thingsToDo": [
+    {
+      "title": "Eat tapas standing up, in several places",
+      "text": "Seville's tapas culture is about circulation. One or two dishes and a drink per bar, then move. Order at the bar, and expect to be shouting over other people doing the same.",
+      "tip": "Unlike Granada, tapas here are ordered and paid for. Prices are chalked up and portions come in tapa, media ración and ración sizes."
+    },
+    {
+      "title": "Cross the river to Triana in the evening",
+      "text": "The Puente de Isabel II at dusk, then Calle Betis with the old city lit across the water. Triana's bars are less polished than the centre's and better for it.",
+      "tip": "The Mercado de Triana on the bridge has stalls that turn into bars in the evening."
+    },
+    {
+      "title": "See flamenco somewhere small",
+      "text": "A tablao seating forty is a completely different experience from a dinner show for three hundred. Several venues in Triana and the centre run nightly performances of an hour, without food.",
+      "tip": "The Museo del Baile Flamenco runs good small shows. Casa de la Memoria is another reliable, intimate option."
+    },
+    {
+      "title": "Cycle the river and the parks",
+      "text": "Seville built over 180 km of segregated bike lanes in a decade and the city is completely flat. The riverside route and María Luisa park make an easy, shaded hour.",
+      "tip": "The Sevici bike-share scheme takes foreign cards. It is far pleasanter than walking in June heat."
+    },
+    {
+      "title": "Take a day trip to Córdoba or Jerez",
+      "text": "[[cordoba]] is 45 minutes by AVE, Jerez de la Frontera an hour by regional train for sherry bodegas and the Andalusian riding school. Both work comfortably as full days.",
+      "tip": "Córdoba deserves an overnight if you can spare it, but the 45-minute train makes a day trip genuinely viable."
+    },
+    {
+      "title": "Sit in a plaza at 22:00",
+      "text": "Seville comes alive after dark, particularly in summer when the day is unusable. Plaza del Salvador, Alameda de Hércules and the squares of Triana fill with people eating outside until well past midnight.",
+      "tip": "Alameda de Hércules is where Seville itself goes, rather than where visitors go."
+    }
+  ],
+  "foodIntro": "Andalusian cooking is built around olive oil, fried fish, cold soups and cured pork, and Seville is its capital. It is also the birthplace of tapas.",
+  "foods": [
+    {
+      "name": "Salmorejo",
+      "text": "A cold soup of tomato, bread, garlic and olive oil, thicker than gazpacho and topped with chopped egg and jamón. Originally from [[cordoba]] and eaten across Andalusia all summer.",
+      "whereToTry": "Any tapas bar from May to September. It vanishes from menus in winter."
+    },
+    {
+      "name": "Pescaíto frito",
+      "text": "Small fish — anchovies, red mullet, cuttlefish, dogfish — floured and fried fast in olive oil, served in a paper cone or on a plate with lemon. The test is whether it is greasy; done properly it is not.",
+      "whereToTry": "Freidurías throughout the city, many of which do takeaway only. Triana has the best of them."
+    },
+    {
+      "name": "Espinacas con garbanzos",
+      "text": "Spinach and chickpeas stewed with cumin, paprika and garlic — a Moorish-descended dish, cheap, vegetarian and on nearly every tapas list in Seville.",
+      "whereToTry": "Traditional tapas bars in the centre and Triana. Especially common during Lent."
+    },
+    {
+      "name": "Carrillada",
+      "text": "Pork or beef cheeks braised for hours in red wine until they collapse, served with potatoes. The most substantial thing on most tapas menus and a winter favourite.",
+      "whereToTry": "Traditional bars across the city, usually as a media ración rather than a tapa."
+    },
+    {
+      "name": "Jamón ibérico de bellota",
+      "text": "Acorn-fed black Iberian ham from the dehesa oak pastures of western Andalusia and Extremadura, cured for three or four years and sliced by hand. Seville is one of the best places in Spain to eat it.",
+      "whereToTry": "Specialist jamonerías and any decent bar. Ask for bellota rather than the cheaper cebo grade."
+    },
+    {
+      "name": "Sherry and manzanilla",
+      "text": "Fino and manzanilla from Jerez and Sanlúcar an hour away — bone dry, chilled, and drunk with food rather than after it. Manzanilla is aged by the sea and tastes faintly saline.",
+      "whereToTry": "Old bodega bars in the centre. Served in a small caña glass and topped up frequently."
+    }
+  ],
+  "accommodation": {
+    "intro": "Seville's historic centre is largely pedestrian and walkable end to end in half an hour, so almost anywhere central works. The distinction is between the tourist core and the neighbourhoods around it.",
+    "areas": [
+      {
+        "name": "Santa Cruz",
+        "bestFor": "First-time visitors, walking to everything",
+        "text": "Next to the cathedral and the Alcázar, in the maze of white lanes. Beautiful and central; also the most tourist-facing part of the city, with restaurants to match. Streets are too narrow for cars."
+      },
+      {
+        "name": "El Arenal and the centre",
+        "bestFor": "Balance of location and value",
+        "text": "Between the cathedral and the river, with the bullring, good tapas bars and easy access to Triana. Central without being inside the Santa Cruz crush."
+      },
+      {
+        "name": "Alameda and Macarena",
+        "bestFor": "Local nightlife and lower prices",
+        "text": "North of the centre, around the long Alameda de Hércules plaza. Where Seville goes out, with noticeably cheaper rooms and a ten-minute walk to the cathedral."
+      },
+      {
+        "name": "Triana",
+        "bestFor": "Flamenco, food, river views",
+        "text": "Across the river, historically the sailors' and potters' quarter. Excellent bars, a great market, and rooms cheaper than the centre. Five minutes over the bridge."
+      },
+      {
+        "name": "Near Santa Justa station",
+        "bestFor": "Budget and day trips",
+        "text": "Twenty minutes' walk northeast of the centre, cheaper and convenient for AVE day trips to Córdoba or Madrid. Unremarkable but perfectly practical."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€20–40 per night" },
+      { "label": "Comfortable hotel", "value": "€90–160 per night" },
+      { "label": "Semana Santa and Feria", "value": "Two to four times normal rates, booked a year ahead" },
+      { "label": "Tapas dinner", "value": "€15–25 per person across three or four bars" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Seville has its own airport and sits on the AVE line from Madrid, which makes it the easiest Andalusian city to reach.",
+    "options": [
+      {
+        "mode": "Seville Airport (SVQ)",
+        "text": "Ten kilometres northeast, with routes across Europe. The EA airport bus reaches the centre in about 35 minutes for a few euros; taxis run a fixed fare.",
+        "detail": "Málaga has more long-haul and low-cost routes and is 2h30 away by train if the fares are much better."
+      },
+      {
+        "mode": "AVE from Madrid",
+        "text": "Two and a half hours from Madrid Atocha to Seville Santa Justa, the original Spanish high-speed line, opened in 1992. Multiple operators and frequent departures.",
+        "detail": "Santa Justa is a 20-minute walk or short bus ride from the centre."
+      },
+      {
+        "mode": "Within Andalusia",
+        "text": "[[cordoba]] is 45 minutes by AVE, [[granada]] about 3h by bus, Málaga 2h by train, Jerez an hour by regional train and Cádiz 1h40.",
+        "detail": "For Granada the bus is usually faster and cheaper than the rail route."
+      },
+      {
+        "mode": "By car",
+        "text": "Madrid is about 5h30, Málaga 2h15, Lisbon 5h. Useful for the white villages and the Sierra de Grazalema, but a liability in the city.",
+        "detail": "Seville's centre is a restricted-traffic zone enforced by camera. Park in a garage on the edge and walk."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "One of the flattest and most walkable major cities in Europe, with a huge pedestrian zone and an excellent bike network. You will not need much else.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic centre is one of Europe's largest car-free areas and takes about 30 minutes to cross. The cathedral to the Metropol Parasol is ten minutes, to Triana fifteen.",
+        "detail": "The lanes of Santa Cruz are deliberately narrow to hold shade, which also makes them hard to navigate — that is the point."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Seville built over 180 km of segregated lanes in about a decade and is completely flat. The Sevici bike-share scheme is cheap and accepts foreign cards.",
+        "detail": "By far the best way to cover ground in the heat, and the riverside route is genuinely pleasant."
+      },
+      {
+        "mode": "Tram and metro",
+        "text": "A short tram line runs through the centre from the cathedral to San Bernardo, and a single metro line serves the outer city.",
+        "detail": "Neither is really necessary for a visitor; walking covers the same ground."
+      },
+      {
+        "mode": "Buses",
+        "text": "A comprehensive network including the C-lines that circle the historic centre, useful for reaching the station or the outer neighbourhoods.",
+        "detail": "The EA airport bus and the C5 minibus through the narrow centre are the two most useful."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap and plentiful, and worth using at 03:00 in August when walking home is unappealing.",
+        "detail": "Cannot enter much of Santa Cruz — expect to be dropped at the nearest accessible street."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "Seville has the hottest summers of any major European city and one of the best springs. The seasonal difference here is not marginal — it determines whether the trip is a pleasure or an endurance exercise.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The city at its peak: orange blossom in March, temperatures of 20–27°C, and the two great festivals. Semana Santa and the April Feria are extraordinary and fill every room in the city at two to four times normal rates."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Regularly 38–42°C and occasionally higher — Seville records some of the highest temperatures in Europe. The city adapts by shutting down entirely from 14:00 to 19:00, and visitors who do not adapt have a miserable time. Hotel rates are at their lowest for exactly this reason."
+      },
+      {
+        "season": "Autumn (September–November)",
+        "rating": "best",
+        "text": "The heat breaks through September and October and November are excellent — warm days of 20–27°C, cool evenings, and very few visitors. October and November are the quietest good months of the year."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Mild at 10–18°C with plenty of sun, and cheap. Some rain, and evenings are cool enough for a coat, but the monuments are empty and the city functions completely normally."
+      }
+    ],
+    "avoid": "Semana Santa and the Feria de Abril, which fall two weeks apart in spring and multiply accommodation prices across the whole of Andalusia. Both are genuinely magnificent — but you must book a year ahead and accept the crowds, or avoid the fortnight entirely."
+  },
+  "itinerary": {
+    "title": "Three days in Seville",
+    "intro": "Structured around the heat: monuments in the morning, a long lunch, and the city again from 19:00. That pattern works in any season and is essential from June to September.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The monumental centre",
+        "summary": "The two big sites, both booked ahead, with the maze in between.",
+        "morning": "The Real Alcázar at opening on a timed ticket — the palace first, then an hour in the gardens.",
+        "afternoon": "The cathedral and the Giralda ramp, then Barrio Santa Cruz on foot.",
+        "evening": "Tapas around Plaza del Salvador and the Alfalfa, standing at the bar."
+      },
+      {
+        "day": 2,
+        "title": "Triana and the river",
+        "summary": "Cross the water for the city's other half.",
+        "morning": "Plaza de España at 08:30 before the coaches, then María Luisa park in the shade.",
+        "afternoon": "Over the bridge to Triana — the market, the tile workshops, and Calle Betis.",
+        "evening": "Flamenco at a small tablao, then dinner in Triana at 22:00."
+      },
+      {
+        "day": 3,
+        "title": "Córdoba, or deeper into Seville",
+        "summary": "Either a day trip or the parts of the city most visitors skip.",
+        "morning": "AVE to [[cordoba]], 45 minutes, for the Mezquita and the Judería.",
+        "afternoon": "Alternatively, the Casa de Pilatos, the Museo de Bellas Artes and the Metropol Parasol.",
+        "evening": "Sunset from the top of the Metropol Parasol, then the Alameda de Hércules."
+      }
+    ]
+  },
+  "tipsIntro": "Seville-specific advice, most of which is about heat and timing.",
+  "tips": [
+    "Book the Real Alcázar online with a timed slot. Walk-up queues run to an hour or more, and the upper royal apartments are a separate ticket bought on the day.",
+    "From June to September, sightsee 08:00–13:00 and again after 19:00, and do nothing outdoors between 14:00 and 18:00. Seville regularly exceeds 40°C and the city itself shuts down for those hours.",
+    "Unlike Granada, tapas in Seville are ordered and paid for. Prices are usually chalked up, and dishes come in three sizes — tapa, media ración and ración.",
+    "Semana Santa and the April Feria fall two weeks apart and multiply hotel rates across Andalusia. Book a year ahead or avoid the fortnight; the dates move each year.",
+    "The cathedral rooftop tour, booked separately from general entry, gets you onto the vaults and flying buttresses. It is the best thing in the building and few people do it.",
+    "Seville is flat and has 180 km of segregated bike lanes. The Sevici bike-share takes foreign cards and is dramatically more pleasant than walking in June.",
+    "Eat one street outside Santa Cruz rather than inside it. The quality difference between the lanes around the cathedral and the bars five minutes north is substantial.",
+    "The city centre is a camera-enforced restricted-traffic zone. If you arrive by car, park in a garage on the edge and walk in — fines arrive months later."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Seville?",
+      "a": "Three to four. One for the Alcázar, cathedral and Santa Cruz; one for Triana, the Plaza de España and the river; and one for a day trip to Córdoba or Jerez, or for the quieter parts of the city. Two days covers the monuments but misses the evening culture, which is much of the point."
+    },
+    {
+      "q": "When is the best time to visit Seville?",
+      "a": "March to May and October to November. Spring is exceptional — orange blossom, 20–27°C and the two great festivals — but Semana Santa and the April Feria fill every room at inflated prices. October and November are the quietest good months. Avoid June to August if you can: Seville regularly exceeds 40°C and the city shuts down every afternoon."
+    },
+    {
+      "q": "Is Seville too hot in summer?",
+      "a": "It is the hottest major city in Europe, routinely 38–42°C in July and August. It is visitable if you adopt the local pattern — out from 08:00 to 13:00, indoors from 14:00 to 18:00, out again after 19:00 until well past midnight. Hotel rates are at their annual low in August for exactly this reason, so it can be good value if you plan around the heat."
+    },
+    {
+      "q": "Do I need to book the Real Alcázar in advance?",
+      "a": "Yes. Entry is by timed slot and walk-up queues commonly run an hour or more in season. Book online a few days to a couple of weeks ahead. The upper royal apartments — still used by the Spanish royal family — are a separate limited ticket sold on the day and worth the small supplement."
+    },
+    {
+      "q": "Where should I see flamenco in Seville?",
+      "a": "In a small tablao seating around forty people, in Triana or the centre, at a venue that sells a one-hour performance without dinner. The Museo del Baile Flamenco and Casa de la Memoria both run reliable intimate shows. Avoid the large dinner-and-coach packages, which are a different product entirely."
+    },
+    {
+      "q": "Is Córdoba a good day trip from Seville?",
+      "a": "Yes — 45 minutes each way by AVE, which makes it one of the easiest day trips in Spain. The Mezquita, the Judería and the Roman bridge fill a comfortable day. If you can spare a night, Córdoba is better with an evening in it, but the train makes the day-trip version genuinely worthwhile."
+    },
+    {
+      "q": "Are tapas free in Seville?",
+      "a": "No — that is Granada. In Seville tapas are ordered and paid for, with prices usually chalked on a board, and they come in three sizes: tapa (a small plate), media ración and ración. A tapas dinner across three or four bars runs about €15–25 a head, which is still excellent value."
+    }
+  ],
+  "related": ["cordoba", "granada", "madrid", "valencia"],
+  "relatedArticles": ["best-time-southern-europe", "unesco-worth-planning-around", "first-trip-to-europe"]
+}

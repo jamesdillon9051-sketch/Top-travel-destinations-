@@ -1,0 +1,359 @@
+{
+  "slug": "rome",
+  "name": "Rome",
+  "country": "italy",
+  "region": "Lazio",
+  "categories": ["capital-city", "historic", "archaeological", "unesco"],
+  "tagline": "Three thousand years of city built on top of itself, with the ancient layer still standing in the middle of the modern one.",
+  "highlight": "The Pantheon — a working building since AD 126, still holding the largest unreinforced concrete dome on earth.",
+  "shortDescription": "The only capital where a Roman amphitheatre, a Renaissance basilica and a Baroque fountain are all a ten-minute walk apart, and where the best paintings are free in parish churches.",
+  "metaDescription": "A Rome travel guide: the Colosseum, Forum, Pantheon and Vatican, where to eat in Testaccio and Trastevere, how to book the big sights, when to go and a four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Rome Fiumicino (FCO)",
+  "knownFor": "The Colosseum, the Vatican, the Pantheon, carbonara",
+  "budget": "€130–230 per day, mid-range",
+  "goodFor": "History, art, food, walking, first trips to Italy",
+  "coords": { "lat": 41.9028, "lng": 12.4964 },
+  "image": {
+    "file": "File:Colosseum of Rome and Roman forum.jpg",
+    "alt": "The Colosseum seen across the ruins of the Roman Forum"
+  },
+  "intro": [
+    "Most historic cities preserve their past behind glass. Rome never bothered. The Pantheon has been in continuous use since AD 126 and you walk in off the street for the price of a coffee; the church of San Luigi dei Francesi has three Caravaggios in a side chapel and charges nothing to see them; a stretch of the Servian Wall from the fourth century BC stands in the concourse of the main railway station because there was nowhere else to put it. The city is not a museum with a town attached — it is a working capital of nearly three million people that happens to have been continuously inhabited for close to three thousand years.",
+    "That produces the particular Roman experience of layers. The Colosseum, opened in AD 80, sits at one end of a Forum that was the political centre of an empire covering three continents. A few hundred metres away, the Capitoline Museums have been open to the public since 1471, which makes them the oldest public museums in the world. Across the river, the Vatican holds Michelangelo's ceiling and the largest church in Christendom. And underneath all of it are catacombs, aqueducts, an entire earlier street level, and the reason Rome's metro has only three lines: you cannot dig anywhere here without hitting something that stops the works.",
+    "The other Rome is the one people actually remember — the neighbourhood one. Trastevere's lanes across the river, Testaccio's market and its ferociously traditional trattorias, the Aventine's orange garden, and the daily rhythm of espresso standing at a bar, a long lunch, and the passeggiata before dinner. Rome is best done at about half the pace visitors plan for, with a third of the sights and twice the walking."
+  ],
+  "whyVisit": {
+    "intro": "Rome's case is simple: no other city gives you this much of the ancient world, the Renaissance and the Baroque within walking distance of each other, still in use.",
+    "points": [
+      {
+        "title": "The ancient city is genuinely standing",
+        "text": "Not foundations — buildings. The Colosseum, the Pantheon, the Forum, the Baths of Caracalla, an aqueduct running through a public park. You walk through Roman streets rather than looking at them across a rope."
+      },
+      {
+        "title": "The art is free and in situ",
+        "text": "Caravaggio in San Luigi dei Francesi and Santa Maria del Popolo, Michelangelo's Moses in San Pietro in Vincoli, Bernini everywhere. These are parish churches, open, unattended and costing nothing."
+      },
+      {
+        "title": "Bernini built the city you walk through",
+        "text": "The colonnade at St Peter's, the fountain in Piazza Navona, the Ecstasy of St Teresa, half the Borghese Gallery. One artist shaped the public face of Baroque Rome more than any planner has shaped a city since."
+      },
+      {
+        "title": "Roman food is a closed and excellent system",
+        "text": "Four pastas, the artichoke in two forms, offal cooked better than anywhere in Europe, and pizza al taglio sold by weight. It is cheap, specific and defended with real seriousness in Testaccio."
+      },
+      {
+        "title": "Everything is walkable",
+        "text": "The historic centre is about three kilometres across. From the Colosseum to the Vatican on foot takes fifty minutes and passes the Forum, the Pantheon, Piazza Navona and the Tiber."
+      }
+    ]
+  },
+  "attractionsIntro": "There is more here than any trip can absorb. These eight are the ones worth building days around; everything else you will find by walking.",
+  "attractions": [
+    {
+      "name": "The Colosseum",
+      "text": "The Flavian Amphitheatre, opened in AD 80 and holding perhaps fifty thousand people, with the underground hypogeum where animals and machinery were held now exposed beneath the missing arena floor.",
+      "tip": "Timed entry, booked ahead. The separate arena-floor and underground tickets are worth the extra and sell out first."
+    },
+    {
+      "name": "The Roman Forum and Palatine Hill",
+      "text": "The civic centre of the Republic and Empire — the Senate house, the temple where Caesar was cremated, triumphal arches, the Vestal house — with the imperial palaces spread over the hill above it.",
+      "tip": "On the same ticket as the Colosseum. Enter from the Palatine gate on Via di San Gregorio, where the queue is much shorter."
+    },
+    {
+      "name": "The Pantheon",
+      "text": "Rebuilt under Hadrian around AD 126, converted to a church in 609 and never abandoned, which is why it survives intact. The coffered concrete dome is still the largest unreinforced one ever built, with a nine-metre hole open to the sky.",
+      "tip": "It now charges a small entry fee. Go in rain if you get the chance — water falls through the oculus and drains through holes in the floor."
+    },
+    {
+      "name": "The Vatican Museums and Sistine Chapel",
+      "text": "Seven kilometres of galleries ending at Michelangelo's ceiling of 1508–12 and his Last Judgment of the 1530s, by way of the Raphael Rooms, the map gallery and one of the great classical sculpture collections.",
+      "tip": "Book the first slot of the day. The route is one-way and enormous — do not attempt it and St Peter's in the same morning."
+    },
+    {
+      "name": "St Peter's Basilica",
+      "text": "The largest church in Christendom, on the traditional site of Peter's grave, with Michelangelo's dome, his Pietà behind glass just inside the door, and Bernini's bronze baldachin over the altar.",
+      "tip": "Free, but security queues are long by mid-morning. The dome climb is a separate ticket and 551 steps — the lift saves only the first third."
+    },
+    {
+      "name": "The Borghese Gallery",
+      "text": "A cardinal's private collection in his own villa: Bernini's Apollo and Daphne and Rape of Proserpina, six Caravaggios, Titian and Raphael, in rooms small enough to see them properly.",
+      "tip": "Strictly timed two-hour slots, booked well in advance and never available on the door. The best two hours of art in Rome."
+    },
+    {
+      "name": "The Capitoline Museums",
+      "text": "Open to the public since 1471 and therefore the oldest public museums in the world, on Michelangelo's piazza — the bronze she-wolf, the Dying Gaul, the colossal fragments of Constantine and the original equestrian Marcus Aurelius.",
+      "tip": "The gallery passage under the piazza comes out on a terrace with the best free view over the Forum."
+    },
+    {
+      "name": "Ostia Antica",
+      "text": "Rome's port city, abandoned rather than destroyed, with streets, warehouses, apartment blocks, a theatre and a public latrine still in place. Half an hour from the centre by train and a fraction of the crowds.",
+      "tip": "The best half-day out of Rome by public transport. Take the Roma–Lido train from Porta San Paolo on a normal metro ticket."
+    }
+  ],
+  "thingsToDoIntro": "Rome punishes over-scheduling. Pair one major sight with one neighbourhood each day and leave the evenings unplanned.",
+  "thingsToDo": [
+    {
+      "title": "Do the ancient core on one ticket",
+      "text": "Colosseum, Forum and Palatine are sold together and share a valid period. Start underground at the Colosseum, come up into the arena, then walk the Forum and climb the Palatine for the view back down.",
+      "tip": "Start at opening or after 15:00. The Forum has no shade and is punishing between June and September."
+    },
+    {
+      "title": "Hunt Caravaggio for free",
+      "text": "San Luigi dei Francesi has the St Matthew cycle, Santa Maria del Popolo the Conversion of St Paul and Crucifixion of St Peter, Sant'Agostino the Madonna of Loreto. All parish churches, all free.",
+      "tip": "Carry one-euro coins for the light boxes that illuminate the chapels, and avoid Mass times."
+    },
+    {
+      "title": "Walk the centro storico after dark",
+      "text": "The Pantheon, Piazza Navona, the Trevi Fountain and Campo de' Fiori are ten minutes apart and completely different places at eleven at night, lit and half empty.",
+      "tip": "The Trevi is impossible by day and quite manageable very late. It is floodlit all night."
+    },
+    {
+      "title": "Eat your way through Testaccio",
+      "text": "The neighbourhood built around the old slaughterhouse, where the quinto quarto tradition comes from. The covered market for lunch, the trattorias for coda alla vaccinara and carbonara made properly.",
+      "tip": "Monte Testaccio, the hill behind, is made of an estimated 53 million broken Roman amphorae."
+    },
+    {
+      "title": "Cycle the Appian Way",
+      "text": "The Via Appia Antica runs south from the city past catacombs, tombs and the aqueduct park, closed to most traffic on Sundays. Basalt paving laid in the fourth century BC, still there.",
+      "tip": "Rent a bike at the visitor centre. The stones are rough — this is not a smooth ride, and it is better for it."
+    },
+    {
+      "title": "Climb the Aventine",
+      "text": "The quietest of the seven hills: the Giardino degli Aranci with its terrace over the city, the basilica of Santa Sabina, and the keyhole in the Knights of Malta gate framing St Peter's dome.",
+      "tip": "There is now usually a queue for the keyhole. Come early morning, or accept it and enjoy the orange garden instead."
+    }
+  ],
+  "foodIntro": "Roman cooking is a small, fixed repertoire executed obsessively — peasant and butcher's food rather than court cuisine, and all the better for it.",
+  "foods": [
+    {
+      "name": "The four Roman pastas",
+      "text": "Carbonara (egg, guanciale, pecorino, pepper — no cream), cacio e pepe (pecorino and pepper emulsified with pasta water), amatriciana (guanciale, tomato, pecorino) and gricia, the ancestor of all three.",
+      "whereToTry": "Testaccio and Trastevere trattorias. If a menu mentions cream in the carbonara, leave."
+    },
+    {
+      "name": "Carciofi, two ways",
+      "text": "Alla giudia — a whole artichoke flattened and deep-fried until the leaves crisp like petals, from the Jewish Ghetto — and alla romana, braised with mint and garlic. In season roughly February to May.",
+      "whereToTry": "The restaurants of the Ghetto around Via del Portico d'Ottavia for the fried version."
+    },
+    {
+      "name": "Supplì",
+      "text": "A fried rice ball with ragù and a core of mozzarella that pulls into a thread when you bite it — supplì al telefono, named for the telephone cord. The Roman answer to the Sicilian arancino.",
+      "whereToTry": "Pizzerias and friggitorie, eaten standing up while you wait for the pizza."
+    },
+    {
+      "name": "Pizza, thin and by the slice",
+      "text": "Roman pizza is thin and crisp, quite unlike Neapolitan. Pizza al taglio is baked in long trays, cut with scissors and sold by weight — the best cheap lunch in the city.",
+      "whereToTry": "Any forno with a queue at 13:00. Point at what you want and say how much."
+    },
+    {
+      "name": "Quinto quarto",
+      "text": "The 'fifth quarter' — what the slaughterhouse workers were paid in. Coda alla vaccinara (oxtail braised with celery and cocoa), trippa alla romana, sweetbreads. Rome does offal better than anywhere in Europe.",
+      "whereToTry": "Testaccio, which invented the tradition. Thursday is traditionally gnocchi day and Saturday tripe."
+    },
+    {
+      "name": "Maritozzo and gelato",
+      "text": "The maritozzo is a soft sweet bun split and filled with an absurd quantity of whipped cream, eaten for breakfast. Gelato is a separate religion, best where the tubs are covered and the pistachio is brown.",
+      "whereToTry": "Bars for maritozzi in the morning; gelaterie advertising 'produzione propria' in the evening."
+    }
+  ],
+  "accommodation": {
+    "intro": "Rome is walkable enough that any central district works. The choice is really about what you want to be surrounded by after dark.",
+    "areas": [
+      {
+        "name": "Centro storico",
+        "bestFor": "First visits",
+        "text": "Around the Pantheon, Piazza Navona and Campo de' Fiori. You step out of the door into it, everything is on foot, and you pay for the privilege. Very few metro stations, which does not matter here."
+      },
+      {
+        "name": "Monti",
+        "bestFor": "Atmosphere and value",
+        "text": "The oldest neighbourhood in the city, up behind the Forum: cobbled lanes, wine bars, vintage shops and a real resident population. Ten minutes' walk to the Colosseum and on the metro."
+      },
+      {
+        "name": "Trastevere",
+        "bestFor": "Evenings",
+        "text": "Across the river, a knot of ivy-covered lanes that is the busiest nightlife district in Rome. Wonderful for dinner and loud until late — ask for a room off the street."
+      },
+      {
+        "name": "Prati",
+        "bestFor": "Quiet and the Vatican",
+        "text": "North of the Vatican: elegant nineteenth-century blocks, good restaurants without tourist menus, excellent food shopping and two metro stops. Residential in the best sense."
+      },
+      {
+        "name": "Testaccio and Aventine",
+        "bestFor": "Food and calm",
+        "text": "South of the centre, where Romans actually eat. Testaccio is the market and the trattorias; the Aventine above it is leafy, silent and among the most pleasant addresses in the city."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€35–60 per night" },
+      { "label": "Mid-range hotel or apartment", "value": "€120–220 per night" },
+      { "label": "Colosseum, Forum and Palatine ticket", "value": "€18–24, plus booking fee" },
+      { "label": "Vatican Museums", "value": "€20–30 booked online, first slot recommended" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Rome has two airports and sits at the centre of Italy's high-speed rail network, which makes it the natural start or end of almost any Italian trip.",
+    "options": [
+      {
+        "mode": "Fiumicino Airport (FCO)",
+        "text": "The main international gateway, 30 km west. The Leonardo Express runs non-stop to Termini in 32 minutes; slower regional trains serve other stations more cheaply.",
+        "detail": "Taxis to the centre are a fixed flat fare from inside the ring road — agree it as a flat rate before setting off."
+      },
+      {
+        "mode": "Ciampino Airport (CIA)",
+        "text": "The low-cost airport 15 km south-east, used by budget carriers. Coaches run to Termini in about 40 minutes and are timed to flights.",
+        "detail": "No direct train. Budget for the bus transfer when comparing fares."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "Termini is the hub: [[florence-tuscany|Florence]] 1h30, [[naples-pompeii|Naples]] 1h10, [[milan|Milan]] 3h, [[venice|Venice]] 3h45. Frecciarossa and Italo compete, which keeps advance fares low.",
+        "detail": "Book two to six weeks ahead for the cheapest fares. Walk-up prices are two or three times higher."
+      },
+      {
+        "mode": "By car",
+        "text": "Actively unhelpful. The historic centre is a ZTL, parking is scarce and expensive, and everything you came for is walkable or on the metro.",
+        "detail": "If you are collecting a car for Tuscany, do it on the day you leave, from a station office rather than the centre."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Rome is a walking city interrupted by three metro lines. Distances look larger on the map than they feel on the ground.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic centre is roughly three kilometres across and almost all of it is best on foot. Colosseum to the Vatican takes about fifty minutes and passes most of what you came for.",
+        "detail": "Cobbles are uneven and often wet-slippery. Proper shoes matter more here than in most cities."
+      },
+      {
+        "mode": "Metro",
+        "text": "Three lines — A, B and C — which is few for a city this size because excavation keeps hitting archaeology. Useful for the Vatican, Termini, the Colosseum and San Giovanni.",
+        "detail": "Line A between Termini and the Vatican is the city's worst pickpocketing spot. Bags in front, zipped."
+      },
+      {
+        "mode": "Buses and trams",
+        "text": "A dense network filling the gaps the metro leaves, including the 64 and 40 to the Vatican and tram 8 to Trastevere. Slow in traffic but they go everywhere.",
+        "detail": "Buy tickets from a tabaccheria before boarding and validate on entry. The 64 is notorious for pickpockets."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "The Roma–Lido line to Ostia Antica on a standard metro ticket, and Tiburtina or Termini for Tivoli and Hadrian's Villa.",
+        "detail": "Both are genuine half-day trips and both are far quieter than anything in the centre."
+      },
+      {
+        "mode": "Taxis and apps",
+        "text": "White licensed taxis from ranks or booked by phone or app. Hailing on the street is not standard practice and unlicensed drivers at stations should be refused.",
+        "detail": "Fixed flat fares apply from the airports to inside the Aurelian walls — confirm the flat rate before departing."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–early June and late September–October",
+    "summary": "Rome's sights are overwhelmingly outdoors or unairconditioned, which makes the summer heat a practical problem rather than a comfort one. Winter is genuinely underrated.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The city at its best: 18–27°C, wisteria over the courtyards, long evenings and everything open. Easter week is the exception — the centre and the Vatican become extremely difficult."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Regularly 35°C and above, with no shade in the Forum and long outdoor queues. Romans leave in August, and many of the best neighbourhood restaurants close for two or three weeks."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. The heat breaks in mid-September, the light turns golden, artichoke season begins and the crowds fall away sharply after the first week."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild at 10–15°C, often sunny, and the great sights are walk-in rather than book-ahead. Short days and some rain, but the best value and the shortest queues of the year."
+      }
+    ],
+    "avoid": "Easter week, when the Vatican and the whole centre are at capacity, and the fortnight around Ferragosto on 15 August, when the heat peaks and family-run restaurants shut."
+  },
+  "itinerary": {
+    "title": "Four days in Rome",
+    "intro": "One major sight and one neighbourhood a day. This is deliberately less than most itineraries attempt, because Rome in the heat with three bookings a day is miserable.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Ancient Rome",
+        "summary": "The Colosseum, the Forum and the hill above them.",
+        "morning": "The Colosseum at opening, with the underground if you booked it.",
+        "afternoon": "The Forum and Palatine on the same ticket, entering from the quieter gate.",
+        "evening": "The Capitoline terrace over the Forum at dusk, then dinner in Monti."
+      },
+      {
+        "day": 2,
+        "title": "The Vatican",
+        "summary": "A full morning, and nothing else scheduled with it.",
+        "morning": "The Vatican Museums and Sistine Chapel on the first slot of the day.",
+        "afternoon": "St Peter's Basilica and the dome climb, then Castel Sant'Angelo.",
+        "evening": "Dinner in Prati, where the Vatican staff eat."
+      },
+      {
+        "day": 3,
+        "title": "The centro storico",
+        "summary": "The Baroque city, on foot, with Caravaggio in between.",
+        "morning": "The Pantheon, then San Luigi dei Francesi and Sant'Agostino for the Caravaggios.",
+        "afternoon": "Piazza Navona, Campo de' Fiori and the Jewish Ghetto for fried artichokes.",
+        "evening": "Trastevere for dinner, then the Trevi Fountain very late."
+      },
+      {
+        "day": 4,
+        "title": "Borghese and beyond",
+        "summary": "The best art in the city, then out of it.",
+        "morning": "The Borghese Gallery on a booked two-hour slot, then the Villa Borghese gardens.",
+        "afternoon": "Ostia Antica by train, or the Appian Way by bike.",
+        "evening": "Testaccio — the market district, and the most Roman food in Rome."
+      }
+    ]
+  },
+  "tipsIntro": "Rome-specific practicalities, most of which are about booking, heat and pickpockets.",
+  "tips": [
+    "Book the Colosseum and the Borghese Gallery as soon as your dates are fixed. The Borghese sells strictly timed two-hour slots and is never available on the door; the Colosseum's underground and arena tickets go first.",
+    "Enter the Forum from the Palatine gate on Via di San Gregorio rather than the main Forum entrance. Same ticket, a fraction of the queue.",
+    "Take the first Vatican Museums slot of the day and plan nothing else that morning. It is seven kilometres of one-way galleries and people routinely underestimate it by hours.",
+    "Rome's churches are free, unattended and full of masterpieces. Carry one-euro coins for the light boxes, cover shoulders and knees, and check Mass times before setting off.",
+    "Metro line A between Termini and the Vatican, and the 64 bus, are the two worst pickpocketing routes in Italy. Bag zipped, in front of you, nothing in back pockets.",
+    "Drink from the nasoni — the cast-iron street fountains running continuously all over the city. The water is cold, safe and free, and buying bottled water in Rome is money thrown away.",
+    "Coffee standing at the bar costs about a euro; sitting down at a table in a piazza can cost four or five times that for the same cup.",
+    "Avoid the restaurants immediately around the Pantheon, the Trevi and the Vatican. Walk five minutes in any direction — Monti, Testaccio, Prati or the Ghetto — and both the food and the price improve sharply."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Rome?",
+      "a": "Four to five. That gives you a day for the ancient core, a full morning for the Vatican, a day walking the Baroque centre and its churches, and a day for the Borghese plus something outside the walls like Ostia Antica or the Appian Way. Three days is possible but rushed; a week lets you do it at Roman pace, which is the right pace."
+    },
+    {
+      "q": "What do I need to book in advance in Rome?",
+      "a": "The Borghese Gallery, which sells strictly timed slots and is never available on the door. The Colosseum, especially the underground and arena-floor tickets. The Vatican Museums, where booking a first-slot entry saves an hour or more of queueing. Almost everything else — churches, the Pantheon, the Capitoline — can be walked into, though the Pantheon now charges a small fee."
+    },
+    {
+      "q": "When is the best time to visit Rome?",
+      "a": "April to early June and late September through October. Spring is warm and green with long evenings; autumn brings the artichokes and the best light of the year. Avoid July and August, when the city sits above 35°C, the Forum has no shade and many neighbourhood restaurants close for Ferragosto. Winter is mild, cheap and much quieter than people expect."
+    },
+    {
+      "q": "Where should I stay in Rome?",
+      "a": "Monti for atmosphere and value, ten minutes from the Colosseum and on the metro. The centro storico if you want to step out into the Pantheon and do not mind paying for it. Prati for quiet, good food and the Vatican. Trastevere for evenings, accepting the noise. Testaccio if the food is the point. All of them are walkable to the centre."
+    },
+    {
+      "q": "Is Rome walkable?",
+      "a": "Very. The historic centre is about three kilometres across, and the walk from the Colosseum to the Vatican takes fifty minutes and passes the Forum, the Pantheon, Piazza Navona and the Tiber. The metro has only three lines because excavation keeps hitting archaeology, so walking is not just pleasant here — it is the primary way the city works."
+    },
+    {
+      "q": "Is Rome safe?",
+      "a": "Yes, with one specific caveat: pickpocketing on crowded public transport is organised and skilled. Metro line A between Termini and the Vatican and the 64 bus are the notorious routes. Keep bags closed and in front of you, use no back pockets, and be alert around Termini station. Violent crime against visitors is rare."
+    },
+    {
+      "q": "What should I eat in Rome?",
+      "a": "The four Roman pastas — carbonara, cacio e pepe, amatriciana and gricia — none of which contain cream. Fried artichokes in the Jewish Ghetto between February and May. Supplì with your pizza. Pizza al taglio by weight for lunch. And, in Testaccio, the quinto quarto offal cooking the neighbourhood invented, which Rome does better than anywhere in Europe."
+    }
+  ],
+  "related": ["naples-pompeii", "florence-tuscany", "venice", "istanbul"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train", "unesco-worth-planning-around"]
+}

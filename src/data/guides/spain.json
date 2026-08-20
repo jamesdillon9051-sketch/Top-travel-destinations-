@@ -1,0 +1,151 @@
+{
+  "country": "spain",
+  "title": "The Complete Spain Travel Guide",
+  "subtitle": "Four countries in one, a rail network that makes them reachable, and a daily rhythm you have to adopt to enjoy any of it.",
+  "summary": "Spain's regions differ more from each other than most European countries differ from their neighbours. This guide covers how they divide, which combinations actually work in a week or two, when the south becomes unbearable, and the timing rules that catch out nearly every first-time visitor.",
+  "readingTime": "15 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Should I base myself in Madrid and take day trips?",
+      "a": "For Toledo, Segovia and Ávila, yes — all are 30 to 40 minutes by AVE and work beautifully as day trips. For Andalusia, no. Seville is 2h30 each way and Granada further still; day-tripping them means five hours of travel for four hours in the city, and both deserve two nights minimum."
+    },
+    {
+      "q": "Is a Spanish rail pass worth it?",
+      "a": "Rarely. Spain now has three competing high-speed operators — Renfe, Ouigo and Iryo — and the competition has pushed advance fares very low, often €20–40 for a two-hour journey. Buying individual tickets a month or two ahead almost always beats a pass, and passes still require paid seat reservations on AVE services."
+    },
+    {
+      "q": "Can I visit Andalusia without a car?",
+      "a": "Yes, easily. Seville, Córdoba, Granada, Málaga and Jerez are all connected by fast trains or frequent buses, and each city centre is walkable and largely pedestrianised. A car only becomes useful for the white villages of the Sierra de Grazalema and the Alpujarras."
+    },
+    {
+      "q": "What is the most common mistake first-time visitors make?",
+      "a": "Eating at northern European times, which puts you in the restaurants that cater to people who do that. The second is underestimating the summer heat in the interior, and the third is trying to combine Barcelona, Andalusia and the north in a single week — that is three regions and roughly 2,000 km."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-spain-divides",
+      "title": "How Spain actually divides",
+      "navLabel": "The regions",
+      "body": [
+        "Spain is a country of seventeen autonomous communities with genuinely different languages, climates, food and architecture, and understanding four broad blocs makes trip planning much easier.",
+        "**The south — Andalusia.** Eight centuries of Islamic rule left the [[granada|Alhambra]], the [[cordoba|Mezquita]] and the Alcázar of [[seville|Seville]], the three greatest monuments in Spain. It is dry, hot, and the home of flamenco, tapas and sherry. This is what most people picture when they picture Spain, and the three great cities sit within two hours of one another.",
+        "**The centre — Madrid and Castile.** A high plateau at 650 m with cold winters and fierce summers, holding the capital, the Prado, and a ring of small historic cities — Toledo, Segovia, Ávila, Salamanca — that are among the best day trips in Europe. Madrid is the hub of the entire rail network, which makes it the natural pivot for a longer trip.",
+        "**The east — Catalonia and the Mediterranean.** [[barcelona|Barcelona]], [[valencia|Valencia]] and the coast, with their own language in Catalonia and Valencia, Gaudí's architecture, paella, and the closest thing Spain has to a beach-and-city combination.",
+        "**The north — Green Spain.** The Basque Country, Cantabria, Asturias and [[santiago-galicia|Galicia]] along the Atlantic: wet, green, mountainous and cool, with the best food in the country and almost no international visitors. This is the Spain that surprises people most."
+      ],
+      "note": "Barcelona to Seville is roughly 1,000 km — about the distance from London to Vienna. Two of these blocs in a fortnight is comfortable; three is not."
+    },
+    {
+      "id": "choosing-destinations",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "body": [
+        "The ten destinations in this guide were chosen to represent that range rather than to rank fame. Here is what each is actually for."
+      ],
+      "list": [
+        {
+          "title": "If you have one week and have never been",
+          "text": "Andalusia: [[seville]], [[cordoba]] and [[granada]]. Three cities within two hours of each other holding the three greatest monuments of Islamic Spain, plus flamenco, tapas and the most distinctive architecture in the country. No car needed."
+        },
+        {
+          "title": "If you want a major city with a beach",
+          "text": "[[barcelona]] for Gaudí, the Gothic quarter and a genuine urban beach, or [[valencia]] for the same combination at two-thirds the price and a fraction of the crowds. Valencia also gave the world paella and has the best urban park in Spain, a former riverbed running through the city."
+        },
+        {
+          "title": "If you are going for the food",
+          "text": "[[san-sebastian-basque|San Sebastián and the Basque Country]], without much argument. Pintxos bars, more Michelin stars per head than almost anywhere on earth, and a coastline of fishing towns. Cool and often wet, which is precisely why it is green."
+        },
+        {
+          "title": "If you want art and a capital",
+          "text": "[[madrid]]. The Prado, the Reina Sofía and the Thyssen sit within ten minutes of each other, and no other city in Europe has three collections of that standard on one boulevard. It is also the best base for day trips in Spain."
+        },
+        {
+          "title": "If you want an island",
+          "text": "[[mallorca]] for mountains, coves and a proper old city, reachable in two hours from most of Europe. [[tenerife-teide|Tenerife]] for a volcano above the clouds and year-round warmth, but note it is 1,000 km off Africa and an hour behind the mainland."
+        },
+        {
+          "title": "If you want the Spain nobody photographs",
+          "text": "[[santiago-galicia|Galicia]]: Atlantic, Celtic-influenced, green, with the end of a thousand-year-old pilgrimage route, the best seafood in Spain and weather that has more in common with Ireland than with Seville."
+        }
+      ]
+    },
+    {
+      "id": "timing",
+      "title": "Timing: the rule that governs everything",
+      "navLabel": "Daily rhythm",
+      "body": [
+        "Spain runs about two hours later than the rest of Europe, and this is not a stereotype — it is a measurable consequence of the country sitting on Central European Time despite being at the longitude of Britain. The sun is at its highest around 14:00 in Madrid, so the entire day shifts to match.",
+        "In practice: breakfast is small and early, lunch is the main meal at 14:00 to 16:00, there is a merienda around 18:00, and dinner starts at 21:00 and often at 22:00 in summer. Restaurants that serve dinner at 19:00 are almost without exception cooking for tourists, and the food shows it.",
+        "The other timing rule is the summer afternoon. Between 14:00 and 17:00 in July and August, inland Andalusia can exceed 40°C. Shops close, streets empty and outdoor sightseeing becomes genuinely unwise. The Spanish pattern — early morning, long lunch, late evening — is an adaptation to that, and visitors who fight it have a much worse time.",
+        "Adopting the local schedule is the single change that most improves a Spanish trip. It costs nothing, it puts you in the restaurants where Spaniards eat, and it means you are indoors during the hours you would not want to be outside anyway."
+      ],
+      "note": "Sunday is quiet almost everywhere and Monday is when many museums close. The Prado closes no day of the week, but the Alhambra, most regional museums and a great many restaurants take Monday off."
+    },
+    {
+      "id": "booking",
+      "title": "The four things you must book ahead",
+      "navLabel": "Booking",
+      "numbered": true,
+      "list": [
+        {
+          "title": "The Alhambra",
+          "text": "Tickets go on sale roughly three months out and genuinely sell out, particularly for spring and autumn. The Nasrid Palaces carry a fixed half-hour entry slot printed on the ticket — miss it and you do not get in.",
+          "tip": "If tickets are gone, official guided tours release a separate allocation and are frequently available when general entry is not."
+        },
+        {
+          "title": "The Sagrada Família",
+          "text": "Timed entry, sells out days to weeks ahead in high season. The tower lifts are a separate, more limited ticket and are worth adding.",
+          "tip": "Go early morning for the eastern Nativity facade light, or late afternoon for the western stained glass. They are two different buildings."
+        },
+        {
+          "title": "The Real Alcázar of Seville",
+          "text": "Timed entry and long queues without it. The upper royal apartments are a separate ticket bought on the day and worth the supplement.",
+          "tip": "Some evenings have limited night visits with far fewer people. Check the current programme."
+        },
+        {
+          "title": "AVE tickets",
+          "text": "Not because they sell out, but because the price triples close to departure. Three operators compete on the main lines — check all of them, since the cheapest varies by route and date.",
+          "tip": "Tickets typically open two to four months ahead. The first week they are on sale is the cheapest."
+        }
+      ]
+    },
+    {
+      "id": "eating",
+      "title": "How to eat in Spain",
+      "navLabel": "Eating",
+      "tone": "tint",
+      "body": [
+        "Spanish food is regional to a degree that catches people out. Tapas are Andalusian, pintxos are Basque, paella is Valencian and none of them is a national dish. Ordering paella in Seville or expecting free tapas in Barcelona both mark you out immediately.",
+        "The best-value meal in Spain is the **menú del día**: three courses with bread and a drink for €13–18, served at lunch on weekdays in ordinary restaurants that charge twice as much in the evening. It exists because of a labour law requiring affordable worker lunches, and it is the single easiest way to eat well cheaply.",
+        "A tapas crawl is about movement, not volume. One dish and one drink per bar, then on to the next — three or four bars over an evening is normal. In [[granada]] and much of Andalusia a free tapa still comes with every drink, and three rounds amounts to dinner. That tradition does not extend to Barcelona or Madrid, where tapas are ordered and paid for.",
+        "Standing at the bar is cheaper than sitting at a table, which is cheaper than the terrace, and the prices are usually posted. It is also where the atmosphere is. In Basque pintxos bars, you take what you want from the counter and settle up at the end on trust — but the hot dishes chalked on the board are usually far better than anything sitting out."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: the Andalusian triangle",
+          "text": "Three nights in [[seville]], one or two in [[cordoba]], three in [[granada]]. All connected by fast trains or short buses, all walkable once you arrive, and no car required. The strongest single week in Spain.",
+          "tip": "Fly into Seville and out of Málaga, which is an hour from Granada, rather than backtracking."
+        },
+        {
+          "title": "Ten days: capital and south",
+          "text": "Four nights in [[madrid]] with day trips to Toledo and Segovia, then AVE south for three nights in Seville and two in Granada. Two AVE legs and one bus, covering the art, the day trips and the Moorish monuments.",
+          "tip": "Madrid to Córdoba is only 1h45, which makes Córdoba a viable stop on the way rather than a detour."
+        },
+        {
+          "title": "Two weeks: the Mediterranean line",
+          "text": "The route in the itinerary on the [[c:spain|Spain country page]]: [[barcelona]], [[valencia]], [[madrid]], [[cordoba]], [[granada]] and [[seville]], all by train, north to south with no backtracking.",
+          "tip": "Fly into Barcelona and out of Seville or Málaga. An open-jaw booking almost never costs more and saves a full day."
+        }
+      ]
+    }
+  ]
+}

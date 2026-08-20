@@ -1,0 +1,351 @@
+{
+  "slug": "cappadocia",
+  "name": "Cappadocia",
+  "country": "turkey",
+  "region": "Nevşehir, Central Anatolia",
+  "categories": ["unesco", "nature", "scenic", "historic"],
+  "tagline": "Volcanic ash eroded into cones and pinnacles, then hollowed out by people into churches, houses and cities eight levels underground.",
+  "highlight": "A hundred hot-air balloons rising out of the valleys at dawn — and being in one of them.",
+  "shortDescription": "A landscape with no real parallel: soft volcanic rock carved by wind and water into towers and cones, then carved again by Byzantine Christians into painted churches and underground refuges.",
+  "metaDescription": "A Cappadocia travel guide: hot-air balloon flights, the Göreme rock churches, underground cities, valley walks, cave hotels, when to go and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Nevşehir (NAV) and Kayseri (ASR)",
+  "knownFor": "Balloons, fairy chimneys, rock churches, cave hotels",
+  "budget": "€80–160 per day, mid-range",
+  "goodFor": "Landscape, walking, photography, history",
+  "coords": { "lat": 38.6431, "lng": 34.8289 },
+  "image": {
+    "file": "File:Hot air balloons over valleys near Göreme, Cappadocia at dawn.JPG",
+    "alt": "Dozens of hot-air balloons rising over the eroded rock valleys of Cappadocia at dawn"
+  },
+  "intro": [
+    "Cappadocia's landscape is the result of two processes separated by millions of years. Volcanic eruptions covered the region in thick layers of ash that hardened into a soft rock called tuff, capped in places by harder basalt. Wind and water then eroded the tuff into cones, ridges and towers — with the harder caps protecting columns beneath them, producing the mushroom-shaped pillars known as fairy chimneys.",
+    "The second process was human. Tuff is soft enough to carve with hand tools and hardens on contact with air, which meant people could simply dig homes into it. Byzantine Christians carved hundreds of churches into the rock between the 4th and 11th centuries and painted their interiors with frescoes, many of which survive. They also dug downwards, creating underground cities — Derinkuyu descends at least eight levels and could shelter thousands of people with their livestock.",
+    "The balloons came much later and are now inseparable from the place. On a good morning, well over a hundred lift off before dawn and drift across the valleys with the sun coming up behind them. It is the most photographed thing in Turkey and, unusually for something that famous, it genuinely lives up to the images."
+  ],
+  "whyVisit": {
+    "intro": "Cappadocia is one of a small number of places on earth where the landscape itself is the attraction and where people have then made something extraordinary out of it.",
+    "points": [
+      {
+        "title": "The balloons are worth the money",
+        "text": "Around a hundred balloons launch on a good morning, drifting low through the valleys and then rising to a few thousand feet with the sun coming up. It costs €200–300 and is the thing almost everyone says was the highlight of their trip to Turkey."
+      },
+      {
+        "title": "The rock churches are real Byzantine art",
+        "text": "Hundreds of churches carved into the tuff between the 4th and 11th centuries, many with frescoes intact. The Dark Church at Göreme has the best-preserved paintings, protected by having had almost no light for centuries."
+      },
+      {
+        "title": "The underground cities are astonishing",
+        "text": "Derinkuyu descends at least eight levels — around 60 metres — with ventilation shafts, wells, stables, chapels and rolling stone doors that sealed from the inside. They sheltered populations in the thousands during raids."
+      },
+      {
+        "title": "The walking is excellent and easy",
+        "text": "The Red, Rose, Pigeon and Love valleys are linked by paths between villages, mostly flat or gently graded, passing rock-cut churches and dovecotes. Three hours of walking here shows you more than a day of driving."
+      },
+      {
+        "title": "You can sleep inside the rock",
+        "text": "Cave hotels are genuine converted rock dwellings rather than a gimmick, with vaulted stone rooms that stay cool in summer and warm in winter, and terraces facing the valleys for the dawn launch."
+      }
+    ]
+  },
+  "attractionsIntro": "The main sites cluster within about 20 km of Göreme, which is the natural base. Distances are short and much of it can be walked.",
+  "attractions": [
+    {
+      "name": "Göreme Open Air Museum",
+      "text": "A monastic complex of rock-cut churches, chapels and refectories in one valley, with frescoes from the 10th and 11th centuries. The Dark Church, a separate ticket, has the best-preserved paintings in Cappadocia because it had almost no window light.",
+      "tip": "Pay the extra for the Dark Church — it is the reason to come. Go at opening; the site is small and fills quickly."
+    },
+    {
+      "name": "The balloon flight",
+      "text": "Launching before dawn, drifting low through the valleys where the pilot can nearly touch the rock, then climbing for the view over the whole landscape with a hundred other balloons around you. Flights last about an hour.",
+      "tip": "Book for your first possible morning. Flights are cancelled for wind on a significant share of days and cancellations roll to the next morning."
+    },
+    {
+      "name": "Derinkuyu and Kaymaklı underground cities",
+      "text": "Multi-level cities dug into the tuff, with ventilation shafts, wells, stables, wine presses, chapels and circular stone doors that could be rolled shut from inside. Derinkuyu reaches at least eight levels and about 60 metres.",
+      "tip": "Passages are narrow, low and genuinely confined. Not for anyone claustrophobic. Kaymaklı is wider and slightly easier."
+    },
+    {
+      "name": "The Red and Rose valleys",
+      "text": "Two adjoining valleys of pink and orange rock, threaded by walking paths past hidden churches and dovecotes carved into the cliffs. The walk between Göreme and Çavuşin takes about three hours.",
+      "tip": "Sunset Point above the Rose Valley is where everyone gathers at dusk, and it earns the crowd."
+    },
+    {
+      "name": "Uçhisar Castle",
+      "text": "The highest point in Cappadocia — a great rock outcrop honeycombed with tunnels and rooms, with a viewpoint at the top looking over the whole region to Mount Erciyes.",
+      "tip": "Best in the late afternoon. The village beneath it is quieter and more attractive than Göreme."
+    },
+    {
+      "name": "The Ihlara Valley",
+      "text": "A 14 km gorge cut 100 metres deep by a river, with rock churches along its walls and a green shaded path following the water. Completely different in character from the open valleys and much cooler in summer.",
+      "tip": "About an hour from Göreme. The section from Ihlara village to Belisırma is the best and takes about two hours."
+    },
+    {
+      "name": "Zelve and Paşabağ",
+      "text": "Zelve is an abandoned cave village occupied until the 1950s, with three valleys of dwellings. Paşabağ nearby has the most photogenic multi-headed fairy chimneys, once inhabited by hermit monks.",
+      "tip": "Zelve is the best sense of how people actually lived in the rock, and is far less visited than Göreme."
+    },
+    {
+      "name": "Avanos and the Kızılırmak",
+      "text": "A pottery town on Turkey's longest river, where red clay from the riverbed has been worked for millennia. Several workshops demonstrate the kick-wheel technique and let visitors try it.",
+      "tip": "The pottery kebab — lamb slow-cooked in a sealed clay pot cracked open at the table — is the local dish."
+    }
+  ],
+  "thingsToDoIntro": "Two fixed points — the balloon and Göreme — and the rest of the time is best spent walking between villages.",
+  "thingsToDo": [
+    {
+      "title": "Take the balloon flight",
+      "text": "Pick-up around 04:30, launch at first light, an hour aloft over the valleys, and a champagne toast on landing. Around €200–300 and the single most memorable thing most visitors do in Turkey.",
+      "tip": "Standard baskets hold 20–28 people; smaller premium baskets cost more and are considerably better. Book your first morning to allow for cancellations."
+    },
+    {
+      "title": "Walk between the villages",
+      "text": "Göreme to Çavuşin through the Red and Rose valleys, or Göreme to Uçhisar through Pigeon Valley. Paths are informal but well trodden, and you pass churches and dovecotes nobody has signposted.",
+      "tip": "Take water and download an offline map — the valleys branch confusingly and signage is minimal."
+    },
+    {
+      "title": "Watch the launch from the ground",
+      "text": "If you are not flying, or on a second morning, the view from Sunset Point or a cave hotel terrace as a hundred balloons rise out of the valleys is arguably as good as being in one.",
+      "tip": "Be in position by about 05:30. Most cave hotels serve breakfast on their terraces for exactly this reason."
+    },
+    {
+      "title": "Go underground",
+      "text": "Derinkuyu or Kaymaklı, descending through narrow passages between levels with rolling stone doors and ventilation shafts. Genuinely confined, and genuinely remarkable engineering.",
+      "tip": "Not suitable if you are claustrophobic — several passages require bending double for twenty metres."
+    },
+    {
+      "title": "Eat a testi kebabı",
+      "text": "Lamb or beef slow-cooked with vegetables in a sealed clay pot, brought to the table and cracked open with a small hammer. A regional speciality and a genuine bit of theatre.",
+      "tip": "Usually needs ordering a few hours ahead. Ask when you arrive rather than at dinner."
+    },
+    {
+      "title": "See a whirling dervish ceremony",
+      "text": "The Mevlevi sema is a religious ritual rather than a performance, originating in Konya three hours south. Cappadocia hosts ceremonies in a restored caravanserai at Saruhan.",
+      "tip": "Choose a venue that presents it as a ceremony with silence and no photography, not a dinner show."
+    }
+  ],
+  "foodIntro": "Central Anatolian cooking is meat, pulses, bread and pastry — food for a cold high plateau — with a few dishes specific to Cappadocia.",
+  "foods": [
+    {
+      "name": "Testi kebabı",
+      "text": "Meat and vegetables sealed inside a clay pot with dough and slow-cooked for hours, then brought to the table and broken open with a hammer. Cappadocia's signature dish and a genuine local tradition.",
+      "whereToTry": "Restaurants throughout Göreme, Ürgüp and Avanos. Order several hours ahead where possible."
+    },
+    {
+      "name": "Mantı",
+      "text": "Tiny lamb-filled dumplings, boiled and served under garlic yoghurt with melted butter and dried mint or chilli. Kayseri, an hour away, is the acknowledged capital of it and the dumplings there are famously small.",
+      "whereToTry": "Traditional restaurants across the region. Kayseri mantı is the benchmark."
+    },
+    {
+      "name": "Gözleme",
+      "text": "Thin hand-rolled flatbread folded around cheese, spinach, potato or minced meat and cooked on a domed griddle. Made in front of you by women working the dough, and the standard walker's lunch.",
+      "whereToTry": "Village cafés and roadside stops throughout the valleys."
+    },
+    {
+      "name": "Cappadocian wine",
+      "text": "Vines have grown here for millennia in the volcanic soil, and local varieties — Emir for whites, Kalecik Karası and Öküzgözü for reds — are made by several wineries around Ürgüp.",
+      "whereToTry": "Wineries in Ürgüp and Uçhisar, several of which run tastings in rock-cut cellars."
+    },
+    {
+      "name": "Pumpkin seeds and dried apricots",
+      "text": "Roasted pumpkin seeds are the regional snack, sold everywhere by the bag, and the dried fruit and nuts of central Anatolia are exceptional and very cheap.",
+      "whereToTry": "Village shops and markets. The Ürgüp weekly market is the best of them."
+    },
+    {
+      "name": "Turkish breakfast on a terrace",
+      "text": "Cave hotels serve the full spread on terraces facing the valleys, which means eating cheese, olives, honey and clotted cream while a hundred balloons rise in front of you.",
+      "whereToTry": "Almost any cave hotel in Göreme or Uçhisar. It is the reason to pay for a valley-facing room."
+    }
+  ],
+  "accommodation": {
+    "intro": "Cave hotels are the point here and are genuinely worth it. The main choice is between Göreme's convenience and the quieter villages around it.",
+    "areas": [
+      {
+        "name": "Göreme",
+        "bestFor": "First-time visitors and convenience",
+        "text": "The main base, in the middle of the valleys, walking distance to the Open Air Museum and the trailheads, with the widest choice of cave hotels, restaurants and tour operators. Busiest and most touristic."
+      },
+      {
+        "name": "Uçhisar",
+        "bestFor": "Views and quiet",
+        "text": "On the highest point in the region, beneath the castle rock, with the best valley views and a calmer village atmosphere. Ten minutes from Göreme and noticeably more attractive."
+      },
+      {
+        "name": "Ürgüp",
+        "bestFor": "A real town and better restaurants",
+        "text": "The largest town in the region, with a weekly market, wineries, more sophisticated hotels and a life that does not revolve entirely around visitors. Twenty minutes from Göreme."
+      },
+      {
+        "name": "Ortahisar and Çavuşin",
+        "bestFor": "Village life and value",
+        "text": "Small villages with their own rock formations, considerably cheaper, and almost no tour groups. Both are on the walking routes between the valleys."
+      },
+      {
+        "name": "Valley-facing cave rooms",
+        "bestFor": "The dawn launch from your terrace",
+        "text": "Wherever you stay, a room or terrace facing the valleys means watching the balloons rise over breakfast. It is worth paying for and worth specifying when booking."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or simple cave room", "value": "€20–40 per night" },
+      { "label": "Comfortable cave hotel", "value": "€60–130 per night" },
+      { "label": "Balloon flight", "value": "€200–300 per person; smaller baskets cost more" },
+      { "label": "Göreme Open Air Museum", "value": "About €15, plus a supplement for the Dark Church" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Two small airports serve the region and both are an hour or less from Göreme, with shuttle transfers meeting flights.",
+    "options": [
+      {
+        "mode": "Nevşehir Kapadokya (NAV)",
+        "text": "The closest airport, about 45 minutes from Göreme, with a handful of daily flights from Istanbul. Shuttle minibuses meet arrivals and drop at hotels.",
+        "detail": "Fewer flights than Kayseri, but a shorter transfer."
+      },
+      {
+        "mode": "Kayseri Erkilet (ASR)",
+        "text": "About 75 minutes away, with considerably more flights from both Istanbul airports and from İzmir and Antalya. The usual choice.",
+        "detail": "Shuttle transfers are included with many hotel bookings or cost a few euros."
+      },
+      {
+        "mode": "Overnight bus",
+        "text": "From Istanbul the journey is about ten to eleven hours by coach, usually overnight, which saves a hotel night. Buses are comfortable with reclining seats and attendants.",
+        "detail": "The budget alternative to flying. From Ankara it is about 4h30, from Antalya nine hours."
+      },
+      {
+        "mode": "Onward connections",
+        "text": "Konya is about three hours by road for the Mevlana museum and the whirling dervish tradition. [[ankara]] is 4h30 and [[istanbul]] is a 90-minute flight.",
+        "detail": "Cappadocia is usually the second stop on a Turkey itinerary after Istanbul."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The valleys are walkable and the villages are close together, but a scooter, car or tour makes the outlying sites much easier.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The valleys are connected by informal paths and the villages are 3–6 km apart. Göreme to Çavuşin through the Red and Rose valleys takes about three hours and is the best walk in the region.",
+        "detail": "Paths branch confusingly and signage is minimal. Download an offline map and carry water."
+      },
+      {
+        "mode": "Organised day tours",
+        "text": "The colour-coded tours — Red, Green and Blue — are a local institution. Red covers the northern valleys and Göreme, Green the underground cities and Ihlara, Blue the southern sites.",
+        "detail": "The Green tour is the most useful because Derinkuyu and Ihlara are too far to reach otherwise without a car."
+      },
+      {
+        "mode": "Rental car or scooter",
+        "text": "Cheap and useful for the outlying valleys and viewpoints at your own pace. Roads are quiet and distances short.",
+        "detail": "A scooter or ATV is popular but the tracks are rough — several visitors are injured each season."
+      },
+      {
+        "mode": "Local dolmuş",
+        "text": "Minibuses link Göreme, Uçhisar, Ürgüp, Avanos and Çavuşin roughly hourly for very little money.",
+        "detail": "Fine for moving between villages, useless for the underground cities and Ihlara."
+      },
+      {
+        "mode": "Horses",
+        "text": "The region's name is often translated as 'land of beautiful horses', and riding through the valleys at sunset is a genuine local tradition rather than a tourist invention.",
+        "detail": "Stables in Göreme and Avanos run one to three-hour rides, including at sunrise and sunset."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Cappadocia sits at about 1,100 m on the Anatolian plateau, which means hot dry summers, genuinely cold winters and two excellent shoulder seasons. Balloon cancellations are the main variable.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green valleys, wildflowers and comfortable walking at 15–25°C. Balloon flights have a good success rate. May and June are ideal; April can still be cold and windier."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot and dry at 28–34°C, with the valleys parched brown. Balloon flights have their best cancellation record but the landscape is at its least green and the sites are busiest. Walk at dawn or after 17:00."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year: warm days, cool nights, clear light on the rock and thinning crowds. Grape harvest in the local vineyards. October is superb and prices fall."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold, often below freezing, with snow on the fairy chimneys that is genuinely spectacular and heavily photographed. Balloon cancellations are more frequent and some tours run reduced schedules, but prices are at their lowest."
+      }
+    ],
+    "avoid": "Balloon flights are cancelled for wind on a meaningful proportion of mornings in any season. Allow at least two possible mornings, and book the first one — operators roll cancellations forward rather than refunding immediately."
+  },
+  "itinerary": {
+    "title": "Three days in Cappadocia",
+    "intro": "Balloon on the first possible morning, walking in between, and the underground cities as a half-day. Assumes a Göreme or Uçhisar base.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and orient",
+        "summary": "Land, settle in, and get the geography from above ground level.",
+        "morning": "Fly in from Istanbul and transfer to Göreme or Uçhisar.",
+        "afternoon": "The Göreme Open Air Museum, including the Dark Church.",
+        "evening": "Sunset Point above the Rose Valley, then testi kebabı ordered ahead."
+      },
+      {
+        "day": 2,
+        "title": "Balloons and valleys",
+        "summary": "A 04:30 start, then walking for the rest of the day.",
+        "morning": "The balloon flight at first light, back by about 08:00 for breakfast.",
+        "afternoon": "Walk from Göreme through the Red and Rose valleys to Çavuşin — about three hours.",
+        "evening": "Uçhisar castle rock for the sunset, then dinner in the village."
+      },
+      {
+        "day": 3,
+        "title": "Underground and the gorge",
+        "summary": "The two sites that need a car or a tour.",
+        "morning": "Derinkuyu or Kaymaklı underground city — an hour, and genuinely confined.",
+        "afternoon": "The Ihlara Valley gorge walk from Ihlara village to Belisırma, about two hours in the shade.",
+        "evening": "Avanos for pottery and the river, then the flight or overnight bus onward."
+      }
+    ]
+  },
+  "tipsIntro": "The balloon advice is the important part; the rest is comfort.",
+  "tips": [
+    "Book your balloon flight for the first possible morning of your stay. Flights are cancelled for wind on a significant share of days and operators roll cancellations forward — if you book the last morning and it blows, you simply miss it.",
+    "Smaller baskets cost more and are much better. Standard baskets hold 20–28 people; premium flights with 8–12 give you room to move and a better view.",
+    "The Dark Church at the Göreme Open Air Museum needs a separate supplementary ticket and is the best-preserved fresco cycle in the region. Pay it.",
+    "The underground cities involve narrow passages where you bend double for twenty metres at a time. If you are claustrophobic, this is not a mild inconvenience — consider skipping them.",
+    "Cappadocia is at 1,100 m on the Anatolian plateau. Summer days reach 34°C and winter nights drop well below freezing, and the temperature swing within a single day is large in every season.",
+    "Valley paths branch confusingly and are barely signposted. Download an offline map before setting out, carry water, and do not assume you will find a café.",
+    "A valley-facing cave hotel room or terrace means watching the dawn launch over breakfast without going anywhere. Specify it when booking — it costs a little more and is worth it.",
+    "ATV and scooter tours are heavily promoted and the tracks are rougher than they look. Injuries are common each season; the horses are the better and more traditional option."
+  ],
+  "faq": [
+    {
+      "q": "How much does a Cappadocia balloon flight cost?",
+      "a": "Around €200–300 per person for a standard flight of about an hour, with premium smaller-basket flights costing more. It is a substantial line item on a Turkish budget and it is also, for most visitors, the single most memorable thing they do in the country. Book for your first possible morning, since cancellations for wind roll forward."
+    },
+    {
+      "q": "How often are Cappadocia balloon flights cancelled?",
+      "a": "Frequently enough to plan around — wind cancels a meaningful proportion of mornings in every season, and the aviation authority grounds all flights when conditions are marginal. Allow at least two possible mornings in your itinerary and book the first one. Operators generally roll you to the next flyable day rather than refunding immediately."
+    },
+    {
+      "q": "How many days do you need in Cappadocia?",
+      "a": "Three, or four to be comfortable. One for Göreme and orientation, one for the balloon and valley walking, and one for the underground cities and the Ihlara Valley. A fourth day gives you a buffer for a cancelled balloon flight, which is the main argument for it."
+    },
+    {
+      "q": "What is the best base in Cappadocia?",
+      "a": "Göreme for convenience — it is in the middle of the valleys, walking distance to the Open Air Museum and the trailheads, with the widest choice of cave hotels and restaurants. Uçhisar is quieter, more attractive and has better views. Ürgüp is a real town with better restaurants and a weekly market. All are within twenty minutes of each other."
+    },
+    {
+      "q": "Are cave hotels actually caves?",
+      "a": "Mostly yes — they are genuine rock dwellings converted into rooms, with vaulted stone ceilings and walls cut from the tuff. They stay cool in summer and warm in winter. Quality varies from very simple to genuinely luxurious. Ask for a room or terrace facing the valleys, which means you can watch the dawn balloon launch from breakfast."
+    },
+    {
+      "q": "When is the best time to visit Cappadocia?",
+      "a": "April to June and September to October. Spring gives green valleys and wildflowers; autumn gives clear light, warm days, cool nights and the grape harvest. Summer is hot and the landscape is parched, though balloon cancellations are least frequent. Winter brings snow on the fairy chimneys, which is spectacular, and the lowest prices of the year."
+    },
+    {
+      "q": "Can you visit Cappadocia without a tour?",
+      "a": "The valleys, Göreme and the villages are all easily done independently on foot or by local minibus. The underground cities at Derinkuyu and Kaymaklı and the Ihlara Valley gorge are too far to reach without a car, so most independent visitors take the standard Green tour for that one day and do everything else themselves."
+    }
+  ],
+  "related": ["istanbul", "pamukkale", "ankara", "zion-southern-utah"],
+  "relatedArticles": ["unesco-worth-planning-around", "packing-by-season", "underrated-destinations"]
+}

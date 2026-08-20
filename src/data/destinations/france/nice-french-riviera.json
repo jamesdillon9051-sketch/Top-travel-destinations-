@@ -1,0 +1,383 @@
+{
+  "slug": "nice-french-riviera",
+  "name": "Nice & the French Riviera",
+  "shortName": "Nice",
+  "country": "france",
+  "region": "Alpes-Maritimes, Provence-Alpes-Côte d'Azur",
+  "categories": [
+    "coastal",
+    "major-city",
+    "cultural"
+  ],
+  "tagline": "A working Mediterranean city with an Italian accent, and the only stretch of the Riviera you can explore properly without a car.",
+  "highlight": "The Cours Saleya flower market, then the coastal train to Villefranche, Èze and Menton for €2 a hop.",
+  "shortDescription": "France's fifth city curves around a two-mile bay of blue water, with an old town that was Italian until 1860 and a local rail line linking a dozen coastal villages.",
+  "metaDescription": "A practical guide to Nice and the French Riviera: what to see, socca and Niçoise food, where to stay, the coastal train to Èze and Menton, when to go, and a four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Nice Côte d'Azur (NCE), 7 km west",
+  "knownFor": "The Baie des Anges, Belle Époque hotels, Matisse and Chagall",
+  "budget": "€140–240 per day, mid-range",
+  "goodFor": "Coast without a car, art, winter sun, day trips",
+  "coords": {
+    "lat": 43.7102,
+    "lng": 7.262
+  },
+  "image": {
+    "file": "File:Promenade des Anglais (Nice), France.jpg",
+    "alt": "The curving seafront of the Promenade des Anglais along the Baie des Anges in Nice"
+  },
+  "intro": [
+    "The French Riviera has a reputation problem. Mention it and people picture superyachts at Monaco and €30 cocktails in Saint-Tropez, which describes maybe five miles of a hundred-mile coast. Nice itself is nothing like that: it is a real city of 350,000 people with a fish market, a tram network, students, and an old town where the laundry still hangs across the alleys.",
+    "It also has the single most useful piece of infrastructure on the Mediterranean — a local railway that runs the length of the coast, stopping at Villefranche-sur-Mer, Beaulieu, Èze, Monaco, Menton and half a dozen other places, for two or three euros a journey. Almost every other beautiful coastline in Europe requires a rental car and a fight for parking. This one does not.",
+    "Nice was Italian until 1860, and it still is in the ways that matter most: the food is closer to Ligurian than French, the old town's houses are ochre and terracotta rather than limestone, and the accent softens. It makes for a strange and very likeable hybrid, and a better base than any of the prettier villages nearby — which are lovely for three hours and short of dinner options after that."
+  ],
+  "whyVisit": {
+    "intro": "The case for Nice is not that it is the most beautiful place on the Riviera — it is not. It is that Nice makes the whole coast accessible while still being somewhere you would want to spend an evening.",
+    "points": [
+      {
+        "title": "The coastal train changes everything",
+        "text": "The TER line between Cannes and Ventimiglia hugs the shore, calling at village after village, several times an hour. A day exploring three coastal towns costs about €10 in fares and no parking stress at all. This is the single strongest practical argument for basing yourself here."
+      },
+      {
+        "title": "The light is genuinely different",
+        "text": "Matisse moved here in 1917 and stayed for the rest of his life; Chagall, Picasso, Renoir and Bonnard all worked along this coast for the same reason. The clarity of Mediterranean light against the sea is not a marketing claim — it is why there are four significant art museums within thirty minutes of the old town."
+      },
+      {
+        "title": "Winter actually works",
+        "text": "Nice averages 13–15°C in January with a great deal of sunshine, which is why the English aristocracy started coming here in the first place and why the seafront is called the Promenade des Anglais. Hotel rates halve, restaurants stay open, and the light is at its sharpest."
+      },
+      {
+        "title": "Niçoise food is its own cuisine",
+        "text": "Socca, pissaladière, pan bagnat, petits farcis and a salade niçoise that contains no cooked vegetables whatsoever. It is chickpea flour, olive oil, anchovy and tomato — poor food, done extremely well, and unlike anything else in France."
+      },
+      {
+        "title": "Mountains within an hour",
+        "text": "The Alpes-Maritimes rise almost straight out of the sea. The Train des Merveilles climbs from the seafront into alpine valleys in under two hours, and the perched villages of Èze and Saint-Paul-de-Vence sit a few hundred metres above the water. You can swim in the morning and be in the mountains after lunch."
+      }
+    ]
+  },
+  "attractionsIntro": "Nice's own sights fill about a day and a half. The rest of your time belongs to the coast either side of it.",
+  "attractions": [
+    {
+      "name": "Vieux Nice and the Cours Saleya",
+      "text": "The old town is a dense grid of narrow lanes between the castle hill and the sea, unchanged in layout since the 1700s. Its spine is the Cours Saleya, a long market square that sells flowers and produce Tuesday to Sunday, antiques on Monday, and turns into a solid run of restaurant terraces at night.",
+      "tip": "The market packs up around 13:00. Go before 11:00 and eat socca from one of the stalls rather than sitting down anywhere on the square itself."
+    },
+    {
+      "name": "Colline du Château",
+      "text": "The wooded hill at the eastern end of the bay, where the medieval castle stood until Louis XIV demolished it in 1706. What is left is a park with an artificial waterfall and the definitive view along the Baie des Anges — the whole two-mile curve of the Promenade in one frame.",
+      "tip": "A free lift runs up from the eastern end of the Promenade, next to the Hôtel Suisse, saving the 200-step climb."
+    },
+    {
+      "name": "Promenade des Anglais",
+      "text": "Four miles of seafront walkway built with English money in the 1820s, lined with palms, the blue chairs that have become the city's emblem, and a run of Belle Époque hotels including the pink-domed Negresco. The beach below is pebble, not sand — bring or buy the rubber shoes everyone else has.",
+      "tip": "Best at either end of the day. Sunrise from the eastern end and sunset from the west are the two good hours."
+    },
+    {
+      "name": "Musée Matisse and Musée Chagall",
+      "text": "Both sit in the leafy Cimiez district on the hill above the city, ten minutes apart by bus. The Matisse collection spans his whole career including the late cut-outs; the Chagall museum was designed around its seventeen Biblical Message canvases and is one of the most coherent single-artist museums anywhere.",
+      "tip": "Cimiez also has Roman ruins and an olive grove. Do both museums in one morning and walk between them."
+    },
+    {
+      "name": "Villefranche-sur-Mer",
+      "text": "Six minutes by train from Nice and arguably the prettiest deep-water bay on the coast — a tumble of ochre houses down to a fishing harbour, a 14th-century covered street, and water clear enough to see the bottom from the quay. It is the easiest possible half-day trip.",
+      "tip": "The beach here is sand rather than pebble, and much calmer than anything in Nice itself."
+    },
+    {
+      "name": "Èze",
+      "text": "A medieval village welded to a rock 427 metres above the sea, with a cactus garden at the summit and views that on a clear day reach Corsica. It is undeniably a tourist village now, but the setting is extraordinary and the walk down the Nietzsche Path to the shore is a genuine highlight.",
+      "tip": "Go early or late. Between 11:00 and 16:00 the coach parties make the single main lane almost impassable."
+    },
+    {
+      "name": "Menton",
+      "text": "The last town before Italy, half an hour by train, with a pastel old town stacked above the sea, subtropical gardens and a microclimate warm enough for lemon groves. It is noticeably quieter and less expensive than the coast west of Nice.",
+      "tip": "The Lemon Festival in February fills the town; outside that fortnight it is one of the calmest places on the Riviera."
+    },
+    {
+      "name": "Monaco",
+      "text": "Twenty minutes by train. A curious, vertical, extremely wealthy half-square-mile with a genuinely good oceanographic museum, the old town on its rock, and the Casino square. Worth half a day for the strangeness of it; not worth staying in.",
+      "tip": "The train station is deep inside the rock with several exits — take the one marked for the Port or the Palace, not the first one you reach."
+    }
+  ],
+  "thingsToDoIntro": "The Riviera rewards a slow rhythm: one thing in the morning, a long lunch, swimming, then something in the evening.",
+  "thingsToDo": [
+    {
+      "title": "Ride the coastal train with no fixed plan",
+      "text": "Buy a few single tickets and get off wherever looks good. Between Nice and Menton the line calls at Villefranche, Beaulieu, Èze-sur-Mer, Cap d'Ail, Monaco, Roquebrune and Carnolès, and almost every one of them is worth an hour.",
+      "tip": "Sit on the right-hand side heading east for the sea views. Trains run every 20–30 minutes until late evening."
+    },
+    {
+      "title": "Swim off the rocks rather than the beach",
+      "text": "Nice's public beaches are crowded pebble. The better swimming is at Villefranche's Plage des Marinières, the rocky coves below Cap Ferrat, or Plage Mala at Cap d'Ail — a small sandy cove reached by a steep staircase, and worth every step.",
+      "tip": "Water is warmest in September, around 24°C, and still perfectly swimmable into October."
+    },
+    {
+      "title": "Walk a coastal path",
+      "text": "The sentiers du littoral run around the headlands where roads cannot go. The circuit of Cap Ferrat is about two hours of easy walking past villa gardens and hidden coves; the Cap d'Ail path links Monaco to Plage Mala in forty minutes.",
+      "tip": "Start early in summer — these paths have almost no shade."
+    },
+    {
+      "title": "Eat socca standing up",
+      "text": "A thin pancake of chickpea flour and olive oil, baked in a wood oven on a huge copper disc, scraped off in ragged pieces and eaten hot with black pepper. It costs a couple of euros and it is the definitive Nice street food.",
+      "tip": "It must be eaten immediately — it goes leathery within minutes. Buy it where you can see the oven."
+    },
+    {
+      "title": "Visit a hillside village inland",
+      "text": "Saint-Paul-de-Vence and Vence are 40 minutes inland by bus and feel like a different region — ramparts, galleries and the Fondation Maeght's sculpture park, one of Europe's best modern art collections in a purpose-built setting among the pines.",
+      "tip": "Matisse's Chapelle du Rosaire in Vence, which he considered his masterpiece, opens only a few days a week. Check before going."
+    },
+    {
+      "title": "Take the Train des Merveilles",
+      "text": "A regional service that climbs from Nice up the Roya valley to Tende, crossing viaducts and spiralling through tunnels into the mountains. Two hours each way on an ordinary ticket, and one of the most dramatic rail journeys in France.",
+      "tip": "The morning departure has a guide on board in summer. Sit on the left going up."
+    }
+  ],
+  "foodIntro": "Niçoise cooking is Mediterranean peasant food that stayed put — olive oil, chickpeas, anchovies, tomatoes and vegetables, with very little cream or butter in sight.",
+  "foods": [
+    {
+      "name": "Socca",
+      "text": "A single large pancake of chickpea flour, water and olive oil, baked at fierce heat until blistered, then cut roughly and served on paper with a heavy grind of black pepper. Crisp at the edges, soft in the middle, and gone in five minutes.",
+      "whereToTry": "The stalls and hole-in-the-wall bakeries of Vieux Nice, and the Cours Saleya market in the morning."
+    },
+    {
+      "name": "Salade niçoise",
+      "text": "The real thing contains no cooked vegetables at all: tomatoes, raw broad beans or small artichokes, spring onion, olives, anchovy or tuna, hard-boiled egg and olive oil. No potatoes, no green beans, no vinaigrette. Locals are firm about this.",
+      "whereToTry": "Traditional restaurants in the old town — the ones that advertise cuisine nissarde."
+    },
+    {
+      "name": "Pissaladière",
+      "text": "A thick flatbread base under a deep layer of onions slow-cooked to jam, latticed with anchovies and black olives. Sold by weight in bakeries and eaten warm, standing, at any time of day.",
+      "whereToTry": "Bakeries throughout Vieux Nice; usually sold alongside socca."
+    },
+    {
+      "name": "Pan bagnat",
+      "text": "A salade niçoise packed into a round loaf and pressed until the olive oil soaks the bread. It is designed to be made in the morning and eaten at the beach in the afternoon, and it improves in the interim.",
+      "whereToTry": "Any bakery or market stall. Buy one before catching the coastal train."
+    },
+    {
+      "name": "Petits farcis",
+      "text": "Small vegetables — courgettes, tomatoes, onions, peppers — hollowed out, stuffed with seasoned meat and breadcrumbs, and baked. A classic home dish that appears on almost every traditional menu in the old town.",
+      "whereToTry": "Family-run restaurants in Vieux Nice, usually as a starter or a light main."
+    },
+    {
+      "name": "Tourte de blettes",
+      "text": "A sweet chard tart with pine nuts, raisins and apple, dusted with icing sugar. Vegetables in a dessert sounds unlikely and it works completely — an entirely local speciality you will not find elsewhere in France.",
+      "whereToTry": "Old-town pâtisseries. Sold in wedges by weight."
+    }
+  ],
+  "accommodation": {
+    "intro": "Nice divides into three practical zones: the old town for atmosphere, the New Town grid behind the Promenade for value, and the seafront for views at a premium. All are walkable to the station and the tram.",
+    "areas": [
+      {
+        "name": "Vieux Nice",
+        "bestFor": "Atmosphere, food, walking everywhere",
+        "text": "Inside the old town you are 30 seconds from the market and the restaurants, and about eight minutes from the beach. The trade-offs are real: the lanes are noisy until 01:00 in summer, buildings are old and stairs are common, and there is no vehicle access to most addresses."
+      },
+      {
+        "name": "The Carré d'Or and New Town",
+        "bestFor": "Best all-round balance",
+        "text": "The 19th-century grid between the Promenade and Avenue Jean Médecin. Quieter than the old town, five minutes from both the beach and the tram, with the widest choice of hotels at every price. This is where most people should stay."
+      },
+      {
+        "name": "The Promenade des Anglais",
+        "bestFor": "Sea views and grand hotels",
+        "text": "Rooms facing the water carry a substantial premium, and the Promenade is a busy road as well as a walkway, so the view costs you some traffic noise. Worth it for a couple of nights if the view is the point of the trip."
+      },
+      {
+        "name": "Near Gare de Nice-Ville",
+        "bestFor": "Budget and early departures",
+        "text": "Ten minutes' walk north of the centre, noticeably cheaper, and directly on the tram line and the coastal railway. The immediate station surroundings are unremarkable but perfectly safe."
+      },
+      {
+        "name": "Villefranche-sur-Mer",
+        "bestFor": "A quieter, prettier base",
+        "text": "Six minutes by train, dramatically more beautiful, and calm at night. The trade-off is fewer restaurants, steep streets, and needing to check the last train back if you spend an evening in Nice."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Hostel dorm",
+        "value": "€35–60 per night"
+      },
+      {
+        "label": "Two-star hotel",
+        "value": "€90–150 low season, €160–240 in August"
+      },
+      {
+        "label": "Comfortable three to four-star",
+        "value": "€170–280, considerably more in summer"
+      },
+      {
+        "label": "Seafront with a view",
+        "value": "€300+ per night"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Nice has the busiest airport in France outside Paris and sits at the end of a fast rail line, so arriving is easy from almost anywhere in Europe.",
+    "options": [
+      {
+        "mode": "Nice Côte d'Azur Airport",
+        "text": "Seven kilometres west of the centre, with direct flights across Europe and some long-haul. Tram line 2 runs from both terminals to the port and the city centre in about 25 minutes for a flat fare of a few euros.",
+        "detail": "The tram is faster than a taxi during the evening rush and runs until around midnight."
+      },
+      {
+        "mode": "TGV from Paris",
+        "text": "Around 5h30 from Gare de Lyon, with the last stretch along the coast. It is a long ride and only competitive with flying if you value city-centre-to-city-centre travel and no baggage restrictions.",
+        "detail": "From Marseille it is a far more attractive 2h35, and from [[provence-luberon|Avignon]] about 3h."
+      },
+      {
+        "mode": "The coastal TER line",
+        "text": "Local trains run west to Antibes and Cannes and east to Monaco, Menton and across the Italian border to Ventimiglia. Fares are €2–7 depending on distance, with no reservation and no advance booking.",
+        "detail": "This is the workhorse of any Riviera trip. Buy a carnet or use the regional app rather than queuing each time."
+      },
+      {
+        "mode": "By car",
+        "text": "The A8 motorway runs behind the city. Driving into central Nice is possible but parking is expensive and the old town is pedestrianised, so a car is a liability rather than an asset here.",
+        "detail": "If you are continuing to Provence or the Verdon gorge, pick the car up on your way out rather than at the airport."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Nice is compact and flat along the seafront, with two tram lines covering everything else. You will not need a car and will barely need a bus.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The old town, the Cours Saleya, the Promenade and the New Town are all within a fifteen-minute radius. Castle hill is the only real climb, and there is a lift.",
+        "detail": "The seafront is the fastest east–west route on foot and the most pleasant."
+      },
+      {
+        "mode": "Trams",
+        "text": "Line 1 runs north–south through the centre; line 2 runs east–west from the airport to the port. Flat fare, frequent, and the simplest way to cover any distance in the city.",
+        "detail": "Tickets are valid for 74 minutes including transfers. Buy from machines at every stop or by contactless."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "The single most useful thing in Nice. Gare de Nice-Ville is the main station, but the smaller Gare de Nice-Riquier is closer to the old town and served by all local trains heading east.",
+        "detail": "Check which of the two stations is nearer your hotel before every trip — it can save fifteen minutes each way."
+      },
+      {
+        "mode": "Buses to the villages",
+        "text": "Regional buses reach the places the railway does not — Saint-Paul-de-Vence, Vence, the high corniche and Èze village. Fares are low and routes are well signed.",
+        "detail": "Èze village is a steep 20-minute uphill walk from the Èze-sur-Mer train station; the bus goes to the village itself."
+      },
+      {
+        "mode": "Bike share",
+        "text": "The Vélo Bleu network covers the city and the seafront has a continuous cycle lane. Pleasant for the Promenade, less so once you head inland — Nice is steeper than it looks away from the water.",
+        "detail": "Electric bikes are available and worth the extra for anything north of the centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "The Riviera has the most forgiving climate in France, which means the question is less about weather than about crowds and prices. September is the standout: warm sea, warm air, and the August crowds gone.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Warm, green and uncrowded, with everything open by Easter. The sea is still cold until about mid-June — swimmable but bracing. May and early June are ideal for the coastal walks, which are punishing in high summer."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "The busiest and most expensive weeks on the whole French coast. Hotel rates double or more, the beaches are shoulder to shoulder, the coastal roads gridlock and inland temperatures hit the mid-thirties. The sea is lovely; everything else is a compromise."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best window of the year. The sea peaks around 24°C in September after a summer of warming, the crowds vanish after the first week, and prices fall sharply. October is quieter still, with warm days and the first real rain towards the end."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Genuinely viable, which is unusual in France. Days average 13–15°C with a lot of sun, the museums are empty and rooms cost half. Swimming is out and some seasonal restaurants in the smaller villages close, but Nice itself stays fully open."
+      }
+    ],
+    "avoid": "The Cannes Film Festival in May and the Monaco Grand Prix in late May both push accommodation prices up sharply across the whole coast, even in towns nowhere near the events. Check the dates before booking."
+  },
+  "itinerary": {
+    "title": "Four days in Nice and along the coast",
+    "intro": "Two days in the city and two on the train, with swimming built into both. Assumes a base in Nice and no car.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Vieux Nice and the bay",
+        "summary": "Get the geography straight and eat your way through the old town.",
+        "morning": "The Cours Saleya flower market before 11:00, socca from a stall, then the lanes of Vieux Nice with no particular route.",
+        "afternoon": "The lift up Castle Hill for the view along the whole Baie des Anges, then down to the beach for a swim and an hour doing nothing.",
+        "evening": "Dinner on a side street off the Cours Saleya rather than on the square, then the Promenade after dark."
+      },
+      {
+        "day": 2,
+        "title": "Villefranche and Cap Ferrat",
+        "summary": "The easiest and prettiest half-day trip on the coast, extended into a full one.",
+        "morning": "Six minutes by train to Villefranche-sur-Mer. The old town, the covered Rue Obscure and the harbour, then a swim at the Plage des Marinières.",
+        "afternoon": "Walk or take the short bus to Saint-Jean-Cap-Ferrat and do part of the coastal path around the headland — about two hours for the full circuit.",
+        "evening": "Back to Nice for dinner, or stay and eat on the harbour at Villefranche."
+      },
+      {
+        "day": 3,
+        "title": "Èze, Monaco and Menton",
+        "summary": "Three very different places in one eastbound run along the line.",
+        "morning": "Bus up to Èze village early, before the coaches. The Jardin Exotique at the summit, then the Nietzsche Path down to the sea if you fancy the descent.",
+        "afternoon": "Train on to Monaco for the rock, the palace square and the Oceanographic Museum — two hours is plenty.",
+        "evening": "Continue to Menton for the golden hour on its pastel old town, and dinner there before the train back."
+      },
+      {
+        "day": 4,
+        "title": "Art on the hill, or inland",
+        "summary": "Either the Cimiez museums or a trip up into the hills behind the coast.",
+        "morning": "Bus to Cimiez for the Musée Matisse, the Roman ruins and the olive grove, then ten minutes downhill to the Chagall museum.",
+        "afternoon": "Alternatively, bus inland to Saint-Paul-de-Vence and the Fondation Maeght's sculpture gardens.",
+        "evening": "Last swim, then dinner in the New Town where the locals eat rather than in the old town."
+      }
+    ]
+  },
+  "tipsIntro": "Riviera-specific things that are not obvious from a map.",
+  "tips": [
+    "Nice's beaches are pebble, not sand, and the stones are the size of eggs. Rubber swimming shoes are sold everywhere for a few euros and make the difference between pleasant and painful.",
+    "Buy coastal train tickets from the machines with a card rather than queuing at the counter, and note that Nice has two useful stations — Nice-Ville and the smaller Nice-Riquier, which is closer to the old town.",
+    "Restaurants directly on the Cours Saleya and the Promenade charge a location premium for ordinary food. Walk one street back into the old town for better cooking at lower prices.",
+    "A 'salade niçoise' containing potatoes and green beans is a signal that the kitchen is cooking for tourists. It is a reliable and quick quality test.",
+    "The last trains back from Monaco and Menton run late but not all night — usually somewhere between 23:00 and 00:30. Check the return time before settling in for dinner.",
+    "Beach clubs on the Promenade charge €25–40 for a sunbed. The free public beaches either side of them use the same water.",
+    "Èze village and Èze-sur-Mer are two different places 400 metres apart vertically. The train serves the seaside one; the famous village needs the bus or a steep hour on foot.",
+    "August is the one month to avoid outright if you have any flexibility. September delivers the same sea at half the price and a third of the crowd."
+  ],
+  "faq": [
+    {
+      "q": "Is Nice a good base for the French Riviera?",
+      "a": "It is the best one. Nice sits in the middle of the coastal railway, so Villefranche, Èze, Monaco, Menton, Antibes and Cannes are all 6 to 40 minutes away for a few euros each. It also has the airport, the widest choice of hotels at every price, and enough restaurants to eat well every night — which the prettier villages nearby do not."
+    },
+    {
+      "q": "How many days do you need in Nice?",
+      "a": "Four to five. The city itself fills a day and a half — the old town, the market, castle hill and the seafront — and the remaining days are best spent on the coastal train exploring in both directions. Fewer than three days and you will only see Nice, which misses the point of being here."
+    },
+    {
+      "q": "Do you need a car on the French Riviera?",
+      "a": "No, and it is usually a hindrance. The coastal railway covers the whole shoreline frequently and cheaply, parking in Nice and Monaco is expensive and scarce, and the old towns are pedestrianised. A car only becomes useful if you plan to head inland to the Verdon gorge or across into Provence."
+    },
+    {
+      "q": "Are the beaches in Nice sandy?",
+      "a": "No — Nice's beaches are large smooth pebbles, which surprises many first-time visitors. The water is beautiful but walking in and out is uncomfortable without rubber shoes. For sand, take the train six minutes to Villefranche-sur-Mer, or go west to Antibes and Cannes."
+    },
+    {
+      "q": "When is the sea warm enough to swim?",
+      "a": "Mid-June through October, peaking around 24°C in late August and September. June is swimmable but noticeably cool at about 20°C. September is the best month for water temperature, and the sea stays pleasant well into the first half of October."
+    },
+    {
+      "q": "Is the French Riviera expensive?",
+      "a": "It depends entirely on where and when. Monaco, Cannes and Saint-Tropez in August are genuinely expensive. Nice in September or February is comparable to any mid-sized French city — €140–240 a day mid-range, less in winter. The train fares along the coast are the cheapest part of the whole trip."
+    },
+    {
+      "q": "Is Nice worth visiting in winter?",
+      "a": "Yes, more so than most European coastal cities. January and February average 13–15°C with a lot of sunshine, hotel rates fall by half, the museums are quiet and the light is at its clearest. You cannot swim, and some seasonal restaurants in the smaller villages close, but Nice itself functions normally all year."
+    }
+  ],
+  "related": ["provence-luberon", "paris", "bordeaux", "cinque-terre"],
+  "relatedArticles": [
+    "best-time-southern-europe",
+    "europe-by-train",
+    "first-trip-to-europe"
+  ]
+}

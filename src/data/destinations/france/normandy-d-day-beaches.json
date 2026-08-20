@@ -1,0 +1,380 @@
+{
+  "slug": "normandy-d-day-beaches",
+  "name": "Normandy & the D-Day Beaches",
+  "shortName": "Normandy",
+  "country": "france",
+  "region": "Calvados and Manche, Normandy",
+  "categories": [
+    "historic",
+    "coastal",
+    "cultural"
+  ],
+  "tagline": "Eighty kilometres of ordinary coastline where the largest seaborne invasion in history came ashore, plus a 70-metre embroidery that tells the story of another one.",
+  "highlight": "The Normandy American Cemetery above Omaha Beach — 9,388 graves in white marble, looking down on the sand.",
+  "shortDescription": "Five beaches, a dozen museums, cliff-top batteries and immaculately kept cemeteries, in a green farming region that also gave the world Camembert, cider and Calvados.",
+  "metaDescription": "A guide to Normandy and the D-Day beaches: which sites matter most, the Bayeux Tapestry, museums, where to base yourself, whether you need a car, and a three-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Paris CDG, then train to Bayeux (about 3h total)",
+  "knownFor": "The D-Day landings, the Bayeux Tapestry, Camembert, cider",
+  "budget": "€120–200 per day, mid-range",
+  "goodFor": "History, remembrance, food, quiet coastline",
+  "coords": {
+    "lat": 49.3592,
+    "lng": -0.8631
+  },
+  "image": {
+    "file": "File:Cimetiere americain Colleville-sur-Mer.jpg",
+    "alt": "Rows of white marble crosses at the Normandy American Cemetery above Omaha Beach"
+  },
+  "intro": [
+    "On 6 June 1944, around 156,000 Allied troops came ashore along eighty kilometres of Norman coast in the largest amphibious operation ever attempted. The five landing beaches — Utah, Omaha, Gold, Juno and Sword — are still there, and the disconcerting thing about visiting them is how ordinary they look. Wide, flat, sandy beaches with a village behind them and people walking dogs.",
+    "That ordinariness is what makes the visit work. Standing on Omaha Beach and looking up at the bluff where the German positions were, or walking through the crater field at Pointe du Hoc where the ground is still torn open eighty years later, does something that no amount of reading achieves. The region has around thirty museums and memorials, and the challenge is choosing between them rather than finding them.",
+    "Normandy is also a region in its own right, and it would be a mistake to treat it purely as a battlefield. Bayeux escaped the fighting almost untouched and holds an 11th-century embroidery 70 metres long that tells the story of the last successful invasion in the other direction. The countryside behind the coast produces Camembert, Livarot, cider and Calvados, and the Channel ports of Honfleur and Étretat are among the prettiest in France."
+  ],
+  "whyVisit": {
+    "intro": "Few places make history this physically present. But Normandy also rewards visitors who arrive with no particular interest in 1944.",
+    "points": [
+      {
+        "title": "The sites are unusually well preserved",
+        "text": "Pointe du Hoc has been left as it was — a moonscape of shell craters and shattered bunkers on a cliff. The Mulberry harbour caissons still sit off Arromanches. The Longues-sur-Mer battery retains its original guns in their casemates, which is rare anywhere on the Atlantic Wall."
+      },
+      {
+        "title": "The cemeteries are extraordinarily moving",
+        "text": "The American cemetery at Colleville-sur-Mer holds 9,388 graves on a bluff above Omaha. The German cemetery at La Cambe holds over 21,000 under dark stone. The British cemetery at Bayeux holds 4,144. Visiting more than one changes the experience substantially."
+      },
+      {
+        "title": "The Bayeux Tapestry is a masterpiece in its own right",
+        "text": "Seventy metres of embroidered linen from the 1070s, telling the story of the Norman conquest of England in 58 scenes with 626 figures. It is the single most important surviving artefact of the 11th century and a genuinely gripping piece of narrative art."
+      },
+      {
+        "title": "The food is distinctive",
+        "text": "Normandy has no vineyards; it has apple orchards, and drinks cider, poiré and Calvados instead of wine. It also produces four of France's great cheeses and some of its best butter, cream and seafood."
+      },
+      {
+        "title": "The coastline is beautiful beyond the beaches",
+        "text": "The chalk cliffs and natural arches at Étretat inspired Monet and Courbet. Honfleur's slate-fronted harbour is one of the most painted scenes in France. Both are within an hour or so of the landing beaches."
+      }
+    ]
+  },
+  "attractionsIntro": "The D-Day sites spread over about 80 km of coast, so plan them geographically: the American sector to the west, the British and Canadian sector to the east.",
+  "attractions": [
+    {
+      "name": "Normandy American Cemetery, Colleville-sur-Mer",
+      "text": "172 acres of immaculate lawn above Omaha Beach, with 9,388 headstones in Latin crosses and Stars of David, a memorial colonnade and a reflecting pool. A path descends to the beach itself. The visitor centre gives excellent context without sentimentality.",
+      "tip": "Free entry. The flag ceremony at closing time is brief and worth staying for. Allow at least two hours including the centre."
+    },
+    {
+      "name": "Pointe du Hoc",
+      "text": "A cliff-top battery between Utah and Omaha, assaulted by US Rangers who scaled 30-metre cliffs under fire. The site has been deliberately left in its 1944 state — a field of overlapping bomb craters with wrecked casemates you can walk into.",
+      "tip": "The most physically striking site on the coast. Free, open access, and best in the first or last hour of daylight."
+    },
+    {
+      "name": "The Bayeux Tapestry",
+      "text": "Displayed in a purpose-built museum in Bayeux, viewed along a curved corridor with an audio guide that keeps you moving at the pace of the narrative. It takes about 30 minutes to walk its length and is far more absorbing than it sounds.",
+      "tip": "The museum is undergoing a major renovation with the tapestry due to move to a new display. Check the current arrangements before travelling."
+    },
+    {
+      "name": "Arromanches and the Mulberry harbour",
+      "text": "The Allies towed a prefabricated port across the Channel and assembled it here. Concrete caissons still stand offshore, visible from the town and the cliff above it, and the scale of the improvisation is remarkable.",
+      "tip": "The cliff-top viewpoint east of the town gives the best overview of the harbour remains at low tide."
+    },
+    {
+      "name": "Omaha Beach and Utah Beach",
+      "text": "Omaha, overlooked by bluffs, saw by far the heaviest American casualties. Utah, flat and further west, was the least costly of the five. Both have memorials on the sand and museums behind them, and both are working public beaches today.",
+      "tip": "The Utah Beach museum is built around a preserved B-26 bomber and is one of the best on the coast."
+    },
+    {
+      "name": "Longues-sur-Mer battery",
+      "text": "The only German coastal battery in Normandy that still has its original guns in place, in four casemates on the cliff between Gold and Omaha. Free, open, and you can walk inside the emplacements.",
+      "tip": "Quieter than the major sites and genuinely atmospheric. Ten minutes from Arromanches."
+    },
+    {
+      "name": "Caen Mémorial",
+      "text": "The region's largest museum, covering the causes of the Second World War, the occupation, the Battle of Normandy and the Cold War. The best single place to understand the campaign as a whole rather than one beach at a time.",
+      "tip": "Allow at least three hours. Go here first if you want context before visiting the beaches themselves."
+    },
+    {
+      "name": "Honfleur and Étretat",
+      "text": "East of the landing beaches, two of the loveliest places on the Channel coast: Honfleur's tall slate-fronted houses around an old harbour, and Étretat's white chalk arches and needle rock, painted repeatedly by Monet.",
+      "tip": "Étretat's cliff-top walks are free and take about an hour. Go at either end of the day to avoid the coach parties."
+    }
+  ],
+  "thingsToDoIntro": "Two days of D-Day sites is about right for most people. The third day is better spent on Normandy's other side.",
+  "thingsToDo": [
+    {
+      "title": "Take a guided battlefield tour",
+      "text": "Half and full-day tours from Bayeux with historian guides make an enormous difference — the sites themselves are often unmarked fields and cliffs, and the interpretation is the value. Small-group tours run roughly €80–130 per person.",
+      "tip": "Book several weeks ahead for June, and much further for the anniversary period around 6 June."
+    },
+    {
+      "title": "Visit cemeteries from more than one side",
+      "text": "The American cemetery at Colleville, the British at Bayeux and the German at La Cambe are within 40 minutes of each other and are laid out on completely different principles. Seeing two or three is a very different experience from seeing one.",
+      "tip": "La Cambe is the least visited and, for many people, the most affecting."
+    },
+    {
+      "title": "Walk on Omaha at low tide",
+      "text": "The tide withdraws several hundred metres here, which is roughly the distance the first waves had to cross. Walking it from the water's edge to the bluff, in silence, conveys more than any museum display.",
+      "tip": "Check tide times — at high water the beach almost disappears."
+    },
+    {
+      "title": "Tour a cider farm or Calvados distillery",
+      "text": "The Pays d'Auge inland from the coast is orchard country, and dozens of producers offer tastings of cider, poiré and Calvados along a signposted cider route.",
+      "tip": "Calvados is distilled apple brandy and is stronger than it tastes. Have a designated driver."
+    },
+    {
+      "title": "Eat oysters and mussels on the coast",
+      "text": "The Norman coast produces enormous quantities of shellfish. Mussels cooked in cider and cream — moules à la normande — are the regional signature and appear on nearly every menu.",
+      "tip": "Port-en-Bessin, between Omaha and Arromanches, is a working fishing harbour with excellent, unfussy seafood."
+    },
+    {
+      "title": "Walk the cliffs at Étretat",
+      "text": "A circular route takes in both arches and the needle, with the Falaise d'Aval to the west and the Falaise d'Amont to the east. About an hour each way and among the best coastal walks in northern France.",
+      "tip": "Steep and exposed. The clifftops are unfenced in places — keep well back from the edge in wind."
+    }
+  ],
+  "foodIntro": "Normandy is dairy and orchard country with a long coastline. There is no wine here — the drink is cider, and the spirit is apple brandy.",
+  "foods": [
+    {
+      "name": "Camembert de Normandie",
+      "text": "The protected raw-milk version, made in the Pays d'Auge and sold in the familiar wooden box. It is a substantially different cheese from the industrial pasteurised version — softer, more pungent and far more interesting.",
+      "whereToTry": "Any Norman market or fromagerie. Look for 'Camembert de Normandie AOP' rather than simply 'Camembert'."
+    },
+    {
+      "name": "Moules à la normande",
+      "text": "Mussels cooked with cider, cream, shallots and sometimes apple, rather than the white wine used elsewhere. Served with frites, as everywhere in northern France.",
+      "whereToTry": "Coastal restaurants from Honfleur to Cherbourg. Port-en-Bessin and Grandcamp-Maisy are good bets."
+    },
+    {
+      "name": "Cider and poiré",
+      "text": "Norman cider is naturally fermented, lightly sparkling and served in a bowl or ceramic cup. Poiré, made from perry pears, is lighter and more floral. Both come in doux, demi-sec and brut.",
+      "whereToTry": "Cider farms along the Route du Cidre in the Pays d'Auge, and every restaurant in the region."
+    },
+    {
+      "name": "Calvados",
+      "text": "Apple brandy aged in oak, drunk as a digestif or — in the old Norman habit called the trou normand — as a shot in the middle of a long meal to make room for the next course.",
+      "whereToTry": "Distilleries in the Pays d'Auge, and any restaurant at the end of a meal."
+    },
+    {
+      "name": "Teurgoule",
+      "text": "Rice pudding baked with cinnamon for five or six hours until a dark skin forms on top. A genuinely local dessert, sold in earthenware dishes at markets and rarely found outside the region.",
+      "whereToTry": "Norman markets, and traditional restaurants inland from the coast."
+    },
+    {
+      "name": "Andouille de Vire",
+      "text": "A smoked tripe sausage, sliced thin and eaten cold as a starter. It is strong, distinctly rustic and something of a local test — much loved in Normandy and an acquired taste for everyone else.",
+      "whereToTry": "Charcuteries around Vire, and on traditional restaurant menus as a starter."
+    }
+  ],
+  "accommodation": {
+    "intro": "Bayeux is the obvious base — central to the beaches, on the railway, and a pleasant medieval town in its own right. Caen works better if you are relying on trains and want a city.",
+    "areas": [
+      {
+        "name": "Bayeux",
+        "bestFor": "The best all-round base",
+        "text": "Ten kilometres from Omaha, 20 from Arromanches, with the tapestry, a fine cathedral, a British war cemetery and a walkable old centre. Direct trains from Paris in about 2h15 and the departure point for most battlefield tours."
+      },
+      {
+        "name": "Caen",
+        "bestFor": "Rail access and a bigger city",
+        "text": "The regional capital, largely rebuilt after 1944, with the Mémorial museum, William the Conqueror's abbeys and the best transport links. Further from the beaches but better connected."
+      },
+      {
+        "name": "Port-en-Bessin or Grandcamp-Maisy",
+        "bestFor": "Being on the coast itself",
+        "text": "Small working fishing harbours right between the American sector sites, with good seafood and a fraction of Bayeux's visitors. You will need a car."
+      },
+      {
+        "name": "Arromanches",
+        "bestFor": "Waking up on a landing beach",
+        "text": "Small, with the Mulberry caissons offshore and a couple of museums. Very busy by day and quiet in the evening — a good trade if you have a car."
+      },
+      {
+        "name": "Honfleur",
+        "bestFor": "Combining Normandy with the pretty coast",
+        "text": "An hour east of the beaches, with the most photogenic harbour in northern France and a strong restaurant scene. A better second base than a first one."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget hotel or B&B",
+        "value": "€65–100 per night"
+      },
+      {
+        "label": "Comfortable hotel in Bayeux",
+        "value": "€100–160 per night"
+      },
+      {
+        "label": "Guided full-day battlefield tour",
+        "value": "€90–130 per person"
+      },
+      {
+        "label": "Museum entry",
+        "value": "€8–20; cemeteries and Pointe du Hoc are free"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Normandy is close to Paris and easy to reach by train, though the beaches themselves need a car or a tour once you arrive.",
+    "options": [
+      {
+        "mode": "Train from Paris",
+        "text": "Paris Saint-Lazare to Bayeux in about 2h15, or to Caen in 2h. Frequent direct services throughout the day, with no change required.",
+        "detail": "Bayeux station is a ten-minute walk from the centre and most hotels."
+      },
+      {
+        "mode": "By car",
+        "text": "Paris to Bayeux is about 3h on the A13. A car transforms the trip — the landing sites are spread over 80 km of coast with minimal public transport between them.",
+        "detail": "Parking at the D-Day sites is free and plentiful, unusually for France."
+      },
+      {
+        "mode": "Ferry from the UK",
+        "text": "Portsmouth to Caen-Ouistreham takes about six hours by day or overnight, and Portsmouth to Cherbourg around three hours. Both land you directly in the region with your own car.",
+        "detail": "The Ouistreham port is on Sword Beach itself, which makes for a fitting arrival."
+      },
+      {
+        "mode": "Onward to Mont-Saint-Michel",
+        "text": "[[mont-saint-michel]] is about two hours west of Bayeux by car, which makes the two an obvious pairing over three or four days.",
+        "detail": "By train it is slower and usually requires a change at Pontorson or Rennes."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "This is a region where a car or a tour is close to essential. The sites are rural, spread out, and the bus network between them is thin.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The most flexible option by far. Roads are quiet, distances short — Bayeux to Pointe du Hoc is about 35 minutes — and parking at every site is free.",
+        "detail": "Hire from Caen or Bayeux station, or bring one from Paris."
+      },
+      {
+        "mode": "Guided tours",
+        "text": "The main alternative to driving, and often better because of the interpretation. Half-day tours cover one sector, full-day tours cover both, departing from Bayeux and Caen.",
+        "detail": "Small-group tours in English are widely available. Book well ahead for late May and June."
+      },
+      {
+        "mode": "Regional buses",
+        "text": "Bus 70 links Bayeux with Colleville and the American cemetery, and bus 74 serves Arromanches, but services are infrequent and thin out considerably outside summer.",
+        "detail": "Workable for reaching one or two sites in a day, not for touring the coast."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "The coastal terrain is gentle and a signposted cycle route runs along much of the landing coast. A good option for the eastern sector around Arromanches and Gold Beach.",
+        "detail": "The American sector is more spread out and involves more main-road riding."
+      },
+      {
+        "mode": "Walking",
+        "text": "Bayeux, Caen and Honfleur are all walkable towns, and the beaches themselves are walked rather than driven. The GR223 coastal path follows the shoreline for long stretches.",
+        "detail": "Walking Omaha Beach at low tide is one of the most powerful things you can do here."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September",
+    "summary": "Normandy has a cool, changeable Channel climate — it can rain in any month. Late spring and early autumn give the best balance of weather and space, with the notable exception of the anniversary period in early June.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green, mild and increasingly long-dayed, with everything open by Easter. June has the best weather odds of the year and the historical resonance of the anniversary — but the first fortnight of June is also the busiest."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm rather than hot, usually 20–24°C, with the coastal towns busy with French holidaymakers. The beaches are genuinely pleasant to swim from in August. Book accommodation well ahead."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "September is excellent — mild, quiet and clear. October brings shorter days and the first Atlantic weather, but also atmospheric light on the coast and very few visitors at the sites."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, wet and windy, with short days. The major museums stay open on reduced hours but many smaller ones close. Standing on an empty Omaha Beach in February is, for some visitors, the most powerful version of the experience."
+      }
+    ],
+    "avoid": "The week around 6 June, when anniversary commemorations fill every hotel within 50 km and roads are closed for ceremonies. Book a year ahead or avoid it entirely — the sites themselves are far more contemplative outside it."
+  },
+  "itinerary": {
+    "title": "Three days in Normandy",
+    "intro": "Based in Bayeux with a car or tours. One day for context and the eastern sector, one for the American sector, one for the rest of Normandy.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Bayeux and the British sector",
+        "summary": "Start with the town and the eastern beaches, which are gentler than what follows.",
+        "morning": "The Bayeux Tapestry, then the cathedral and the old streets. The British war cemetery is a ten-minute walk.",
+        "afternoon": "Drive east to Arromanches for the Mulberry harbour and the cliff-top view, then the Longues-sur-Mer battery.",
+        "evening": "Dinner in Bayeux, or seafood at Port-en-Bessin on the coast."
+      },
+      {
+        "day": 2,
+        "title": "The American sector",
+        "summary": "The most demanding day, emotionally. Do not try to add anything else to it.",
+        "morning": "The Normandy American Cemetery at Colleville, then down the path to Omaha Beach and a walk on the sand at low tide.",
+        "afternoon": "Pointe du Hoc's crater field, then west to Utah Beach and its museum, or the German cemetery at La Cambe.",
+        "evening": "Back to Bayeux. This is a good evening for an early dinner and an early night."
+      },
+      {
+        "day": 3,
+        "title": "The other Normandy",
+        "summary": "Cider, cheese and the painted coast, as a deliberate change of register.",
+        "morning": "The Caen Mémorial for the full campaign context, or drive east into the Pays d'Auge for a cider farm and a Camembert producer.",
+        "afternoon": "Honfleur's harbour, or the cliffs and arches at Étretat.",
+        "evening": "Dinner in Honfleur, or drive on west towards [[mont-saint-michel]]."
+      }
+    ]
+  },
+  "tipsIntro": "Practical and, in one or two cases, behavioural notes for visiting sites that are still active places of remembrance.",
+  "tips": [
+    "A car or a guided tour is close to essential. The sites are spread across 80 km of rural coast and the bus network between them is minimal outside summer.",
+    "Book a battlefield tour with a historian guide for at least one day. Many sites are unmarked fields and cliffs, and the interpretation is what turns them into something you understand.",
+    "The cemeteries are working memorials, not attractions. Quiet voices, no picnics, no climbing on headstones, and be aware that families of the dead still visit.",
+    "Visit cemeteries from more than one side. Colleville, Bayeux and La Cambe are within 40 minutes of one another and the contrast between them is the point.",
+    "Check tide times before walking Omaha. At low water the sand extends several hundred metres; at high tide the beach nearly disappears.",
+    "Avoid the week around 6 June unless you specifically want the commemorations — hotels within 50 km book out a year ahead and roads close for ceremonies.",
+    "The Bayeux Tapestry museum is being redeveloped and the display arrangements are changing. Confirm what is open before building a day around it.",
+    "There is no wine in Normandy. Order cider with your mussels and Calvados afterwards — it is what the food was built around."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for the D-Day beaches?",
+      "a": "Two full days covers the main sites without rushing — one for the British and Canadian sector around Arromanches and Gold Beach, one for the American sector at Omaha, Colleville and Pointe du Hoc. A third day lets you add the Caen Mémorial for context or move on to the rest of Normandy, which is a useful change of pace after two emotionally heavy days."
+    },
+    {
+      "q": "Do you need a car for the D-Day beaches?",
+      "a": "Effectively yes, or a guided tour. The five beaches spread across about 80 km of rural coast, and regional buses are infrequent and do not link the sites usefully. Bayeux-based tours with historian guides are an excellent alternative and often better than driving yourself, because so much of the value is in the interpretation."
+    },
+    {
+      "q": "Which D-Day sites are the most worthwhile?",
+      "a": "The Normandy American Cemetery at Colleville-sur-Mer, Pointe du Hoc, and Omaha Beach itself are the three that most visitors find unforgettable. Add the Longues-sur-Mer battery for its original guns, Arromanches for the Mulberry harbour remains, and the German cemetery at La Cambe for a different perspective. The Caen Mémorial is the best museum for the campaign as a whole."
+    },
+    {
+      "q": "What is the best base for visiting the D-Day beaches?",
+      "a": "Bayeux. It is 10 km from Omaha Beach, has direct trains from Paris in about 2h15, holds the Bayeux Tapestry and a British war cemetery, escaped wartime destruction so the old town is intact, and is where most guided tours depart from. Caen is the alternative if you want a larger city and better rail connections."
+    },
+    {
+      "q": "Can you visit the D-Day beaches as a day trip from Paris?",
+      "a": "It is sold, and it is a poor use of a day — roughly six hours of travel for four or five hours on the coast, arriving at the busiest time. Bayeux is only 2h15 from Paris by train, so two nights there costs very little extra time and transforms the visit."
+    },
+    {
+      "q": "Is Normandy worth visiting beyond the D-Day sites?",
+      "a": "Very much so. The Bayeux Tapestry is one of the most important artefacts to survive from the 11th century. Étretat's chalk arches and Honfleur's harbour are among the most beautiful places on the French coast. The Pays d'Auge inland produces Camembert, Livarot, cider and Calvados, and [[mont-saint-michel]] sits at the region's western edge."
+    },
+    {
+      "q": "When is the best time to visit Normandy?",
+      "a": "May, June or September. June has the best weather odds and the strongest historical resonance, but the first fortnight is dominated by anniversary events that fill every hotel for miles. September is mild, clear and much quieter. Winter is cold and wet with short days, though an empty Omaha Beach in low winter light is powerful in its own way."
+    }
+  ],
+  "related": [
+    "mont-saint-michel",
+    "paris",
+    "loire-valley",
+    "strasbourg-alsace"
+  ],
+  "relatedArticles": [
+    "first-trip-to-europe",
+    "unesco-worth-planning-around",
+    "underrated-destinations"
+  ]
+}

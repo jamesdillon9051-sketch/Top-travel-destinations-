@@ -1,0 +1,368 @@
+{
+  "slug": "florence-tuscany",
+  "name": "Florence & Tuscany",
+  "shortName": "Florence",
+  "country": "italy",
+  "region": "Tuscany",
+  "categories": ["historic", "cultural", "unesco", "food-and-wine"],
+  "tagline": "The city that invented the Renaissance, surrounded by the landscape that appears behind every painting in it.",
+  "highlight": "Brunelleschi's dome of 1436 — still the largest masonry dome ever built, and you can climb inside it.",
+  "shortDescription": "A compact city holding the densest concentration of Renaissance art anywhere, with Chianti, Siena and the Val d'Orcia within an hour of its walls.",
+  "metaDescription": "A Florence and Tuscany travel guide: the Uffizi, the Duomo, the David, Siena and the Val d'Orcia, what to book ahead, when to go and a five-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Florence Peretola (FLR) or Pisa (PSA)",
+  "knownFor": "The Uffizi, the Duomo, the David, Chianti",
+  "budget": "€130–230 per day, mid-range",
+  "goodFor": "Art, architecture, wine, hill towns, slow drives",
+  "coords": { "lat": 43.7696, "lng": 11.2558 },
+  "image": {
+    "file": "File:Florence from the Duomo terrace (61408p).jpg",
+    "alt": "Florence's terracotta rooftops and towers seen from the terrace of the cathedral dome"
+  },
+  "intro": [
+    "Florence spent the fifteenth century inventing most of what we mean by European art. Perspective was worked out here, in Brunelleschi's experiments and Masaccio's frescoes in a side chapel across the river. The dome that Brunelleschi raised over the cathedral between 1420 and 1436 — still the largest masonry dome ever constructed, built without a supporting framework by a goldsmith who refused to explain how he intended to do it — is the emblem of that century, and you can climb the 463 steps between its two shells and see the trick from inside.",
+    "What makes the city almost unreasonable is the concentration. The Uffizi, the Accademia, the Bargello, the Palazzo Pitti, Santa Croce, the Brancacci Chapel and San Marco are all within a twenty-five minute walk of each other, and between them hold Botticelli's Birth of Venus, Michelangelo's David, Donatello's bronzes, Fra Angelico's cells and the tombs of Michelangelo, Galileo and Machiavelli. Florence is small — you can cross the historic centre in half an hour — and it is not remotely possible to exhaust it in a week.",
+    "The other half of this destination begins at the city gates. Tuscany is the landscape the Renaissance painted into its backgrounds: cypress avenues, hill towns on ridges, and the clay hills of the Val d'Orcia, which is a UNESCO site precisely because it was cultivated into a picture of good government. Siena is an hour away and is a complete medieval city rather than a Renaissance one. San Gimignano still has fourteen of its towers. Montalcino makes Brunello and Montepulciano makes Vino Nobile, and both are worth the drive for reasons beyond the wine."
+  ],
+  "whyVisit": {
+    "intro": "Florence is where the modern idea of an artist, a museum and a perspective drawing all come from — and it is small enough to see on foot.",
+    "points": [
+      {
+        "title": "The Renaissance is concentrated here",
+        "text": "Botticelli, Leonardo, Michelangelo, Donatello, Masaccio and Fra Angelico are all in one square kilometre, largely in the buildings they were painted for. No other city comes close to the density."
+      },
+      {
+        "title": "Brunelleschi's dome is a marvel you can enter",
+        "text": "Raised without centring over an octagon nobody knew how to span, finished in 1436, and climbable between its inner and outer shells — you see the herringbone brickwork that makes it stand up."
+      },
+      {
+        "title": "Tuscany starts fifteen minutes outside",
+        "text": "Chianti's vineyards, Siena's shell-shaped campo, San Gimignano's towers and the Val d'Orcia's clay hills are all within an hour and a half. City and countryside in one trip, without moving base."
+      },
+      {
+        "title": "Serious wine, easily reached",
+        "text": "Chianti Classico, Brunello di Montalcino and Vino Nobile di Montepulciano are made in three areas you can visit in a day each, at estates that take walk-in tastings seriously."
+      },
+      {
+        "title": "The food is austere and superb",
+        "text": "Tuscan cooking is bread, beans, olive oil and grilled meat — bistecca alla fiorentina, ribollita, pici — designed around not wasting anything and executed with total conviction."
+      }
+    ]
+  },
+  "attractionsIntro": "Four of these are inside Florence and four are outside it. Trying to do all eight in three days is the standard mistake.",
+  "attractions": [
+    {
+      "name": "The Uffizi",
+      "text": "The Medici collection in Vasari's sixteenth-century office building: Botticelli's Birth of Venus and Primavera, Leonardo's Annunciation, Michelangelo's Doni Tondo, Titian's Venus of Urbino and Caravaggio's Medusa.",
+      "tip": "Book a timed slot for opening. Three hours is realistic; the corridor windows over the Arno are worth stopping at."
+    },
+    {
+      "name": "The Duomo complex",
+      "text": "Brunelleschi's dome, Giotto's campanile, the Baptistery with Ghiberti's Gates of Paradise — the originals now in the Museo dell'Opera opposite — and the cathedral itself, which is free and comparatively plain inside.",
+      "tip": "One combined pass covers dome, campanile, baptistery and museum. The dome climb is 463 steps, timed, and must be booked."
+    },
+    {
+      "name": "The Accademia",
+      "text": "Michelangelo's David, moved here in 1873 to protect it from the weather, at the end of a hall lined with his unfinished Prisoners struggling out of their blocks — which are arguably the more interesting works.",
+      "tip": "Book ahead. An hour is plenty; the copy standing outside Palazzo Vecchio shows you where it was meant to be seen."
+    },
+    {
+      "name": "Santa Croce and the Bargello",
+      "text": "Santa Croce holds the tombs of Michelangelo, Galileo and Machiavelli and Giotto's frescoes; the Bargello, in a medieval prison, has Donatello's bronze David and the best sculpture collection in Italy after the Vatican.",
+      "tip": "The Bargello is one of the quietest major museums in the city. Go when the Uffizi queue defeats you."
+    },
+    {
+      "name": "Palazzo Pitti and the Boboli Gardens",
+      "text": "The vast Medici palace across the river with the Palatine Gallery's Raphaels hung floor to ceiling as they were in the eighteenth century, and formal gardens climbing the hill behind it.",
+      "tip": "The Boboli is a hot, steep, largely shadeless climb. Beautiful in spring, punishing in August."
+    },
+    {
+      "name": "Siena",
+      "text": "An hour south: a complete Gothic city built on three ridges around the shell-shaped Piazza del Campo, with a striped marble cathedral, the Piccolomini Library's frescoes and the Palio run twice each summer.",
+      "tip": "The bus from Florence is faster and more central than the train. The cathedral's inlaid floor is uncovered only for part of the year."
+    },
+    {
+      "name": "San Gimignano and Chianti",
+      "text": "Fourteen surviving tower-houses of an original seventy-odd standing over a hill town, reached through the Chianti hills — vineyards, cypress avenues and stone villages between Florence and Siena.",
+      "tip": "San Gimignano is packed from 10:00 to 17:00 and lovely outside those hours. Stay the night, or go late."
+    },
+    {
+      "name": "The Val d'Orcia",
+      "text": "A UNESCO landscape of clay hills, lone cypresses and hilltop towns south of Siena: Pienza, built as a Renaissance ideal city; Montalcino for Brunello; Montepulciano for Vino Nobile; Bagno Vignoni's thermal pool in the main square.",
+      "tip": "This needs a car and a full day, and rewards two. The light in the last hour before sunset is the reason people photograph it."
+    }
+  ],
+  "thingsToDoIntro": "Two days of art, two days of countryside, and one spare — that is the shape of a good Florence week.",
+  "thingsToDo": [
+    {
+      "title": "Climb the dome",
+      "text": "Four hundred and sixty-three steps up a passage between the dome's two shells, past Vasari's Last Judgment frescoes at close range, out onto the lantern with the whole city and the hills below.",
+      "tip": "Booked timed entry only. Not for anyone claustrophobic — the final stairs are steep, narrow and one-way."
+    },
+    {
+      "title": "Eat lampredotto from a cart",
+      "text": "The city's real street food: the fourth stomach of a cow, simmered for hours, chopped into a bun with salsa verde and the top of the roll dipped in the broth. Sold from trippai carts since the fifteenth century.",
+      "tip": "Around three or four euros. The carts at Sant'Ambrogio and the Mercato Centrale are the reliable ones."
+    },
+    {
+      "title": "Drive or cycle into Chianti",
+      "text": "The SR222 Chiantigiana runs from Florence to Siena through Greve, Panzano and Castellina, past estates that pour Chianti Classico — the ones with the black rooster seal — for walk-in visitors.",
+      "tip": "Nominate a driver or book a tour. Tuscan roads plus tastings is a bad combination and the police test for it."
+    },
+    {
+      "title": "Watch the sunset from San Miniato",
+      "text": "Above Piazzale Michelangelo, the Romanesque church of San Miniato al Monte looks down the length of the city. The monks sing vespers in Gregorian chant most late afternoons.",
+      "tip": "Walk up through the Rose Garden rather than taking the bus, and stay for the chant before the light goes."
+    },
+    {
+      "title": "Do a market morning",
+      "text": "Sant'Ambrogio for the neighbourhood market Florentines actually use, the Mercato Centrale for the food hall upstairs and the butchers and cheesemongers below.",
+      "tip": "Both finish by early afternoon. Buy pecorino, finocchiona and bread and eat it in the Boboli or on the Arno."
+    },
+    {
+      "title": "Cycle the walls of Lucca",
+      "text": "An hour and a quarter west, Lucca's Renaissance ramparts survive complete and are now a four-kilometre tree-lined park you can ride around above the rooftops.",
+      "tip": "Bike hire is by the hour at several gates. Combine with Pisa, twenty minutes further, for the tower."
+    }
+  ],
+  "foodIntro": "Tuscan cooking is cucina povera taken seriously: stale bread, beans, olive oil, offal and a very good piece of beef, with almost no sauce and no apology.",
+  "foods": [
+    {
+      "name": "Bistecca alla fiorentina",
+      "text": "A T-bone of Chianina beef, three or four fingers thick, grilled over embers and served blue-rare with nothing but salt, oil and lemon. Priced by weight, usually a kilo minimum, and meant to be shared.",
+      "whereToTry": "Traditional Florentine trattorias. Ordering it well done will be politely refused in the good places."
+    },
+    {
+      "name": "Ribollita and pappa al pomodoro",
+      "text": "Two bread soups: ribollita, of black cabbage, beans and stale bread, boiled again the next day until it is nearly solid; and pappa al pomodoro, the summer tomato version. Both finished with raw olive oil.",
+      "whereToTry": "Any trattoria in autumn and winter. Tuscan bread is unsalted, which is why it works in soup."
+    },
+    {
+      "name": "Lampredotto and trippa",
+      "text": "Florence's street food, sold from carts: tripe stewed with tomato, or lampredotto in a bun with green sauce and chilli. Cheap, ancient and eaten standing up by people on their lunch break.",
+      "whereToTry": "The trippai carts near the Mercato Centrale, Sant'Ambrogio and Porta Romana."
+    },
+    {
+      "name": "Pici and pappardelle",
+      "text": "Pici are thick hand-rolled Sienese noodles served with garlic sauce or cacio e pepe; pappardelle are wide ribbons, classically with wild boar ragù. Southern Tuscany's two great pastas.",
+      "whereToTry": "Siena, Montalcino and the Val d'Orcia, where both belong. Pici all'aglione is the local test."
+    },
+    {
+      "name": "Chianti, Brunello and Vino Nobile",
+      "text": "Sangiovese in three expressions: Chianti Classico from the hills between Florence and Siena, Brunello from Montalcino and Vino Nobile from Montepulciano. The black rooster seal marks true Chianti Classico.",
+      "whereToTry": "Estates take walk-ins with a call ahead. Enotecas in Greve, Montalcino and Montepulciano pour by the glass."
+    },
+    {
+      "name": "Cantucci, vin santo and gelato",
+      "text": "Hard almond biscuits dunked in sweet vin santo to finish a meal, and gelato, which Florence claims to have invented at the Medici court. Pistachio should be dull brown-green, never bright.",
+      "whereToTry": "Gelaterie with covered steel tubs and 'produzione propria' on the door — not the heaped fluorescent displays."
+    }
+  ],
+  "accommodation": {
+    "intro": "Florence's centre is small enough that anywhere inside the ring is walkable; the real decision is whether to sleep in the city at all or out in the hills.",
+    "areas": [
+      {
+        "name": "Centro storico",
+        "bestFor": "First visits",
+        "text": "Between the Duomo, the Uffizi and Santa Croce. Everything on the doorstep, at peak prices, and busy from mid-morning until late. Check that windows face a courtyard."
+      },
+      {
+        "name": "Oltrarno and San Frediano",
+        "bestFor": "Atmosphere and craft workshops",
+        "text": "Across the river: artisans' studios, Santo Spirito's square, better-value restaurants and a genuine neighbourhood feel, five minutes from the Ponte Vecchio."
+      },
+      {
+        "name": "San Niccolò and the hills",
+        "bestFor": "Views and quiet",
+        "text": "Beneath Piazzale Michelangelo, where the city runs into the hillside. Steep, calm, ten minutes from the centre and with the best evening walk in Florence above it."
+      },
+      {
+        "name": "A Chianti agriturismo",
+        "bestFor": "Wine country with a car",
+        "text": "Working farms and estates between Florence and Siena renting rooms, with pools, dinner and their own wine. Thirty to fifty minutes from the city and a completely different holiday."
+      },
+      {
+        "name": "Siena or the Val d'Orcia",
+        "bestFor": "The second half of the trip",
+        "text": "Splitting the week — three nights in Florence, three in the south — removes two hours of driving a day and puts you in the hill towns for the evenings, which is when they empty."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel in Florence", "value": "€130–240 per night" },
+      { "label": "Chianti agriturismo", "value": "€100–200 per night, often with a two-night minimum" },
+      { "label": "Uffizi and Accademia", "value": "€25–30 each in high season, plus booking fees" },
+      { "label": "Duomo combined pass", "value": "€30–35, covering dome, campanile, baptistery and museum" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Florence sits on the high-speed line halfway between Rome and Milan, which makes arriving by train easier than flying for most European trips.",
+    "options": [
+      {
+        "mode": "High-speed rail",
+        "text": "Santa Maria Novella is a ten-minute walk from the Duomo. [[rome|Rome]] 1h30, [[milan|Milan]] 1h50, [[venice|Venice]] 2h05, Naples 3h.",
+        "detail": "The single best-connected city in Italy for a rail-based trip. Book ahead for cheap fares."
+      },
+      {
+        "mode": "Florence Airport (FLR)",
+        "text": "Small, five kilometres out, with the T2 tram running to Santa Maria Novella in about twenty minutes. Limited European routes and no long-haul.",
+        "detail": "Convenient when it works for your route; otherwise Pisa or Bologna will be cheaper."
+      },
+      {
+        "mode": "Pisa Airport (PSA)",
+        "text": "Eighty kilometres west and much better served by budget airlines. The PisaMover shuttle links the terminal to Pisa Centrale, then an hour by train to Florence.",
+        "detail": "Total transfer around 1h30. Worth it for the fares, and Lucca and Pisa are on the way."
+      },
+      {
+        "mode": "By car",
+        "text": "Only useful for the Tuscan half. Collect the car on the day you leave Florence and drop it before you return — the centre is one of Italy's strictest ZTLs.",
+        "detail": "Park at a garage outside the ring, or at Villa Costanza on the tramline, and take public transport in."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Florence is walked. Tuscany is driven, with one important exception in Siena.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic centre is about a kilometre and a half across and largely pedestrianised. Every museum on this page is within twenty-five minutes of the Duomo on foot.",
+        "detail": "Pavements are narrow and stone. Nothing you need requires a bus."
+      },
+      {
+        "mode": "Bus to Siena",
+        "text": "Fast coaches run from Florence to Siena in about 1h15 and arrive near the centre, which the train does not — Siena's station is downhill and awkward.",
+        "detail": "Ask for the 'rapida'. It is the rare case where the bus clearly beats the train in Italy."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "Lucca 1h20, Pisa 1h, Arezzo 40 min, Bologna 40 min by fast train. All easy day trips with no car and no ZTL risk.",
+        "detail": "Validate regional tickets before boarding or accept a fine."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Essential for Chianti, the Val d'Orcia and the smaller hill towns, where buses are infrequent and connections poor.",
+        "detail": "Hire from a city office rather than the airport if you want to start on the day you leave Florence."
+      },
+      {
+        "mode": "Organised wine tours",
+        "text": "Half and full-day trips into Chianti and Montalcino with a driver, which solves both the ZTL problem and the drink-driving one.",
+        "detail": "Small-group tours visiting two estates beat coach tours visiting four."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–early June and September–October",
+    "summary": "The city is stone and airless in high summer and the countryside is at its best in late spring and at harvest. The two shoulder windows are not a compromise here — they are simply better.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Wisteria over the walls, green hills, 18–27°C and long light evenings. Everything is open and the Val d'Orcia is at its most photogenic before the wheat turns."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Above 35°C, with the centre trapping heat and the museum queues in full sun. Crowds peak, prices peak, and many family restaurants close around Ferragosto."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. The vendemmia brings the hills to life, white truffles arrive in October, the light is extraordinary and the crowds fall away after the first week of September."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Cold, sometimes damp, and by far the best time to see the art — the Uffizi and the Accademia are walk-in. Some country agriturismi and hill-town restaurants close entirely."
+      }
+    ],
+    "avoid": "Siena on 2 July and 16 August, unless the Palio is the reason you came. The city is full, prices treble and the race itself lasts about ninety seconds after a day of waiting."
+  },
+  "itinerary": {
+    "title": "Five days in Florence and Tuscany",
+    "intro": "Three days on the city, two on the countryside, with a hire car collected on day four. Reverse it if you would rather finish in Florence.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Duomo",
+        "summary": "The cathedral complex and the streets around it.",
+        "morning": "The dome climb on a booked slot, then the Baptistery and the Museo dell'Opera.",
+        "afternoon": "Piazza della Signoria, the Palazzo Vecchio and the Ponte Vecchio.",
+        "evening": "Sunset from San Miniato al Monte, with vespers if the timing works."
+      },
+      {
+        "day": 2,
+        "title": "The Uffizi and the Oltrarno",
+        "summary": "The great collection, then across the river.",
+        "morning": "The Uffizi from opening — three hours, booked.",
+        "afternoon": "The Brancacci Chapel's Masaccio frescoes and the artisan workshops of San Frediano.",
+        "evening": "Dinner on Piazza Santo Spirito, which is where Florence eats."
+      },
+      {
+        "day": 3,
+        "title": "David and the quiet museums",
+        "summary": "Michelangelo, Donatello and Fra Angelico.",
+        "morning": "The Accademia at opening, then San Marco for Fra Angelico's cells.",
+        "afternoon": "The Bargello for Donatello, or Santa Croce for the tombs.",
+        "evening": "Lampredotto from a cart, then an early night before the drive."
+      },
+      {
+        "day": 4,
+        "title": "Chianti and Siena",
+        "summary": "South through the vineyards.",
+        "morning": "Collect a car and take the Chiantigiana through Greve and Panzano.",
+        "afternoon": "Siena — the Campo, the striped Duomo and the Piccolomini Library.",
+        "evening": "Stay in Siena or push on to a Val d'Orcia agriturismo."
+      },
+      {
+        "day": 5,
+        "title": "The Val d'Orcia",
+        "summary": "Clay hills, cypresses and two great wines.",
+        "morning": "Pienza for pecorino, then Montepulciano for Vino Nobile.",
+        "afternoon": "Montalcino and the abbey at Sant'Antimo, or the thermal pool at Bagno Vignoni.",
+        "evening": "The cypress roads in the last hour of light, then back to Florence."
+      }
+    ]
+  },
+  "tipsIntro": "Florence rewards booking and punishes driving. Most of what goes wrong here comes down to one of those two things.",
+  "tips": [
+    "Book the Uffizi, the Accademia and the dome climb before you arrive. All three are timed-entry, all three sell out in season, and the dome in particular releases limited slots.",
+    "Do not drive into Florence. The ZTL is one of the strictest in Italy and covers the entire historic centre; fines arrive months later through the hire company. Park at Villa Costanza on the tramline or a garage outside the ring.",
+    "Take the bus to Siena rather than the train. It is faster and drops you near the centre, while the station sits at the bottom of a long hill.",
+    "Bistecca alla fiorentina is priced by weight and comes as a kilo or more of very rare beef. It is designed to be shared between two or three people, and asking for it well done will not be honoured.",
+    "The Bargello, San Marco and the Museo dell'Opera del Duomo are all first-rate and rarely busy. When the Uffizi queue defeats you, they are the answer rather than the consolation.",
+    "Collect a hire car on the day you leave the city, not on arrival. A car parked in Florence for three days costs money and does nothing.",
+    "San Gimignano is unbearable between ten and five and lovely outside those hours. Either stay the night or arrive late in the afternoon.",
+    "Tuscan bread is made without salt, which is not a mistake. It exists to soak up soup, oil and sauce, and it is why ribollita and pappa al pomodoro work."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Florence?",
+      "a": "Three for the city and two more for Tuscany, so five in total. Florence itself is small and walkable but extremely dense — the Uffizi alone takes three hours. Three days covers the Duomo complex, the Uffizi, the Accademia and one or two of the quieter museums without exhaustion. Add two days with a car for Chianti, Siena and the Val d'Orcia."
+    },
+    {
+      "q": "What do I need to book in advance?",
+      "a": "The Uffizi, the Accademia and the dome climb, all of which are timed-entry and sell out in high season. The dome releases limited slots and goes first. Santa Croce, the Bargello, San Marco and the Brancacci Chapel are generally fine on the day, and the cathedral itself is free to enter."
+    },
+    {
+      "q": "Should I rent a car in Tuscany?",
+      "a": "For the countryside, yes — Chianti, the Val d'Orcia and the small hill towns have thin bus service and poor connections. For Florence itself, absolutely not: the ZTL covers the entire centre and is camera-enforced. Collect the car on the day you leave the city and drop it before you return, and never drive inside a town's walls."
+    },
+    {
+      "q": "Is Siena worth a day trip from Florence?",
+      "a": "Yes, and it is one of the best in Italy — an hour and a quarter by coach, arriving near the centre. Siena is a complete Gothic city rather than a Renaissance one, and the shell-shaped Campo, the striped cathedral and the Piccolomini Library make a full day. Better still, sleep there one night: it empties in the evening and is a different place after the day-trippers leave."
+    },
+    {
+      "q": "When is the best time to visit Florence and Tuscany?",
+      "a": "April to early June and September to October. Spring gives green hills and long evenings; autumn brings the grape harvest, white truffles in October and the year's best light. July and August exceed 35°C in a city built of stone, with peak crowds and prices. Winter is cold but the museums become walk-in, which is a genuine argument for it."
+    },
+    {
+      "q": "Where should I stay — Florence or the countryside?",
+      "a": "Both, if you have five days. Three nights in Florence, on foot and without a car, then two nights at a Chianti agriturismo or in the Val d'Orcia. Splitting the stay removes two hours of daily driving and puts you in the hill towns during the evenings, when the coaches have gone and they are at their best."
+    },
+    {
+      "q": "What is the Val d'Orcia?",
+      "a": "The clay-hill landscape south of Siena — cypress avenues, lone farmhouses and hilltop towns — listed by UNESCO in 2004 because it was deliberately shaped in the Renaissance into an image of good government, and is the landscape behind countless paintings. Pienza, Montalcino, Montepulciano and Bagno Vignoni are the anchors. It needs a car and rewards a full day, ideally ending at sunset."
+    }
+  ],
+  "related": ["rome", "cinque-terre", "venice", "provence-luberon"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe", "europe-by-train"]
+}

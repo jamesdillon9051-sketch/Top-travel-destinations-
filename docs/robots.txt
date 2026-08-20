@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamesdillon9051-sketch.github.io/Top-travel-destinations-/sitemap.xml

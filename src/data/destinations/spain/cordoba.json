@@ -1,0 +1,343 @@
+{
+  "slug": "cordoba",
+  "name": "Córdoba",
+  "country": "spain",
+  "region": "Andalusia",
+  "categories": ["unesco", "historic", "off-the-beaten-path", "cultural"],
+  "tagline": "For a while in the 10th century the largest city in Western Europe, and it still has the building to prove it.",
+  "highlight": "The Mezquita's hypostyle hall — 856 columns under red-and-white double arches, with a cathedral built into the middle of it.",
+  "shortDescription": "A compact Andalusian city on the Guadalquivir holding one of the most astonishing interiors in the world, plus flower-filled patios and Spain's best cold soup.",
+  "metaDescription": "A Córdoba travel guide: the Mezquita-Catedral, the Judería, Medina Azahara, the May patio festival, salmorejo, where to stay and a two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Seville (SVQ) or Málaga (AGP); Córdoba is on the AVE line",
+  "knownFor": "The Mezquita, patios, Roman bridge, salmorejo",
+  "budget": "€90–150 per day, mid-range",
+  "goodFor": "History, architecture, food, a short stop",
+  "coords": { "lat": 37.8882, "lng": -4.7794 },
+  "image": {
+    "file": "File:Córdoba - Mezquita-Catedral - Interior - 10.jpg",
+    "alt": "The forest of columns and red-and-white striped double arches inside the Mezquita of Córdoba"
+  },
+  "intro": [
+    "In the 10th century Córdoba was the capital of a caliphate that covered most of the Iberian peninsula, and by most estimates the largest city in Western Europe — perhaps 400,000 people at a time when Paris had 20,000. It had street lighting, running water, paved roads and a library said to hold 400,000 volumes. Almost none of that survives. What survives is the mosque.",
+    "The Mezquita is genuinely one of the great buildings of the world and it does not photograph in a way that prepares you. You walk in from an orange-tree courtyard into a low, dim hall of 856 columns supporting a double tier of red-and-white striped arches, receding in every direction with no visual centre. It was built and extended over two hundred years, and after the reconquest a Renaissance cathedral was constructed inside it — which sounds like vandalism and produces one of the strangest and most affecting interiors anywhere.",
+    "The city around it is small, walkable and considerably quieter than Seville or Granada. Most visitors treat Córdoba as a day trip from Seville, 45 minutes away by high-speed train, and see the Mezquita in the middle of the day with everyone else. An overnight changes it entirely — the Judería empties, the Roman bridge lights up, and the city becomes one of the most pleasant in Andalusia."
+  ],
+  "whyVisit": {
+    "intro": "Córdoba is a two-day city with one overwhelming building, and it is consistently underrated because Seville and Granada are louder about themselves.",
+    "points": [
+      {
+        "title": "The Mezquita is a genuine wonder",
+        "text": "There is no other building like it. The hypostyle hall's repeating arches were designed to feel infinite, and the horseshoe arch in two colours of stone and brick became the defining image of Islamic Spain. Building a cathedral inside it in the 1520s should have ruined it and instead produced something without parallel."
+      },
+      {
+        "title": "Three UNESCO listings in one small city",
+        "text": "The Mezquita, the whole historic centre, and Medina Azahara — a purpose-built palace city eight kilometres west, abandoned after only seventy years and excavated from the 1910s onwards. Plus the patio festival, which is listed as intangible heritage."
+      },
+      {
+        "title": "The patios are a real tradition",
+        "text": "Córdoba's houses are built around interior courtyards, whitewashed and hung with hundreds of potted geraniums. For two weeks each May the owners open them to the public and compete, and this has been happening since 1918."
+      },
+      {
+        "title": "It is quiet and cheap",
+        "text": "Córdoba receives a fraction of Seville's visitors and prices reflect it — rooms and meals typically run 20–30% lower. Outside the immediate cathedral square, the old town is often empty."
+      },
+      {
+        "title": "Genuinely good food",
+        "text": "Salmorejo comes from here and is better than gazpacho. Add flamenquín, oxtail stew, and the Montilla-Moriles wines — sherry-style but from a different region and rarely exported."
+      }
+    ]
+  },
+  "attractionsIntro": "Córdoba's historic core is about a kilometre across. Everything below except Medina Azahara is within a twenty-minute walk.",
+  "attractions": [
+    {
+      "name": "The Mezquita-Catedral",
+      "text": "Begun in 785 and extended four times, reaching 856 columns of granite, marble and jasper — many reused from Roman and Visigothic buildings — under 365 double arches. The mihrab, added in the 960s, is covered in Byzantine gold mosaic. The Renaissance cathedral inserted in the 1520s rises out of the middle of it.",
+      "tip": "Free entry on weekday mornings for a limited early window, typically 08:30–09:30, with no tour groups. It is by far the best way to see it."
+    },
+    {
+      "name": "The Judería",
+      "text": "The old Jewish quarter west of the Mezquita — narrow whitewashed lanes, the 14th-century synagogue (one of only three medieval synagogues surviving in Spain), and the Calleja de las Flores, a dead-end alley framing the cathedral tower.",
+      "tip": "Beautiful and very busy from 11:00. At 08:00 or after 20:00 you will have most of it to yourself."
+    },
+    {
+      "name": "Roman bridge and Calahorra tower",
+      "text": "Sixteen arches across the Guadalquivir, originally built in the first century BC and rebuilt many times since. The pedestrianised crossing gives the classic view back at the Mezquita, and the tower at the far end holds a small museum.",
+      "tip": "Cross at dusk when the bridge and the Mezquita are both lit. It is the best free thing in the city."
+    },
+    {
+      "name": "Alcázar de los Reyes Cristianos",
+      "text": "A 14th-century fortress-palace where Ferdinand and Isabella received Columbus, with Roman mosaics inside and formal gardens of long pools, fountains and clipped hedges descending in terraces.",
+      "tip": "The gardens are the point rather than the building. Go late in the day when the low sun is on the water."
+    },
+    {
+      "name": "Medina Azahara",
+      "text": "A palace city built from 936 by the caliph Abd al-Rahman III as a new capital, sacked and abandoned within seventy years, and then lost until the 20th century. Only about a tenth has been excavated. The museum below the site is excellent.",
+      "tip": "Eight kilometres west with a dedicated shuttle bus from the city. Allow half a day and go in the morning — there is no shade."
+    },
+    {
+      "name": "The patios",
+      "text": "Whitewashed interior courtyards hung with hundreds of potted plants, watered by hand. During the festival in the first half of May, dozens open free to the public and compete for prizes; a smaller number stay open year-round for a small fee.",
+      "tip": "The San Basilio and Santa Marina districts have the highest concentration. Visit in the morning when they have just been watered."
+    },
+    {
+      "name": "Palacio de Viana",
+      "text": "An aristocratic house with twelve separate patios accumulated over five centuries, each in a different style. The best year-round way to understand Córdoba's courtyard architecture without waiting for May.",
+      "tip": "The patios-only ticket is cheaper than the full house tour and is the better half of the visit."
+    },
+    {
+      "name": "Plaza de la Corredera",
+      "text": "The only rectangular enclosed plaza in Andalusia, built in the 1680s in the Castilian style, with a daily market underneath the arcades and bars all around it.",
+      "tip": "Ten minutes north of the Mezquita and almost entirely free of visitors. Good for a drink in the late afternoon."
+    }
+  ],
+  "thingsToDoIntro": "Two days is enough for all of this without hurrying, and Córdoba is small enough to walk everywhere.",
+  "thingsToDo": [
+    {
+      "title": "See the Mezquita twice",
+      "text": "Once in the free early window when it is nearly empty and the low light comes in sideways through the arches, and once at midday when the cathedral in the middle is properly lit. They are almost different buildings.",
+      "tip": "The free morning window is weekdays only and roughly 08:30–09:30. Check the current times — they change seasonally."
+    },
+    {
+      "title": "Walk the old town at 08:00 and again at 21:00",
+      "text": "Córdoba is a day-trip city, which means it fills between 11:00 and 18:00 and empties completely either side. Staying overnight buys you two windows of near-solitude in one of Spain's finest old quarters.",
+      "tip": "The Calleja de las Flores at 08:00 is a different place from the Calleja de las Flores at noon."
+    },
+    {
+      "title": "Eat salmorejo where it comes from",
+      "text": "Thicker and richer than gazpacho, made with bread, tomato, garlic and a great deal of olive oil, topped with chopped egg and jamón. It is the local dish and Córdoba does it better than anywhere.",
+      "tip": "Available roughly April to October. In winter it disappears from most menus entirely."
+    },
+    {
+      "title": "Visit Medina Azahara",
+      "text": "The ruins of a purpose-built caliphal capital, abandoned after seventy years. The scale and the ambition of it — and the speed of its collapse — put the Mezquita in a much clearer context.",
+      "tip": "A dedicated shuttle runs from Paseo de la Victoria. Do the museum first, then the site."
+    },
+    {
+      "title": "Drink Montilla-Moriles",
+      "text": "Made 40 km south using the same solera ageing as sherry, but from Pedro Ximénez grapes and usually unfortified. Fino, amontillado and oloroso styles at a fraction of Jerez prices, and rarely seen outside Andalusia.",
+      "tip": "Old tabernas in the centre serve it by the glass from the barrel. Ask for fino to start."
+    },
+    {
+      "title": "Cross the Roman bridge at dusk",
+      "text": "Sixteen arches over the Guadalquivir with the Mezquita lit behind you and the Calahorra tower ahead. Ten minutes, free, and the memory most visitors keep.",
+      "tip": "Continue to the far bank for the view back, which is better than the view out."
+    }
+  ],
+  "foodIntro": "Córdoba's cooking is Andalusian with a strong Moorish inheritance — cold soups, cumin and coriander, almonds, and a lot of very good olive oil from the surrounding province.",
+  "foods": [
+    {
+      "name": "Salmorejo cordobés",
+      "text": "Tomato, bread, garlic and olive oil blended thick and cold, topped with chopped hard-boiled egg and jamón. Denser and more substantial than gazpacho, and eaten as a starter or a light meal all summer.",
+      "whereToTry": "Every bar and restaurant in the city from spring to autumn. The version here is the reference."
+    },
+    {
+      "name": "Rabo de toro",
+      "text": "Oxtail braised for hours in red wine with vegetables until it falls off the bone, served with fried potatoes. Córdoba's signature hot dish and available year-round.",
+      "whereToTry": "Traditional restaurants around the Judería and Plaza de la Corredera."
+    },
+    {
+      "name": "Flamenquín",
+      "text": "A roll of pork loin wrapped around jamón, breaded and deep-fried, then sliced. Cheap, enormous and entirely local — you will not find it elsewhere in Spain under this name.",
+      "whereToTry": "Neighbourhood bars away from the cathedral. Usually served with chips and alioli."
+    },
+    {
+      "name": "Berenjenas con miel",
+      "text": "Aubergine sliced thin, fried until crisp and drizzled with cane honey. A direct survival of Al-Andalus cooking and one of the best tapas in Andalusia.",
+      "whereToTry": "Almost every tapas bar in the city. Ask for it with miel de caña rather than bee honey."
+    },
+    {
+      "name": "Montilla-Moriles wine",
+      "text": "Solera-aged wines from just south of the city — fino, amontillado, oloroso and the intensely sweet Pedro Ximénez. Made like sherry but usually without fortification, and much cheaper.",
+      "whereToTry": "Old tabernas serving from the barrel. The PX poured over ice cream is a standard local dessert."
+    },
+    {
+      "name": "Salmorejo's relatives",
+      "text": "Mazamorra, a white almond and garlic soup that predates the tomato's arrival from the Americas, and ajoblanco, its Málaga cousin with grapes. Both are older than salmorejo and rarer.",
+      "whereToTry": "More traditional restaurants, usually as a summer starter alongside salmorejo."
+    }
+  ],
+  "accommodation": {
+    "intro": "Córdoba's historic centre is small and almost entirely walkable, so location matters less than in most cities. The main choice is whether to be inside the Judería or just outside it.",
+    "areas": [
+      {
+        "name": "The Judería",
+        "bestFor": "Being inside the old town",
+        "text": "Whitewashed lanes right beside the Mezquita, with converted courtyard houses as hotels. Beautiful and central; also where the day-trip crowds concentrate between 11:00 and 18:00, and largely car-free."
+      },
+      {
+        "name": "San Basilio",
+        "bestFor": "Patios and quiet",
+        "text": "Immediately southwest of the Alcázar, the district with the highest concentration of prize-winning patios and noticeably fewer visitors. Five minutes' walk to the Mezquita."
+      },
+      {
+        "name": "Around Plaza de la Corredera",
+        "bestFor": "Local life and value",
+        "text": "Ten minutes north of the cathedral, around the arcaded square and the daily market. Cheaper, busier with locals than visitors, and full of good bars."
+      },
+      {
+        "name": "Santa Marina and the northern old town",
+        "bestFor": "Getting away from the crowds",
+        "text": "The quiet upper half of the historic centre, with the Palacio de Viana and more patios. Fifteen minutes from the Mezquita and much the calmest area."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "Budget and rail connections",
+        "text": "Twenty minutes' walk north of the Mezquita, convenient for the AVE and cheaper. Modern and unremarkable but perfectly practical for a short stay."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€18–32 per night" },
+      { "label": "Comfortable hotel or patio guesthouse", "value": "€75–140 per night" },
+      { "label": "May patio festival", "value": "Double or more, booked many months ahead" },
+      { "label": "Mezquita entry", "value": "About €13, or free in the weekday early-morning window" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Córdoba sits on the original Madrid–Seville high-speed line, which makes it one of the easiest cities in Spain to reach and an obvious stop between the two.",
+    "options": [
+      {
+        "mode": "AVE high-speed rail",
+        "text": "[[seville]] 45 minutes, [[madrid]] 1h45, Málaga 1h, [[barcelona]] about 4h45. Frequent departures on several competing operators.",
+        "detail": "The station is a 20-minute walk or short bus ride north of the Mezquita."
+      },
+      {
+        "mode": "As a stop between cities",
+        "text": "Córdoba's position makes it a natural break on the Madrid–Seville run rather than a detour, which is why so many people day-trip it — and why staying a night is such an easy upgrade.",
+        "detail": "Left luggage is available at the station if you want a few hours between trains."
+      },
+      {
+        "mode": "Bus",
+        "text": "[[granada]] is about 2h30 by coach, which is faster than the rail connection. Seville and Málaga are also well served.",
+        "detail": "The bus station sits directly opposite the railway station."
+      },
+      {
+        "mode": "Airports",
+        "text": "Córdoba has no commercial airport. Seville is 45 minutes away by train, Málaga an hour — both with far better international connections.",
+        "detail": "Málaga has the widest choice of low-cost and long-haul routes into Andalusia."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Small, flat and largely pedestrian. You will walk everywhere except Medina Azahara.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The historic centre is about a kilometre across. The Mezquita to Plaza de la Corredera is ten minutes, to the Palacio de Viana fifteen, and to the station about twenty.",
+        "detail": "The Judería's lanes are narrow, cobbled and largely closed to traffic."
+      },
+      {
+        "mode": "Shuttle to Medina Azahara",
+        "text": "A dedicated bus runs from Paseo de la Victoria to the site several times a day, with an onward shuttle from the museum to the ruins themselves.",
+        "detail": "Private cars cannot drive to the ruins — everyone uses the site shuttle from the museum car park."
+      },
+      {
+        "mode": "City buses",
+        "text": "A straightforward network covering the modern city and the station. Rarely needed for a visitor staying centrally.",
+        "detail": "Useful mainly for reaching accommodation outside the old town in summer heat."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Córdoba is flat with a riverside path along the Guadalquivir and reasonable lanes in the newer districts.",
+        "detail": "Less useful in the old town, where the lanes are too narrow and too crowded."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap and useful for the station in August, when the twenty-minute walk is genuinely unpleasant.",
+        "detail": "Cannot enter most of the Judería; expect to be dropped at the edge."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and October",
+    "summary": "Córdoba records some of the highest temperatures in Europe and has one of its best springs. The seasonal swing here is extreme and worth planning around carefully.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The city at its peak, and May in particular: the patio festival runs in the first half of the month, orange blossom is out, and temperatures sit at 20–28°C. Book well ahead for the festival fortnight."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "avoid",
+        "text": "Regularly 38–44°C, among the hottest anywhere in Europe. The city empties in the afternoon and so should you. The Mezquita's interior is cool and dim, which makes it the one comfortable place to be at 15:00."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "The heat breaks in October and the weather is excellent — 18–26°C, clear, and very few visitors. November is quieter still and mild."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "good",
+        "text": "Mild at 8–17°C with sunshine and some rain. The Mezquita is nearly empty, rooms are cheap, and the hot dishes — rabo de toro especially — are at their best. Salmorejo disappears from menus."
+      }
+    ],
+    "avoid": "The Fiesta de los Patios in the first half of May fills the city and doubles room rates. It is genuinely worth seeing, but book months ahead or come in late May instead."
+  },
+  "itinerary": {
+    "title": "Two days in Córdoba",
+    "intro": "Enough to see the Mezquita twice and reach Medina Azahara. Deliberately assumes an overnight, which is the single thing that makes Córdoba better than its day-trip reputation.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Mezquita and the old town",
+        "summary": "Arrive early or the night before, and use the quiet hours.",
+        "morning": "The Mezquita in the free early window — 856 columns with almost nobody in them — then coffee in the orange courtyard.",
+        "afternoon": "The Judería, the synagogue, and the Alcázar gardens in the late light.",
+        "evening": "The Roman bridge at dusk, then salmorejo and rabo de toro somewhere north of the cathedral."
+      },
+      {
+        "day": 2,
+        "title": "Medina Azahara and the patios",
+        "summary": "The caliphate's other capital, then courtyards.",
+        "morning": "Shuttle bus to Medina Azahara — museum first, then the excavated palace city. Allow three hours.",
+        "afternoon": "Back for the Palacio de Viana's twelve patios, or the San Basilio courtyards if they are open.",
+        "evening": "Plaza de la Corredera for Montilla-Moriles from the barrel, then the AVE onward to [[seville]] or [[madrid]]."
+      }
+    ]
+  },
+  "tipsIntro": "Short list for a short visit, but the first two make a real difference.",
+  "tips": [
+    "The Mezquita has a free entry window on weekday mornings, typically 08:30–09:30, with no tour groups. It is the best hour of the day inside the building — check the current times, which shift seasonally.",
+    "Stay overnight rather than day-tripping. Córdoba fills from 11:00 and empties by 18:00, so an overnight buys you the old town at dawn and after dark almost to yourself.",
+    "Summer here is extreme — 38–44°C is normal in July and August, among the hottest in Europe. The Mezquita's dim, thick-walled interior is the coolest place in the city and worth timing for the middle of the day.",
+    "The patio festival runs in the first half of May and doubles accommodation prices. The Palacio de Viana's twelve courtyards are open all year and are the fallback.",
+    "Medina Azahara has no shade and its own shuttle system — you cannot drive to the ruins, only to the museum. Go in the morning and allow three hours including the museum.",
+    "Salmorejo is a summer dish and vanishes from menus in winter. Rabo de toro is the year-round equivalent and better in the cold months.",
+    "Montilla-Moriles is made 40 km away and is essentially local sherry at half the price. Ask for it by name; many bars serve it from the barrel.",
+    "Córdoba is 45 minutes from Seville and 1h45 from Madrid by AVE, so it slots neatly into a longer route rather than requiring a detour."
+  ],
+  "faq": [
+    {
+      "q": "Is Córdoba worth an overnight or is a day trip enough?",
+      "a": "Overnight, comfortably. Córdoba is the classic day-trip city — it fills between 11:00 and 18:00 and empties either side — so staying gives you the Judería and the Roman bridge at dawn and after dark with almost nobody around. It also lets you use the free early-morning window at the Mezquita, which is the best hour in the building."
+    },
+    {
+      "q": "How long do you need in Córdoba?",
+      "a": "Two days. One for the Mezquita, the Judería and the Alcázar gardens, and one for Medina Azahara and the patios. A single day covers the Mezquita and the old town at the busiest hours and misses most of what makes the city pleasant."
+    },
+    {
+      "q": "Can you visit the Mezquita for free?",
+      "a": "Yes — there is a free entry window on weekday mornings, typically around 08:30 to 09:30, with no organised tours admitted. It is quiet, the low light through the arches is at its best, and it is easily the best way to see the building. Times shift seasonally, so check before relying on it."
+    },
+    {
+      "q": "When are the Córdoba patios open?",
+      "a": "The Fiesta de los Patios runs for about two weeks in the first half of May, when dozens of private courtyards open free to the public and compete for prizes. Outside the festival, a smaller number stay open year-round for a small fee, and the Palacio de Viana's twelve patios are open all year — the reliable option if your dates do not match."
+    },
+    {
+      "q": "What is Medina Azahara and is it worth visiting?",
+      "a": "A palace city built from 936 as a new caliphal capital, sacked and abandoned within seventy years, and lost until the 20th century. Only about a tenth is excavated. It is worth half a day, particularly after seeing the Mezquita, because it shows the scale of what Córdoba was. Take the dedicated shuttle from the city and do the museum before the site."
+    },
+    {
+      "q": "Is Córdoba too hot in summer?",
+      "a": "It is one of the hottest cities in Europe, routinely 38–44°C in July and August. Visitable if you keep to early mornings and evenings, and the Mezquita's thick-walled, dim interior is genuinely the most comfortable place in the city at 15:00. Spring and October are far better."
+    },
+    {
+      "q": "How do you get from Seville to Córdoba?",
+      "a": "Forty-five minutes on the AVE, with frequent departures on several competing operators. Córdoba station is a 20-minute walk or a short bus ride from the Mezquita. It is also 1h45 from Madrid, which makes it a natural stop on a Madrid–Seville route rather than a detour."
+    }
+  ],
+  "related": ["seville", "granada", "madrid", "santiago-galicia"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations", "best-time-southern-europe"]
+}

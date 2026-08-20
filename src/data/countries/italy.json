@@ -1,0 +1,395 @@
+{
+  "slug": "italy",
+  "name": "Italy",
+  "continent": "Southern Europe",
+  "countryCode": "IT",
+  "tagline": "More UNESCO World Heritage Sites than any other country, twenty regions that cook completely differently, and the Alps and the Mediterranean in the same day's drive.",
+  "cardDescription": "Rome, Renaissance Florence and Venice are only the opening argument. The case for Italy is that Sicily, Puglia and the Dolomites are just as strong and half as crowded.",
+  "metaDescription": "A complete Italy travel guide: the 10 best places to visit, regional food, when to go, trains and driving, ZTL fines, costs, etiquette and a two-week itinerary.",
+  "image": {
+    "file": "File:Varenna, Lake Como 1.jpg",
+    "alt": "The lakeside village of Varenna on Lake Como with mountains rising behind it"
+  },
+  "destinations": [
+    "rome",
+    "florence-tuscany",
+    "venice",
+    "amalfi-coast",
+    "naples-pompeii",
+    "sicily",
+    "cinque-terre",
+    "dolomites",
+    "puglia-matera",
+    "milan"
+  ],
+  "intro": [
+    "Italy has more UNESCO World Heritage Sites than any other country, which is a statistic that undersells the problem rather than solving it. The real difficulty of planning an Italian trip is that the famous three — Rome, Florence, Venice — are genuinely as good as their reputations, and are also the most crowded places in the country, and are also less than a fifth of what is worth seeing.",
+    "The country only unified in 1861, and before that it was a collection of kingdoms, republics, duchies and papal territories that spent centuries competing with each other. That history is why every provincial town has a cathedral and a picture gallery that would be a national treasure elsewhere, why the food changes completely every hundred kilometres, and why a Milanese and a Sicilian will tell you they have almost nothing in common.",
+    "Geographically it runs 1,200 km from the Alps to within 150 km of Africa. You can ski in the Dolomites in the morning and, in the same country, swim off a Salento beach that looks Caribbean. The practical consequence is that Italy rewards going deep on one or two regions far more than it rewards a lap of the greatest hits — and that the less obvious regions, Puglia and Sicily especially, deliver more per day than a fourth museum in Florence."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit — though the last five are where a second or third Italian trip should go, and several are better value than the first five.",
+  "thingsToDoIntro": "The experiences that recur the length of the country, and that make an Italian trip feel Italian rather than simply European.",
+  "thingsToDo": [
+    {
+      "title": "Take the passeggiata seriously",
+      "text": "The evening walk before dinner, done by everyone, in their good clothes, up and down the main street or around the piazza. It is the most reliable way to see a town as it actually is rather than as it presents itself to visitors.",
+      "tip": "Between roughly 18:00 and 20:00. Smaller towns do it better than big cities."
+    },
+    {
+      "title": "Drink your coffee standing up",
+      "text": "At the bar, in one gulp, for about a euro. Sitting at a table can cost three or four times as much for exactly the same espresso, and in some places you pay at the till first and take the receipt to the barista.",
+      "tip": "Cappuccino is a morning drink. Ordering one after lunch marks you out, though nobody will actually mind."
+    },
+    {
+      "title": "Eat what the region eats",
+      "text": "Italian food is not national, it is municipal. Carbonara belongs to [[rome|Rome]], pesto to Liguria, cotoletta to [[milan|Milan]], orecchiette to [[puglia-matera|Puglia]]. Ordering the local dish is almost always the best decision on the menu.",
+      "tip": "If a menu offers pizza, pasta and steak with photographs, walk on. If it offers six things you have not heard of, sit down."
+    },
+    {
+      "title": "Walk into churches",
+      "text": "Ordinary parish churches routinely hold Caravaggios, Titians and Giottos, free and unattended. Some of the best paintings in Italy are not in museums at all — they are where they were painted to be.",
+      "tip": "Cover shoulders and knees, carry coins for the light boxes that illuminate side chapels, and avoid Mass times."
+    },
+    {
+      "title": "Go to the market in the morning",
+      "text": "Every town has one, and by one o'clock it is over. Markets are where the regional differences are most obvious — the vegetables, the cheeses, the cuts of meat and the arguments are all local.",
+      "tip": "Palermo's Ballarò, Bologna's Quadrilatero, Venice's Rialto and Florence's Sant'Ambrogio are among the best."
+    },
+    {
+      "title": "Take the aperitivo hour",
+      "text": "A drink between about 18:00 and 20:00 that comes with food — olives and crisps at minimum, a laid-out buffet in Milan. It is a social institution rather than a happy hour, and in the north it can replace dinner.",
+      "tip": "A spritz in the Veneto, a Negroni in Tuscany, a Campari in Milan. Ask for the local one."
+    }
+  ],
+  "foodIntro": "There is no such thing as Italian food, only the food of twenty regions that were separate countries until 1861 and have not forgiven each other since. These are the threads that run through all of them.",
+  "foods": [
+    {
+      "name": "Pasta, regionally",
+      "text": "Shape and sauce are matched by region and defended fiercely: carbonara, cacio e pepe, amatriciana and gricia in Rome; trofie al pesto in Liguria; orecchiette with turnip tops in Puglia; pasta alla Norma in Sicily; ragù in Bologna.",
+      "whereToTry": "Whichever region you are in. Ordering Bolognese in [[rome|Rome]] is the culinary equivalent of asking for chips."
+    },
+    {
+      "name": "Pizza, and its two schools",
+      "text": "Neapolitan pizza — soft, blistered, wet in the middle, cooked in 90 seconds — is a UNESCO-listed craft. Roman pizza is thin and crisp, and pizza al taglio is sold by weight from a tray and eaten walking.",
+      "whereToTry": "[[naples-pompeii|Naples]] for the original, Rome for al taglio at any decent forno."
+    },
+    {
+      "name": "Cured meat and cheese",
+      "text": "Parma ham and Parmigiano Reggiano from Emilia, speck in the [[dolomites|Dolomites]], 'nduja in Calabria, burrata in Puglia, buffalo mozzarella in Campania, pecorino across the centre and south.",
+      "whereToTry": "Alimentari and salumerie — buy 100 g of two or three things and a piece of bread for lunch."
+    },
+    {
+      "name": "Seafood on every coast",
+      "text": "Anchovies in Liguria and Cetara, sarde a beccafico and swordfish in Sicily, raw prawns and octopus in Puglia, cuttlefish and soft-shell crab in the Venetian lagoon. Almost always simply cooked.",
+      "whereToTry": "Ports rather than resorts, and whatever the board says is in today rather than whatever is printed on the menu."
+    },
+    {
+      "name": "Wine by the region",
+      "text": "Barolo and Barbaresco in Piedmont, Amarone in the Veneto, Chianti and Brunello in Tuscany, Etna reds in Sicily, Primitivo in Puglia. House wine by the carafe is usually local, cheap and perfectly good.",
+      "whereToTry": "Enoteche for tasting; trattorias for a litre of the local red at a price that will surprise you."
+    },
+    {
+      "name": "Gelato, properly made",
+      "text": "Real gelato is denser and less cold than ice cream, made in small batches, and stored in covered steel tubs rather than heaped into fluorescent mountains. Pistachio should be brown-green, not lurid.",
+      "whereToTry": "Anywhere advertising 'produzione propria' and keeping its tubs covered. Avoid banana that is yellow."
+    },
+    {
+      "name": "Coffee and the bar",
+      "text": "The bar is the social unit of Italian daily life: espresso standing up in the morning, a pastry with it, a spritz in the evening. Coffee culture is a set of rules that everyone follows without discussing them.",
+      "whereToTry": "Any neighbourhood bar. Naples makes the strongest and takes it the most seriously."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Italy is easy to travel in, with two exceptions that catch people out repeatedly: driving into historic centres, and August.",
+  "practical": {
+    "capital": "Rome",
+    "language": "Italian. English is widely spoken in cities, tourist areas and by younger people; much less so in the rural south. German is co-official in South Tyrol.",
+    "currency": "Euro (€)",
+    "money": "Cards are accepted almost everywhere and contactless is standard, but carry some cash for small bars, markets, rural trattorias and tourist taxes, which are sometimes collected in cash at check-out.",
+    "visa": "Italy is in the Schengen area. Many nationalities enter visa-free for 90 days in any 180. The EU's biometric Entry/Exit System began a phased rollout in late 2025 and the ETIAS pre-travel authorisation is expected to follow — check the current requirement for your passport before booking.",
+    "plugs": "Types C, F and L, 230 V, 50 Hz. Italian sockets vary, so a universal adapter is more useful here than a single-standard one.",
+    "emergency": "112 for all emergencies, nationwide.",
+    "tipping": "Not expected and not built into wages. Round up a bill or leave a couple of euros for good service. Most restaurants add a per-person 'coperto' cover charge, which is not a tip.",
+    "safety": "Very safe overall. The real risks are pickpocketing on crowded transport — Rome's metro, the Circumvesuviana to Pompeii, Naples and Milan stations — and scooter-borne bag snatching in a few southern cities.",
+    "connectivity": "Excellent 4G and 5G nationally, weaker in Alpine valleys and rural Sicily. EU roaming applies for EU SIMs; eSIMs are cheap for everyone else.",
+    "timeZone": "Central European Time, UTC+1, with daylight saving from late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "€65–100 per day — hostels, pizza al taglio, regional trains" },
+      { "label": "Mid-range", "value": "€140–220 per day — three-star hotels, restaurant meals, high-speed trains" },
+      { "label": "Comfortable", "value": "€250–420 per day — good hotels, guides, car hire" },
+      { "label": "Tourist tax", "value": "€1–10 per person per night, charged separately by most cities" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Italy runs from the Alps to the latitude of North Africa, so 'the best time' depends on which Italy. The shoulder seasons work almost everywhere; July and August work almost nowhere except the mountains.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The strongest window for the cities and the south. Warm without being punishing, long days, everything open, and the coast becoming swimmable through June. Easter is the one very busy week."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot — regularly 35°C and above in Rome, Florence and the south — and at maximum crowding and price. Italians take August off, so cities empty of locals and fill with visitors, and many restaurants close. The Dolomites are the exception and are at their best."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Arguably the best of all: the sea is still warm in September, the harvest and truffle seasons run through October, the light is superb and the crowds fall away sharply after the first week of September."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Cities are cheap, quiet and atmospheric, and the museums are a pleasure. The coast and the islands largely close. The Dolomites switch to their ski season, which is a completely separate and excellent trip."
+      }
+    ],
+    "avoid": "Ferragosto, 15 August, when much of the country stops entirely — family businesses close for a fortnight around it, cities are shuttered and the coast is at its most crowded. It is the single worst week to arrive without a plan."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "Italy is long and the high-speed rail spine is fast, which makes an ambitious itinerary tempting. Resist it: two or three bases beat five, and the country will still be there next time.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "One city. Rome fills five days without repeating itself; Florence and Venice work as a pair over the same period with a 2h train between them.",
+        "detail": "A short Italian trip is better spent deeply in one place than spread over three."
+      },
+      {
+        "length": "8–10 days",
+        "text": "The classic triangle — Rome, Florence and Venice — connected by high-speed trains, with a day out into Tuscany or the lagoon islands from each.",
+        "detail": "It is the standard first trip for good reason, and it is also the most crowded route in the country."
+      },
+      {
+        "length": "12–16 days",
+        "text": "Rome, Florence, the Amalfi Coast and Naples, or the itinerary on this page: the north and the classic cities with a proper southern leg attached.",
+        "detail": "Enough time to include one region that is not on everyone's first list."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Add Sicily or Puglia as a self-contained trip within the trip — a week each, with a car — or trade a city for the Dolomites in summer.",
+        "detail": "The south and the mountains are where a second Italian trip belongs, and both reward a week more than a weekend."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Italy's high-speed rail is one of the best networks in Europe and makes the classic cities effortless. Everything off that spine — Tuscany's hill towns, Puglia, Sicily, the Dolomites — needs a car.",
+    "options": [
+      {
+        "mode": "High-speed trains",
+        "text": "Frecciarossa and Italo compete on the same routes, which keeps fares low. Rome–[[florence-tuscany|Florence]] 1h30, Rome–[[milan|Milan]] 3h, [[milan|Milan]]–[[venice|Venice]] 2h15, Rome–[[naples-pompeii|Naples]] 1h10.",
+        "detail": "Book ahead for the cheap fares; walk-up prices are two to three times higher. Both operators sell online in English."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "Slower, cheaper, unreserved and the way to reach smaller places — the [[cinque-terre|Cinque Terre]] villages, Tuscan towns, the Circumvesuviana to [[naples-pompeii|Pompeii]].",
+        "detail": "Validate paper tickets before boarding or risk a fine. Regional fares are fixed, so there is no advantage to booking early."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Essential for Tuscany's Val d'Orcia, [[puglia-matera|Puglia]], [[sicily|Sicily]] and the [[dolomites|Dolomites]]. Motorways are tolled and good; mountain and coastal roads are slow and often spectacular.",
+        "detail": "Never drive into a historic centre — see the ZTL warning below. Park outside the walls and walk in."
+      },
+      {
+        "mode": "Ferries",
+        "text": "To Sicily, Sardinia, Capri and Ischia, and along the Amalfi Coast, where boats are usually faster and always pleasanter than the coast road in summer.",
+        "detail": "Summer services are frequent; most reduce sharply or stop between November and March."
+      },
+      {
+        "mode": "Buses",
+        "text": "The only public transport in much of the south and on the Amalfi Coast, where SITA buses run the corniche road. Slower and less predictable than trains but they reach everywhere.",
+        "detail": "Buy tickets before boarding from a bar or tabaccheria — drivers often cannot sell them."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Italy",
+    "intro": "Rome, Florence and Venice by high-speed train, then south to Naples, Pompeii and the Amalfi Coast. Covers five of the ten destinations in this guide and needs a car only for the last two days.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Rome",
+        "morning": "Land at Fiumicino and take the train into Termini.",
+        "afternoon": "A first walk: the Pantheon, Piazza Navona and the Trevi Fountain.",
+        "evening": "Dinner in Trastevere across the river."
+      },
+      {
+        "day": 2,
+        "title": "Ancient Rome",
+        "morning": "The Colosseum at opening on a timed ticket.",
+        "afternoon": "The Roman Forum and Palatine Hill on the same ticket.",
+        "evening": "The Capitoline terrace over the Forum at dusk, then dinner in Monti."
+      },
+      {
+        "day": 3,
+        "title": "The Vatican",
+        "morning": "The Vatican Museums and Sistine Chapel, booked, at opening.",
+        "afternoon": "St Peter's Basilica and the dome climb.",
+        "evening": "Testaccio for the most Roman food in Rome."
+      },
+      {
+        "day": 4,
+        "title": "Rome's other layer",
+        "morning": "The Borghese Gallery — timed entry, booked well ahead.",
+        "afternoon": "The Appian Way and the catacombs, or Ostia Antica by train.",
+        "evening": "Aperitivo in Campo de' Fiori, then the night train of the passeggiata."
+      },
+      {
+        "day": 5,
+        "title": "Train to Florence",
+        "morning": "Frecciarossa to Florence, 1h30.",
+        "afternoon": "The Duomo complex — Brunelleschi's dome, the Baptistery doors.",
+        "evening": "Piazzale Michelangelo for the whole city at sunset."
+      },
+      {
+        "day": 6,
+        "title": "The Renaissance",
+        "morning": "The Uffizi at opening, three hours, booked.",
+        "afternoon": "The Accademia for the David, then the Bargello or Santa Croce.",
+        "evening": "Bistecca alla fiorentina, shared, in Sant'Ambrogio."
+      },
+      {
+        "day": 7,
+        "title": "Into Tuscany",
+        "morning": "Hire a car and drive south into the Chianti hills.",
+        "afternoon": "Siena's Piazza del Campo and its striped cathedral.",
+        "evening": "San Gimignano's towers at dusk, then back to Florence."
+      },
+      {
+        "day": 8,
+        "title": "Train to Venice",
+        "morning": "Two hours by train, arriving at Santa Lucia on the Grand Canal.",
+        "afternoon": "The vaporetto down the Grand Canal, then get lost in Cannaregio.",
+        "evening": "Cicchetti and an ombra along a canal in Dorsoduro."
+      },
+      {
+        "day": 9,
+        "title": "St Mark's and the lagoon",
+        "morning": "The Basilica and the Doge's Palace, both booked.",
+        "afternoon": "The Accademia or the Peggy Guggenheim.",
+        "evening": "The Zattere at sunset, looking across to the Giudecca."
+      },
+      {
+        "day": 10,
+        "title": "The islands",
+        "morning": "Torcello and its mosaics, then Burano's coloured houses.",
+        "afternoon": "Murano's glass furnaces on the way back.",
+        "evening": "Last night in Venice — the city empties after the day boats leave."
+      },
+      {
+        "day": 11,
+        "title": "South to Naples",
+        "morning": "Fly or take the high-speed train south, about 5h30 by rail with a change.",
+        "afternoon": "The National Archaeological Museum, which holds everything taken from Pompeii.",
+        "evening": "Pizza in the centro storico, where it was invented."
+      },
+      {
+        "day": 12,
+        "title": "Pompeii and Vesuvius",
+        "morning": "Pompeii at opening — three hours minimum, and there is no shade.",
+        "afternoon": "Herculaneum, smaller and better preserved, or the crater rim of Vesuvius.",
+        "evening": "Transfer to Sorrento or the Amalfi Coast."
+      },
+      {
+        "day": 13,
+        "title": "The Amalfi Coast",
+        "morning": "The Path of the Gods from Bomerano down to Nocelle.",
+        "afternoon": "Positano's beach and the ferry along the coast to Amalfi.",
+        "evening": "Ravello, high above the sea, for dinner and the view."
+      },
+      {
+        "day": 14,
+        "title": "Capri and home",
+        "morning": "The ferry to Capri and the chairlift up Monte Solaro.",
+        "afternoon": "Back to Naples for the airport.",
+        "evening": "Fly home from Capodichino."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Italy is formal in ways that surprise visitors and relaxed in ways that surprise them more. Presentation matters, food has rules, and family and region are the two identities that come before nation.",
+    "etiquette": [
+      {
+        "title": "Churches have a dress code and it is enforced",
+        "text": "Shoulders and knees covered, for everyone, at St Peter's, Venice's Basilica, Florence's Duomo and most working churches. Guards turn people away daily. A light scarf in a bag solves it."
+      },
+      {
+        "title": "Meals have a structure",
+        "text": "Antipasto, primo (pasta or risotto), secondo (meat or fish) with contorni ordered separately, then dolce. You need not order all of it, but a primo is not a starter and a secondo does not come with a side unless you ask."
+      },
+      {
+        "title": "Greet people when you enter",
+        "text": "'Buongiorno' on entering a shop, bar or small restaurant, and 'arrivederci' on leaving, is close to compulsory. Walking in silently reads as rude in a way it does not further north."
+      },
+      {
+        "title": "The bill comes when you ask",
+        "text": "Nobody will bring it unprompted — hurrying a table is considered impolite. Ask for 'il conto'. Equally, service is not rushed and lingering is expected."
+      },
+      {
+        "title": "Dress a little better than you think",
+        "text": "La bella figura is a real social value. Beachwear stays at the beach, and being slightly smarter than necessary is normal in restaurants, churches and even on the evening walk."
+      },
+      {
+        "title": "Regional pride is not a joke",
+        "text": "People identify with their city and region before their country, and food is the main battleground. Asking what the local speciality is will get you a much warmer answer than comparing it to somewhere else's."
+      }
+    ],
+    "dos": [
+      "Book Colosseum, Uffizi, Borghese, Last Supper and Doge's Palace tickets weeks ahead",
+      "Cover shoulders and knees for churches, and carry a scarf",
+      "Drink your coffee standing at the bar and pay a third of the price",
+      "Validate regional train tickets before boarding",
+      "Order what the region is known for, and the house wine by the carafe",
+      "Say buongiorno on the way in and arrivederci on the way out"
+    ],
+    "donts": [
+      "Don't drive into a historic centre — ZTL cameras fine you months later",
+      "Don't plan a city trip around Ferragosto, 15 August",
+      "Don't expect a secondo to come with vegetables — contorni are ordered separately",
+      "Don't sit down for coffee unless you want to pay three times as much",
+      "Don't leave bags unattended on the Circumvesuviana or Rome's metro",
+      "Don't assume restaurants open before 19:30 for dinner, especially in the south"
+    ]
+  },
+  "tipsIntro": "The things that most often go wrong on an Italian trip, in rough order of how much they cost people.",
+  "tips": [
+    "Do not drive into a historic centre. ZTL zones are camera-enforced limited-traffic areas covering the middle of almost every Italian town, and the fines — often several, one per camera — arrive by post months later via your hire company. Park outside the walls and walk.",
+    "Book the big sights weeks ahead. The Colosseum, the Uffizi, the Borghese Gallery, Leonardo's Last Supper and the Doge's Palace all use timed entry, and the Last Supper in particular sells out months in advance.",
+    "Avoid 15 August. Ferragosto empties the cities of Italians, closes family restaurants for a fortnight either side, and packs every beach in the country.",
+    "Coffee standing at the bar costs about a euro; the same cup at a table can cost four. In some bars you pay at the till first and hand the receipt to the barista.",
+    "Regional train tickets must be validated before boarding — in the green machines on the platform or via the app. High-speed tickets are reserved and do not need it, but inspectors fine hard for the regional ones.",
+    "Tourist tax is charged per person per night on top of your room rate, varies by city and star rating, and is often collected in cash at check-out. Budget €1–10 per person per night.",
+    "Restaurants add a 'coperto' cover charge per person. It is legal and normal, it is not a tip, and it should be printed on the menu — if it is not, that is a warning about the restaurant.",
+    "Tap water is safe everywhere and Rome has free drinking fountains — the nasoni — running continuously across the city. Buying bottled water is a pure transfer of money."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Italy?",
+      "a": "Ten to fourteen for a first trip. Eight to ten covers Rome, Florence and Venice properly with a day out from each; twelve to sixteen lets you add Naples, Pompeii and the Amalfi Coast, which is the itinerary on this page. Four or five days is enough for one city, and Rome alone genuinely justifies it. Sicily and Puglia each want a week of their own."
+    },
+    {
+      "q": "What is the best time of year to visit Italy?",
+      "a": "April to June and September to October. Spring is best for the cities and the south; September has warm sea and thinning crowds; October brings the harvest, the truffles and the best light. July and August are hot — regularly above 35°C in Rome and the south — expensive and extremely crowded, with much of the country closed for the fortnight around Ferragosto on 15 August. The Dolomites invert this: their season is summer."
+    },
+    {
+      "q": "Should I rent a car in Italy?",
+      "a": "Only for the parts that need one. The classic cities are connected by high-speed trains that are faster and cheaper than driving, and a car in Rome, Florence, Venice or Naples is an active liability. But Tuscany's hill towns, Puglia, Sicily and the Dolomites are effectively inaccessible without one. Hire the car for that leg, and never drive into a ZTL-controlled historic centre."
+    },
+    {
+      "q": "What is a ZTL and why does it matter?",
+      "a": "A zona a traffico limitato: a camera-enforced restricted zone covering the historic centre of most Italian towns, which only residents and permit holders may enter. There is no barrier and often only a small sign, so visitors drive in without realising and are photographed by each camera they pass. Fines arrive months later through the hire company, with an administration charge on top. It is the single most expensive mistake visitors make in Italy."
+    },
+    {
+      "q": "Is Italy expensive?",
+      "a": "Mid-range travel runs about €140–220 per person per day, which puts it in line with France and above Spain or Portugal. The cities are where the money goes: Venice, Florence and the Amalfi Coast in summer are genuinely expensive. The south — Puglia, Sicily, Naples — is markedly cheaper for the same quality, and eating well costs far less than it does in northern Europe if you avoid restaurants with photographs on the menu."
+    },
+    {
+      "q": "Is Italy safe for tourists?",
+      "a": "Very. Violent crime against visitors is rare and the practical risk is pickpocketing in predictable places: Rome's metro line A and the 64 bus, the Circumvesuviana train to Pompeii, and the areas around Naples and Milan central stations. Keep bags closed and in front of you on crowded transport and the problem largely disappears."
+    },
+    {
+      "q": "Do I need to book museums in advance?",
+      "a": "For the major ones, yes, and for some it is unavoidable. Leonardo's Last Supper in Milan releases fifteen-minute slots that sell out months ahead; the Borghese Gallery in Rome is timed-entry only; the Colosseum, the Uffizi, the Accademia and the Doge's Palace all sell out in high season. Smaller museums and almost all churches can be walked into."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "top-travel-destinations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A static travel-planning site covering France, Spain, the United States, Turkey and Italy — ten hand-picked destinations per country, each with its own guide.",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:local": "BASE_PATH=/ node build.mjs",
+    "check": "node scripts/check-links.mjs",
+    "images": "node scripts/fetch-images.mjs",
+    "serve": "BASE_PATH=/ node build.mjs && python3 -m http.server 8080 --directory docs",
+    "test": "node build.mjs && node scripts/check-links.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

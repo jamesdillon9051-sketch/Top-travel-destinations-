@@ -1,0 +1,360 @@
+{
+  "slug": "naples-pompeii",
+  "name": "Naples & Pompeii",
+  "shortName": "Naples",
+  "country": "italy",
+  "region": "Campania",
+  "categories": ["major-city", "archaeological", "unesco", "food-and-wine"],
+  "tagline": "The loudest, most alive city in Italy, with the best-preserved Roman town in the world twenty minutes down the line.",
+  "highlight": "Pompeii — 66 hectares of a Roman town stopped mid-morning in AD 79, with the volcano that did it still on the skyline.",
+  "shortDescription": "A UNESCO-listed historic centre of Greek street plans and Baroque churches, the museum holding everything dug out of Pompeii, and the birthplace of pizza.",
+  "metaDescription": "A Naples and Pompeii travel guide: the excavations, Herculaneum, Vesuvius, the archaeological museum, where to eat pizza, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Naples Capodichino (NAP)",
+  "knownFor": "Pompeii, Vesuvius, pizza, the archaeological museum",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Archaeology, food, cities with an edge, value",
+  "coords": { "lat": 40.8518, "lng": 14.2681 },
+  "image": {
+    "file": "File:Forum (Pompeii) and the Vesuvio.jpg",
+    "alt": "The colonnaded forum of Pompeii with Mount Vesuvius rising behind it"
+  },
+  "intro": [
+    "In AD 79 Vesuvius buried two towns on its southern flank, and in doing so preserved more of Roman daily life than every other site in the empire combined. Pompeii is sixty-six hectares of streets, shops, bakeries with the millstones still in place, election graffiti on the walls, a brothel with a price list, and wheel ruts worn into the paving. Herculaneum, smaller and buried differently, kept things Pompeii lost: wooden roof beams, a bed frame, doors, and upper storeys still standing. Between them they are the reason the ancient world feels like a place rather than a subject.",
+    "The city that governs them is a shock to anyone arriving from Florence or Venice. Naples is dense, loud, poor in parts and extraordinarily alive — a Greek foundation whose street grid you can still trace, layered with Angevin castles, Spanish viceregal palaces and some of the most theatrical Baroque in Europe. Its historic centre is a UNESCO site. Its archaeological museum holds the Farnese marbles and everything portable that came out of Pompeii, including the Alexander Mosaic. Underneath the streets are Greek quarries turned into a Roman aqueduct turned into air-raid shelters.",
+    "And it invented pizza, which is not a throwaway line: the Neapolitan pizzaiolo's craft is on UNESCO's intangible heritage list, the dough is regulated, and a margherita at a hundred-year-old pizzeria costs about six euros. Naples is the best-value major city in Italy by a wide margin, and it is the point where the classic Italian trip stops being polished and starts being interesting."
+  ],
+  "whyVisit": {
+    "intro": "Two of the greatest archaeological sites in the world, the museum that explains them, and a city that is nothing like the rest of Italy.",
+    "points": [
+      {
+        "title": "Pompeii is a whole town, not a ruin",
+        "text": "You walk its streets, step on its crossing stones, look into its shops and houses and read what people scratched on the walls. Nothing else in the Roman world survives at this scale."
+      },
+      {
+        "title": "Herculaneum preserved what Pompeii could not",
+        "text": "Buried by hot surges rather than ash-fall, it kept carbonised wood — doors, beds, roof beams — and standing upper floors. Smaller, quieter and in several ways more affecting."
+      },
+      {
+        "title": "The museum holds everything portable",
+        "text": "The frescoes, mosaics, bronzes and silver taken from both sites are in Naples, along with the Farnese marbles. Seeing it first is the difference between walking empty rooms and furnished ones."
+      },
+      {
+        "title": "The best food in Italy for the money",
+        "text": "Pizza where it was invented, sfogliatella from the pastry shops, buffalo mozzarella from the plain outside, and espresso taken more seriously than anywhere else in the country."
+      },
+      {
+        "title": "It is the gateway to everything south",
+        "text": "The [[amalfi-coast|Amalfi Coast]], Capri, Ischia, Procida and the Greek temples at Paestum are all within ninety minutes, and [[sicily|Sicily]] is an overnight ferry away."
+      }
+    ]
+  },
+  "attractionsIntro": "Two days on the archaeology, two on the city. Do not attempt Pompeii and Herculaneum on the same day — it is possible and it wastes both.",
+  "attractions": [
+    {
+      "name": "Pompeii",
+      "text": "A commercial town of perhaps twelve thousand people, buried in AD 79 and about two-thirds excavated: the forum, the amphitheatre, bath complexes, painted villas, bakeries, bars with sunken jars and the plaster casts of the dead.",
+      "tip": "Three hours minimum, five if you are serious. Enter at Porta Marina, take a map, and know there is almost no shade."
+    },
+    {
+      "name": "Herculaneum",
+      "text": "A smaller, wealthier seaside town buried under twenty metres of volcanic material that carbonised rather than burned the wood. Roof beams, screens, furniture and second storeys survive, along with mosaics still in their rooms.",
+      "tip": "Two hours and far less exhausting than Pompeii. If you only have time for one and hate crowds, choose this."
+    },
+    {
+      "name": "National Archaeological Museum",
+      "text": "The Farnese collection of colossal Roman sculpture — the Farnese Bull carved from a single block, the Hercules — plus the Alexander Mosaic from the House of the Faun and room after room of Pompeian fresco and bronze.",
+      "tip": "Go before the sites, not after. Three hours, and the Secret Cabinet of erotic material from Pompeii is included."
+    },
+    {
+      "name": "Vesuvius",
+      "text": "Still active, still monitored, and climbable: a bus or taxi to about 1,000 metres and then a thirty-minute walk up a gravel path to the crater rim, with the whole Bay of Naples below.",
+      "tip": "Timed tickets are booked in advance and the summit closes in bad weather. Wear real shoes; the path is loose scoria."
+    },
+    {
+      "name": "Cappella Sansevero",
+      "text": "A small Baroque chapel holding Sanmartino's Veiled Christ of 1753 — a marble figure under a marble shroud so thin it looks wet — and in the crypt two anatomical models that have unsettled visitors for two centuries.",
+      "tip": "Timed entry, small rooms, sells out. Book a day or two ahead and go early."
+    },
+    {
+      "name": "The centro storico",
+      "text": "The Greek grid still visible in Spaccanapoli and Via dei Tribunali: nativity-figure workshops on Via San Gregorio Armeno, the Duomo with the vial of San Gennaro's blood, and Baroque churches every fifty metres.",
+      "tip": "Walk it in the morning and again at night. It is a different city each time, and both are worth it."
+    },
+    {
+      "name": "Underground Naples",
+      "text": "Greek stone quarries that became a Roman aqueduct and then air-raid shelters in 1943, forty metres beneath the centro storico — and, in the Rione Sanità, the early Christian Catacombs of San Gennaro.",
+      "tip": "The catacombs are run by a local youth cooperative that transformed the neighbourhood. It is the most worthwhile ticket in Naples."
+    },
+    {
+      "name": "Certosa di San Martino and Capodimonte",
+      "text": "A Carthusian monastery on the Vomero hill with a marble cloister, the great Neapolitan nativity collection and the best view of the bay; and, north of the centre, Capodimonte's Titians, Caravaggio and Bruegel.",
+      "tip": "Take the funicular up to San Martino at the end of the day for the view over the bay to Vesuvius."
+    }
+  ],
+  "thingsToDoIntro": "The archaeology needs planning and early starts. The city needs the opposite — walking, eating and no schedule.",
+  "thingsToDo": [
+    {
+      "title": "Do the museum before the sites",
+      "text": "Everything moveable from Pompeii and Herculaneum is in the National Archaeological Museum. Seeing the frescoes, the mosaics and the household bronzes first turns empty rooms into furnished houses.",
+      "tip": "The single most useful piece of sequencing on this trip, and most visitors get it the wrong way round."
+    },
+    {
+      "title": "Eat pizza where it was invented",
+      "text": "A margherita or a marinara from a wood oven at 480°C in ninety seconds, soft and blistered and folded in four to eat. Six or seven euros in the historic pizzerias of the centro storico.",
+      "tip": "Expect a queue and a ticket number. Order one of the two classics — the long menus are for tourists."
+    },
+    {
+      "title": "Climb Vesuvius",
+      "text": "Up to the crater rim of the volcano that buried the towns you have just walked through, looking down into it and out over the bay, Capri and the whole city.",
+      "tip": "Book the timed ticket in advance and go on a clear morning — cloud sits on the summit and there is nothing to see in it."
+    },
+    {
+      "title": "Walk the Sanità",
+      "text": "The neighbourhood north of the centre, long written off and now the most interesting part of Naples: the catacombs, the Palazzo dello Spagnolo staircase, street art, and pastry shops with queues around the corner.",
+      "tip": "Go on a guided walk run by the local cooperative. It is better than any tour of the centre."
+    },
+    {
+      "title": "Ride the metro and the funiculars",
+      "text": "Naples' line 1 stations were commissioned as public art, with Toledo's mosaic light-well the most striking. Then take a funicular up to the Vomero for the view.",
+      "tip": "A day travel ticket covers metro, funiculars and buses. Toledo station is worth a stop even if you are not going anywhere."
+    },
+    {
+      "title": "Take a day out to Paestum or Procida",
+      "text": "Paestum, an hour and a half south, has three Greek Doric temples standing almost complete. Procida, thirty-five minutes by ferry, is the smallest and least developed island in the bay.",
+      "tip": "Paestum's temples predate anything at Pompeii by four hundred years and get a fraction of the visitors."
+    }
+  ],
+  "foodIntro": "Naples eats better for less money than anywhere else in Italy, and it does so with a very short list of things done exceptionally well.",
+  "foods": [
+    {
+      "name": "Pizza napoletana",
+      "text": "A soft, wet-centred, leopard-spotted disc cooked in ninety seconds in a wood oven. Two classics: marinara, with tomato, garlic and oregano and no cheese, and margherita, with tomato, fior di latte and basil.",
+      "whereToTry": "The historic pizzerias of the centro storico. Take a number, wait, and order one of the two."
+    },
+    {
+      "name": "Ragù and pasta e patate",
+      "text": "Neapolitan ragù is meat cooked in tomato for six hours or more until both give up, served on ziti; pasta e patate with provola is the everyday dish, thick enough to stand a spoon in.",
+      "whereToTry": "Family trattorias away from the tourist streets, especially on Sundays when the ragù comes out."
+    },
+    {
+      "name": "Sfogliatella",
+      "text": "A shell of a hundred crisp pastry layers filled with semolina, ricotta and candied peel — riccia — or the softer shortcrust frolla version. Eaten warm, standing, at nine in the morning.",
+      "whereToTry": "The pastry shops near the station and in the Sanità, where they come out of the oven all day."
+    },
+    {
+      "name": "Babà",
+      "text": "A yeasted cake soaked in rum syrup until it is barely holding together, sometimes filled with cream. Naples adopted it from the French court and has held onto it more firmly than anyone else.",
+      "whereToTry": "Any pasticceria. A good one drips when you pick it up."
+    },
+    {
+      "name": "Friarielli and mozzarella",
+      "text": "Friarielli are bitter broccoli tops sautéed with garlic and chilli, served with sausage or on pizza. Buffalo mozzarella comes from the plain north of Salerno and is eaten within a day of being made.",
+      "whereToTry": "Trattorias for the sausage and friarielli; alimentari in the morning for mozzarella still in its whey."
+    },
+    {
+      "name": "Neapolitan coffee",
+      "text": "Short, thick and served already sweetened unless you ask for it amaro. The tradition of the caffè sospeso — paying for a second coffee for whoever needs one — started in these bars.",
+      "whereToTry": "Any neighbourhood bar. Standing up, one euro, gone in ten seconds."
+    }
+  ],
+  "accommodation": {
+    "intro": "Naples is cheap by Italian standards and the districts differ sharply in character. Where you sleep changes the trip more than the price does.",
+    "areas": [
+      {
+        "name": "Centro storico",
+        "bestFor": "Being in the middle of it",
+        "text": "Spaccanapoli and Via dei Tribunali: the Greek grid, the churches, the pizzerias and the noise. Loud until late, endlessly interesting and the cheapest good option."
+      },
+      {
+        "name": "Chiaia",
+        "bestFor": "Comfort and the seafront",
+        "text": "West of the centre, elegant and residential, with the Lungomare promenade, good restaurants and shops. Quieter, safer-feeling and still walkable to everything."
+      },
+      {
+        "name": "Vomero",
+        "bestFor": "Views and calm",
+        "text": "The hill above the city, reached by three funiculars, with San Martino, Castel Sant'Elmo and a middle-class neighbourhood feel. Cooler in summer and away from the crush."
+      },
+      {
+        "name": "Sorrento",
+        "bestFor": "Combining Pompeii with the coast",
+        "text": "An hour south on the Circumvesuviana, flat, comfortable and the hub for Capri ferries and Amalfi buses. Convenient rather than characterful, and a common base for the whole region."
+      },
+      {
+        "name": "Near Napoli Centrale",
+        "bestFor": "Transport, with reservations",
+        "text": "Cheap, convenient for trains and the Circumvesuviana to Pompeii, and the least appealing area of the city to walk around at night. Fine as a base, worth knowing about first."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel", "value": "€80–150 per night, well below Rome or Florence" },
+      { "label": "Pompeii entry", "value": "€18–22, with combined site tickets available" },
+      { "label": "Archaeological museum", "value": "€22–25" },
+      { "label": "Pizza margherita", "value": "€5–8 in a historic pizzeria" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Naples is well connected by air and rail, and it is the transport hub for the whole south-west.",
+    "options": [
+      {
+        "mode": "Capodichino Airport (NAP)",
+        "text": "Unusually close to the centre — about seven kilometres. The Alibus runs to Napoli Centrale and the port in 20–30 minutes; taxis have fixed flat fares to the main destinations.",
+        "detail": "Curreri coaches run direct from the terminal to Sorrento for the Amalfi Coast."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "[[rome|Rome]] in 1h10, [[florence-tuscany|Florence]] 2h50, [[milan|Milan]] 4h30. Napoli Centrale is central and both Trenitalia and Italo serve it.",
+        "detail": "By far the easiest way to reach Naples from anywhere north. Book ahead for the cheap fares."
+      },
+      {
+        "mode": "Circumvesuviana and Campania Express",
+        "text": "The local line east to Ercolano, Pompei Scavi and Sorrento. Cheap, frequent, crowded and slow; the Campania Express is a faster, reserved service on the same tracks.",
+        "detail": "Notorious for pickpockets and short on luggage space. Keep bags in front of you and consider the Express."
+      },
+      {
+        "mode": "Ferries",
+        "text": "From Molo Beverello to Capri, Ischia and Procida in 25–60 minutes, and overnight from the main port to Palermo in [[sicily|Sicily]].",
+        "detail": "The Palermo night ferry with a cabin is a genuinely good way to reach Sicily and saves a hotel night."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The centre is walked; the hills are reached by funicular; the excavations are reached by a suburban railway that everyone complains about.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The centro storico, the port, the royal palace and the seafront are all within a half-hour walk of each other. The streets are narrow, chaotic and best explored on foot.",
+        "detail": "Traffic gives way less readily here than elsewhere. Cross decisively and with intent — hesitating is what causes problems."
+      },
+      {
+        "mode": "Metro and funiculars",
+        "text": "Line 1 loops through the centre and up to the Vomero, with several stations commissioned as public art. Three funiculars climb the hill from different points.",
+        "detail": "A day ticket covers metro, funiculars and buses. Toledo station is worth seeing in its own right."
+      },
+      {
+        "mode": "Circumvesuviana",
+        "text": "The way to Herculaneum (Ercolano Scavi), Pompeii (Pompei Scavi–Villa dei Misteri) and Sorrento. Trains every half hour, journeys of 20–70 minutes.",
+        "detail": "Get off at Pompei Scavi, not Pompei — the latter is the modern town, a walk away from the site."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Metered, with fixed flat fares published for common routes including the airport and the port. Plentiful, and worth using at night.",
+        "detail": "Ask for the 'tariffa predeterminata' where one applies, or insist on the meter."
+      },
+      {
+        "mode": "Buses to Vesuvius",
+        "text": "Shuttles run from Ercolano and Pompei stations up to the national park car park at around 1,000 metres, from where it is a half-hour walk to the crater.",
+        "detail": "Book the park entry ticket separately and in advance; the summit closes in poor weather."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "The excavations have almost no shade and no shelter, which makes the season a practical question rather than a comfort one. The city itself is fine year-round.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The strongest window: 18–28°C, the sites comfortable all day, wildflowers through Pompeii's ruins and the coast beginning to open. Book ahead around Easter."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot and humid, with the excavations exposed and exhausting and the ferry ports at capacity. Naples itself empties in August and many of its best restaurants close."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. The heat breaks, the crowds thin after early September, the sea is still warm and the light on the bay is at its best."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild at 10–15°C with some rain. Pompeii and Herculaneum are almost empty, the museum is a pleasure and prices are at their lowest. Short days, and the islands largely close."
+      }
+    ],
+    "avoid": "Pompeii between about eleven and four in July and August. There is essentially no shade across sixty-six hectares, water points are limited and the stone reflects the heat. Go at opening or in the last two hours."
+  },
+  "itinerary": {
+    "title": "Four days in Naples and around",
+    "intro": "The museum first, then the two excavations on separate days, with the city itself threaded between them.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The museum and the old city",
+        "summary": "Context first, then the streets.",
+        "morning": "The National Archaeological Museum — three hours, including the Alexander Mosaic.",
+        "afternoon": "Spaccanapoli and Via dei Tribunali, with the Cappella Sansevero booked.",
+        "evening": "Pizza in the centro storico, then the streets after dark."
+      },
+      {
+        "day": 2,
+        "title": "Pompeii",
+        "summary": "A whole town, and a long day.",
+        "morning": "Circumvesuviana to Pompei Scavi and into the site at opening.",
+        "afternoon": "The forum, the amphitheatre, the baths and the painted villas — four hours at least.",
+        "evening": "Back to Naples, and something simple in Chiaia."
+      },
+      {
+        "day": 3,
+        "title": "Herculaneum and Vesuvius",
+        "summary": "The smaller site, then the volcano above it.",
+        "morning": "Herculaneum — two hours, wooden beams and upper floors intact.",
+        "afternoon": "The shuttle up Vesuvius and the walk to the crater rim.",
+        "evening": "The Vomero funicular for sunset over the bay from San Martino."
+      },
+      {
+        "day": 4,
+        "title": "Underground, or out of town",
+        "summary": "The other Naples, or the Greek one.",
+        "morning": "The Catacombs of San Gennaro and a walk through the Sanità.",
+        "afternoon": "Napoli Sotterranea, or the train south to Paestum's Greek temples.",
+        "evening": "The Lungomare at sunset, and a last sfogliatella."
+      }
+    ]
+  },
+  "tipsIntro": "Naples has a reputation that is half out of date and half worth respecting. These are the things that actually matter.",
+  "tips": [
+    "Visit the National Archaeological Museum before Pompeii and Herculaneum. Every fresco, mosaic and bronze worth moving is in Naples, and seeing them first is the difference between walking through empty shells and furnished houses.",
+    "Do not do Pompeii and Herculaneum on the same day. Pompeii needs four hours minimum and Herculaneum two, and running them together means doing neither properly.",
+    "Get off the Circumvesuviana at Pompei Scavi–Villa dei Misteri, not at Pompei. The second is the modern town and a fifteen-minute walk from the entrance.",
+    "Pompeii has almost no shade across sixty-six hectares. Enter at opening or in the last two hours, carry water, and treat midday in July and August as unusable.",
+    "Book Vesuvius in advance — entry is by timed ticket — and go on a clear morning. When cloud sits on the summit there is nothing to see from the rim.",
+    "Keep bags closed and in front of you on the Circumvesuviana and around Napoli Centrale. Naples is far safer than its reputation, but that specific line and that specific square are where the pickpocketing happens.",
+    "Order marinara or margherita in a historic pizzeria and expect to take a ticket and wait. The pizzerias with long menus and photographs are not where the city eats.",
+    "The Catacombs of San Gennaro in the Sanità are run by a local youth cooperative that regenerated the neighbourhood. It is the most worthwhile ticket in the city and one of the best guided visits in Italy."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need for Naples and Pompeii?",
+      "a": "Three to four. One day for the archaeological museum and the historic centre, one for Pompeii, one for Herculaneum and Vesuvius together, and a fourth for underground Naples, the Sanità or a trip out to Paestum. Two days is enough only if you skip either Herculaneum or the city itself, and both are worth keeping."
+    },
+    {
+      "q": "Pompeii or Herculaneum — which is better?",
+      "a": "They are different. Pompeii is the scale: sixty-six hectares of streets, shops and public buildings, which takes four hours and leaves you with a sense of a whole town. Herculaneum is the preservation: buried by hot surges rather than ash, it kept wooden beams, doors, furniture and upper floors, in two hours and with far fewer people. If you have time, do both on separate days. If you have one day and dislike crowds, choose Herculaneum."
+    },
+    {
+      "q": "Is Naples safe?",
+      "a": "Far safer than its reputation, with the standard urban caveats. The real risks are pickpocketing on the Circumvesuviana line and around Piazza Garibaldi by the central station, and occasional bag-snatching from scooters. Keep bags closed and on the inside shoulder, avoid displaying phones on quiet streets at night, and the practical risk is low. The historic centre is busy and lively until late."
+    },
+    {
+      "q": "How do I get from Naples to Pompeii?",
+      "a": "The Circumvesuviana railway from Napoli Centrale (Garibaldi level) to Pompei Scavi–Villa dei Misteri, about 35 minutes, with trains every half hour. The entrance is directly opposite the station. The faster reserved Campania Express runs the same route with fewer stops and more luggage space. Do not get off at the station called simply Pompei — that is the modern town."
+    },
+    {
+      "q": "Can you climb Vesuvius?",
+      "a": "Yes. Shuttle buses run from Ercolano and Pompei up to the national park car park at around 1,000 metres, from where a gravel path takes about thirty minutes to the crater rim. Entry is by timed ticket booked in advance, and the summit closes in poor weather. Go on a clear morning — in cloud there is nothing to see — and wear shoes with grip, as the path is loose volcanic scoria."
+    },
+    {
+      "q": "When is the best time to visit?",
+      "a": "April to June and September to October. The excavations are open, exposed sites with almost no shade, which makes July and August genuinely difficult in the middle of the day. Spring and autumn give you 18–28°C and comfortable conditions all day. Winter is mild, cheap and by far the quietest time at Pompeii, at the cost of short days and closed islands."
+    },
+    {
+      "q": "Is Naples worth visiting on its own?",
+      "a": "Yes. Beyond the excavations there is a UNESCO-listed historic centre on a Greek street grid, the finest archaeological museum in Italy, Sanmartino's Veiled Christ, a Carthusian monastery with the best view of the bay, forty metres of tunnels beneath the streets, and the best food-to-price ratio of any major Italian city. Two days in the city itself is not padding."
+    }
+  ],
+  "related": ["amalfi-coast", "rome", "sicily", "ephesus"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations", "first-trip-to-europe"]
+}

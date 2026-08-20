@@ -1,0 +1,368 @@
+{
+  "slug": "tenerife-teide",
+  "name": "Tenerife & Mount Teide",
+  "shortName": "Tenerife",
+  "country": "spain",
+  "region": "Canary Islands",
+  "categories": ["island", "nature", "mountains", "coastal"],
+  "tagline": "Spain's highest mountain rises 3,715 m from the Atlantic off the coast of Africa, on an island with laurel rainforest at one end and desert at the other.",
+  "highlight": "The cable car to 3,555 m on Teide, above the cloud layer, looking down on the other Canary Islands.",
+  "shortDescription": "A volcanic island 1,000 km from mainland Spain, with year-round warmth, a black-sand coastline and a national park caldera that looks like another planet.",
+  "metaDescription": "A Tenerife travel guide: Mount Teide and the cable car permit, La Laguna and Anaga, whale watching, black-sand beaches, when to go, where to stay and a five-day itinerary.",
+  "suggestedStay": "5–7 days",
+  "nearestAirport": "Tenerife South (TFS) and Tenerife North (TFN)",
+  "knownFor": "Mount Teide, volcanic landscapes, year-round sun, whales",
+  "budget": "€110–190 per day, mid-range",
+  "goodFor": "Winter sun, hiking, volcanoes, families",
+  "coords": { "lat": 28.2716, "lng": -16.6291 },
+  "image": {
+    "file": "File:Teide Canadas.jpg",
+    "alt": "The volcanic cone of Mount Teide rising above the Las Cañadas caldera in Tenerife"
+  },
+  "intro": [
+    "Tenerife is not really in Europe in any geographical sense. The Canary Islands sit about 300 km off the coast of Morocco and 1,000 km from mainland Spain, on the same latitude as the Sahara, in their own time zone an hour behind Madrid. They are volcanic, subtropical, and they have the most stable warm climate of anywhere in the Atlantic — around 20–22°C in the shade in January.",
+    "The island is dominated by Mount Teide, which at 3,715 metres is the highest point in Spain and, measured from its base on the ocean floor, the third-tallest volcanic structure on earth. It sits inside Las Cañadas, a caldera 16 kilometres across filled with lava fields, obsidian flows and rock formations in ochre, black and rust. The national park receives around four million visitors a year and is one of the most-visited in the world.",
+    "What surprises people is the variation. The northeast corner, the Anaga massif, is laurel rainforest — a relic of forest that covered the Mediterranean before the Ice Age, permanently damp with cloud caught on the ridges. The south is arid and sunny. There is a UNESCO-listed colonial university town, banana plantations, black volcanic beaches and one imported golden one. Tenerife's resort strips are real but, as with Mallorca, they are a small fraction of the island."
+  ],
+  "whyVisit": {
+    "intro": "Tenerife's case rests on two things nowhere else in Europe combines: a genuinely reliable winter climate, and a high-altitude volcanic landscape you can reach by cable car in the same day as a swim.",
+    "points": [
+      {
+        "title": "Teide is extraordinary and accessible",
+        "text": "A cable car climbs to 3,555 m in eight minutes, well above the cloud layer that usually sits at 1,500 m. From the top you look down on a sea of cloud with the other Canary Islands rising through it, and the caldera floor is a lava landscape used to film other planets."
+      },
+      {
+        "title": "The climate genuinely does not vary",
+        "text": "Coastal temperatures hover between about 20°C in winter and 27°C in summer, all year. There is no bad season, which is why northern Europe has been coming here since the 19th century for health reasons."
+      },
+      {
+        "title": "Four climates on one island",
+        "text": "Laurel rainforest in Anaga, pine forest at mid-altitude, high-altitude desert in the caldera, and arid coast in the south. Driving from Santa Cruz to the summit takes ninety minutes and crosses all of them."
+      },
+      {
+        "title": "It is one of the world's best whale-watching sites",
+        "text": "A resident population of around 500 short-finned pilot whales and 250 bottlenose dolphins lives in the strait between Tenerife and La Gomera year-round — one of very few places where sightings are close to guaranteed in any month."
+      },
+      {
+        "title": "Serious walking",
+        "text": "The Masca gorge, the Anaga ridges, the caldera rim and the summit routes give the island an unusual range for its size, with marked trails and a well-organised national park network."
+      }
+    ]
+  },
+  "attractionsIntro": "The island is about 80 km across and the drives are slower than they look. Group things by region: the caldera, the north, the northeast and the south.",
+  "attractions": [
+    {
+      "name": "Teide National Park and the cable car",
+      "text": "A caldera 16 km wide filled with lava flows, obsidian and eroded rock formations, with the volcano rising from the middle. The cable car climbs from 2,356 m to 3,555 m in eight minutes; the final 200 m to the crater rim requires a separate free permit.",
+      "tip": "The summit permit is free but must be booked online weeks or months ahead — it is capped at 200 people a day. Without it you can still reach 3,555 m and walk two marked viewpoint trails."
+    },
+    {
+      "name": "The Roques de García",
+      "text": "A cluster of eroded rock pillars on the caldera floor, including the Roque Cinchado that appeared on the old 1,000-peseta note. A three-kilometre circular walk goes around and below them.",
+      "tip": "The car park fills by 10:00. Go at opening or in the last two hours of light, when the rock colour is at its best."
+    },
+    {
+      "name": "San Cristóbal de La Laguna",
+      "text": "The island's former capital and a UNESCO World Heritage site — an unwalled colonial grid town from the 1490s whose street plan became the template for Spanish cities across the Americas. Coloured facades, courtyard houses and a university.",
+      "tip": "Twenty minutes from Santa Cruz by tram. Frequently cloudy and cool, which is why almost nobody staying in the south bothers — go anyway."
+    },
+    {
+      "name": "The Anaga massif",
+      "text": "The northeastern peninsula, a UNESCO Biosphere Reserve of laurel rainforest on knife-edge ridges, permanently misty, with tiny hamlets reached by hairpin roads and a dense network of walking trails.",
+      "tip": "The Sendero de los Sentidos near Cruz del Carmen is short, easy and gives the full rainforest effect in half an hour."
+    },
+    {
+      "name": "Masca and the Teno massif",
+      "text": "A hamlet in a gorge on the island's western tip, reached by an extraordinary road of hairpins. The gorge walk descends 600 m to the sea and requires a booked permit and a helmet.",
+      "tip": "The gorge walk must be booked in advance and includes a boat back. The road alone is worth the drive even if you do not walk."
+    },
+    {
+      "name": "Whale and dolphin watching",
+      "text": "Boats from Los Gigantes, Puerto Colón and Los Cristianos head into the strait where pilot whales and bottlenose dolphins live year-round. Sightings are close to guaranteed and the animals are resident rather than migratory.",
+      "tip": "Choose an operator with the Blue Boat certification, which enforces distance and behaviour rules. Smaller boats are better."
+    },
+    {
+      "name": "Los Gigantes cliffs",
+      "text": "Sea cliffs on the west coast rising up to 600 m straight out of the Atlantic. Best seen from the water on a boat trip, which usually combines with the whale watching.",
+      "tip": "The light is on the cliffs in the afternoon. Morning trips see them in shadow."
+    },
+    {
+      "name": "The beaches",
+      "text": "Most of Tenerife's beaches are black volcanic sand. Playa de las Teresitas near Santa Cruz is the exception — golden sand imported from the Sahara in the 1970s, backed by palms and a fishing village.",
+      "tip": "El Médano on the southeast coast has the wind and the best windsurfing in Europe; Benijo in Anaga is wild, black and dramatic."
+    }
+  ],
+  "thingsToDoIntro": "Tenerife rewards moving around the island rather than staying put in one resort. The distances are short and the changes are dramatic.",
+  "thingsToDo": [
+    {
+      "title": "Go up Teide, and stay for the stars",
+      "text": "The cable car in the morning for the view over the cloud layer, then stay in the park until dark. Teide has some of the clearest skies in the northern hemisphere and is a designated Starlight Reserve.",
+      "tip": "Take a warm layer regardless of the coastal weather. It can be near freezing at 3,555 m on a 25°C day at sea level."
+    },
+    {
+      "title": "Walk in the laurel forest",
+      "text": "The Anaga massif's trails run along ridges through permanently damp laurisilva — a forest type that covered the Mediterranean two million years ago and now survives only on a few Atlantic islands.",
+      "tip": "It is cool and wet up there even when the south is baking. Take a waterproof, not shorts."
+    },
+    {
+      "title": "See the pilot whales",
+      "text": "The resident population in the strait between Tenerife and La Gomera means sightings almost any day of the year. Choose a small, certified boat and a trip that does not promise swimming with them.",
+      "tip": "Morning departures are calmer. Combine with the Los Gigantes cliffs on an afternoon trip for the better light."
+    },
+    {
+      "title": "Drive the north coast",
+      "text": "The TF-5 and the older coastal roads run through banana plantations, Puerto de la Cruz's botanical gardens, and the wine villages of the Orotava valley — a completely different island from the southern resorts.",
+      "tip": "The Orotava valley produces good volcanic-soil wine, and several bodegas above La Orotava receive visitors."
+    },
+    {
+      "title": "Swim in a natural volcanic pool",
+      "text": "Lava flows meeting the sea have formed rock pools all along the north coast, several developed into public swimming areas. Charco del Viento and the Garachico pools are the best known.",
+      "tip": "Check the sea state. These are open to the Atlantic and become dangerous in swell."
+    },
+    {
+      "title": "Take the ferry to La Gomera",
+      "text": "Fifty minutes from Los Cristianos, a far smaller and wilder island with Garajonay National Park's cloud forest and a whistled language, Silbo Gomero, used to communicate across ravines.",
+      "tip": "Doable as a long day trip, better as an overnight. Hire a car on arrival — the island is all ravines."
+    }
+  ],
+  "foodIntro": "Canarian food is its own thing — African, Latin American and Spanish influences on an island that grew rich on sugar, wine and bananas.",
+  "foods": [
+    {
+      "name": "Papas arrugadas con mojo",
+      "text": "Small potatoes boiled in heavily salted water until the skins wrinkle and crust with salt, served with two sauces: red mojo picón of chilli and paprika, and green mojo of coriander or parsley.",
+      "whereToTry": "Every restaurant on the island. The potatoes are local varieties brought from the Andes in the 16th century."
+    },
+    {
+      "name": "Gofio",
+      "text": "Toasted maize or wheat flour, a staple that predates the Spanish conquest and was eaten by the indigenous Guanche people. Used to thicken stews, mixed into milk, or made into a dense bread-like block.",
+      "whereToTry": "Traditional guachinches and rural restaurants. Gofio escaldado, thickened with fish broth, is the most common version."
+    },
+    {
+      "name": "Fresh fish",
+      "text": "Vieja (parrotfish), cherne (wreckfish) and sama, usually grilled whole with papas arrugadas and mojo. The fishing villages of the north and the far south do it best.",
+      "whereToTry": "Harbourside restaurants at Los Abrigos, El Médano and the northern fishing villages."
+    },
+    {
+      "name": "Canarian wine",
+      "text": "Grown on volcanic soil, often from vines that survived the phylloxera that destroyed European stock, including varieties found nowhere else. Listán Negro and Malvasía are the ones to look for.",
+      "whereToTry": "Bodegas in the Orotava and Güímar valleys, and guachinches — informal seasonal bars that sell the family's own wine."
+    },
+    {
+      "name": "Almogrote",
+      "text": "A thick paste of hard aged cheese, garlic, chilli and oil, from La Gomera next door, spread on bread. Salty, sharp and very good with a glass of red.",
+      "whereToTry": "Traditional bars across the western Canaries. Sold in jars at markets."
+    },
+    {
+      "name": "Bananas and tropical fruit",
+      "text": "The small, sweet Canarian banana has protected status and is noticeably different from the export variety. Papaya, mango and avocado all grow on the north coast.",
+      "whereToTry": "Markets in La Laguna and Santa Cruz. The Mercado Nuestra Señora de África is the biggest."
+    }
+  ],
+  "accommodation": {
+    "intro": "The island splits sharply between the sunny, arid, resort-heavy south and the greener, cloudier, more Spanish north. Which you choose changes the trip substantially.",
+    "areas": [
+      {
+        "name": "Costa Adeje and Los Cristianos",
+        "bestFor": "Reliable sun and beaches",
+        "text": "The southern resort coast, sunny almost every day, with the best beaches and the whale-watching boats. Purpose-built and not especially Canarian, but the weather is the most dependable on the island."
+      },
+      {
+        "name": "Puerto de la Cruz",
+        "bestFor": "The north, gardens and character",
+        "text": "The island's original resort town from the 19th century, in the banana-growing Orotava valley beneath Teide. Greener, cloudier, far more Spanish in feel, with botanical gardens and volcanic sea pools."
+      },
+      {
+        "name": "La Laguna and Santa Cruz",
+        "bestFor": "City, culture, food",
+        "text": "The UNESCO colonial town and the capital, twenty minutes apart by tram. Where the island actually lives, with markets, restaurants and no resort atmosphere. Cool and often cloudy in La Laguna."
+      },
+      {
+        "name": "El Médano",
+        "bestFor": "Wind sports and a low-key base",
+        "text": "A windsurfing town on the southeast coast with a long natural beach, a relaxed atmosphere and none of the resort scale. Windy almost every day, which is the point."
+      },
+      {
+        "name": "The Orotava valley and rural houses",
+        "bestFor": "Walking and Teide access",
+        "text": "Inland villages and casas rurales in the valley climbing towards the national park. Cooler, quieter and much closer to the mountain than the coast."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel or apartment", "value": "€50–90 per night" },
+      { "label": "Comfortable hotel", "value": "€100–180 per night" },
+      { "label": "Teide cable car", "value": "About €40 return; the summit permit is free but capped" },
+      { "label": "Whale-watching trip", "value": "€25–45 for two to three hours on a certified boat" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Tenerife has two airports and is one of the most flight-connected islands in the Atlantic. It is a genuine long-haul from mainland Spain — about 1,000 km.",
+    "options": [
+      {
+        "mode": "Tenerife South (TFS)",
+        "text": "The main international airport, serving the southern resorts and most northern European routes. About 20 minutes from Costa Adeje and an hour from Santa Cruz.",
+        "detail": "Almost all charter and low-cost flights use this airport."
+      },
+      {
+        "mode": "Tenerife North (TFN)",
+        "text": "Closer to Santa Cruz and La Laguna, handling mainland Spanish and inter-island flights, plus some European routes.",
+        "detail": "Better if you are basing in the north. Fifteen minutes from La Laguna."
+      },
+      {
+        "mode": "From mainland Spain",
+        "text": "Around 4h30 by air from Madrid or Barcelona. Note that the Canaries are on Western European Time, one hour behind the mainland.",
+        "detail": "There are no passenger ferries from the mainland worth considering — the crossing takes about two days."
+      },
+      {
+        "mode": "Between the islands",
+        "text": "Ferries from Los Cristianos reach La Gomera in 50 minutes, La Palma and El Hierro in a few hours. Short flights link all the main islands.",
+        "detail": "La Gomera is the easiest add-on and works as a long day trip."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car transforms Tenerife. The island's appeal is the variation between its regions, and buses connect the resorts far better than they connect the interesting parts.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Cheap by European standards and essential for Teide, Anaga, Masca and the north coast. Roads are excellent; the mountain and Anaga roads are steep and heavily switchbacked.",
+        "detail": "Fuel is noticeably cheaper than the mainland. Book ahead for Christmas and February."
+      },
+      {
+        "mode": "TITSA buses",
+        "text": "A comprehensive and cheap network covering the whole island, including services into the national park. Slower than driving and infrequent on rural routes.",
+        "detail": "The Ten+ travel card gives a substantial discount and is worth it for a longer stay."
+      },
+      {
+        "mode": "The tram",
+        "text": "Links Santa Cruz and La Laguna in about 20 minutes, running frequently. The simplest way between the island's two main towns.",
+        "detail": "Useful if you are basing in the north and want to avoid parking in either."
+      },
+      {
+        "mode": "The Teide cable car",
+        "text": "Climbs from 2,356 m to 3,555 m in eight minutes. Book online — it sells out, and it closes in high wind, which happens often.",
+        "detail": "The final ascent to the 3,715 m crater rim needs a separate free permit booked well in advance."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Los Cristianos is the hub for La Gomera, La Palma and El Hierro; Santa Cruz serves Gran Canaria and Lanzarote.",
+        "detail": "Cars can be taken on the inter-island ferries, which makes a two-island trip straightforward."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "Any month; November–April for winter sun",
+    "summary": "Tenerife has the most stable climate of any European destination, which makes it genuinely a year-round island. The choice is about crowds and what you want to do rather than about weather.",
+    "seasons": [
+      {
+        "season": "Winter (November–March)",
+        "rating": "best",
+        "text": "The island's main season and its strongest argument: 20–23°C on the southern coast, sunshine most days, and swimmable sea at around 19–20°C. Northern Europe fills the resorts, so book ahead, particularly at Christmas and February."
+      },
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Warm, quieter and the best walking of the year, with the caldera's wildflowers in May and the high trails clear. Fewer visitors than winter and prices lower."
+      },
+      {
+        "season": "Summer (July–September)",
+        "rating": "good",
+        "text": "Warm rather than hot at 26–29°C on the coast, tempered by the trade winds. The sea is at its warmest in September. Teide can be uncomfortably hot at midday and the calima — Saharan dust haze — occasionally arrives."
+      },
+      {
+        "season": "Autumn (October)",
+        "rating": "best",
+        "text": "Warm sea, warm air, few visitors and clear conditions for the mountain. Arguably the single best month, sitting between the summer and winter peaks."
+      }
+    ],
+    "avoid": "Carnival in Santa Cruz in February is one of the biggest in the world and fills the island. The calima, a hot dust-laden wind off the Sahara, can arrive at any time and cuts visibility on Teide for a few days at a stretch."
+  },
+  "itinerary": {
+    "title": "Five days in Tenerife",
+    "intro": "Deliberately split between north and south so you see more than one island. Assumes a car from day one.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The south and the water",
+        "summary": "Settle in, then get out on the Atlantic.",
+        "morning": "Arrive, collect a car and settle into the south coast.",
+        "afternoon": "Whale-watching boat from Los Gigantes or Puerto Colón, taking in the 600 m cliffs on the way back.",
+        "evening": "Fresh fish at Los Abrigos, where the boats land."
+      },
+      {
+        "day": 2,
+        "title": "Teide",
+        "summary": "The whole day in the national park.",
+        "morning": "Drive up to the caldera early. The Roques de García circular walk before the car park fills.",
+        "afternoon": "The cable car to 3,555 m, and the two marked viewpoint trails at the top.",
+        "evening": "Stay in the park for sunset and stargazing — it is a designated Starlight Reserve."
+      },
+      {
+        "day": 3,
+        "title": "The northwest",
+        "summary": "Masca, Garachico and the volcanic pools.",
+        "morning": "The hairpin road to Masca and the gorge viewpoints.",
+        "afternoon": "Garachico's lava-formed sea pools, and the old town buried by an eruption in 1706.",
+        "evening": "Move base to the north — Puerto de la Cruz or the Orotava valley."
+      },
+      {
+        "day": 4,
+        "title": "La Laguna and Anaga",
+        "summary": "The colonial town and the rainforest behind it.",
+        "morning": "San Cristóbal de La Laguna's UNESCO grid, the market and the university quarter.",
+        "afternoon": "Into the Anaga massif for the laurel forest trails and the ridge viewpoints.",
+        "evening": "Down to Playa de las Teresitas and Santa Cruz for dinner."
+      },
+      {
+        "day": 5,
+        "title": "The Orotava valley, or La Gomera",
+        "summary": "Wine and gardens, or a second island.",
+        "morning": "La Orotava's old town and the botanical gardens at Puerto de la Cruz.",
+        "afternoon": "Alternatively, the 50-minute ferry to La Gomera and Garajonay's cloud forest.",
+        "evening": "Back south for the flight, with a bottle of volcanic Listán Negro."
+      }
+    ]
+  },
+  "tipsIntro": "Canarian specifics, the first two of which people most often get wrong.",
+  "tips": [
+    "The Teide summit permit is free, capped at 200 people a day, and must be booked online weeks or months ahead. Without it the cable car still takes you to 3,555 m and two marked trails, but the final 200 m to the crater is closed.",
+    "The Canaries are on Western European Time — one hour behind mainland Spain. Flights, ferries and opening hours all use island time, and it catches people out repeatedly.",
+    "It can be near freezing at the top of the cable car on a 25°C day at the coast, and the UV at 3,555 m is extreme. Take a warm layer, sunglasses and high-factor sun cream whatever the beach forecast says.",
+    "The cable car closes in high wind, which is common. Check the status online the morning you plan to go, and have a fallback day.",
+    "North and south are genuinely different climates. The south is arid and sunny; the north is green, often cloudy and cooler. Splitting your stay between them is the single best decision on this island.",
+    "Most Tenerife beaches are black volcanic sand, which gets extremely hot underfoot. Playa de las Teresitas is the golden exception, and its sand was imported from the Sahara.",
+    "Guachinches are informal, seasonal, family-run places selling their own wine and a short menu of home cooking. They are the best value on the island and the most authentically Canarian thing you can eat in.",
+    "A calima — hot dust-laden wind off the Sahara — can arrive at any time of year, cutting visibility and raising temperatures for a few days. It is worth keeping Teide flexible in your plans."
+  ],
+  "faq": [
+    {
+      "q": "Do you need a permit to climb Mount Teide?",
+      "a": "For the final 200 metres from the cable car's top station at 3,555 m to the 3,715 m crater rim, yes. The permit is free but capped at 200 people a day and must be booked online, often weeks or months in advance. Without it you can still take the cable car and walk two marked viewpoint trails at the top, which most visitors find sufficient."
+    },
+    {
+      "q": "Is Tenerife just a package-holiday island?",
+      "a": "The southern resort strip is real, but it accounts for a small part of a large and varied island. Tenerife also has a UNESCO-listed colonial town at La Laguna, a laurel rainforest in Anaga that is a relic of prehistoric Mediterranean forest, Spain's highest mountain inside a 16-kilometre caldera, and volcanic wine villages in the north where almost no visitors go."
+    },
+    {
+      "q": "When is the best time to visit Tenerife?",
+      "a": "Any month — the coastal temperature ranges only from about 20°C in winter to 27°C in summer. November to March is the main season and the reason people come, for reliable winter sun. April to June and October are quieter with better walking and lower prices. October is arguably the single best month, sitting between the two peaks."
+    },
+    {
+      "q": "Should I stay in the north or south of Tenerife?",
+      "a": "The south for reliable sun and the best beaches; the north for greenery, character, food and proximity to La Laguna and Anaga. The two are genuinely different climates — the south is arid and sunny almost every day, the north greener and often cloudy. On a stay of five days or more, splitting between them gives you far more of the island."
+    },
+    {
+      "q": "How cold is it at the top of Teide?",
+      "a": "It can be near freezing at 3,555 m on a day when the coast is 25°C, and the wind chill makes it feel colder. UV at that altitude is also extreme. Take a warm layer, sunglasses and high-factor sun cream regardless of what the weather is doing at sea level — this catches out a great many visitors in shorts."
+    },
+    {
+      "q": "Can you see whales in Tenerife?",
+      "a": "Yes, and unusually reliably. Around 500 short-finned pilot whales and 250 bottlenose dolphins live year-round in the strait between Tenerife and La Gomera, so sightings are close to guaranteed in any month. Boats leave from Los Gigantes, Puerto Colón and Los Cristianos — choose a smaller operator with Blue Boat certification, which enforces distance and behaviour rules."
+    },
+    {
+      "q": "Are the Canary Islands in a different time zone?",
+      "a": "Yes. The Canaries use Western European Time, one hour behind mainland Spain and the same as the UK and Portugal. All local timetables, opening hours and flight times are on island time, and forgetting this is one of the most common practical mistakes visitors make."
+    }
+  ],
+  "related": ["mallorca", "santiago-galicia", "granada", "maui"],
+  "relatedArticles": ["best-time-southern-europe", "packing-by-season", "underrated-destinations"]
+}

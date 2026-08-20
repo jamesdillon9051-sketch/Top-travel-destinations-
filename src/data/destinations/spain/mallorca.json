@@ -1,0 +1,367 @@
+{
+  "slug": "mallorca",
+  "name": "Mallorca",
+  "country": "spain",
+  "region": "Balearic Islands",
+  "categories": ["island", "coastal", "mountains", "scenic"],
+  "tagline": "A mountain range, three hundred coves and a Gothic cathedral, on an island most people wrongly assume is one long resort strip.",
+  "highlight": "The Serra de Tramuntana — a UNESCO-listed mountain range of terraced olive groves dropping straight into the sea.",
+  "shortDescription": "The largest Balearic island has a proper capital city, a mountain range along its entire northwest coast, and hundreds of coves that never appear in the package-holiday version of it.",
+  "metaDescription": "A Mallorca travel guide: Palma's cathedral and old town, the Serra de Tramuntana, the best coves, cycling, when to go, where to stay and a five-day itinerary.",
+  "suggestedStay": "5–7 days",
+  "nearestAirport": "Palma de Mallorca (PMI)",
+  "knownFor": "Serra de Tramuntana, coves, Palma cathedral, cycling",
+  "budget": "€130–220 per day, mid-range",
+  "goodFor": "Beaches, hiking, cycling, families",
+  "coords": { "lat": 39.6953, "lng": 3.0176 },
+  "image": {
+    "file": "File:Serra de Tramuntana (2016.05.17).jpg",
+    "alt": "Terraced slopes and pine-covered ridges of the Serra de Tramuntana falling towards the sea in Mallorca"
+  },
+  "intro": [
+    "Mallorca has an image problem created almost entirely by about fifteen kilometres of coastline. The resort strips either side of Palma — Magaluf, S'Arenal — are real and are exactly what their reputation suggests. They also account for a tiny fraction of an island 3,600 square kilometres in size, with a mountain range 90 kilometres long, a capital city of 420,000 people and a Gothic cathedral that took four hundred years to build.",
+    "The Serra de Tramuntana runs the length of the northwest coast, rising to 1,445 metres, and is UNESCO-listed as a cultural landscape — a thousand years of dry-stone terracing, irrigation channels and olive cultivation on slopes that should not be farmable. Villages like Deià, Valldemossa and Sóller sit in its folds, connected by a road of relentless hairpins that is one of the best drives in the Mediterranean and, from January to March, full of professional cyclists training.",
+    "The rest of the island divides into the flat agricultural middle, the wild rocky headlands of the northeast, and the calas — several hundred small coves, many reachable only on foot or by boat, with water that shades from turquoise to deep blue over white sand. Five days is the minimum to see more than one of these Mallorcas."
+  ],
+  "whyVisit": {
+    "intro": "Mallorca is the most varied of the Balearics by a wide margin, and the only one that works equally well as a walking, cycling, city and beach destination.",
+    "points": [
+      {
+        "title": "The Tramuntana is a serious mountain range",
+        "text": "Ninety kilometres long, rising to 1,445 m, and UNESCO-listed for the terraced agriculture that has shaped it for a thousand years. The GR221 dry-stone route runs its length in eight stages, and the coastal road is among Europe's great drives."
+      },
+      {
+        "title": "Palma is a real city",
+        "text": "Not a resort centre — a working capital with 420,000 people, a Gothic cathedral of extraordinary height, Arab baths, a Moorish palace, and one of the best restaurant scenes in the Balearics. It would justify a trip on its own."
+      },
+      {
+        "title": "The coves are genuinely exceptional",
+        "text": "Several hundred calas around the coast, many requiring a walk through pine woods to reach and correspondingly empty. Cala Deià, Sa Calobra, Es Trenc and the Caló des Moro are all different kinds of beautiful."
+      },
+      {
+        "title": "It is Europe's best road cycling island",
+        "text": "Professional teams train here in winter for the climbs, the empty roads and the mild weather. Sa Calobra's 26 hairpins are a pilgrimage, and February brings thousands of cyclists to the island."
+      },
+      {
+        "title": "Everything is close",
+        "text": "The island is about 100 km across and 75 km deep. You can be in the mountains in 40 minutes from Palma, at a cove in an hour, and back for dinner in the city."
+      }
+    ]
+  },
+  "attractionsIntro": "Split the island in three: Palma, the Tramuntana, and the coves. A car makes all of it far easier.",
+  "attractions": [
+    {
+      "name": "Palma Cathedral",
+      "text": "La Seu, begun in 1229 and finished in 1601, with the widest Gothic nave in the world after Beauvais and a rose window seven metres across. Gaudí remodelled the interior between 1904 and 1914; a contemporary artist added a ceramic chapel in 2007.",
+      "tip": "Twice a year, in early February and November, the rose window projects onto the wall beneath its twin. The cathedral opens early on those mornings and it is worth the alarm."
+    },
+    {
+      "name": "Palma's old town",
+      "text": "A knot of lanes behind the cathedral holding Arab baths from the 10th century, the Almudaina palace, courtyard mansions open to the street, and Es Baluard contemporary art museum in the sea walls.",
+      "tip": "The patios of the old merchant houses are visible from the street through open gates. Look in as you pass — it is expected."
+    },
+    {
+      "name": "Sóller and the Tramuntana railway",
+      "text": "A wooden train from 1912 runs from Palma through orange groves and a 3 km tunnel to Sóller, and a vintage tram continues to the port. Slow, beautiful and entirely impractical, which is the point.",
+      "tip": "Sit on the right leaving Palma. Book ahead in summer — it sells out."
+    },
+    {
+      "name": "Deià and Valldemossa",
+      "text": "Two Tramuntana villages of honey-coloured stone on terraced slopes. Valldemossa has the monastery where Chopin and George Sand spent a miserable winter in 1838; Deià was the home of Robert Graves and has a small rocky cove below it.",
+      "tip": "Both fill with coaches from 11:00. Go early or after 17:00, and Deià's cove is a 30-minute walk down from the village."
+    },
+    {
+      "name": "Sa Calobra and the Torrent de Pareis",
+      "text": "A road descending 800 m in twelve kilometres via 26 hairpins, including one that loops under itself, to a cove where a gorge meets the sea. The gorge itself is a serious scramble in summer when the water is low.",
+      "tip": "Drive it very early — coaches use the road from 10:00 and there is no room to pass. Boats from Port de Sóller are the alternative."
+    },
+    {
+      "name": "Cap de Formentor",
+      "text": "The island's northernmost point, a knife-edge peninsula of cliffs and pines with a lighthouse at the end and viewpoints along a dramatic road. Playa de Formentor at its base is a fine pine-backed beach.",
+      "tip": "In summer the road is closed to private cars during the day and served by shuttle bus. Check the current restriction before driving."
+    },
+    {
+      "name": "The southeast calas",
+      "text": "Caló des Moro, Cala s'Almunia, Cala Llombards and Es Trenc — the last a two-kilometre undeveloped white-sand beach that looks Caribbean and is protected from building.",
+      "tip": "Caló des Moro is tiny, famous and often overwhelmed. Arrive before 09:00 or pick one of the dozens of near-identical coves nearby."
+    },
+    {
+      "name": "Alcúdia and the northeast",
+      "text": "A walled medieval town with Roman ruins beside it, a long shallow bay, and the S'Albufera wetland — the largest in the Balearics and a serious birdwatching site.",
+      "tip": "Alcúdia's old town holds a good Tuesday and Sunday market inside the walls."
+    }
+  ],
+  "thingsToDoIntro": "Mallorca rewards mixing days: one mountain, one cove, one town, repeat.",
+  "thingsToDo": [
+    {
+      "title": "Drive the Tramuntana coast road",
+      "text": "The MA-10 from Andratx to Pollença runs 110 km along the mountains above the sea through Banyalbufar, Valldemossa, Deià and Sóller. Constant hairpins, constant views, and one of the best drives in the Mediterranean.",
+      "tip": "Allow a full day with stops. Start early — the road is busy with cyclists and coaches from mid-morning."
+    },
+    {
+      "title": "Walk a stage of the GR221",
+      "text": "The Dry Stone Route runs the length of the Tramuntana in eight stages on old mule paths and terracing. Individual stages make excellent day walks, with buses back from most villages.",
+      "tip": "Best October to May. Summer on these slopes is too hot for a full stage."
+    },
+    {
+      "title": "Find a cove without a car park",
+      "text": "The famous calas are famous and crowded. The ones reached by a twenty-minute walk through pine woods are frequently empty, and there are dozens of them along the southeast and northern coasts.",
+      "tip": "Take water and shoes you can walk in — the paths down are rocky and there is rarely anything to buy at the bottom."
+    },
+    {
+      "title": "Cycle, seriously or otherwise",
+      "text": "Professional teams train here from January to March. Sa Calobra, Puig Major and the Cap de Formentor road are the classic climbs, and the flat plain in the middle of the island is gentle enough for anyone.",
+      "tip": "Hire shops in Palma, Alcúdia and Port de Pollença rent road bikes to a high standard. Book ahead in February."
+    },
+    {
+      "title": "Take a boat along the coast",
+      "text": "Much of the Tramuntana coastline has no road access at all. Boats from Port de Sóller, Sant Elm and Port d'Andratx reach coves and sea caves you cannot otherwise get to.",
+      "tip": "The boat to Sa Calobra avoids the hairpin road entirely and is a better approach."
+    },
+    {
+      "title": "Eat in a village on a market day",
+      "text": "Almost every inland town has a weekly market — Sineu on Wednesday is the oldest and best, Santanyí on Wednesday and Saturday, Alcúdia on Tuesday and Sunday. Produce, livestock and no resort atmosphere at all.",
+      "tip": "Sineu's market has run since 1306 and still trades live animals. Go early."
+    }
+  ],
+  "foodIntro": "Mallorcan cooking is Mediterranean island food — pork, vegetables, almonds, olive oil and bread — with a strong Catalan inheritance and some genuinely local specialities.",
+  "foods": [
+    {
+      "name": "Pa amb oli",
+      "text": "Dense brown country bread rubbed with tomato and olive oil, topped with cured ham, cheese or anchovy. The Mallorcan staple, served as a light meal in its own right rather than as an accompaniment.",
+      "whereToTry": "Village bars and specialist pa amb oli restaurants throughout the island."
+    },
+    {
+      "name": "Sobrasada",
+      "text": "A soft, spreadable cured sausage of pork and paprika, unique to the Balearics and eaten spread on bread, often with honey. Protected status and a genuine island product.",
+      "whereToTry": "Any market or village charcuterie. The version from black Mallorcan pigs is the best."
+    },
+    {
+      "name": "Ensaimada",
+      "text": "A spiral of laminated pastry made with pork lard, dusted with icing sugar, sold in flat round boxes that you will see people carrying onto flights home. Plain or filled with pumpkin jam.",
+      "whereToTry": "Bakeries across Palma. Eaten for breakfast with coffee."
+    },
+    {
+      "name": "Tumbet",
+      "text": "Layers of fried potato, aubergine and red pepper under tomato sauce, baked. The island's vegetable dish, served hot or at room temperature, sometimes with fish or meat on top.",
+      "whereToTry": "Traditional restaurants inland. Best in late summer when the vegetables are local."
+    },
+    {
+      "name": "Arròs brut",
+      "text": "Literally 'dirty rice' — a soupy rice with pork, rabbit, game and vegetables, dark with spices including cinnamon and saffron. A winter dish from the island's interior.",
+      "whereToTry": "Inland village restaurants, particularly around Sineu and the Pla. Autumn and winter."
+    },
+    {
+      "name": "Hierbas and Mallorcan wine",
+      "text": "Hierbas is a herbal liqueur drunk as a digestif, made with fennel, rosemary and lemon. The island's wine regions of Binissalem and Pla i Llevant grow local varieties such as Manto Negro and Callet.",
+      "whereToTry": "Hierbas in any bar; wineries around Binissalem, half an hour from Palma, receive visitors."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you stay determines what kind of Mallorca you get. Palma for the city, the Tramuntana for mountains and walking, the northeast for family beaches, the southeast for coves.",
+    "areas": [
+      {
+        "name": "Palma",
+        "bestFor": "City, food, and a base for everything",
+        "text": "A real capital with the cathedral, the old town and the best restaurants on the island, plus the airport 15 minutes away. Everywhere else is within 90 minutes' drive. Not on a beach worth the name."
+      },
+      {
+        "name": "The Tramuntana villages",
+        "bestFor": "Mountains, walking, quiet",
+        "text": "Deià, Sóller, Valldemossa and Fornalutx. Stone villages on terraced slopes, cool in summer, and superb for hiking and cycling. Expensive, with limited beach access."
+      },
+      {
+        "name": "Port de Sóller and Port de Pollença",
+        "bestFor": "Combining sea and mountains",
+        "text": "Two harbour towns where the Tramuntana meets the water, with beaches, restaurants and easy access to the mountains. Port de Pollença is the cyclists' base."
+      },
+      {
+        "name": "The southeast",
+        "bestFor": "Coves and quiet beaches",
+        "text": "Santanyí, Cala d'Or and the villages near Es Trenc, close to the best of the calas. Low-key, family-oriented and about an hour from Palma."
+      },
+      {
+        "name": "Alcúdia and the north bay",
+        "bestFor": "Families and shallow water",
+        "text": "A long shallow sandy bay with a walled medieval town behind it and the S'Albufera wetlands nearby. The most family-oriented part of the island."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel or budget hotel", "value": "€45–80 per night, much more in August" },
+      { "label": "Comfortable hotel", "value": "€120–200 per night; €250+ in August" },
+      { "label": "Rural finca hotel", "value": "€180–350 per night" },
+      { "label": "Car hire", "value": "€30–70 per day, booked ahead; far more if left to the last minute in summer" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Palma's airport is one of the busiest in Spain, with direct flights from most of Europe, and ferries link the island to three mainland ports.",
+    "options": [
+      {
+        "mode": "Palma de Mallorca Airport (PMI)",
+        "text": "Eight kilometres east of the city and among Europe's busiest in summer. Bus A1 reaches central Palma in about 20 minutes, and all major car hire firms operate on site.",
+        "detail": "Flight prices swing enormously by season — August fares can be four times those in May."
+      },
+      {
+        "mode": "Ferries from the mainland",
+        "text": "Overnight and daytime sailings from [[barcelona]] (about 7h), [[valencia]] (about 7h) and Dénia (about 5h). Worth it if you want your own car on the island.",
+        "detail": "An overnight cabin saves a hotel night. Book early for August, when vehicle space sells out."
+      },
+      {
+        "mode": "Between the Balearics",
+        "text": "Fast ferries link Palma with Ibiza and Menorca in 2 to 4 hours, and there are short inter-island flights.",
+        "detail": "Menorca is the quiet one, Ibiza the loud one — both are easy add-ons to a Mallorca trip."
+      },
+      {
+        "mode": "Getting to your base",
+        "text": "Palma is 20 minutes from the airport, Sóller about 40, Alcúdia an hour and the southeast coves around 50 minutes.",
+        "detail": "Airport transfer buses serve the main resort areas in summer; outside that, a car is usually necessary."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is close to essential for anything beyond Palma. The island's best places are coves and mountain villages that public transport reaches badly or not at all.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The only practical way to reach the coves, the Tramuntana villages and the interior. Roads are excellent; the mountain roads are narrow, winding and busy with cyclists.",
+        "detail": "Book months ahead for July and August, when the island genuinely runs out of cars and prices triple."
+      },
+      {
+        "mode": "The Sóller railway and tram",
+        "text": "A 1912 wooden train from Palma to Sóller through the mountains, and a vintage tram down to the port. Slow and touristic, and a genuinely lovely journey.",
+        "detail": "About an hour each way. Book in summer."
+      },
+      {
+        "mode": "Buses",
+        "text": "The TIB network covers the main towns reasonably well and Palma's own buses are good. Rural coves and small villages are served infrequently or not at all.",
+        "detail": "Workable for Sóller, Valldemossa, Alcúdia and Pollença; not for the calas."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "One of Europe's best cycling islands, with quiet roads, serious climbs in the Tramuntana and a flat interior. Hire is excellent and widespread.",
+        "detail": "Peak training season is January to March. Roads are busiest with cyclists then."
+      },
+      {
+        "mode": "Boats",
+        "text": "Coastal boats reach places with no road at all, particularly along the Tramuntana between Sóller, Sa Calobra and Sa Foradada.",
+        "detail": "Also the best way to reach Sa Calobra without driving the hairpins."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Mallorca has a long season and a very sharp peak. The shoulder months give you warm weather, open restaurants, walkable mountains and none of the August pricing.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green, warm at 18–27°C, with almond blossom in February and wildflowers through spring. Ideal for hiking and cycling. The sea is cold until about mid-June."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot at 30–34°C, extremely busy, and the most expensive weeks of the year — flights, rooms and car hire can all triple. The coves are beautiful and crowded. The mountains are too hot to walk."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best of the year. The sea is at its warmest in September, temperatures ease, prices fall sharply after the first week, and the mountains become walkable again. October is quiet and still swimmable."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Mild at 10–17°C, with the almond blossom in late January and February, and the cyclists' training season. Many coastal hotels and restaurants close from November to March, so a winter trip means basing in Palma or Sóller."
+      }
+    ],
+    "avoid": "August, when the island is at capacity and car hire in particular becomes both scarce and extremely expensive. Also note that much of the coastal tourist infrastructure closes from November to March."
+  },
+  "itinerary": {
+    "title": "Five days in Mallorca",
+    "intro": "Two nights in Palma and three in the Tramuntana, with a car from day two. Covers the city, the mountains and the coves without repeating a road.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palma",
+        "summary": "The capital, which most visitors skip and should not.",
+        "morning": "The cathedral and the Almudaina palace, then the Arab baths and the old-town patios.",
+        "afternoon": "Es Baluard museum in the sea walls, and the Santa Catalina market district.",
+        "evening": "Dinner in Santa Catalina, which is where Palma eats."
+      },
+      {
+        "day": 2,
+        "title": "Into the Tramuntana",
+        "summary": "Collect a car and take the mountain road north.",
+        "morning": "The MA-10 through Banyalbufar and Valldemossa — the monastery and Chopin's cells.",
+        "afternoon": "On to Deià, and the 30-minute walk down to its rocky cove for a swim.",
+        "evening": "Stay in Deià, Sóller or Fornalutx."
+      },
+      {
+        "day": 3,
+        "title": "Sóller and Sa Calobra",
+        "summary": "Hairpins early, then the coast.",
+        "morning": "Drive Sa Calobra's 26 hairpins before 09:00, and walk into the mouth of the Torrent de Pareis gorge.",
+        "afternoon": "Back via Sóller, the vintage tram to the port, and a swim.",
+        "evening": "Seafood at Port de Sóller."
+      },
+      {
+        "day": 4,
+        "title": "The north",
+        "summary": "Formentor and the walled town at Alcúdia.",
+        "morning": "Cap de Formentor's viewpoints and lighthouse, or the shuttle if the road is restricted.",
+        "afternoon": "Alcúdia's walls and Roman ruins, or the S'Albufera wetland.",
+        "evening": "Back to the mountains, or move base to the northeast."
+      },
+      {
+        "day": 5,
+        "title": "Coves and inland markets",
+        "summary": "The southeast, and a market town on the way.",
+        "morning": "Sineu or Santanyí market if the day matches, otherwise straight to the coast.",
+        "afternoon": "Es Trenc's white sand, or the walk down to Caló des Moro and Cala s'Almunia.",
+        "evening": "Back to Palma for the flight, with an ensaimada for the journey."
+      }
+    ]
+  },
+  "tipsIntro": "Island-specific practicalities. The car booking one is the expensive mistake.",
+  "tips": [
+    "Book a rental car months ahead for July and August. Mallorca genuinely runs out of cars in high summer and last-minute prices can triple. Outside those months it is cheap and plentiful.",
+    "The famous coves are famous. Caló des Moro receives crowds far beyond its size — arrive before 09:00, or walk twenty minutes to one of the dozens of near-identical coves nearby that nobody photographs.",
+    "Drive Sa Calobra before 09:00. The 26-hairpin road is single-lane in places and fills with coaches from mid-morning, at which point overtaking is impossible and the drive stops being fun.",
+    "Cap de Formentor's road closes to private cars during the day in summer, with a shuttle bus instead. Check the current restriction before setting out.",
+    "Much of the coastal tourist infrastructure closes from November to March. A winter trip works from Palma or Sóller, but not from a resort area.",
+    "The Tramuntana roads are busy with cyclists year-round and especially from January to March, when professional teams train here. Pass wide and slow.",
+    "Palma is a real city with excellent restaurants, not a resort. Even on a beach holiday it is worth two nights.",
+    "Take shoes you can walk in. The best coves involve fifteen to thirty minutes down a rocky path, and there is rarely anything to buy at the bottom — carry water."
+  ],
+  "faq": [
+    {
+      "q": "Is Mallorca just a party island?",
+      "a": "No — that reputation comes from about fifteen kilometres of coast either side of Palma, principally Magaluf and S'Arenal. The island is 3,600 square kilometres with a UNESCO-listed mountain range along its entire northwest coast, several hundred quiet coves, a working capital city of 420,000 people, and inland villages with weekly markets that have run since the Middle Ages."
+    },
+    {
+      "q": "Do you need a car in Mallorca?",
+      "a": "For anything beyond Palma, effectively yes. The coves, the Tramuntana villages and the interior are served badly or not at all by public transport. Buses reach Sóller, Valldemossa, Alcúdia and Pollença reasonably well, and the Sóller railway is a lovely journey, but the best of the island needs a car. Book months ahead for July and August."
+    },
+    {
+      "q": "How many days do you need in Mallorca?",
+      "a": "Five to seven. Two days for Palma and the south, two or three in the Tramuntana for the mountain villages and the coast road, and one or two for the coves and the north. Less than five and you will only see one of the island's several distinct characters."
+    },
+    {
+      "q": "When is the best time to visit Mallorca?",
+      "a": "May to June and September to October. September is the pick — the sea at its warmest, prices dropping sharply after the first week, and the mountains cool enough to walk again. August is hot, crowded and the most expensive week of the year for flights, rooms and car hire alike. From November to March much of the coastal infrastructure closes."
+    },
+    {
+      "q": "What is the Serra de Tramuntana?",
+      "a": "A mountain range running 90 kilometres along Mallorca's northwest coast, rising to 1,445 m, and UNESCO-listed as a cultural landscape for the thousand years of dry-stone terracing and irrigation that made its slopes farmable. It holds the island's most beautiful villages — Deià, Valldemossa, Fornalutx — the GR221 long-distance walking route, and one of the finest coastal drives in the Mediterranean."
+    },
+    {
+      "q": "Which are the best beaches in Mallorca?",
+      "a": "Es Trenc in the south is a two-kilometre undeveloped white-sand beach protected from building. The southeast calas — Caló des Moro, Cala s'Almunia, Cala Llombards — are small, spectacular and often crowded. Formentor and Alcúdia in the north have long sandy stretches suited to families. The best rule is that any cove requiring a twenty-minute walk will be far emptier than one with a car park."
+    },
+    {
+      "q": "Is Mallorca good for cycling?",
+      "a": "It is arguably the best road-cycling island in Europe, which is why professional teams train here from January to March. The Tramuntana offers serious climbs — Sa Calobra's 26 hairpins, Puig Major, the Formentor road — while the flat central plain suits casual riders. Hire is excellent in Palma, Alcúdia and Port de Pollença, though it should be booked ahead in February."
+    }
+  ],
+  "related": ["valencia", "barcelona", "tenerife-teide", "amalfi-coast"],
+  "relatedArticles": ["best-time-southern-europe", "packing-by-season", "underrated-destinations"]
+}

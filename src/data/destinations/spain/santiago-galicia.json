@@ -1,0 +1,368 @@
+{
+  "slug": "santiago-galicia",
+  "name": "Santiago de Compostela & Galicia",
+  "shortName": "Galicia",
+  "country": "spain",
+  "region": "Galicia",
+  "categories": ["unesco", "cultural", "coastal", "off-the-beaten-path"],
+  "tagline": "The end of a thousand-year-old pilgrimage, in a green Atlantic corner of Spain with Celtic roots and the best seafood in the country.",
+  "highlight": "The moment pilgrims walk into the Praza do Obradoiro after weeks on the Camino — worth seeing even if you arrived by train.",
+  "shortDescription": "A granite cathedral city at the end of Europe's oldest pilgrimage route, in a region of rías, oyster beds and rainfall that looks and tastes nothing like the rest of Spain.",
+  "metaDescription": "A Santiago de Compostela and Galicia travel guide: the cathedral and the Camino, the Rías Baixas, seafood, Albariño wine, when to go, where to stay and a five-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Santiago de Compostela (SCQ) or A Coruña (LCG)",
+  "knownFor": "The Camino, the cathedral, octopus, Albariño",
+  "budget": "€90–160 per day, mid-range",
+  "goodFor": "Walking, seafood, coastline, a different Spain",
+  "coords": { "lat": 42.8805, "lng": -8.5457 },
+  "image": {
+    "file": "File:2010-Catedral de Santiago de Compostela-Galicia (Spain) 3.jpg",
+    "alt": "The baroque west facade of Santiago de Compostela cathedral rising above its granite square"
+  },
+  "intro": [
+    "Galicia sits in Spain's northwest corner, above Portugal and facing the Atlantic, and almost nothing about it matches the country's image. It rains around 130 days a year. The landscape is green hills, deep tidal inlets and eucalyptus. The traditional instrument is the bagpipe, the region has its own Romance language, Galego, and the Celtic connections are taken seriously enough that Galicia sends delegations to inter-Celtic festivals in Brittany and Ireland.",
+    "Santiago de Compostela is its spiritual centre, and has been since the 9th century, when a tomb identified as that of the apostle James was found here. The pilgrimage that grew around it became the most important in medieval Europe after Rome and Jerusalem, and it has revived spectacularly — well over 400,000 people now complete the Camino each year, arriving on foot into a granite city where the cathedral's baroque facade closes one end of a vast paved square.",
+    "The other reason to come is the food. Galicia lands more fish and shellfish than anywhere else in Spain, farms the rías for mussels on floating rafts, and produces Albariño — a crisp Atlantic white that has become the region's most successful export. Add prices around a third below Barcelona and almost no international visitors outside the pilgrimage, and Galicia is arguably the best value serious food destination in Western Europe."
+  ],
+  "whyVisit": {
+    "intro": "Galicia offers a version of Spain that will surprise anyone who has only been south, and it does so at prices the rest of the country has left behind.",
+    "points": [
+      {
+        "title": "The cathedral and the arrival",
+        "text": "A Romanesque church behind a baroque facade, holding the Pórtico da Gloria — a carved 12th-century doorway now restored to its original polychrome — and the botafumeiro, a 53 kg censer swung across the transept by eight men on major feast days."
+      },
+      {
+        "title": "The Camino is a living thing",
+        "text": "Over 400,000 people complete it annually, arriving continuously into the Obradoiro square. You do not have to walk it to feel it — the city is organised around the arrival, and the last hundred kilometres from Sarria can be walked in five days by anyone reasonably fit."
+      },
+      {
+        "title": "The best seafood in Spain",
+        "text": "Galicia lands more fish and shellfish than any other Spanish region. Percebes, scallops, spider crab, razor clams and octopus, plus mussels farmed on rafts across the rías. The markets alone justify the trip."
+      },
+      {
+        "title": "The rías are genuinely beautiful",
+        "text": "Deep tidal inlets along the west coast — the Rías Baixas — with white-sand beaches, vineyards on the slopes and hundreds of mussel rafts on the water. Rodas beach on the Cíes Islands is regularly called one of the world's finest."
+      },
+      {
+        "title": "It is cheap and empty",
+        "text": "Prices run roughly 30% below Barcelona and international visitors are scarce outside the Camino. Even Santiago's old town is quiet by 22:00 outside the pilgrimage season."
+      }
+    ]
+  },
+  "attractionsIntro": "Santiago fills two days. The rest of Galicia is a series of coastal and inland trips, most within 90 minutes.",
+  "attractions": [
+    {
+      "name": "Santiago Cathedral",
+      "text": "Consecrated in 1211 behind an 18th-century baroque facade, built over the tomb identified as St James's. The Pórtico da Gloria, carved by Master Mateo from 1168, was restored between 2009 and 2018 and its original paint recovered — it is one of the great works of Romanesque sculpture.",
+      "tip": "The Pórtico requires a separate timed ticket with limited numbers. Book it — it is the single best thing in the building."
+    },
+    {
+      "name": "Praza do Obradoiro",
+      "text": "The granite square in front of the cathedral, closed on its other sides by a 15th-century pilgrims' hospital now a hotel, the town hall and a college. Pilgrims arrive here continuously through the day and the square never entirely empties.",
+      "tip": "Sit on the flagstones for half an hour in the late afternoon and watch people finish a 500-kilometre walk. It is the best free thing in Galicia."
+    },
+    {
+      "name": "The botafumeiro",
+      "text": "A 53 kg silver-plated censer suspended from the transept ceiling and swung by eight men, called tiraboleiros, in an arc reaching 65 km/h. Originally used to fumigate a cathedral full of unwashed pilgrims.",
+      "tip": "Swung at set feast days and at some pilgrim masses. The schedule is published on the cathedral website — check before planning around it."
+    },
+    {
+      "name": "Santiago's old town",
+      "text": "A UNESCO-listed granite maze of arcaded streets, monasteries and squares, almost entirely built from the same grey stone and consistently wet, which gives it a distinctive dark sheen. The Mercado de Abastos is the second most visited site in the city.",
+      "tip": "The market is open mornings Monday to Saturday, and several stalls will cook what you buy for a small fee."
+    },
+    {
+      "name": "The Rías Baixas",
+      "text": "The southern inlets around Pontevedra and Vigo, with beaches, seafood villages, and the Albariño vineyards of Cambados. Combarro has a row of granite hórreos — raised grain stores — standing on the shoreline.",
+      "tip": "Cambados is the Albariño capital and holds a wine festival at the start of August."
+    },
+    {
+      "name": "Cíes Islands",
+      "text": "Three uninhabited islands off Vigo, part of the Atlantic Islands National Park, with Rodas beach — a kilometre of white sand between two of them, backed by a lagoon. Visitor numbers are capped daily.",
+      "tip": "You must obtain a free permit online before buying the ferry ticket. Runs roughly Easter to September only."
+    },
+    {
+      "name": "A Coruña and the Tower of Hercules",
+      "text": "An hour north, a port city with a glass-galleried seafront and the oldest working Roman lighthouse in the world, in continuous use since the 2nd century and UNESCO-listed.",
+      "tip": "Climb the tower for the view along the Costa da Morte. The nearby sculpture park is a good hour's walk."
+    },
+    {
+      "name": "Costa da Morte and Finisterre",
+      "text": "The wild western coast, named for its shipwrecks, ending at Cape Finisterre — believed in Roman times to be the end of the world, and where many pilgrims continue for three more days after Santiago.",
+      "tip": "Sunset at the Finisterre lighthouse is the traditional end of the walk. Buses run from Santiago in about 2h30."
+    }
+  ],
+  "thingsToDoIntro": "Galicia is about eating, walking and the coast, roughly in that order.",
+  "thingsToDo": [
+    {
+      "title": "Walk the last stretch of the Camino",
+      "text": "The final 100 km from Sarria is the minimum distance for a Compostela certificate, and takes about five days at a normal pace. It is well waymarked, well supplied with albergues, and requires no special equipment beyond broken-in boots.",
+      "tip": "Get a credencial stamped twice a day. Sarria to Santiago is the busiest section by far — start earlier at Ponferrada for a quieter walk."
+    },
+    {
+      "title": "Eat pulpo at a pulpería",
+      "text": "Octopus boiled in a copper pot, cut into coins with scissors, and served on a wooden plate with olive oil, coarse salt and sweet paprika. Traditionally eaten standing, with young Ribeiro wine from a white ceramic bowl.",
+      "tip": "Melide, on the Camino an hour east of Santiago, is famous for it and worth the trip."
+    },
+    {
+      "title": "Do the Mercado de Abastos properly",
+      "text": "Santiago's granite market halls sell the day's catch, Galician cheeses, empanadas and produce. Several restaurants around it will cook whatever you buy for a small charge.",
+      "tip": "Open mornings Monday to Saturday, busiest and best on Thursday and Saturday."
+    },
+    {
+      "title": "Taste Albariño in Cambados",
+      "text": "The Rías Baixas grow Albariño on granite posts to lift the vines above the damp, producing a crisp, saline, aromatic white that has become Spain's most successful white wine.",
+      "tip": "Many bodegas around Cambados receive visitors without appointment. The wine festival is in early August."
+    },
+    {
+      "title": "Get out to the Cíes Islands",
+      "text": "A capped number of visitors per day, no cars, no hotels beyond a campsite, and a kilometre of white sand between two granite islands. The clearest water in Galicia.",
+      "tip": "Free permit required in advance, then a ferry from Vigo, Cangas or Baiona. Easter to September only."
+    },
+    {
+      "title": "Drive the Costa da Morte",
+      "text": "The wild coast west of A Coruña — lighthouses, granite headlands, empty beaches and villages that live from the sea. Ends at Finisterre, where the pilgrims who keep walking finish.",
+      "tip": "Best on a clear day and genuinely dramatic on a rough one. A full day with stops."
+    }
+  ],
+  "foodIntro": "Galicia lands more seafood than any other region of Spain and cooks it with almost no intervention. This is a place where the technique is mostly restraint.",
+  "foods": [
+    {
+      "name": "Pulpo á feira",
+      "text": "Octopus boiled in a copper cauldron, snipped into coins with scissors, and dressed with olive oil, coarse salt and sweet paprika on a wooden plate, usually over boiled potatoes.",
+      "whereToTry": "Pulperías throughout Galicia. Melide, on the Camino, is the traditional centre."
+    },
+    {
+      "name": "Percebes",
+      "text": "Goose barnacles, prised off wave-battered rocks by divers who work in genuinely dangerous conditions. Boiled briefly in seawater and eaten by twisting off the outer skin. Expensive, and unlike anything else.",
+      "whereToTry": "Coastal restaurants and markets, particularly along the Costa da Morte where they are harvested."
+    },
+    {
+      "name": "Empanada gallega",
+      "text": "A flat enclosed pie, usually filled with tuna and onion, cockles, or pork. Sold by the slice in every bakery and market and eaten at any time of day.",
+      "whereToTry": "Bakeries and the Mercado de Abastos. The zamburiña (queen scallop) version is the one to look for."
+    },
+    {
+      "name": "Mariscos",
+      "text": "Spider crab, razor clams, scallops served in the shell, velvet crabs, clams. Galicia's rías are farmed with thousands of floating mussel rafts and the shellfish here is the reference standard for Spain.",
+      "whereToTry": "O Grove and the Rías Baixas villages. Prices peak at Christmas, when Spain buys Galician shellfish for the holidays."
+    },
+    {
+      "name": "Albariño and Ribeiro",
+      "text": "Albariño from the Rías Baixas is crisp, saline and aromatic, and the natural partner to the shellfish. Ribeiro is lighter and traditionally drunk from a small white ceramic bowl rather than a glass.",
+      "whereToTry": "Albariño in Cambados and throughout the coast; Ribeiro in traditional pulperías and tavernas."
+    },
+    {
+      "name": "Tarta de Santiago",
+      "text": "A dense almond cake with the cross of the Order of Santiago stencilled on top in icing sugar. Protected status, no flour, and sold in every bakery in the city.",
+      "whereToTry": "Santiago's pastelerías. It travels well and is the standard thing to take home."
+    }
+  ],
+  "accommodation": {
+    "intro": "Santiago's old town is small and entirely walkable. Beyond it, the coast is a separate base — Pontevedra or the Rías Baixas villages rather than day trips from the city.",
+    "areas": [
+      {
+        "name": "Santiago old town",
+        "bestFor": "The cathedral and the arrival",
+        "text": "Inside the UNESCO granite maze, minutes from the cathedral and the market. Converted stone buildings, small rooms, and a genuine sense of the pilgrimage. Quiet after 22:00 outside high season."
+      },
+      {
+        "name": "Ensanche, Santiago",
+        "bestFor": "Value and modern rooms",
+        "text": "The 20th-century district south of the old town, ten minutes' walk away, with better-value hotels, larger rooms and the local restaurant scene."
+      },
+      {
+        "name": "Pontevedra",
+        "bestFor": "The Rías Baixas",
+        "text": "An hour south, with one of the best-preserved and most thoroughly pedestrianised old towns in Spain, and the natural base for the rías, Combarro and the Albariño country."
+      },
+      {
+        "name": "A Coruña",
+        "bestFor": "City, coast and the north",
+        "text": "An hour north, a proper port city with beaches in the middle of it, the Roman lighthouse and a strong food scene. The base for the Costa da Morte."
+      },
+      {
+        "name": "Camino albergues",
+        "bestFor": "Walking the pilgrimage",
+        "text": "Pilgrim hostels along the route, from municipal dormitories at around €10 to private rooms. A credencial pilgrim passport is required for the municipal ones."
+      }
+    ],
+    "budget": [
+      { "label": "Pilgrim albergue", "value": "€10–20 per night in a dormitory" },
+      { "label": "Comfortable hotel", "value": "€70–130 per night" },
+      { "label": "Seafood dinner", "value": "€30–50 per person; considerably more for percebes" },
+      { "label": "Holy Year", "value": "Rates rise sharply when 25 July falls on a Sunday" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Galicia is Spain's far northwest and takes some reaching, though a new high-speed line has cut the journey from Madrid substantially.",
+    "options": [
+      {
+        "mode": "Santiago Airport (SCQ)",
+        "text": "Twelve kilometres east, with domestic routes and a growing set of European connections. A bus reaches the centre in about 30 minutes.",
+        "detail": "A Coruña and Vigo have their own airports, and Porto in Portugal is about 2h30 by road with far more routes."
+      },
+      {
+        "mode": "High-speed rail from Madrid",
+        "text": "About 3h from Madrid Chamartín since the line opened, a dramatic improvement on the previous five-plus hours.",
+        "detail": "Trains continue to A Coruña and Vigo, linking the main Galician cities in under an hour each."
+      },
+      {
+        "mode": "From Porto",
+        "text": "Portugal's second city is about 2h30 by road and often the cheapest way in, with a much larger choice of flights.",
+        "detail": "Buses run direct from Porto airport to Santiago several times a day."
+      },
+      {
+        "mode": "Walking",
+        "text": "The Camino Francés from Sarria is 115 km and about five days; from Saint-Jean-Pied-de-Port in France it is 780 km and five weeks. The Portuguese route from Porto is around 240 km.",
+        "detail": "A credencial stamped twice daily over the final 100 km earns the Compostela certificate."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Santiago is walkable. Galicia beyond it is rural, spread out and best covered by car, though the main cities are well connected by rail.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "Santiago's old town is about a kilometre across and entirely pedestrian. Everything except the station and the bus terminal is within fifteen minutes on foot.",
+        "detail": "Granite paving is beautiful and extremely slippery when wet, which here is often."
+      },
+      {
+        "mode": "Rental car",
+        "text": "The practical way to reach the Rías Baixas villages, the Costa da Morte and the inland Ribeira Sacra. Roads are good and traffic is light.",
+        "detail": "Cheaper than most of Spain, and parking outside the cities is straightforward."
+      },
+      {
+        "mode": "Trains between cities",
+        "text": "Santiago, A Coruña, Vigo, Pontevedra and Ourense are linked by frequent regional and medium-distance services, most journeys under an hour.",
+        "detail": "Fine for city-hopping, useless for the coastal villages."
+      },
+      {
+        "mode": "Buses",
+        "text": "The regional network reaches Finisterre, Cambados, O Grove and the smaller towns, though services are infrequent outside summer.",
+        "detail": "Finisterre is about 2h30 from Santiago with a few departures a day."
+      },
+      {
+        "mode": "Ferries to the islands",
+        "text": "Boats to the Cíes run from Vigo, Cangas and Baiona between Easter and September, and to the Ons islands from Portonovo and Bueu.",
+        "detail": "The Cíes require a free permit obtained online before you can buy a ferry ticket."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–September",
+    "summary": "Galicia is the wettest region in Spain and the weather is the deciding factor. The summer window is short, reliable enough, and genuinely lovely; the rest of the year is green, cheap and damp.",
+    "seasons": [
+      {
+        "season": "Summer (June–September)",
+        "rating": "best",
+        "text": "The only consistently dry season, at 22–27°C, with the beaches and islands open and the Camino at its busiest. September is the pick — warm, the sea at its warmest, and the peak pilgrim crowds thinning."
+      },
+      {
+        "season": "Spring (April–May)",
+        "rating": "good",
+        "text": "Green, mild at 15–19°C and quiet, with the Camino manageable and prices low. It rains — expect it, and plan around eating and walking rather than beaches."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "shoulder",
+        "text": "October keeps some warmth and the shellfish season improves. By November rainfall is heavy and the days are short. Excellent value and the best time for seafood."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "shoulder",
+        "text": "Mild at 8–14°C but genuinely wet, with Atlantic storms. The cathedral is empty, prices are at their lowest, and Christmas is when Spain buys Galician shellfish, so the markets are at their most spectacular."
+      }
+    ],
+    "avoid": "The Feast of St James on 25 July fills Santiago completely, and in a Holy Year — when 25 July falls on a Sunday — pilgrim numbers and prices rise dramatically for the whole year. Check whether your travel year is a Xacobeo."
+  },
+  "itinerary": {
+    "title": "Five days in Santiago and Galicia",
+    "intro": "Two days in the city and three on the coast, with a car from day three. Assumes you arrived rather than walked, though the last day of the Camino is included as an option.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Santiago",
+        "summary": "The cathedral, the square, and the granite maze around them.",
+        "morning": "The cathedral and the Pórtico da Gloria on a booked timed ticket.",
+        "afternoon": "The Mercado de Abastos, then the old town's arcaded streets and monasteries.",
+        "evening": "The Obradoiro square at dusk watching pilgrims arrive, then pulpo and Ribeiro."
+      },
+      {
+        "day": 2,
+        "title": "The Camino, or the city in depth",
+        "summary": "Walk a final stage, or go deeper into Santiago.",
+        "morning": "Bus out to Arzúa or O Pedrouzo and walk the last 20 km into Santiago — the real arrival.",
+        "afternoon": "Alternatively, the cathedral museum, the Alameda park view of the towers, and the Cidade da Cultura.",
+        "evening": "Pilgrim mass if the botafumeiro is scheduled, then dinner in the Ensanche."
+      },
+      {
+        "day": 3,
+        "title": "The Rías Baixas",
+        "summary": "Collect a car and head for the inlets.",
+        "morning": "Drive south to Pontevedra's pedestrianised old town.",
+        "afternoon": "Combarro's granite hórreos on the shoreline, then Cambados for Albariño.",
+        "evening": "Shellfish at O Grove, and stay on the coast."
+      },
+      {
+        "day": 4,
+        "title": "Cíes Islands, or the coast",
+        "summary": "The best beach in Galicia, permit allowing.",
+        "morning": "Ferry from Vigo or Cangas to the Cíes — booked permit required.",
+        "afternoon": "Rodas beach and the lighthouse walk, or the mainland beaches if the ferry season is closed.",
+        "evening": "Back to the mainland for dinner in Vigo or Baiona."
+      },
+      {
+        "day": 5,
+        "title": "Costa da Morte and Finisterre",
+        "summary": "The wild coast, and the end of the world.",
+        "morning": "North and west along the Costa da Morte — Muxía, Camariñas, the shipwreck coast.",
+        "afternoon": "Cape Finisterre and its lighthouse, where pilgrims finish for real.",
+        "evening": "Sunset at the cape, then back to Santiago with a tarta de Santiago."
+      }
+    ]
+  },
+  "tipsIntro": "Galicia-specific notes, starting with the weather, which shapes everything else.",
+  "tips": [
+    "This is the wettest part of Spain, with around 130 rain days a year. Bring a proper waterproof in any month, including July. Galicia is green for a reason.",
+    "Santiago's granite paving is beautiful and genuinely slippery when wet. Shoes with grip matter more here than in most cities.",
+    "The Pórtico da Gloria requires a separate timed ticket with capped numbers, booked online. It is the finest thing in the cathedral and easy to miss entirely.",
+    "The botafumeiro is not swung at every mass. Its schedule is published on the cathedral website — check it rather than turning up and hoping.",
+    "To walk the Camino and receive a Compostela you need at least the final 100 km on foot from Sarria, with a credencial stamped twice a day. It takes about five days.",
+    "The Cíes Islands require a free permit obtained online before you can buy a ferry ticket, and numbers are capped daily. Ferries run roughly Easter to September only.",
+    "Galego is co-official and used on most signage and menus alongside Spanish. Praza is square, rúa is street, and pulpo appears as polbo.",
+    "Shellfish prices spike in December, when the rest of Spain buys Galician seafood for Christmas. It is the most spectacular time in the markets and the most expensive time to eat."
+  ],
+  "faq": [
+    {
+      "q": "Do you have to walk the Camino to visit Santiago?",
+      "a": "Not at all — Santiago is a UNESCO-listed cathedral city that stands on its own, and most visitors arrive by train, bus or plane. That said, the arrival of pilgrims into the Praza do Obradoiro is a large part of the city's atmosphere, and walking even the final 20 km from O Pedrouzo gives you a version of that experience in a single morning."
+    },
+    {
+      "q": "How long does the Camino take?",
+      "a": "The full Camino Francés from Saint-Jean-Pied-de-Port in France is about 780 km and takes roughly five weeks. The minimum for a Compostela certificate is the final 100 km, walked from Sarria in about five days with a credencial stamped twice daily. The Portuguese route from Porto is around 240 km and takes about twelve days."
+    },
+    {
+      "q": "When is the best time to visit Galicia?",
+      "a": "June to September, and September in particular — it is the only consistently dry stretch, at 22–27°C, and the peak pilgrim crowds thin after August. Galicia is the wettest region in Spain with around 130 rain days a year, so spring and autumn are green, cheap and damp, and winter is genuinely wet. Bring a waterproof in any month."
+    },
+    {
+      "q": "What is Galician food like?",
+      "a": "Seafood, cooked simply. Galicia lands more fish and shellfish than any other Spanish region. Octopus boiled and dressed with paprika and olive oil, goose barnacles prised from wave-battered rocks, spider crab, razor clams, and mussels farmed on rafts across the inlets. Albariño, the crisp Atlantic white from the Rías Baixas, is the natural partner. It is the best seafood region in Spain by a wide margin."
+    },
+    {
+      "q": "Is Galicia expensive?",
+      "a": "No — it is among the best-value regions in Spain, with prices roughly 30% below Barcelona. A comfortable hotel runs €70–130 and pilgrim albergues start around €10. The exception is shellfish, especially percebes, which are genuinely expensive because harvesting them is dangerous, and prices across the board spike in December when the rest of Spain buys Galician seafood for Christmas."
+    },
+    {
+      "q": "What is a Holy Year in Santiago?",
+      "a": "A Xacobeo, or Holy Year, falls whenever 25 July — the Feast of St James — lands on a Sunday, which happens roughly every six years. The cathedral's Holy Door is opened, pilgrim numbers rise sharply, and accommodation prices across the whole route go up for the year. Worth checking before you book."
+    },
+    {
+      "q": "How do you get to the Cíes Islands?",
+      "a": "By ferry from Vigo, Cangas or Baiona, roughly Easter to September only. You must first obtain a free permit online, because daily visitor numbers are capped — the ferry operators will not sell you a ticket without one. There are no hotels on the islands, only a campsite, so most people go for the day."
+    }
+  ],
+  "related": ["san-sebastian-basque", "cordoba", "tenerife-teide", "mont-saint-michel"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around", "packing-by-season"]
+}

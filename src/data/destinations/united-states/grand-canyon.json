@@ -1,0 +1,352 @@
+{
+  "slug": "grand-canyon",
+  "name": "Grand Canyon National Park",
+  "shortName": "The Grand Canyon",
+  "country": "united-states",
+  "region": "Arizona",
+  "categories": ["national-park", "nature", "unesco", "scenic"],
+  "tagline": "446 kilometres long, 29 wide and 1,800 metres deep, exposing two billion years of rock — and it genuinely does not photograph.",
+  "highlight": "Sunrise or sunset from the rim, when shadow moves across the buttes and the whole thing stops looking flat.",
+  "shortDescription": "The single most overwhelming landscape in North America: a canyon so large the eye cannot process it, with a river a vertical mile below and rock at the bottom half as old as the earth.",
+  "metaDescription": "A Grand Canyon travel guide: South Rim vs North Rim, hiking below the rim safely, where to stay, shuttle and reservation systems, when to go and a three-day plan.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Phoenix (PHX) or Las Vegas (LAS), 4–4h30 by road; Flagstaff (FLG) is closer",
+  "knownFor": "The South Rim, Bright Angel Trail, the Colorado River",
+  "budget": "$180–300 per day, mid-range",
+  "goodFor": "Landscape, hiking, photography, road trips",
+  "coords": { "lat": 36.1069, "lng": -112.1129 },
+  "image": {
+    "file": "File:Grand Canyon South Rim at Sunset.jpg",
+    "alt": "Layered red and orange buttes of the Grand Canyon receding into haze at sunset"
+  },
+  "intro": [
+    "There is a specific thing that happens when people first reach the Grand Canyon rim, which is that they cannot see it properly. The scale is outside normal experience — 29 kilometres across at its widest, 1,800 metres deep, with buttes inside it that would be significant mountains anywhere else — and the eye initially reads it as a flat painted backdrop. It takes about twenty minutes of standing there for the depth to resolve.",
+    "The geology is the other thing worth knowing before you arrive, because it changes what you are looking at. The rock exposed at the bottom of the canyon is around 1.8 billion years old, roughly 40% of the age of the earth. The layers above it record hundreds of millions of years of seabeds, deserts and swamps, stacked visibly. The Colorado River carved through all of it in perhaps six million years, which is recent.",
+    "Practically, the canyon has two rims and they are very different propositions. The South Rim is open all year, has the infrastructure, the shuttle system and around 90% of the six million annual visitors. The North Rim is 300 metres higher, forested, far quieter, and closed by snow from mid-October to mid-May. They are ten kilometres apart across the canyon and 350 kilometres apart by road."
+  ],
+  "whyVisit": {
+    "intro": "Almost every superlative applied to the Grand Canyon is deserved, and it is one of the few famous sights that is genuinely improved rather than diminished by being there.",
+    "points": [
+      {
+        "title": "The scale is outside ordinary experience",
+        "text": "Some 4,900 square kilometres of canyon, a vertical mile deep, with the far rim so distant that atmospheric haze blues it. Photographs flatten it completely because they cannot convey the distance between foreground and background."
+      },
+      {
+        "title": "You can read two billion years in the walls",
+        "text": "The layers are stacked in order and clearly visible: Kaibab limestone at the rim from an ancient sea, Coconino sandstone from a desert of dunes, and Vishnu schist at the bottom from 1.8 billion years ago. It is the most legible geological section on earth."
+      },
+      {
+        "title": "The light does the work",
+        "text": "At midday the canyon is flat and hazy. In the hour after sunrise and before sunset, shadow rakes across the buttes and the whole structure becomes three-dimensional. The difference is not subtle — it is the difference between a good photograph and a great one."
+      },
+      {
+        "title": "You can walk into it",
+        "text": "Two maintained trails descend from the South Rim. You do not have to reach the river — going down even 300 metres puts you inside the canyon, among rock walls, with the rim receding above you, and changes the experience entirely."
+      },
+      {
+        "title": "It anchors the best road trip in America",
+        "text": "The canyon sits at the southwest corner of a cluster that includes [[zion-southern-utah|Zion, Bryce and Arches]], Monument Valley and Antelope Canyon, all within a fortnight's comfortable driving."
+      }
+    ]
+  },
+  "attractionsIntro": "The South Rim's viewpoints run about 50 km along the edge, most of them served by free shuttle buses in season.",
+  "attractions": [
+    {
+      "name": "Mather Point and the Rim Trail",
+      "text": "The first viewpoint most people reach, beside the main visitor centre, and where the scale first lands. The paved Rim Trail runs about 20 km along the edge from South Kaibab to Hermits Rest, mostly level and with shuttle stops throughout.",
+      "tip": "Walk a section of the Rim Trail and shuttle back rather than driving between viewpoints. The stretch west from Powell Point is the quietest."
+    },
+    {
+      "name": "Bright Angel Trail",
+      "text": "The main maintained route into the canyon, switchbacking down from the village with rest houses at 2.4 and 4.8 km and water in season. The 4.8 km rest house makes an excellent turnaround for a half-day.",
+      "tip": "Descending is deceptively easy. Allow twice as long for the climb back, and turn around when you have used a third of your water."
+    },
+    {
+      "name": "South Kaibab Trail",
+      "text": "Steeper and more exposed than Bright Angel, following a ridge rather than a side canyon, which gives it far better views. Ooh Aah Point at 1.4 km and Cedar Ridge at 2.4 km are the standard turnarounds.",
+      "tip": "No water anywhere on this trail and almost no shade. Carry everything you need and do it early."
+    },
+    {
+      "name": "Desert View and the Watchtower",
+      "text": "At the eastern end of the South Rim, 40 km from the village, with a view of the Colorado making its great bend and the Painted Desert beyond. The 1932 Watchtower was designed by Mary Colter with Hopi mural interiors.",
+      "tip": "The eastern viewpoints are reached by car, not shuttle, and are dramatically less crowded than the village area."
+    },
+    {
+      "name": "Hermit Road viewpoints",
+      "text": "The western drive from the village to Hermits Rest, closed to private cars from March to November and served by free shuttle. Hopi, Mohave and Pima points are the standouts, and Hopi is the classic sunset viewpoint.",
+      "tip": "Ride the shuttle out to Hermits Rest and walk back along the Rim Trail between two or three stops."
+    },
+    {
+      "name": "The North Rim",
+      "text": "Three hundred metres higher, forested with ponderosa and aspen, and receiving a fraction of the visitors. Bright Angel Point and Cape Royal give a completely different perspective across the canyon.",
+      "tip": "Open mid-May to mid-October only, and 350 km by road from the South Rim — about 4h30. Plan it as a separate destination."
+    },
+    {
+      "name": "Rafting the Colorado",
+      "text": "Full trips run 3 to 18 days through the inner canyon and are the definitive way to experience it, booked a year or more ahead. Smooth-water half-day trips from Page are a much easier alternative.",
+      "tip": "Commercial multi-day trips sell out roughly a year in advance. The Glen Canyon float from Page needs no whitewater experience."
+    },
+    {
+      "name": "Havasu Falls",
+      "text": "Blue-green travertine waterfalls on Havasupai tribal land within the wider canyon, reached by a 16 km hike. Permits are separate from the national park and sell out within minutes each February.",
+      "tip": "Not part of Grand Canyon National Park and not doable as a day trip — permits require an overnight stay."
+    }
+  ],
+  "thingsToDoIntro": "The essential things here are free, and two of them are simply being at the rim at the right hour.",
+  "thingsToDo": [
+    {
+      "title": "Be at the rim for sunrise and sunset",
+      "text": "This is the whole trip in two hours. Shadow moves across the buttes, the colours shift through orange and red, and the canyon acquires depth it does not have at midday. Mather and Yavapai points for sunrise, Hopi or Yaki for sunset.",
+      "tip": "Arrive 30 minutes before. Take a warm layer — the rim is at 2,100 m and dawn is cold even in July."
+    },
+    {
+      "title": "Walk below the rim, even briefly",
+      "text": "Descend Bright Angel to the 2.4 km rest house or South Kaibab to Ooh Aah Point. Half an hour down puts you inside the canyon rather than looking at it, which is a completely different sensation.",
+      "tip": "The park's guidance is blunt: going down is optional, coming up is mandatory. Budget double the descent time for the climb."
+    },
+    {
+      "title": "Watch the sky after dark",
+      "text": "The park is a certified International Dark Sky Park. On a moonless night the Milky Way is bright enough to cast a faint shadow, and rangers run astronomy programmes through the summer.",
+      "tip": "The annual Star Party in June brings dozens of telescopes to both rims. Free to attend."
+    },
+    {
+      "title": "Drive Desert View Drive",
+      "text": "Forty kilometres east along the rim with six viewpoints, ending at the Watchtower. Open to private cars year-round and far quieter than the village and Hermit Road.",
+      "tip": "Do it in the late afternoon heading east, so the light is behind you on the canyon."
+    },
+    {
+      "title": "See it from the air, or from the water",
+      "text": "Helicopter and small-plane flights leave from Tusayan and Las Vegas. On the water, half-day smooth float trips run from Page below the Glen Canyon Dam.",
+      "tip": "Flights are noisy, expensive and restricted in where they can go. Many visitors find the rim and a hike more rewarding for the money."
+    },
+    {
+      "title": "Combine it with Utah",
+      "text": "The canyon is one stop on the Southwest loop. Page and Antelope Canyon are 2h30 northeast, Monument Valley 3h, and [[zion-southern-utah|Zion]] about 4h north.",
+      "tip": "Two nights here is enough. The surrounding cluster deserves the rest of the fortnight."
+    }
+  ],
+  "foodIntro": "This is a national park in remote northern Arizona, so expectations should be calibrated. The food is functional with a few genuine bright spots, and Flagstaff an hour and a half south is where the good eating is.",
+  "foods": [
+    {
+      "name": "The El Tovar dining room",
+      "text": "The 1905 lodge on the rim has the park's only proper restaurant, in a dark timber dining room with canyon views. Reasonable American cooking in a genuinely historic setting.",
+      "whereToTry": "El Tovar Hotel, South Rim. Dinner reservations are essential and open 30 days ahead."
+    },
+    {
+      "name": "Navajo tacos",
+      "text": "Fry bread topped with beans, ground beef, cheese, lettuce and tomato — a Native American dish found across the Southwest and served at Desert View and on Navajo Nation to the east.",
+      "whereToTry": "The Desert View marketplace and roadside stands throughout Navajo Nation towards Monument Valley."
+    },
+    {
+      "name": "Southwestern green chile",
+      "text": "Roasted Hatch green chile in stews, on burgers and in breakfast burritos — the defining flavour of Arizona and New Mexico cooking, and available at almost every diner in the region.",
+      "whereToTry": "Diners in Flagstaff, Williams and Tusayan. Best in autumn when the chile harvest comes in."
+    },
+    {
+      "name": "The road-trip breakfast burrito",
+      "text": "Eggs, potato, cheese and green chile wrapped in a flour tortilla, sold everywhere from petrol stations to diners, and the practical fuel for a pre-dawn drive to a viewpoint.",
+      "whereToTry": "Anywhere between Flagstaff and the park gate. Buy two and take one for the trail."
+    },
+    {
+      "name": "Flagstaff's brewing scene",
+      "text": "The town 90 minutes south sits at 2,100 m, has a serious craft brewing culture and a proper restaurant strip along its historic Route 66 downtown.",
+      "whereToTry": "Downtown Flagstaff, which is the best place to eat within two hours of the canyon."
+    },
+    {
+      "name": "Prickly pear",
+      "text": "The fruit of the desert cactus, magenta and faintly melon-like, turned into syrup, lemonade, margaritas and ice cream throughout Arizona.",
+      "whereToTry": "Gift shops and cafés across the Southwest. The lemonade is genuinely good on a hot rim walk."
+    }
+  ],
+  "accommodation": {
+    "intro": "Staying inside the park is the single biggest quality decision here, because it puts you at the rim for sunrise and sunset without a drive. It also requires booking about a year ahead.",
+    "areas": [
+      {
+        "name": "Inside the park — Grand Canyon Village",
+        "bestFor": "Sunrise and sunset without driving",
+        "text": "El Tovar, Bright Angel Lodge, Thunderbird, Kachina and Maswik, all within walking distance of the rim. Rooms are dated and the value is entirely in the location. Bookings open 13 months ahead and fill within days."
+      },
+      {
+        "name": "Tusayan",
+        "bestFor": "The practical fallback",
+        "text": "A strip of chain hotels 10 km south of the entrance, connected to the park by a free seasonal shuttle. Unremarkable but close, and far easier to book than in-park lodging."
+      },
+      {
+        "name": "Williams",
+        "bestFor": "Value and Route 66 character",
+        "text": "An hour south on old Route 66, with cheaper motels and the Grand Canyon Railway running a daily steam-era train to the rim. A pleasant small town in its own right."
+      },
+      {
+        "name": "Flagstaff",
+        "bestFor": "Food, altitude and a real town",
+        "text": "Ninety minutes south at 2,100 m, a university town with the best restaurants and brewing in the region and good onward links. Too far for sunrise at the rim, but the best base if you are not chasing that."
+      },
+      {
+        "name": "North Rim Lodge",
+        "bestFor": "Quiet and a different canyon",
+        "text": "The only lodging on the North Rim, open mid-May to mid-October, with cabins on the edge. Books out a year ahead and is worth it for the solitude."
+      }
+    ],
+    "budget": [
+      { "label": "Park entry", "value": "$35 per vehicle for 7 days, or free with the $80 annual pass" },
+      { "label": "In-park lodge", "value": "$130–350 per night, booked 13 months ahead" },
+      { "label": "Tusayan or Williams motel", "value": "$110–220 per night" },
+      { "label": "Campground", "value": "$18–35 per night; Mather Campground books six months ahead" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The canyon is genuinely remote. Every route involves a long drive, and that drive is usually part of a wider Southwest road trip rather than a there-and-back.",
+    "options": [
+      {
+        "mode": "By car from Las Vegas or Phoenix",
+        "text": "Las Vegas to the South Rim is about 4h30; Phoenix about 3h45. Both are the usual start of a Southwest loop and both have large airports with cheap car hire.",
+        "detail": "Las Vegas is the better start if you intend to include Zion and Bryce; Phoenix if you are heading east into New Mexico."
+      },
+      {
+        "mode": "Via Flagstaff",
+        "text": "Flagstaff has a small airport and an Amtrak station on the Southwest Chief route, and is 90 minutes from the South Rim. The closest town of any size.",
+        "detail": "Shuttle services run from Flagstaff to the park for those without a car."
+      },
+      {
+        "mode": "The Grand Canyon Railway",
+        "text": "A daily train from Williams to the South Rim village, taking about 2h15 each way with period carriages and staged entertainment. It delivers you into the village without a car.",
+        "detail": "A genuine alternative for a car-free visit, and popular with families."
+      },
+      {
+        "mode": "Getting to the North Rim",
+        "text": "About 4h30 from the South Rim by road, or 350 km, since you must drive around the eastern end of the canyon. Closed by snow from mid-October to mid-May.",
+        "detail": "It is 16 km across on foot via the rim-to-rim trail, which takes a very long day or two."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Free shuttle buses cover the South Rim's western section, which is closed to private cars for most of the year. Everything else is driving or walking.",
+    "options": [
+      {
+        "mode": "Park shuttle buses",
+        "text": "Four colour-coded free routes covering the village, the visitor centre, Hermit Road and the South Kaibab trailhead. Frequent, and the only way to reach Hermit Road from March to November.",
+        "detail": "The Hermits Rest route is the scenic one; the Kaibab route is the one hikers need before dawn."
+      },
+      {
+        "mode": "Walking the Rim Trail",
+        "text": "About 20 km of mostly paved, mostly level path along the edge with shuttle stops throughout, so you can walk any section and ride back.",
+        "detail": "The section between Powell Point and Hermits Rest is the least busy and the most rewarding."
+      },
+      {
+        "mode": "Car on Desert View Drive",
+        "text": "The eastern 40 km of rim road stays open to private vehicles year-round, with six viewpoints and the Watchtower at the end.",
+        "detail": "Parking at the village and visitor centre fills by mid-morning in summer. Arrive early or use the shuttle."
+      },
+      {
+        "mode": "The inner canyon trails",
+        "text": "Bright Angel and South Kaibab are the maintained routes down. Bright Angel has seasonal water and more shade; South Kaibab has better views and none of either.",
+        "detail": "There is no shuttle, road or vehicle access below the rim. Everything below is on foot, by mule, or by raft."
+      },
+      {
+        "mode": "Mules",
+        "text": "Guided mule rides descend to Phantom Ranch at the bottom, and shorter rides run along the rim. Booked far in advance and with strict weight limits.",
+        "detail": "Phantom Ranch itself is allocated by lottery, entered 15 months ahead."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "The South Rim sits at 2,100 m, which makes it far cooler than the Arizona desert below and genuinely cold in winter. The inner canyon is a different climate entirely — often 20°C hotter than the rim.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Mild at the rim, 15–22°C, with the inner canyon warm rather than dangerous. The North Rim opens from mid-May. The best window for hiking below the rim."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Busiest by far, with rim temperatures of 25–30°C and inner canyon temperatures above 40°C. July and August bring monsoon thunderstorms in the afternoons, which are dramatic and occasionally dangerous on exposed trails."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. Crowds thin after the Labor Day weekend, the light is clearer, and temperatures return to the high teens and low twenties. The North Rim closes from mid-October."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and often snowy at the rim, dropping below freezing at night, with the canyon at its most beautiful under snow and almost empty. The North Rim is closed. Inner canyon hiking is at its most comfortable."
+      }
+    ],
+    "avoid": "Midday in July and August below the rim, when inner canyon temperatures exceed 40°C and heat exhaustion is the most common serious incident in the park. Afternoon monsoon storms also bring lightning risk on exposed trails."
+  },
+  "itinerary": {
+    "title": "Three days at the Grand Canyon",
+    "intro": "Built entirely around being at the rim at dawn and dusk, with the middle of each day used for something less exposed. Assumes a car and a South Rim base.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and take the sunset",
+        "summary": "Get to the rim in time for the hour that matters.",
+        "morning": "Drive in from Las Vegas, Phoenix or Flagstaff. Stop at the visitor centre for the current trail and water status.",
+        "afternoon": "Mather Point and Yavapai Geology Museum, then a section of the Rim Trail on foot.",
+        "evening": "Sunset at Hopi Point or Yaki Point, then the dark sky once the crowd disperses."
+      },
+      {
+        "day": 2,
+        "title": "Below the rim",
+        "summary": "The day you actually go into the canyon.",
+        "morning": "Down South Kaibab to Ooh Aah Point or Cedar Ridge at first light — no water on this trail, so carry it.",
+        "afternoon": "Back up, then rest. The climb out is genuinely hard and the afternoon heat is not the time to add anything.",
+        "evening": "Sunset from a different viewpoint, and dinner at El Tovar if you booked."
+      },
+      {
+        "day": 3,
+        "title": "The eastern rim",
+        "summary": "The quiet half of the park, and the drive onward.",
+        "morning": "Sunrise at Mather or Yavapai, then Desert View Drive east with stops at Grandview and Moran points.",
+        "afternoon": "The Desert View Watchtower and the view of the Colorado's bend.",
+        "evening": "Continue east towards Page and [[zion-southern-utah|Utah]], or south to Flagstaff."
+      }
+    ]
+  },
+  "tipsIntro": "Some of these are comfort. Two of them are genuinely about not getting into trouble.",
+  "tips": [
+    "Do not attempt to hike to the river and back in one day. The park says this explicitly and rescues people every year who tried. It is 15 km each way with 1,400 m of climbing in temperatures that can exceed 40°C.",
+    "Descending is easy and climbing out takes roughly twice as long. Turn around when you have used a third of your water, not half, and carry at least four litres per person in summer.",
+    "Book in-park lodging the moment your dates are fixed. Reservations open 13 months ahead and the rim lodges fill within days — staying inside the park is what gets you sunrise and sunset without a drive.",
+    "The rim is at 2,100 m and it is cold at dawn even in July. Take a warm layer to every sunrise, and expect snow and freezing nights from November to March.",
+    "Hermit Road is closed to private cars from March to November — use the free shuttle. Desert View Drive to the east stays open all year and is much quieter.",
+    "The North and South Rims are ten kilometres apart across the canyon and 350 km apart by road, about 4h30. The North Rim is also closed from mid-October to mid-May.",
+    "Mobile coverage in the park is patchy at the village and absent below the rim. Download offline maps and do not rely on being able to call for help from a trail.",
+    "Arizona does not observe daylight saving, but the Navajo Nation to the east does. On a drive towards Monument Valley the time can change twice."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need at the Grand Canyon?",
+      "a": "Two nights, three days. That gives you two sunsets, two sunrises, one hike below the rim and time for the quieter eastern viewpoints. One night works but means choosing between sunrise and a hike. The canyon is also usually one stop on a wider Southwest loop rather than a destination on its own."
+    },
+    {
+      "q": "South Rim or North Rim?",
+      "a": "The South Rim for a first visit — it is open all year, has the infrastructure, the shuttle system and the classic views, and it is far easier to reach. The North Rim is 300 m higher, forested, receives a fraction of the visitors and is genuinely lovely, but it is closed from mid-October to mid-May and lies 350 km away by road, about 4h30 from the South Rim."
+    },
+    {
+      "q": "Can you hike to the bottom of the Grand Canyon in a day?",
+      "a": "You should not, and the park says so explicitly. It is about 15 km each way with 1,400 metres of climbing, in inner-canyon temperatures that regularly exceed 40°C in summer. The National Park Service rescues people who attempt it every year. Going down partway — to Cedar Ridge on South Kaibab or the 4.8 km rest house on Bright Angel — gives you the experience safely."
+    },
+    {
+      "q": "When is the best time to visit the Grand Canyon?",
+      "a": "April to May and September to October. The rim sits at 2,100 m so it is much cooler than the surrounding desert — 15–22°C in those months, against 25–30°C in high summer with inner-canyon temperatures over 40°C. September after the Labor Day weekend is the single best choice: thinner crowds, clearer light, comfortable temperatures."
+    },
+    {
+      "q": "Do you need to book Grand Canyon accommodation in advance?",
+      "a": "For in-park lodges, yes — reservations open 13 months ahead and fill within days. It is worth the effort, because staying at the rim means being there at sunrise and sunset without a pre-dawn drive. Tusayan, 10 km south, and Williams, an hour away, are the practical fallbacks and are much easier to book."
+    },
+    {
+      "q": "How far is the Grand Canyon from Las Vegas?",
+      "a": "About 4h30 by road to the South Rim, roughly 450 km. Phoenix is 3h45 and Flagstaff — the nearest town of any size — is 90 minutes. Most visitors reach the canyon as part of a Southwest driving loop rather than as a day trip, and day trips from Las Vegas involve nine hours of travel for a few hours at the rim."
+    },
+    {
+      "q": "What is the best viewpoint at the Grand Canyon?",
+      "a": "Hopi Point for sunset, because it projects furthest into the canyon and catches light on both sides. Mather and Yavapai for sunrise, since they face east and are close to the village. Desert View at the eastern end for the view of the Colorado's great bend and far fewer people. Honestly, though, the hour matters far more than the viewpoint."
+    }
+  ],
+  "related": ["zion-southern-utah", "yellowstone", "san-francisco", "new-orleans"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season", "unesco-worth-planning-around"]
+}

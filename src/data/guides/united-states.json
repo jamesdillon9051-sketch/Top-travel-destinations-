@@ -1,0 +1,172 @@
+{
+  "country": "united-states",
+  "title": "The Complete United States Travel Guide",
+  "subtitle": "How to choose one region out of a country the size of a continent, and what has to be booked a year ahead.",
+  "summary": "The United States punishes the trip that tries to see it all. This guide covers how the regions divide, what each of the ten destinations is actually for, the national park booking systems that now catch people out, and the costs that never appear on the price tag.",
+  "readingTime": "16 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Can I see New York and the Grand Canyon on one trip?",
+      "a": "You can, and for a two-week trip it is usually a mistake. They are 2,000 miles apart — further than London to Istanbul — so you are buying a domestic flight, two airport days and a rental car for one region while shortening both. If you want both, allow three weeks, or accept that one will get three days."
+    },
+    {
+      "q": "Is a rail pass useful in the United States?",
+      "a": "Rarely. Amtrak's Northeast Corridor between Washington, New York and Boston is genuinely good and competitive with flying. Everywhere else, long-distance trains are slow, infrequent and often hours late — the California Zephyr is a wonderful journey and a poor way to get somewhere. Fly between regions, drive within them."
+    },
+    {
+      "q": "What is the single most common planning mistake?",
+      "a": "Underestimating distance. Texas is bigger than France. Driving from Los Angeles to San Francisco takes six hours, not two. The second mistake is assuming national parks can be visited spontaneously — several now require timed entry, permits or shuttle reservations booked months ahead."
+    },
+    {
+      "q": "How far ahead should I book?",
+      "a": "In-park lodging at the Grand Canyon and Yellowstone opens 13 months out and fills within days. Zion's Angels Landing permit runs a seasonal lottery. Timed-entry reservations for several parks release in blocks a few months ahead. Cities and flights are far more flexible — it is the parks that need the long lead time."
+    }
+  ],
+  "sections": [
+    {
+      "id": "scale",
+      "title": "Start with the scale problem",
+      "navLabel": "The scale",
+      "body": [
+        "The contiguous United States is about 4,500 km from coast to coast and 2,500 km north to south. That is roughly Lisbon to Moscow, and Oslo to Athens, inside one country with one language and one currency. It is genuinely difficult for visitors from smaller countries to internalise, and almost every over-ambitious American itinerary comes from failing to.",
+        "Some concrete numbers. New York to Los Angeles is 2,800 miles and six hours in the air. Los Angeles to [[san-francisco]] is 380 miles and six hours by road, not two. [[new-orleans]] to [[charleston]] is eleven hours' driving. [[yellowstone]] to [[grand-canyon|the Grand Canyon]] is about 800 miles across two states.",
+        "The consequence is that **the United States is not one destination and should not be planned as one**. The right unit is the region. Pick one, or two that genuinely adjoin, and spend the whole trip there. A fortnight in the Southwest canyon country, or in California, or in the Northeast cities, or in the Deep South, produces a far better trip than a fortnight crossing three time zones."
+      ],
+      "note": "A useful rule: no more than one internal flight per week of trip. Two flights in a fortnight is fine. Four means the trip is about airports."
+    },
+    {
+      "id": "regions",
+      "title": "How the country divides",
+      "navLabel": "The regions",
+      "tone": "tint",
+      "body": [
+        "Six broad regions cover most of what visitors come for, and each has a distinct character, climate and season."
+      ],
+      "list": [
+        {
+          "title": "The Northeast",
+          "text": "[[new-york-city]], [[washington-dc|Washington]], Boston and Philadelphia, all connected by the one genuinely good American railway. Dense, walkable, old by American standards, and the easiest region to visit without a car.",
+          "tip": "New York to Washington is under three hours by train, city centre to city centre. This is the one corridor where rail beats flying."
+        },
+        {
+          "title": "The South",
+          "text": "[[new-orleans]], [[charleston]], Savannah, Nashville and Memphis. The strongest regional food and music cultures in the country, and a history that is present in a way it is not further north. Hot and humid from June to September.",
+          "tip": "Spring and autumn are dramatically more comfortable. Hurricane season runs June to November and peaks in September."
+        },
+        {
+          "title": "The Southwest",
+          "text": "[[grand-canyon|The Grand Canyon]], [[zion-southern-utah|Zion and southern Utah]], Monument Valley and the canyon country of Arizona and Utah. The most geologically spectacular landscape in the country and a driving region above all.",
+          "tip": "The classic loop from Las Vegas takes ten to fourteen days and needs no internal flights."
+        },
+        {
+          "title": "The West Coast",
+          "text": "[[san-francisco]], Los Angeles, Seattle and the Pacific coastline between them, plus Yosemite and the redwoods inland. Cities, coast and mountains within a few hours of each other.",
+          "tip": "Highway 1 between San Francisco and Big Sur is one of the world's great coastal drives — and slower than the map suggests."
+        },
+        {
+          "title": "The Mountain West",
+          "text": "[[yellowstone]], the Grand Tetons, Glacier and the Rockies. The great wilderness parks, with wildlife on a scale that surprises Europeans. A short season — many roads close from November to April.",
+          "tip": "Yellowstone's road system opens progressively from late April and closes from early November. Check before booking."
+        },
+        {
+          "title": "Hawai'i",
+          "text": "[[maui]] and the other islands, 4,000 km out into the Pacific and five hours by air from California. Volcanic, tropical, and culturally distinct from the mainland.",
+          "tip": "Better as its own trip than as an add-on. Bolting it onto a mainland itinerary costs two days of flying."
+        }
+      ]
+    },
+    {
+      "id": "parks",
+      "title": "The national parks have changed",
+      "navLabel": "Parks",
+      "body": [
+        "This is the section that most needs reading, because the way American national parks work has changed substantially and guidebooks written even a few years ago are misleading.",
+        "Visitor numbers grew sharply through the 2010s and 2020s, and the popular parks responded with systems that have to be navigated in advance. Several now operate **timed-entry reservations** in peak season, released in blocks weeks or months ahead. [[zion-southern-utah|Zion]] runs a mandatory shuttle up its main canyon from spring to autumn, with private cars barred, and a lottery for the Angels Landing permit. [[grand-canyon|The Grand Canyon]]'s in-park lodges open reservations 13 months ahead and fill within days.",
+        "None of this makes the parks difficult — it makes them a booking exercise rather than a spontaneous one. The practical approach is to identify which parks you want, check each one's current system on the National Park Service site as soon as you have dates, and treat those bookings as the fixed points the rest of the trip is built around.",
+        "Two further practicalities. The **America the Beautiful annual pass** costs about $80 and covers entry to every national park for a vehicle and its occupants for a year — it pays for itself in three or four parks. And mobile coverage inside parks is often genuinely absent, so download offline maps and do not rely on being able to look anything up once you are through the gate."
+      ],
+      "note": "Wildlife is the other thing Europeans consistently underestimate. Bison injure more people in Yellowstone than bears do, because they look placid and are not. Keep 25 metres from large animals and 100 metres from bears and wolves."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "list": [
+        {
+          "title": "If it is your first trip and you want a city",
+          "text": "[[new-york-city]]. It is the most concentrated, most walkable and most immediately legible American city, with enough in it for a week. Pair it with [[washington-dc|Washington]] by train for a museum-heavy fortnight."
+        },
+        {
+          "title": "If you want landscape above everything",
+          "text": "[[grand-canyon|The Grand Canyon]] and [[zion-southern-utah|southern Utah]] together, as a driving loop. The canyon for scale, Utah for variety — slot canyons, hoodoos, arches and river narrows within a few hours of each other."
+        },
+        {
+          "title": "If you want wildlife and wilderness",
+          "text": "[[yellowstone]]. A supervolcano with half the world's geysers on top of it, wolves, bears, bison and elk, and the Grand Tetons an hour south. A shorter season than the desert parks and a very different feel."
+        },
+        {
+          "title": "If you are going for food and music",
+          "text": "[[new-orleans]], which has the most distinctive culture of any American city, and [[charleston]] for Lowcountry cooking and the best-preserved historic centre in the country. [[chicago]] for blues and the finest architecture in America."
+        },
+        {
+          "title": "If you want city and coast together",
+          "text": "[[san-francisco]], with the Pacific coast, the redwoods and the wine country all within two hours. The most European-feeling American city and one of the few where you genuinely do not need a car."
+        },
+        {
+          "title": "If you want a beach and somewhere different",
+          "text": "[[maui]]. Volcanic, tropical, with a 3,055 m summit above the clouds and a coastal road that takes a full day to drive 100 km. Treat it as its own trip rather than an add-on."
+        }
+      ]
+    },
+    {
+      "id": "costs",
+      "title": "What it actually costs, including what is hidden",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "American pricing has two features that catch visitors out, and together they add 15–30% to what the advertised numbers suggest.",
+        "The first is that **sales tax is not included in displayed prices**. It is added at the till, varies by state and often by city, and runs from zero in a few states to over 10% in some cities. The price on the menu or the shelf is never the price you pay.",
+        "The second is **tipping**, which functions as a wage rather than a bonus. Servers in most states are legally paid below the standard minimum wage on the explicit assumption that tips make up the difference. 18–22% at a sit-down restaurant is the current norm, $1–2 per drink at a bar, 15–20% for taxis and ride-hailing, and $2–5 per night for housekeeping. Tipping poorly is not a comment on the service; it takes money out of someone's pay.",
+        "Add to those the **resort fees** many hotels charge on top of the room rate, city parking at $30–60 a night, and the fact that there is no universal health care — an uninsured emergency room visit routinely costs thousands. Comprehensive travel insurance with medical cover is not optional here in the way it might be in Europe.",
+        "Against all that, some things are genuinely cheap: rental cars, fuel, domestic flights, national park entry with an annual pass, and portion sizes that mean one restaurant meal often does for two."
+      ]
+    },
+    {
+      "id": "seasons",
+      "title": "When to go, region by region",
+      "navLabel": "When to go",
+      "body": [
+        "A country spanning six time zones and every climate from subarctic to tropical does not have one best season, but the shoulder months work for most of it.",
+        "**Spring (April–June).** The strongest all-round window. The Southwest deserts are warm rather than dangerous, the mountain parks open progressively through May and June, and the cities are pleasant. Yellowstone's roads reopen from late April onwards.",
+        "**Summer (July–August).** Peak everything. The parks are at capacity, prices are highest, and the Southwest regularly exceeds 40°C — hiking in the desert parks at midday in August is genuinely dangerous. Good for the Mountain West and the Pacific Northwest, unpleasant in the desert and humid in the South.",
+        "**Autumn (September–October).** For many visitors the best month of the year is September. The parks empty after Labor Day, the desert cools, New England colour arrives in October, and the South becomes comfortable. The caveat is Atlantic hurricane season, which peaks in September and matters for the Southeast and the Gulf coast.",
+        "**Winter (November–March).** Cities are cheap and atmospheric, the Southwest parks are cold and nearly empty, and [[maui|Hawai'i]] and Florida are at their best. Yellowstone's roads mostly close and the interior is reachable only by snowcoach. High-elevation Utah can be snowbound."
+      ],
+      "note": "Avoid the three big domestic travel weekends — Memorial Day in late May, Independence Day on 4 July and Labor Day in early September — when the parks are fullest and prices spike."
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Two weeks: the Southwest loop",
+          "text": "The route on the [[c:united-states|country page]]: Las Vegas, [[zion-southern-utah|Zion and Bryce]], Scenic Byway 12, Arches, Monument Valley, Antelope Canyon and [[grand-canyon|the Grand Canyon]], finishing in [[san-francisco]]. One car, one internal flight, no backtracking.",
+          "tip": "Book in-park lodging and any permits the moment your dates are fixed — this is the leg where late booking genuinely costs you."
+        },
+        {
+          "title": "Ten days: the Northeast without a car",
+          "text": "Five nights in [[new-york-city]], then the train to [[washington-dc|Washington]] for four. Two of America's densest cities, the best museums in the country, and no driving at all — the one corridor where the railway does the job properly.",
+          "tip": "Add Philadelphia as a stop between them; it is 90 minutes from New York and an hour from Washington."
+        },
+        {
+          "title": "Twelve days: the South",
+          "text": "[[new-orleans]] for four nights, then drive east through the Gulf coast to [[charleston]] for four, with Savannah between them. Food, music and the best-preserved historic architecture in the country.",
+          "tip": "March to May or October to November. Summer in this region is humid enough to reshape your plans around it."
+        }
+      ]
+    }
+  ]
+}

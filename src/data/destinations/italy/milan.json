@@ -1,0 +1,351 @@
+{
+  "slug": "milan",
+  "name": "Milan",
+  "country": "italy",
+  "region": "Lombardy",
+  "categories": ["major-city", "cultural", "food-and-wine", "historic"],
+  "tagline": "Italy's working capital — a Gothic cathedral you can walk on the roof of, Leonardo's Last Supper, and the country's best aperitivo.",
+  "highlight": "The roof of the Duomo, among 135 marble spires, with the Alps on the horizon on a clear day.",
+  "shortDescription": "The city most Italian itineraries skip, holding one of Europe's great cathedrals, a Leonardo fresco you must book months ahead, and a design culture that shapes how the world looks.",
+  "metaDescription": "A Milan travel guide: the Duomo rooftop, Leonardo's Last Supper, Brera and the Sforza Castle, aperitivo and design, day trips to Lake Como, and a three-day itinerary.",
+  "suggestedStay": "2–3 days",
+  "nearestAirport": "Milan Malpensa (MXP) or Linate (LIN)",
+  "knownFor": "The Duomo, the Last Supper, design, aperitivo",
+  "budget": "€140–250 per day, mid-range",
+  "goodFor": "Art, design, shopping, opera, rail connections",
+  "coords": { "lat": 45.4642, "lng": 9.19 },
+  "image": {
+    "file": "File:Piazza del Duomo, Milan panorama.jpg",
+    "alt": "The marble west front of Milan's Duomo across the Piazza del Duomo"
+  },
+  "intro": [
+    "Milan gets skipped, and the reason is usually that it does not look like the Italy people came for. There is no Renaissance skyline, the centre was heavily bombed in 1943 and rebuilt in a hurry, and the city works for a living in a way Florence and Venice no longer have to. What it has instead is a cathedral that took nearly six hundred years to finish and has 135 spires and something over three thousand statues, with terraces on the roof that you can walk among them; and, in a refectory ten minutes away, Leonardo's Last Supper, painted between 1495 and 1498 and deteriorating almost from the moment he finished it.",
+    "It also has the best art collection in northern Italy at the Brera, Michelangelo's final unfinished sculpture in the Sforza Castle, a fourth-century basilica founded by St Ambrose, and a small church near the Roman columns whose walls are covered in sixteenth-century frescoes and which is free to walk into. La Scala has been staging opera since 1778 and still opens its season on 7 December. None of this is secondary to Rome or Florence; it is simply less concentrated and much less advertised.",
+    "And then there is the other Milan — the one that produces the furniture, the clothes and the graphic language that the rest of the world copies. Design Week each April turns the entire city into an exhibition. Fondazione Prada put a Rem Koolhaas building and a gold-leafed tower into a former distillery. The skyline north of the centre has grown a forest of towers by Boeri, Hadid, Isozaki and Libeskind in fifteen years, and the city hosted the 2026 Winter Olympics with Cortina. Two days here is plenty and it is two days well spent."
+  ],
+  "whyVisit": {
+    "intro": "Milan is where you go for one extraordinary painting, one extraordinary building and a city that shows you what modern Italy actually is.",
+    "points": [
+      {
+        "title": "The Duomo's roof is a walk, not a viewpoint",
+        "text": "You go up among the spires, flying buttresses and statues and walk across the marble terraces of the roof itself. Nothing else in Italy lets you get inside the top of a Gothic cathedral like this."
+      },
+      {
+        "title": "The Last Supper is still here",
+        "text": "In the refectory it was painted for, in 1495–98. Fifteen-minute timed visits for small groups, booked months ahead, and worth every bit of the administrative pain."
+      },
+      {
+        "title": "Serious art without the queues",
+        "text": "The Brera has Mantegna's foreshortened Dead Christ, Piero della Francesca and Caravaggio; the Ambrosiana has a Caravaggio still life and Raphael's full-size cartoon for the School of Athens. Neither is ever crowded."
+      },
+      {
+        "title": "Aperitivo was invented here",
+        "text": "The Milanese hour between six and eight — a drink that comes with a serious spread of food — is a genuine institution rather than a happy hour, and in this city it can replace dinner."
+      },
+      {
+        "title": "It is the best-connected city in Italy",
+        "text": "High-speed trains reach [[venice|Venice]] in 2h15, [[florence-tuscany|Florence]] in 1h50 and [[rome|Rome]] in 3h, and Lake Como and Bergamo are under an hour on a commuter train."
+      }
+    ]
+  },
+  "attractionsIntro": "Milan's sights are spread across a compact centre and reachable on foot or by two metro stops. Two full days covers all of these.",
+  "attractions": [
+    {
+      "name": "The Duomo",
+      "text": "Begun in 1386 and finished in stages over six centuries, in pink-white Candoglia marble: 135 spires, more than three thousand statues, and the gilded Madonnina on the highest pinnacle. The roof terraces are open to visitors.",
+      "tip": "Buy the pass that includes the rooftop and take the stairs rather than the lift — the climb passes the buttresses at close range."
+    },
+    {
+      "name": "The Last Supper",
+      "text": "Leonardo's mural in the refectory of Santa Maria delle Grazie, painted 1495–98 in an experimental dry technique that began failing within decades. Visits are fifteen minutes, in groups of about thirty, through airlocks.",
+      "tip": "Tickets are released in blocks and sell out months ahead. Set a reminder for the release date or book a tour that includes entry."
+    },
+    {
+      "name": "Galleria Vittorio Emanuele II and La Scala",
+      "text": "An 1877 glass-vaulted arcade of cafés and luxury shops connecting the cathedral square to the opera house, which has been staging opera since 1778 and opens its season every 7 December.",
+      "tip": "The theatre museum lets you see the auditorium from a box outside performance times. Spin your heel on the bull mosaic for luck, as everyone does."
+    },
+    {
+      "name": "Sforza Castle",
+      "text": "The Renaissance fortress of Milan's ruling dynasty, now a set of museums, holding Michelangelo's Rondanini Pietà — the sculpture he was still working on days before he died in 1564 — and a room painted by Leonardo.",
+      "tip": "The courtyards and the Sempione park behind are free. The Pietà is displayed alone in a converted hospital hall and is worth the ticket by itself."
+    },
+    {
+      "name": "Pinacoteca di Brera",
+      "text": "Northern Italy's finest collection: Mantegna's radically foreshortened Dead Christ, Piero della Francesca's Montefeltro Altarpiece, Raphael's Marriage of the Virgin, Caravaggio's Supper at Emmaus and Hayez's The Kiss.",
+      "tip": "Two hours, and rarely busy. The Brera district around it is the most attractive quarter in the city centre."
+    },
+    {
+      "name": "Sant'Ambrogio and San Maurizio",
+      "text": "Sant'Ambrogio was founded by Milan's patron saint in the fourth century and rebuilt in a severe Lombard Romanesque. San Maurizio, nearby, is covered wall to ceiling in Bernardino Luini's sixteenth-century frescoes.",
+      "tip": "San Maurizio is free, usually near-empty and astonishing. Locals call it the Sistine Chapel of Milan and they are not entirely joking."
+    },
+    {
+      "name": "The Navigli",
+      "text": "The surviving canals of a medieval network that once brought the marble for the Duomo into the city centre and whose lock gates Leonardo worked on. Now the centre of Milan's evening drinking.",
+      "tip": "Best in the early evening for aperitivo along the Naviglio Grande. The antiques market on the last Sunday of the month is excellent."
+    },
+    {
+      "name": "Fondazione Prada and the new skyline",
+      "text": "A former distillery converted by Rem Koolhaas with a gold-leafed tower and a Wes Anderson-designed bar; and, north of the centre, the Bosco Verticale's planted towers and the CityLife skyscrapers by Hadid, Isozaki and Libeskind.",
+      "tip": "Bar Luce at Fondazione Prada is open without a gallery ticket. The CityLife and Porta Nuova walk is best at dusk."
+    }
+  ],
+  "thingsToDoIntro": "Book the Last Supper first and build the rest around it. Everything else here is flexible.",
+  "thingsToDo": [
+    {
+      "title": "Walk the cathedral roof",
+      "text": "Up the stairs past the flying buttresses and out onto the marble terraces, among the spires and statues, with the piazza far below and the Alps visible to the north on a clear day.",
+      "tip": "Late afternoon for the light, or first entry to have it quiet. Clear winter days after rain give the best Alpine views."
+    },
+    {
+      "title": "Take the aperitivo hour seriously",
+      "text": "Between six and eight, order a Negroni, a spritz or a Campari and the bar puts out food — in Milan often a substantial buffet. In Brera and along the Navigli it is the whole evening.",
+      "tip": "The Negroni Sbagliato was invented at a Milanese bar by mistake. Ordering one here is not a cliché, it is a local claim."
+    },
+    {
+      "title": "Go to the opera",
+      "text": "La Scala's season runs from 7 December through the following autumn, and same-day gallery tickets are sold cheaply to those willing to queue for the highest seats.",
+      "tip": "Restricted-view gallery seats cost a fraction of the stalls. Check the day-ticket procedure on the theatre's site — it changes."
+    },
+    {
+      "title": "Look at design",
+      "text": "The Quadrilatero for fashion, the Triennale for design exhibitions, Fondazione Prada and 10 Corso Como, and in April the whole city during Design Week, when courtyards across Milan open as installations.",
+      "tip": "Design Week is extraordinary and hotel prices treble. Decide which of those two facts matters more to you."
+    },
+    {
+      "title": "Take a train to a lake or a hill town",
+      "text": "Como in about 40 minutes and Varenna in an hour for Lake Como; Bergamo's walled upper town in 50 minutes; Pavia's Certosa in half an hour. All easy half or full days.",
+      "tip": "Varenna is the better Como stop — smaller, prettier and on the ferry network to Bellagio."
+    },
+    {
+      "title": "Ride an old tram",
+      "text": "Milan still runs 1920s wooden-interior trams on some central routes. Line 1 loops past the castle and the centre, and it costs the price of a standard ticket.",
+      "tip": "One of the cheapest good half-hours in Italy. Some of the same carriages ended up running in San Francisco."
+    }
+  ],
+  "foodIntro": "Milanese cooking is northern and rich — butter and rice rather than olive oil and pasta — and it is the one Italian city where dinner might be replaced by drinks and a buffet.",
+  "foods": [
+    {
+      "name": "Risotto alla milanese",
+      "text": "Carnaroli rice cooked in broth with saffron and, traditionally, bone marrow, finished with butter and Parmesan until it flows across the plate. Golden, rich and served on its own.",
+      "whereToTry": "Traditional trattorias in the centre and Brera. It is also the classic bed for ossobuco."
+    },
+    {
+      "name": "Cotoletta alla milanese",
+      "text": "A veal chop, bone in, beaten thin, breaded and fried in butter — closer to a schnitzel than to anything southern, and the subject of a long argument with Vienna about which came first.",
+      "whereToTry": "Old-school Milanese restaurants. If it arrives boneless and flat as a plate, it is the modern variant, not the original."
+    },
+    {
+      "name": "Ossobuco",
+      "text": "Veal shin braised slowly in white wine and stock until the marrow in the bone becomes the best part, finished with gremolata — lemon zest, garlic and parsley — and served over saffron risotto.",
+      "whereToTry": "Traditional restaurants, particularly in autumn and winter. Ask for the little spoon for the marrow."
+    },
+    {
+      "name": "Cassoeula",
+      "text": "A winter stew of pork ribs, sausage and the cheaper cuts cooked down with cabbage until everything collapses together. Peasant food, enormously heavy and only made in the cold months.",
+      "whereToTry": "Milanese trattorias from November to February. Not a summer dish and rarely offered as one."
+    },
+    {
+      "name": "Panettone",
+      "text": "The tall, domed Christmas bread with candied peel and raisins, leavened over days with a natural starter. Milan's contribution to the world's festive table, and vastly better here than in a supermarket box.",
+      "whereToTry": "Historic pasticcerie from November. Some now make versions year-round, which the traditionalists dislike."
+    },
+    {
+      "name": "Campari and the aperitivo",
+      "text": "The bitter red aperitif has been part of Milanese life since the nineteenth century, in a Negroni, an Americano or the Sbagliato, which replaces the gin with sparkling wine and was invented in a Milanese bar by accident.",
+      "whereToTry": "The historic bar in the Galleria, Brera's cafés, or any Navigli terrace between six and eight."
+    }
+  ],
+  "accommodation": {
+    "intro": "Milan is Italy's most expensive city for hotels and its prices swing violently with the trade-fair calendar. The metro is good, so staying slightly out is a reasonable trade.",
+    "areas": [
+      {
+        "name": "Duomo and the centre",
+        "bestFor": "First visits and short stays",
+        "text": "Everything on foot: the cathedral, the Galleria, La Scala and the Ambrosiana. Expensive, and quiet at night once the shops close."
+      },
+      {
+        "name": "Brera",
+        "bestFor": "Atmosphere and evenings",
+        "text": "The old artists' quarter north of the centre — narrow streets, the Pinacoteca, good restaurants and the best aperitivo in the city. Walkable to the Duomo in fifteen minutes."
+      },
+      {
+        "name": "Navigli and Porta Genova",
+        "bestFor": "Nightlife and value",
+        "text": "The canal district, busy every evening, with cheaper rooms and a younger feel. Two metro stops from the centre and noisy at weekends."
+      },
+      {
+        "name": "Porta Nuova and Isola",
+        "bestFor": "Modern Milan",
+        "text": "Around the Bosco Verticale and the new towers: contemporary hotels, good food markets and a district that did not exist in this form twenty years ago."
+      },
+      {
+        "name": "Near Centrale",
+        "bestFor": "Trains and budget",
+        "text": "Convenient for high-speed rail and the airport buses, with the widest range of cheaper hotels. The immediate area around the station is the least appealing part of central Milan."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel", "value": "€130–250 per night, and far more during trade fairs" },
+      { "label": "Duomo rooftop pass", "value": "€15–25 depending on stairs or lift" },
+      { "label": "The Last Supper", "value": "€15–20 plus booking fee, released months in advance" },
+      { "label": "Aperitivo", "value": "€10–15 for a drink with the food included" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Milan is Italy's transport hub: three airports and the junction of every high-speed rail line in the country.",
+    "options": [
+      {
+        "mode": "Malpensa (MXP)",
+        "text": "The main international airport, 50 km north-west, with the Malpensa Express train to Cadorna or Centrale in about 50 minutes and coaches to Centrale for less.",
+        "detail": "Check which terminal your airline uses — the train serves both, but they are a shuttle ride apart."
+      },
+      {
+        "mode": "Linate (LIN)",
+        "text": "Small, close and mostly European and domestic, now connected to the centre by the M4 metro line in about fifteen minutes.",
+        "detail": "By far the most convenient of the three if your route allows it."
+      },
+      {
+        "mode": "Bergamo Orio al Serio (BGY)",
+        "text": "Fifty kilometres east, used heavily by budget carriers, with frequent coaches to Milano Centrale in about an hour.",
+        "detail": "Cheap fares; add the transfer when comparing. Bergamo's own upper town is worth a day."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "Centrale is the junction of the network: [[venice|Venice]] 2h15, [[florence-tuscany|Florence]] 1h50, [[rome|Rome]] 3h, Turin 1h, and Paris and Zurich by direct international services.",
+        "detail": "The obvious way to start or end an Italian trip. Book ahead for the cheapest fares."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Four metro lines, a large tram network and a compact centre. You will not need a taxi.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Four lines crossing at the centre, including the M4 to Linate airport. Fast, clean and simple, with a flat urban fare and daily caps on contactless payment.",
+        "detail": "Tap in and out with a bank card; the system charges the best value automatically."
+      },
+      {
+        "mode": "Trams",
+        "text": "An extensive network including 1920s wooden-interior cars still running on some central routes. Slower than the metro and much more pleasant.",
+        "detail": "Line 1 is the classic route through the centre. Same ticket as the metro."
+      },
+      {
+        "mode": "Walking",
+        "text": "The Duomo, the Galleria, La Scala, the Ambrosiana, Brera, the castle and Sant'Ambrogio are all within a half-hour walk of one another.",
+        "detail": "The Navigli and Fondazione Prada are the two that justify a metro or tram ride."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "From Centrale, Cadorna or Porta Garibaldi to Como (40 min), Varenna (1h), Bergamo (50 min) and Pavia (30 min).",
+        "detail": "Validate regional tickets before boarding. Lake Como is comfortably a day trip."
+      },
+      {
+        "mode": "Bikes and scooters",
+        "text": "Milan is flat and has a large bike-share scheme plus e-scooters, with a growing network of cycle lanes across the centre.",
+        "detail": "Traffic is assertive on the larger boulevards. Fine on the canal paths and in the centre."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Milan has a continental climate — humid summers, foggy winters — and a trade-fair calendar that matters more to hotel prices than the weather does.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, green and the city at its liveliest. Design Week in April is spectacular and turns hotel prices into a serious problem — plan around it in one direction or the other."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot, humid and airless, and in August the city empties: many restaurants and shops close for two or three weeks. Cheap hotels, but half of what makes Milan good is shut."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear, comfortable and busy in a good way, with Fashion Week in late September pushing prices up for a few days. The best all-round window."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Grey and foggy, and the museums, the opera and the food are all at their best. La Scala opens on 7 December, panettone appears in November, and cassoeula is a winter dish."
+      }
+    ],
+    "avoid": "Design Week in April and the Fashion Weeks in late February and September, unless that is why you are coming — hotel rates can triple and availability disappears months ahead."
+  },
+  "itinerary": {
+    "title": "Three days in Milan",
+    "intro": "Two days for the city, one for a lake or a hill town. Built around whatever slot you managed to get for the Last Supper.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Duomo and the centre",
+        "summary": "The cathedral inside, on top, and the streets around it.",
+        "morning": "The Duomo interior, then the roof terraces on foot.",
+        "afternoon": "The Galleria, La Scala's museum and the Ambrosiana.",
+        "evening": "Aperitivo in Brera, then dinner nearby."
+      },
+      {
+        "day": 2,
+        "title": "Leonardo and the Brera",
+        "summary": "One fifteen-minute masterpiece and one great gallery.",
+        "morning": "The Last Supper on your booked slot, then San Maurizio's frescoes.",
+        "afternoon": "The Sforza Castle for the Rondanini Pietà, or the Pinacoteca di Brera.",
+        "evening": "The Navigli for aperitivo along the canal."
+      },
+      {
+        "day": 3,
+        "title": "Out of the city",
+        "summary": "A lake, a walled town or the new skyline.",
+        "morning": "Train to Varenna on Lake Como, or up to Bergamo's Città Alta.",
+        "afternoon": "A ferry across to Bellagio, or Bergamo's upper-town walls.",
+        "evening": "Back in Milan for Fondazione Prada or a walk through Porta Nuova at dusk."
+      }
+    ]
+  },
+  "tipsIntro": "Milan is easy to do well and easy to waste. Two things matter more than the rest: booking and timing.",
+  "tips": [
+    "Book the Last Supper the moment tickets are released — typically months in advance, in blocks that sell out within hours. If you miss them, a guided tour including entry is the reliable fallback.",
+    "Buy the Duomo pass that includes the roof, and take the stairs. The climb passes the buttresses and gargoyles at close range, which the lift skips entirely.",
+    "Check the trade-fair calendar before booking a hotel. Design Week in April and the Fashion Weeks can triple rates and empty the city of rooms, and they are not obvious from a normal travel search.",
+    "San Maurizio al Monastero Maggiore is free, five minutes from the Duomo, entirely covered in sixteenth-century frescoes and usually almost empty. It is the best-value hour in the city.",
+    "Aperitivo between six and eight can genuinely replace dinner in Milan, where the food that comes with the drink is often a full buffet. Budget accordingly and eat later or not at all.",
+    "Tap in and out of the metro with a contactless card rather than buying tickets. The system automatically charges the cheapest combination, including daily caps.",
+    "Do not come in August expecting the city Milan usually is. Locals leave, and a large share of restaurants and shops close for two or three weeks around Ferragosto.",
+    "Lake Como is 40 minutes to Como and an hour to Varenna by train. Varenna is the better stop — small, walkable and on the ferry network across to Bellagio."
+  ],
+  "faq": [
+    {
+      "q": "Is Milan worth visiting?",
+      "a": "For two or three days, yes. It has one of Europe's great Gothic cathedrals with a walkable roof, Leonardo's Last Supper in the room it was painted for, the best gallery in northern Italy at the Brera, Michelangelo's final sculpture, and a design and food culture that is entirely its own. It is not a picture-postcard Italian city, and that is the point — it is what modern Italy actually looks like."
+    },
+    {
+      "q": "How do I get tickets for the Last Supper?",
+      "a": "Tickets are released in blocks, usually a few months at a time, and the good slots sell out within hours. Book directly through the official site the moment a block opens, or take a guided tour that includes entry, which is the standard fallback and often the only remaining option. Visits are fifteen minutes long, in groups of around thirty, through a sequence of climate-controlled airlocks."
+    },
+    {
+      "q": "How many days do you need in Milan?",
+      "a": "Two for the city itself — one for the Duomo and the centre, one for the Last Supper, the Brera and the castle — and a third if you want a day trip to Lake Como, Bergamo or Pavia. Milan is compact and well served by metro, so two days genuinely covers the essentials without rushing."
+    },
+    {
+      "q": "Can I visit Lake Como from Milan?",
+      "a": "Easily. Trains from Milano Centrale or Cadorna reach Como in about 40 minutes and Varenna in an hour. Varenna is the better base for a day trip — small, walkable and on the ferry network that crosses to Bellagio and Menaggio. It works comfortably as a day out with an early start and a late return."
+    },
+    {
+      "q": "When is the best time to visit Milan?",
+      "a": "April to June and September to October. The bigger factor is the trade-fair calendar: Design Week in April and the Fashion Weeks in late February and September can triple hotel prices. August is the one month to avoid — the city empties and many restaurants and shops close for two or three weeks. Winter is grey and foggy and excellent for the museums and the opera."
+    },
+    {
+      "q": "What is Milan's food like?",
+      "a": "Northern and rich, built on butter and rice rather than olive oil and pasta. Risotto alla milanese with saffron, cotoletta — a breaded veal chop fried in butter — ossobuco with gremolata, and cassoeula in winter. Panettone comes from here. And the aperitivo, between six and eight, comes with enough food in Milan to replace dinner, which is a local institution rather than a happy hour."
+    },
+    {
+      "q": "Is Milan expensive?",
+      "a": "It is Italy's most expensive city for hotels, and prices swing sharply with the trade-fair calendar rather than the season. Eating and drinking are reasonable if you avoid the immediate cathedral square: an aperitivo with food costs €10–15, and neighbourhood trattorias in Brera and the Navigli are priced normally. Museums are cheap and several of the best churches are free."
+    }
+  ],
+  "related": ["venice", "dolomites", "florence-tuscany", "barcelona"],
+  "relatedArticles": ["europe-by-train", "first-trip-to-europe", "underrated-destinations"]
+}

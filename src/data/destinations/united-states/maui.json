@@ -1,0 +1,376 @@
+{
+  "slug": "maui",
+  "name": "Maui, Hawai'i",
+  "shortName": "Maui",
+  "country": "united-states",
+  "region": "Hawai'i",
+  "categories": ["island", "coastal", "nature", "mountains"],
+  "tagline": "A dormant volcano 3,055 metres high, a coast road with 620 curves, and humpback whales in the channel every winter.",
+  "highlight": "Sunrise above the clouds from Haleakalā's summit crater, at 3,055 m, in near-freezing air.",
+  "shortDescription": "The second-largest Hawaiian island, with a summit above the clouds, a rainforest coast road, some of the Pacific's best snorkelling and a winter whale population in the thousands.",
+  "metaDescription": "A Maui travel guide: Haleakalā sunrise reservations, the Road to Hana, snorkelling and whale watching, where to stay, respectful travel after the 2023 fires, and a six-day itinerary.",
+  "suggestedStay": "6–8 days",
+  "nearestAirport": "Kahului (OGG)",
+  "knownFor": "Haleakalā, the Road to Hana, whales, beaches",
+  "budget": "$300–480 per day, mid-range",
+  "goodFor": "Beaches, snorkelling, volcanoes, whale watching",
+  "coords": { "lat": 20.7984, "lng": -156.3319 },
+  "image": {
+    "file": "File:Road to hana coast Maui Hawaii (43923169680).jpg",
+    "alt": "The winding coastal road on Maui above black volcanic cliffs and green rainforest"
+  },
+  "intro": [
+    "Maui is 4,000 kilometres from the American mainland, five hours by air from California, and geologically a pair of volcanoes joined by a low isthmus of lava. The larger one, Haleakalā, rises to 3,055 metres — high enough that you drive from beach to alpine desert in two hours, passing through about six climate zones on the way, and high enough that the summit is frequently above the cloud layer.",
+    "The island is also Native Hawaiian land with a specific and difficult history. The Kingdom of Hawai'i was overthrown in 1893 with the involvement of American business interests and annexed five years later. Hawaiian language and cultural practice were suppressed for generations and have been the subject of a sustained revival since the 1970s. Visitors who understand this arrive as guests rather than consumers, which is both more respectful and a considerably better trip.",
+    "That matters more since August 2023, when a wildfire destroyed the historic town of Lahaina and killed 102 people. Lahaina was the capital of the Hawaiian Kingdom and the island's most visited town. Rebuilding is ongoing, tourism to West Maui has been complicated and sensitive, and travellers should check the current situation and follow local guidance about where visitors are welcome rather than assuming."
+  ],
+  "whyVisit": {
+    "intro": "Maui packs an unusual amount of variety into 1,900 square kilometres, and it has two experiences — the volcano summit and the winter whales — that are genuinely hard to get elsewhere.",
+    "points": [
+      {
+        "title": "Haleakalā is a volcano you can drive up",
+        "text": "From sea level to 3,055 metres in about two hours on a paved road, passing through climate zones from tropical to alpine desert. The summit is above the cloud layer for much of the year, and the crater is a landscape of red and black cinder cones."
+      },
+      {
+        "title": "The whales are extraordinary in winter",
+        "text": "Several thousand North Pacific humpbacks migrate to the shallow warm channel between Maui, Lāna'i and Moloka'i between December and April to calve. They are visible from the shore, and boat trips get you close to breaching adults."
+      },
+      {
+        "title": "The Road to Hana is a genuine drive",
+        "text": "Around 100 km with 620 curves and 59 one-lane bridges through rainforest, past waterfalls and along cliffs. It takes a full day each way and the road, rather than Hana itself, is the destination."
+      },
+      {
+        "title": "The snorkelling is first-class",
+        "text": "Molokini, a half-sunken volcanic crater 4 km offshore, has visibility often exceeding 30 metres. Turtles are common along the south and west shores, and the reef life is genuinely rich."
+      },
+      {
+        "title": "The variety is unusual for an island this size",
+        "text": "Beaches, rainforest, alpine desert, a working upcountry farming region, waterfalls and a 3,000-metre summit, all within an hour and a half's drive of each other."
+      }
+    ]
+  },
+  "attractionsIntro": "Maui divides into four areas — the volcano and upcountry, the Hana coast, the south shore, and the west — and the driving between them is longer than the map implies.",
+  "attractions": [
+    {
+      "name": "Haleakalā summit",
+      "text": "A 3,055 m dormant volcano whose summit area is a national park of cinder cones and lava in reds, browns and blacks. The sunrise from above the clouds is the famous experience; the sunset is nearly as good and much easier to arrange.",
+      "tip": "Sunrise entry requires a reservation booked 60 days ahead, with a small batch released two days out. It is 0–5°C at the top and the drive from the coast takes two hours."
+    },
+    {
+      "name": "The Road to Hana",
+      "text": "About 100 km of coastal highway with 620 curves and 59 one-lane bridges, through rainforest, past waterfalls, black-sand beaches and cliff viewpoints. The town of Hana at the end is small and quiet; the road is the point.",
+      "tip": "Start at 07:00, allow the whole day, and pull over constantly to let locals pass — this is a road people use to get to work."
+    },
+    {
+      "name": "The Pools of 'Ohe'o and Kīpahulu",
+      "text": "Beyond Hana, in the coastal section of Haleakalā National Park, a series of pools stepping down to the sea, and the Pipiwai Trail climbing through a bamboo forest to a 120-metre waterfall.",
+      "tip": "The Pipiwai Trail is 6 km round trip and the best walk on the island. Swimming in the pools is frequently closed for flash flood risk."
+    },
+    {
+      "name": "Molokini Crater",
+      "text": "A crescent of volcanic crater rim rising from the sea 4 km off the south coast, protected as a marine reserve, with visibility that regularly exceeds 30 metres and around 250 fish species.",
+      "tip": "The first boats of the morning get the calmest water and the best visibility. Afternoon trips are noticeably worse."
+    },
+    {
+      "name": "The south shore beaches",
+      "text": "Wailea and Mākena on the leeward south coast, with reliable sun, calm water and good snorkelling. Big Beach at Mākena is 800 metres of sand backed by a cinder cone; Wailea's beaches are more sheltered.",
+      "tip": "Turtles are common on the rocky points at either end of most south shore beaches, particularly in the late afternoon."
+    },
+    {
+      "name": "Upcountry and Makawao",
+      "text": "The green farming slopes of Haleakalā at 500–1,200 m, with lavender and protea farms, a winery, and Makawao — a former cattle town with Hawaiian cowboy history and a good main street.",
+      "tip": "Considerably cooler than the coast and almost entirely free of visitors. Worth combining with a Haleakalā trip."
+    },
+    {
+      "name": "'Īao Valley",
+      "text": "A steep green valley in the West Maui mountains behind Wailuku, holding the 360-metre 'Īao Needle and the site of a decisive 1790 battle in Kamehameha's unification of the islands. Historically sacred ground.",
+      "tip": "Requires an advance reservation for non-residents. Short paved walks, and it rains here most days."
+    },
+    {
+      "name": "Whale watching",
+      "text": "From December to April, several thousand humpbacks fill the Auʻau Channel between Maui, Lāna'i and Moloka'i. Boat trips run from Māʻalaea and Lahaina, and whales are frequently visible from the shore.",
+      "tip": "The Pacific Whale Foundation and other research-linked operators run trips with naturalists aboard. February is the peak month."
+    }
+  ],
+  "thingsToDoIntro": "Maui rewards a slower pace than most visitors give it. Two big days — the volcano and Hana — plus beaches and water for the rest.",
+  "thingsToDo": [
+    {
+      "title": "Watch sunrise from Haleakalā",
+      "text": "Leave the coast at about 03:00, drive two hours to 3,055 m, and watch the sun come up over a cloud layer beneath you. It is cold, crowded and genuinely extraordinary.",
+      "tip": "Reservation required, booked 60 days ahead. Take gloves and a proper coat — it is near freezing and windy at the summit."
+    },
+    {
+      "title": "Drive the Road to Hana properly",
+      "text": "Not as a race to Hana but as a day of stopping — waterfalls, the black sand at Waiʻānapanapa, banana bread stands, and the Pipiwai bamboo forest trail beyond Hana.",
+      "tip": "Waiʻānapanapa State Park requires an advance reservation. Fill up with fuel before you start; there is almost none on the road."
+    },
+    {
+      "title": "Snorkel at Molokini and along the south shore",
+      "text": "Molokini for visibility and fish, the south shore rocky points for green sea turtles. Both are excellent and the turtles are free.",
+      "tip": "Take the earliest boat of the day. Reef-safe sunscreen is legally required in Hawai'i — oxybenzone and octinoxate are banned."
+    },
+    {
+      "title": "See the whales, in season",
+      "text": "December to April, with February the peak. Boat trips from Māʻalaea, or simply watching from a south or west shore beach with binoculars — breaches are visible from land most winter days.",
+      "tip": "Choose an operator affiliated with a research organisation. Federal law requires 100 yards of distance and the good operators observe it."
+    },
+    {
+      "title": "Go upcountry",
+      "text": "The cool green slopes at 500–1,200 m, with lavender farms, a winery, Makawao's cowboy main street and views down over the isthmus. Almost nobody staying at a resort ever goes.",
+      "tip": "Combine it with the drive down from Haleakalā, which passes straight through."
+    },
+    {
+      "title": "Learn something about Hawai'i",
+      "text": "A hula performance that is a cultural practice rather than a dinner show, a Hawaiian cultural centre, or a guided walk that explains the history and the land. It changes the trip substantially.",
+      "tip": "Ask your accommodation for Native Hawaiian-led options rather than resort entertainment."
+    }
+  ],
+  "foodIntro": "Hawaiian food is a genuine fusion — Native Hawaiian, Japanese, Chinese, Filipino, Portuguese and Korean — created by the mixed workforce of the sugar and pineapple plantations.",
+  "foods": [
+    {
+      "name": "Poke",
+      "text": "Raw cubed fish — usually ahi tuna — with soy, sesame oil, onion and seaweed. A traditional Hawaiian preparation that has become a global export, and the version here is fresher and cheaper than any of them.",
+      "whereToTry": "Supermarket poke counters, which are genuinely excellent and cost a fraction of restaurant prices."
+    },
+    {
+      "name": "Plate lunch",
+      "text": "Two scoops of rice, macaroni salad and a protein — kalua pork, chicken katsu, teriyaki beef or loco moco. A direct legacy of plantation workers sharing lunches, and the island's everyday meal.",
+      "whereToTry": "Plate lunch counters and food trucks across the island. Portions are large."
+    },
+    {
+      "name": "Kalua pig and laulau",
+      "text": "Pork slow-cooked in an underground imu oven until it shreds, and laulau — pork and fish wrapped in taro leaves and steamed. Both are traditional Hawaiian preparations rather than fusion.",
+      "whereToTry": "Hawaiian food restaurants and lūʻau. Served with poi, a taro paste that is an acquired taste."
+    },
+    {
+      "name": "Shave ice",
+      "text": "Ice shaved to a snow-fine texture — not crushed — soaked in fruit syrups, often over ice cream with sweetened condensed milk on top. Introduced by Japanese plantation workers.",
+      "whereToTry": "Stands across the island. The texture is the difference between good and bad."
+    },
+    {
+      "name": "Malasadas",
+      "text": "Portuguese doughnuts without a hole, fried and rolled in sugar, brought by Azorean plantation workers in the 1880s and now a Hawaiian institution.",
+      "whereToTry": "Bakeries across the island, best eaten within minutes of frying."
+    },
+    {
+      "name": "Local produce",
+      "text": "Maui gold pineapple, upcountry strawberries, Kula onions sweet enough to eat raw, and coffee grown on the volcano slopes. The upcountry farms sell direct.",
+      "whereToTry": "Farmers' markets in Kahului and upcountry, and roadside stands on the Hana road."
+    }
+  ],
+  "accommodation": {
+    "intro": "Maui divides into distinct coasts with different weather and prices, and the driving between them takes longer than expected. Choose one base rather than moving repeatedly.",
+    "areas": [
+      {
+        "name": "Wailea and Mākena (south)",
+        "bestFor": "Reliable sun and beaches",
+        "text": "The driest, sunniest part of the island, with the big resorts, the best swimming beaches and the closest access to Molokini boats from Māʻalaea. Expensive and comfortable."
+      },
+      {
+        "name": "Kīhei (south)",
+        "bestFor": "Value on the sunny coast",
+        "text": "Just north of Wailea, with condominiums rather than resorts, its own beaches and much lower prices. The practical choice for a longer stay, and the best-value base on the island."
+      },
+      {
+        "name": "Pāʻia and the north shore",
+        "bestFor": "The Hana road and a local feel",
+        "text": "A small town at the start of the Road to Hana, with surf beaches, good restaurants and a windsurfing culture. Wetter than the south, far less resort-like, and well placed for both Hana and Haleakalā."
+      },
+      {
+        "name": "Upcountry — Kula and Makawao",
+        "bestFor": "Cool air and Haleakalā",
+        "text": "At 500–1,200 m on the volcano's slopes, cool and green, with farms and the shortest drive to the summit for sunrise. No beaches, and a different island from the coast."
+      },
+      {
+        "name": "West Maui — Kāʻanapali and Kapalua",
+        "bestFor": "Check the current situation first",
+        "text": "The resort coast north of Lahaina, which was devastated by the 2023 fire. Tourism here has resumed in stages and remains sensitive. Check current guidance and follow local direction about where visitors are welcome."
+      }
+    ],
+    "budget": [
+      { "label": "Condominium in Kīhei", "value": "$200–320 per night, the best value on the island" },
+      { "label": "Resort in Wailea", "value": "$450–900 per night, plus a resort fee and parking" },
+      { "label": "Car hire", "value": "$60–120 per day and effectively compulsory" },
+      { "label": "Haleakalā sunrise reservation", "value": "$1 per vehicle plus park entry, booked 60 days ahead" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Maui is a long way from anywhere. Five hours from California, ten from the US east coast, and eight or more from Asia.",
+    "options": [
+      {
+        "mode": "Kahului Airport (OGG)",
+        "text": "The island's main airport, in the central isthmus, with direct flights from the US West Coast, several mainland hubs, Canada and Japan, plus frequent inter-island hops from Honolulu.",
+        "detail": "Car hire is at the airport and should be booked well ahead — Maui periodically runs short of vehicles."
+      },
+      {
+        "mode": "Via Honolulu",
+        "text": "Many international routes connect through Honolulu on Oʻahu, with a 40-minute inter-island flight to Maui. Frequent departures throughout the day.",
+        "detail": "Allow proper connection time; inter-island flights are frequent but the transfer at Honolulu is not quick."
+      },
+      {
+        "mode": "Time zone and flight times",
+        "text": "Hawai'i is UTC−10 and does not observe daylight saving, so it is two or three hours behind California and five or six behind New York. Five hours' flying from Los Angeles, ten from New York.",
+        "detail": "Eastbound jet lag going home is significant. The westbound arrival is easy."
+      },
+      {
+        "mode": "Between the islands",
+        "text": "Short flights link Maui with Oʻahu, Kauaʻi and the Big Island. There is no passenger ferry to the other main islands, though a small ferry serves Lānaʻi.",
+        "detail": "Combining two islands means an internal flight and at least half a day. Better to do one island properly."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "You need a car. Maui's public transport is minimal, the distances are real, and everything worth doing is spread around a 1,900 square kilometre island.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Effectively compulsory. Kahului to Wailea is 40 minutes, to Pāʻia 15, to Haleakalā summit 2h, and to Hana 2h30 on the winding road.",
+        "detail": "Book months ahead. Maui has genuinely run out of rental cars in peak periods and prices spike accordingly."
+      },
+      {
+        "mode": "Driving the Hana road",
+        "text": "620 curves and 59 one-lane bridges. Bridge etiquette matters: the first car to arrive goes, and you yield to oncoming traffic already on the bridge.",
+        "detail": "Pull over to let locals pass. This is a working road, not an attraction, for the people who live along it."
+      },
+      {
+        "mode": "Reservations for specific sites",
+        "text": "Haleakalā sunrise, Waiʻānapanapa State Park and 'Īao Valley all require advance reservations for non-residents, booked online.",
+        "detail": "These systems change. Check each one when your dates are set rather than assuming you can turn up."
+      },
+      {
+        "mode": "Buses",
+        "text": "The Maui Bus network connects the main towns on limited schedules. Workable for getting between Kahului, Kīhei and Lahaina, useless for anything else.",
+        "detail": "Not a realistic substitute for a car on a sightseeing trip."
+      },
+      {
+        "mode": "Boats",
+        "text": "Snorkel and whale-watching trips leave from Māʻalaea and Lahaina harbours, and a passenger ferry runs to Lānaʻi.",
+        "detail": "Morning departures have calmer seas and better visibility. Afternoon trade winds pick up reliably."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October, or winter for whales",
+    "summary": "Maui's temperature barely changes — 25–30°C at the coast all year. The variables are rainfall, swell, whales and crowds, and they point in different directions.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "The sweet spot: dry, warm, calm seas, prices between the winter and summer peaks, and the last of the whales in early April. Consistently the best value of the good months."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "good",
+        "text": "Warm and dry with the calmest south shore water for snorkelling. Also peak family holiday season, with the highest prices and busiest beaches after winter."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The quietest and cheapest time with good weather — warm, dry and with the lowest visitor numbers of the year. No whales, and the water is at its warmest."
+      },
+      {
+        "season": "Winter (December–March)",
+        "rating": "good",
+        "text": "Whale season, which is a genuine reason to come, and the peak of the north shore surf. Also the wettest months, the busiest around Christmas and New Year, and the most expensive."
+      }
+    ],
+    "avoid": "Christmas and New Year, when rates roughly double and the island is at capacity. Also note that the leeward south and west are dry while the windward north and east can rain most days — the difference across 30 km is dramatic."
+  },
+  "itinerary": {
+    "title": "Six days on Maui",
+    "intro": "Two big days — Haleakalā and Hana — spaced apart, with water and rest between them. Assumes a south or north shore base and a car from arrival.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive and acclimatise",
+        "summary": "A long flight in. Do very little.",
+        "morning": "Land at Kahului, collect the car and stock up at a supermarket — including poke.",
+        "afternoon": "Settle in and swim at your nearest beach.",
+        "evening": "An early night. Sunrise at the volcano is a 03:00 alarm."
+      },
+      {
+        "day": 2,
+        "title": "Haleakalā and upcountry",
+        "summary": "Above the clouds before dawn, farmland afterwards.",
+        "morning": "Leave at 03:00 for the summit, on a booked reservation. Sunrise at 3,055 m, then the crater viewpoints.",
+        "afternoon": "Descend slowly through upcountry — Kula's farms, the winery, Makawao's main street.",
+        "evening": "Down to the coast, and dinner in Pāʻia."
+      },
+      {
+        "day": 3,
+        "title": "Water",
+        "summary": "Molokini in the morning, beaches after.",
+        "morning": "The earliest snorkel boat to Molokini from Māʻalaea — best visibility and calmest water.",
+        "afternoon": "The south shore beaches, and turtles on the rocky points in the late afternoon.",
+        "evening": "Sunset from a west-facing beach."
+      },
+      {
+        "day": 4,
+        "title": "The Road to Hana",
+        "summary": "A full day, out and back, with constant stops.",
+        "morning": "Leave Pāʻia at 07:00. Waterfalls, one-lane bridges, and the black sand at Waiʻānapanapa on a booked reservation.",
+        "afternoon": "Beyond Hana to Kīpahulu for the Pipiwai bamboo trail and the 120-metre waterfall.",
+        "evening": "Back the way you came, in the dark. Eat before you set off."
+      },
+      {
+        "day": 5,
+        "title": "Slow day",
+        "summary": "Recover, and do the things that need no driving.",
+        "morning": "Beach, snorkel from the shore, or a surf lesson on the north shore.",
+        "afternoon": "'Īao Valley on a booked reservation, or a Hawaiian cultural centre.",
+        "evening": "Whale watching from shore if it is winter, or a lūʻau."
+      },
+      {
+        "day": 6,
+        "title": "Last water and depart",
+        "summary": "One more swim before the long flight.",
+        "morning": "A final beach morning, or a whale-watching boat in season.",
+        "afternoon": "Farmers' market in Kahului, then the airport.",
+        "evening": "Fly out — and note that the eastbound jet lag is the hard direction."
+      }
+    ]
+  },
+  "tipsIntro": "Several of these are about being a good guest, which matters more here than in most places.",
+  "tips": [
+    "Lahaina was destroyed by wildfire in August 2023 with 102 deaths, and West Maui tourism remains sensitive. Check current local guidance about where visitors are welcome, do not treat the burn area as a sight, and follow the direction of the community rather than assuming.",
+    "Haleakalā sunrise requires a reservation booked 60 days ahead, with a small batch released two days out. It costs about $1 plus park entry. Sunset requires no reservation and is nearly as good.",
+    "It is 0–5°C at Haleakalā's summit at dawn, with wind, while the coast you left is 24°C. Take a proper coat, gloves and a hat — people arrive in shorts every single morning and regret it.",
+    "Reef-safe sunscreen is legally required in Hawai'i. Oxybenzone and octinoxate are banned because they damage coral. Buy mineral-based sunscreen before you go or on the island.",
+    "Waiʻānapanapa State Park and 'Īao Valley both require advance reservations for non-residents. So does Haleakalā at sunrise. Book all three when your dates are fixed.",
+    "On the Road to Hana, pull over to let local drivers pass. This is a working road for the people who live along it, not an attraction, and the courtesy is noticed.",
+    "Green sea turtles and Hawaiian monk seals are legally protected with minimum approach distances. Do not touch, chase or block them, and give resting animals on the beach a wide berth.",
+    "Learn and use a few words: aloha and mahalo at minimum. Hawaiian is an official state language and its use was actively suppressed for generations — the revival matters to people here."
+  ],
+  "faq": [
+    {
+      "q": "Do you need a reservation for Haleakalā sunrise?",
+      "a": "Yes. Sunrise entry between 03:00 and 07:00 requires a reservation booked online 60 days in advance, with a small additional batch released two days ahead. It costs about $1 per vehicle plus the park entry fee. Sunset requires no reservation, is far easier to arrange and is nearly as spectacular."
+    },
+    {
+      "q": "How cold is it at the top of Haleakalā?",
+      "a": "Typically 0–5°C at dawn, with wind that makes it feel colder, while the coast you drove from is 24°C. The summit is at 3,055 m. Take a proper coat, gloves and a hat — every morning people arrive in shorts and shiver through the sunrise. Some altitude effects are also common on the drive up."
+    },
+    {
+      "q": "Is the Road to Hana worth doing?",
+      "a": "Yes, but understand what it is. It is about 100 km with 620 curves and 59 one-lane bridges, and it takes a full day out and back. The point is the road itself — waterfalls, rainforest, black-sand beaches and the Pipiwai bamboo trail beyond Hana — not the town at the end, which is small and quiet. Start at 07:00 and do not rush it."
+    },
+    {
+      "q": "When can you see whales on Maui?",
+      "a": "December to April, with February the peak. Several thousand North Pacific humpbacks migrate to the warm shallow channel between Maui, Lānaʻi and Molokaʻi to calve. They are frequently visible from south and west shore beaches, and boat trips from Māʻalaea get you closer. Choose an operator affiliated with a research organisation."
+    },
+    {
+      "q": "Should I visit Maui after the 2023 Lahaina fire?",
+      "a": "Tourism is an essential part of Maui's economy and visitors have generally been welcomed back, but West Maui remains sensitive and the situation continues to evolve. Check current local guidance before booking, do not treat the burn area as a sight to visit or photograph, and follow the direction of the community about where visitors are welcome. Staying on the south or north shores avoids the question entirely."
+    },
+    {
+      "q": "How many days do you need on Maui?",
+      "a": "Six to eight. Two of those are big fixed days — Haleakalā and the Road to Hana — and both need recovery time either side. Add snorkelling, beach days and upcountry, plus a day at each end lost to the long flights. Fewer than five days and the two headline days dominate the whole trip."
+    },
+    {
+      "q": "Do you need a car on Maui?",
+      "a": "Effectively yes. The bus network connects a few main towns on limited schedules and reaches almost nothing worth seeing. Kahului to Haleakalā's summit is two hours, to Hana two and a half. Book the car months ahead — Maui has genuinely run out of rental vehicles during peak periods, and prices spike when it does."
+    }
+  ],
+  "related": ["san-francisco", "grand-canyon", "yellowstone", "tenerife-teide"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season", "underrated-destinations"]
+}

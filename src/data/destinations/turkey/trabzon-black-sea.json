@@ -1,0 +1,368 @@
+{
+  "slug": "trabzon-black-sea",
+  "name": "Trabzon & the Black Sea Coast",
+  "shortName": "Trabzon",
+  "country": "turkey",
+  "region": "Eastern Black Sea",
+  "categories": ["mountains", "nature", "coastal", "off-the-beaten-path"],
+  "tagline": "Turkey's green, wet, mountainous north — tea terraces, cloud-filled valleys and a monastery glued to a cliff.",
+  "highlight": "Sumela Monastery, built into a rock face 300 metres above the Altındere valley.",
+  "shortDescription": "The one part of Turkey that looks like the Alps: rain-fed forest, highland pastures at 2,000 metres, the last Byzantine capital, and a food culture built on anchovies, cornmeal and butter.",
+  "metaDescription": "A Trabzon and Black Sea coast travel guide: Sumela Monastery, the Kaçkar mountains, Ayder, the yayla plateaus, Rize tea country, when to go and a five-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Trabzon (TZX)",
+  "knownFor": "Sumela, tea, the Kaçkar mountains, hamsi",
+  "budget": "€55–110 per day, mid-range",
+  "goodFor": "Mountains, walking, food, escaping the summer heat",
+  "coords": { "lat": 41.0027, "lng": 39.7168 },
+  "image": {
+    "file": "File:Sumela From Across Valley.JPG",
+    "alt": "Sumela Monastery built into a sheer cliff face above the forested Altındere valley near Trabzon"
+  },
+  "intro": [
+    "Everything most people picture when they think of Turkey — dry light, olive trees, ruins baking in the sun — is absent here. The eastern Black Sea is the wettest part of the country, with rain in every month and over two metres of it a year in places. The result is a coast of near-vertical green: tea terraces climbing from the sea, hazelnut groves, beech and spruce forest, and valleys that fill with cloud by mid-morning. It looks far more like the Alps or the Caucasus than like the Aegean, because geographically it is much closer to both.",
+    "Trabzon is the region's city and was, for two and a half centuries, a capital. After the Fourth Crusade sacked Constantinople in 1204, a branch of the Komnenos dynasty set up the Empire of Trebizond here — a Black Sea state that outlasted Byzantium itself, falling to Mehmed II only in 1461. What survives is a thirteenth-century Hagia Sophia with its frescoes, a walled old quarter above a ravine, and a position on the old caravan route from Persia to the sea.",
+    "The reason most people come, though, is an hour inland and 1,200 metres up. Sumela Monastery is built into a sheer cliff above the Altındere valley, a Greek Orthodox foundation traditionally dated to 386 and abandoned in 1923 when its community left in the population exchange. Beyond it the land climbs again to the Kaçkar mountains, where the highest peak reaches 3,937 metres and the summer pastures — the yayla — sit above the cloud line with wooden houses on stilts."
+  ],
+  "whyVisit": {
+    "intro": "This is the part of Turkey that surprises people who thought they knew the country. It is green, cool, mountainous, and culturally distinct.",
+    "points": [
+      {
+        "title": "Sumela is genuinely spectacular",
+        "text": "A monastery built into a cliff face 300 metres above a forested valley, with rock-cut chapels and frescoes painted on the bare stone inside and out. There is nothing else like it in Turkey."
+      },
+      {
+        "title": "The yayla are the real draw",
+        "text": "Highland pastures at 1,800–2,200 metres where families still bring animals up for the summer, reached by rough roads and often sitting above a sea of cloud with the Kaçkars behind. Pokut, Sal and Hıdırnebi are the classics."
+      },
+      {
+        "title": "It is cool when the rest of Turkey is unbearable",
+        "text": "In July and August, when [[sanliurfa-gobekli-tepe|Şanlıurfa]] passes 42°C and the Aegean ruins become unwise, the Black Sea coast sits at 25°C, green and damp. It is the country's summer escape."
+      },
+      {
+        "title": "A completely different kitchen",
+        "text": "Cornmeal rather than wheat, butter and stringy cheese, collard greens, and anchovies used in fifty ways including a rice pilaf and a dessert. Nothing here tastes like the food on the coast or the plateau."
+      },
+      {
+        "title": "Serious mountain walking",
+        "text": "The Kaçkar range rises to 3,937 metres within 30 km of the sea, with glacial lakes, waymarked routes between yayla, and a trekking season from July to September."
+      }
+    ]
+  },
+  "attractionsIntro": "Trabzon itself takes half a day. Everything else is spread along 200 km of coast and up the valleys behind it, and a car makes all the difference.",
+  "attractions": [
+    {
+      "name": "Sumela Monastery",
+      "text": "Founded by tradition in 386 and rebuilt many times, built into a cliff at about 1,200 m in the Altındere valley 45 km south of Trabzon. The rock church carries frescoes on its interior and exterior faces; the monks left in 1923.",
+      "tip": "It closed for several years for rockfall stabilisation and has reopened in stages — check which sections are accessible before you set out."
+    },
+    {
+      "name": "Hagia Sophia of Trabzon",
+      "text": "A thirteenth-century church of the Trebizond empire on a bluff west of the centre, with an unusually complete fresco cycle and a carved frieze of Adam and Eve on the south porch. It functions as a mosque today.",
+      "tip": "Some frescoes are screened during prayer. Visit outside prayer times, dress modestly and remove shoes."
+    },
+    {
+      "name": "Ayder and the Kaçkar mountains",
+      "text": "A plateau village at 1,300 m in Rize province with hot springs, wooden houses and paths climbing into the Kaçkar range behind it. The base for trekking to glacial lakes and up towards the 3,937 m summit.",
+      "tip": "Ayder itself has been heavily overbuilt. Treat it as a trailhead and sleep higher up at Pokut or Sal if you can."
+    },
+    {
+      "name": "The Fırtına valley and Zil Kale",
+      "text": "A long forested gorge inland from Ardeşen crossed by Ottoman humpback stone bridges, with the medieval Zil Kale standing on a spur above the river halfway up.",
+      "tip": "The road narrows and roughens the further you go. Take it slowly and stop at the bridges — several are still in use."
+    },
+    {
+      "name": "The yayla plateaus",
+      "text": "Summer pastures at 1,800–2,200 m — Pokut, Sal, Hıdırnebi, Gito — with stilted wooden houses, grazing animals and, very often, cloud lying in the valleys below you at dawn.",
+      "tip": "The last few kilometres are unsurfaced. Guesthouses are simple, cold at night even in August, and worth every minute."
+    },
+    {
+      "name": "Rize and the tea terraces",
+      "text": "Almost all of Turkey's tea is grown on these slopes, in terraces that run from the shoreline to 900 m. Rize has hillside tea gardens with views over the plantations and the sea.",
+      "tip": "The Ziraat tea garden above Rize is the classic stop. Harvest runs in three flushes from May to autumn."
+    },
+    {
+      "name": "Uzungöl",
+      "text": "A lake at about 1,100 m in a steep wooded valley 100 km south-east of Trabzon, with a mosque at the water's edge — the most photographed spot in the region and now heavily developed around it.",
+      "tip": "Go early in the day or out of season. In July and August it is extremely busy and the valley road can gridlock."
+    },
+    {
+      "name": "Boztepe and the Atatürk Pavilion",
+      "text": "The hill above Trabzon, with the whole city, harbour and coastline laid out below, and a white late-Ottoman villa in gardens partway up that Atatürk used on his visits.",
+      "tip": "Late afternoon for the light. A short taxi ride from the centre and there are tea gardens at the top."
+    }
+  ],
+  "thingsToDoIntro": "This is a driving-and-walking region. The best days involve getting up a valley and staying the night at the top of it.",
+  "thingsToDo": [
+    {
+      "title": "Visit Sumela",
+      "text": "The approach through the Altındere national park, the climb up to the monastery, and the frescoes painted directly onto the cliff. Allow half a day including the drive from Trabzon.",
+      "tip": "Mornings are clearer; by afternoon cloud often fills the valley and hides the whole thing."
+    },
+    {
+      "title": "Sleep on a yayla",
+      "text": "Drive up to Pokut or Sal in the late afternoon, eat muhlama in a wooden house, and wake above a valley full of cloud. It is the single best experience in the region and nothing on the coast matches it.",
+      "tip": "Book ahead in summer — there are only a handful of rooms — and take a fleece whatever the coastal forecast says."
+    },
+    {
+      "title": "Drive the Fırtına valley",
+      "text": "From Ardeşen up the gorge past Ottoman stone bridges to Zil Kale and beyond towards Çat, with the river below and the forest closing over the road.",
+      "tip": "A full day with stops. The road deteriorates progressively; a normal car reaches Zil Kale comfortably."
+    },
+    {
+      "title": "Trek in the Kaçkars",
+      "text": "Day walks from Ayder to waterfalls and pastures, or multi-day routes between yayla and up towards the glacial lakes, with the summit at 3,937 m for those equipped for it.",
+      "tip": "July to September only. Weather changes fast and fog is the real hazard — take a map, not just a phone."
+    },
+    {
+      "title": "Drink tea where it grows",
+      "text": "Sit in a hillside tea garden above Rize with terraces running down to the sea, and drink the çay that supplies the whole country from the province you are looking at.",
+      "tip": "Turkish tea is served in tulip glasses and comes strong; ask for 'açık' if you want it weaker."
+    },
+    {
+      "title": "Eat hamsi in season",
+      "text": "Between November and February the anchovy is everywhere — fried in cornmeal, baked into rice, made into meatballs, and argued about endlessly. It defines the regional identity as much as the tea does.",
+      "tip": "Out of season it will be frozen. If you are here in summer, eat muhlama and Akçaabat köfte instead."
+    }
+  ],
+  "foodIntro": "Wheat does not thrive in this rain, so the Black Sea cooks with maize, butter, cheese, greens and fish — a kitchen with no equivalent elsewhere in Turkey.",
+  "foods": [
+    {
+      "name": "Hamsi",
+      "text": "The Black Sea anchovy, in season from November to February, fried in cornmeal (hamsi tava), layered into rice (hamsili pilav), pressed into meatballs, and even baked into bread. A regional obsession.",
+      "whereToTry": "Any coastal restaurant in winter. In summer, assume it is frozen and order something else."
+    },
+    {
+      "name": "Muhlama",
+      "text": "Also called kuymak: cornmeal cooked slowly into melted butter and young stringy cheese until it pulls into threads. Eaten from the pan with bread, usually at breakfast, and utterly rich.",
+      "whereToTry": "Yayla guesthouses and highland breakfast places. The higher up you eat it, the better it tends to be."
+    },
+    {
+      "name": "Karalahana and corn bread",
+      "text": "Black cabbage — a collard that grows through the wet winters — made into soup with beans and cornmeal, or wrapped around rice as sarma, and eaten with dense yellow mısır ekmeği.",
+      "whereToTry": "Village restaurants inland. It is home cooking rather than restaurant cooking, so simpler places do it best."
+    },
+    {
+      "name": "Akçaabat köftesi",
+      "text": "Meatballs from the Akçaabat district west of Trabzon: coarsely minced beef with garlic and bread, grilled over charcoal and served with onion, peppers and a mound of parsley.",
+      "whereToTry": "Akçaabat itself, twenty minutes along the coast, where the specialists are — and in Trabzon's grill houses."
+    },
+    {
+      "name": "Laz böreği",
+      "text": "Layers of very thin pastry with a set custard between them, baked and dusted with sugar. A dessert unique to this coast and much lighter than the syrup-soaked pastries of the south.",
+      "whereToTry": "Pastry shops in Trabzon, Rize and Ardeşen. It sells out by the afternoon."
+    },
+    {
+      "name": "Rize çay",
+      "text": "Turkish tea is grown almost entirely on these slopes, picked in three flushes from May, brewed in a double pot and served black in tulip glasses with sugar cubes on the saucer.",
+      "whereToTry": "Tea gardens above Rize looking down over the terraces, and every single café in the region."
+    }
+  ],
+  "accommodation": {
+    "intro": "The choice is coast or altitude. Trabzon has the hotels; the mountains have the reason you came.",
+    "areas": [
+      {
+        "name": "Trabzon city",
+        "bestFor": "Arrivals, transport and the sights",
+        "text": "Business-standard hotels around Meydan square, close to the bazaar, Hagia Sophia and the airport. Convenient rather than atmospheric, and the base for Sumela."
+      },
+      {
+        "name": "Pokut, Sal and the yayla",
+        "bestFor": "The best nights in the region",
+        "text": "Restored wooden highland houses at around 2,000 m, simple and often shared, reached by rough roads. Cold at night, no distractions, and cloud filling the valley below at dawn."
+      },
+      {
+        "name": "Ayder",
+        "bestFor": "Kaçkar trailheads and hot springs",
+        "text": "A plateau village with thermal baths and a lot of concrete built in the last two decades. Practical as a base for walking; not the picture-postcard village it once was."
+      },
+      {
+        "name": "Çamlıhemşin and the Fırtına valley",
+        "bestFor": "River valleys and quiet",
+        "text": "Small guesthouses along the gorge below Ayder, among stone bridges and forest, with far more character than the plateau village above and easy access to Zil Kale."
+      },
+      {
+        "name": "Uzungöl",
+        "bestFor": "Lake views, with caveats",
+        "text": "Wooden-fronted hotels around a small lake in a steep valley. Beautiful early and late in the day, and extremely crowded through the middle of the summer."
+      }
+    ],
+    "budget": [
+      { "label": "Trabzon city hotel", "value": "€40–75 per night" },
+      { "label": "Yayla guesthouse, half board", "value": "€35–70 per person" },
+      { "label": "Sumela entry and shuttle", "value": "€10–18" },
+      { "label": "Car hire", "value": "€35–55 per day, and effectively essential" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Trabzon is a long way from anywhere else in Turkey by road, so almost everyone flies in.",
+    "options": [
+      {
+        "mode": "Trabzon Airport (TZX)",
+        "text": "On the coast a few kilometres east of the centre, with very frequent flights from Istanbul (about 1h50) and Ankara, plus routes to the Gulf and Russia.",
+        "detail": "Taxis into town take ten minutes. Car hire desks are in the terminal — book ahead in summer."
+      },
+      {
+        "mode": "Rize–Artvin Airport (RZV)",
+        "text": "A newer airport built out into the sea near Rize, closer to Ayder, the Fırtına valley and the Kaçkars than Trabzon is.",
+        "detail": "Worth checking if the mountains rather than Sumela are your priority."
+      },
+      {
+        "mode": "Bus",
+        "text": "The coast road runs the length of the Black Sea: Istanbul is about 17h, [[ankara]] 11h, Erzurum 5h and the Georgian border at Sarp 3h.",
+        "detail": "Long but comfortable overnight services. Flying is almost always the better use of a holiday."
+      },
+      {
+        "mode": "Onward to Georgia",
+        "text": "The border at Sarp is about three hours east along the coast, and Batumi is a short distance beyond it — a common and easy add-on to a Black Sea trip.",
+        "detail": "Buses run through to Batumi and Tbilisi. Check visa requirements for your nationality."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "This is the one part of Turkey where a hire car is close to essential — the good places are up valleys that buses do not climb.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The only practical way to reach the yayla, the Fırtına valley and the smaller plateaus. Roads are steep, narrow and often wet, with the last stretches unsurfaced.",
+        "detail": "Drive in daylight. Fog is common above 1,500 m and the drops are unguarded in places."
+      },
+      {
+        "mode": "Dolmuş",
+        "text": "Minibuses run along the coast between the towns and up the main valleys to Ayder and Uzungöl, but not to the smaller yayla.",
+        "detail": "Frequent in summer, sparse from October. Confirm the last return of the day before you commit."
+      },
+      {
+        "mode": "Sumela shuttle",
+        "text": "Vehicles are kept out of the upper valley; shuttles run from the national park car park to the foot of the monastery path, and tours from Trabzon include the transfer.",
+        "detail": "There is still a climb at the end. Steps can be slippery in the wet."
+      },
+      {
+        "mode": "Tours from Trabzon",
+        "text": "Day tours cover Sumela, Uzungöl and Ayder from the city, which is a reasonable fallback if you are not driving.",
+        "detail": "Each tour is a long day for one destination. Two or three days of car hire covers more."
+      },
+      {
+        "mode": "Walking",
+        "text": "Trabzon's centre, bazaar and Meydan are walkable; in the mountains, walking is the transport, with paths linking the yayla above the road heads.",
+        "detail": "Trails are not always waymarked. A local guide is worth it for anything beyond a day walk."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "June–September, with July and August busiest",
+    "summary": "The mountains dictate the season: the yayla roads are open and the trekking is possible only in summer, which is also when the rest of Turkey is too hot and everyone comes here instead.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "shoulder",
+        "text": "Intensely green and full of rhododendron, with waterfalls at their strongest. The high yayla are still under snow and some roads remain closed. Wet, but the coast and Sumela are fine."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "best",
+        "text": "The only reliable window for the plateaus and the Kaçkars, at a comfortable 22–27°C on the coast and cool at altitude. Also the busiest — Uzungöl and Ayder fill with domestic and Gulf visitors."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year: the crowds go home, the forests turn, the trekking is still open through September, and the light between rain showers is exceptional."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Mild and very wet on the coast at 7–12°C, deep snow in the mountains, and most yayla guesthouses shut. This is hamsi season, which is a genuine reason to come."
+      }
+    ],
+    "avoid": "Do not plan a Black Sea trip around clear skies. This is the wettest region in Turkey, with rain possible on any day of the year — pack for it and treat the cloud in the valleys as the scenery rather than the problem."
+  },
+  "itinerary": {
+    "title": "Five days on the eastern Black Sea",
+    "intro": "Trabzon and Sumela first, then east into the mountains, with two nights at altitude. Assumes a hire car from day two.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Trabzon",
+        "summary": "The city and the last Byzantine capital.",
+        "morning": "Hagia Sophia of Trabzon and its frescoes.",
+        "afternoon": "The bazaar, Ortahisar and the old walls above the ravine.",
+        "evening": "Boztepe for the view over the coast, then Akçaabat köfte for dinner."
+      },
+      {
+        "day": 2,
+        "title": "Sumela",
+        "summary": "The monastery in the cliff.",
+        "morning": "Drive up the Altındere valley and take the shuttle and path to Sumela.",
+        "afternoon": "Vazelon monastery or the Zigana pass inland.",
+        "evening": "Back to Trabzon, or start east along the coast."
+      },
+      {
+        "day": 3,
+        "title": "Into Rize",
+        "summary": "Tea country and the river gorge.",
+        "morning": "The tea terraces and a hillside tea garden above Rize.",
+        "afternoon": "Up the Fırtına valley past the stone bridges to Zil Kale.",
+        "evening": "Stay at Çamlıhemşin or climb to a yayla for the night."
+      },
+      {
+        "day": 4,
+        "title": "The plateaus",
+        "summary": "The best day of the trip.",
+        "morning": "Dawn above the cloud at Pokut or Sal, and muhlama for breakfast.",
+        "afternoon": "Walk between the yayla, or up towards the Kaçkar lakes from Ayder.",
+        "evening": "A second night at altitude, which is worth rearranging plans for."
+      },
+      {
+        "day": 5,
+        "title": "Back to the sea",
+        "summary": "Down the valley and along the coast.",
+        "morning": "Descend to Ayder for the hot springs and the waterfall walk.",
+        "afternoon": "The coast road west, stopping at Uzungöl if you have not had enough mountains.",
+        "evening": "Trabzon, and hamsi if the season is right."
+      }
+    ]
+  },
+  "tipsIntro": "Black Sea travel runs on weather and altitude, and both catch people out.",
+  "tips": [
+    "Hire a car. The yayla, the Fırtına valley and the smaller plateaus are what make this region, and no bus goes to any of them — two or three days of hire changes the trip completely.",
+    "Sleep at least one night on a yayla at around 2,000 metres. Waking above a valley full of cloud is the thing people remember, and there are only a handful of rooms, so book ahead in summer.",
+    "Take warm and waterproof clothes whatever the coastal forecast says. Nights at altitude are cold in August, and this is the wettest region in Turkey.",
+    "Visit Sumela in the morning. Cloud typically fills the Altındere valley by early afternoon and can hide the monastery entirely — and check in advance which parts are open after the years of rockfall works.",
+    "Uzungöl is beautiful at dawn and mobbed by mid-morning through July and August. Either go early or accept a queue of traffic on the valley road.",
+    "Hamsi is a winter fish, November to February. Ordering it in July gets you something frozen — eat muhlama, Akçaabat köfte and Laz böreği instead.",
+    "Mountain fog is the real hazard here, not the gradient. Carry a paper map or an offline route for anything beyond a marked day walk, and hire a guide for the Kaçkar crossings.",
+    "If you have come this far, the Georgian border at Sarp is only three hours east and Batumi just beyond it — a natural extension rather than a separate trip."
+  ],
+  "faq": [
+    {
+      "q": "Is Trabzon worth visiting?",
+      "a": "Trabzon the city is worth half a day — a thirteenth-century Hagia Sophia with fine frescoes, a bazaar and the hill above the harbour. The region behind it is what justifies the flight: Sumela Monastery in its cliff, the tea terraces of Rize, the Fırtına valley and the highland pastures below the Kaçkar mountains. Treat the city as a base, not a destination."
+    },
+    {
+      "q": "How do I get to Sumela Monastery?",
+      "a": "It is 45 km south of Trabzon in the Altındere valley, about an hour by road. Private cars are kept out of the upper valley, so you park at the national park entrance and take a shuttle to the foot of the path, then climb. Tours from Trabzon include the transfer. The monastery closed for several years for rockfall stabilisation and has reopened in stages, so check which sections are accessible before travelling."
+    },
+    {
+      "q": "What is a yayla?",
+      "a": "A summer highland pasture, typically between 1,800 and 2,200 metres, where families historically moved their animals for the warm months and built wooden houses on stone or stilted bases. Several — Pokut, Sal, Hıdırnebi, Gito — now have simple guesthouses. Staying on one, above the cloud that fills the valleys at dawn, is the best thing this region offers."
+    },
+    {
+      "q": "Do I need a car on the Black Sea coast?",
+      "a": "Effectively yes. Dolmuş minibuses cover the coast road and reach Ayder and Uzungöl, but nothing goes to the smaller yayla, up the Fırtına valley to Zil Kale, or to the plateau guesthouses. Day tours from Trabzon cover Sumela and Uzungöl if you would rather not drive, but you will see a fraction of the region."
+    },
+    {
+      "q": "When is the best time to visit the Black Sea region?",
+      "a": "June to September for the mountains — that is when the yayla roads are open and the Kaçkar trekking is possible. September is the sweet spot, with the crowds gone and the walking still open. Spring is intensely green but the high roads may still be snowed in. Winter is mild and wet on the coast at 7–12°C, snowbound above, and the season for hamsi."
+    },
+    {
+      "q": "Does it really rain that much?",
+      "a": "Yes. This is the wettest part of Turkey, with over two metres of rain a year in places and precipitation possible in every month. That rain is why the region looks the way it does — tea, hazelnuts, forest and cloud-filled valleys. Pack waterproofs, plan indoor alternatives, and treat the mist as part of the landscape rather than a spoiled day."
+    },
+    {
+      "q": "Can I combine the Black Sea with Georgia?",
+      "a": "Very easily. The border crossing at Sarp is about three hours east of Trabzon along the coast, with Batumi a short distance beyond it, and buses run through to Batumi and Tbilisi. Given how far the eastern Black Sea is from the rest of Turkey, adding Georgia often makes more sense than doubling back west. Check visa requirements for your nationality first."
+    }
+  ],
+  "related": ["istanbul", "cappadocia", "sanliurfa-gobekli-tepe", "dolomites"],
+  "relatedArticles": ["underrated-destinations", "packing-by-season", "best-time-southern-europe"]
+}

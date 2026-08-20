@@ -1,0 +1,352 @@
+{
+  "slug": "sanliurfa-gobekli-tepe",
+  "name": "Şanlıurfa & Göbekli Tepe",
+  "shortName": "Şanlıurfa",
+  "country": "turkey",
+  "region": "Southeastern Anatolia",
+  "categories": ["archaeological", "unesco", "cultural", "historic"],
+  "tagline": "The oldest monumental architecture on earth, on the edge of a city that still feels like the Middle East rather than the Mediterranean.",
+  "highlight": "Göbekli Tepe — carved stone enclosures raised around 9500 BC, before farming, pottery, metal or writing.",
+  "shortDescription": "A pilgrimage city of sacred carp pools and covered bazaars, twenty minutes from the site that pushed the start of monumental building back by six thousand years.",
+  "metaDescription": "A Şanlıurfa and Göbekli Tepe travel guide: the world's oldest temple complex, Karahan Tepe, the Balıklıgöl pools, Harran's beehive houses, when to go and a three-day itinerary.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Şanlıurfa GAP (GNY)",
+  "knownFor": "Göbekli Tepe, Balıklıgöl, isot pepper, Harran",
+  "budget": "€45–90 per day, mid-range",
+  "goodFor": "Archaeology, food, culture, seeing a different Turkey",
+  "coords": { "lat": 37.1591, "lng": 38.7969 },
+  "image": {
+    "file": "File:Göbekli Tepe, Urfa.jpg",
+    "alt": "Excavated circular enclosures with carved T-shaped limestone pillars at Göbekli Tepe near Şanlıurfa"
+  },
+  "intro": [
+    "Göbekli Tepe is the reason the textbooks were rewritten. On a limestone ridge eighteen kilometres from Şanlıurfa, hunter-gatherers quarried, carved and raised T-shaped pillars up to five and a half metres high and ten tonnes in weight, set them in circles, decorated them with foxes, boars, snakes, cranes and scorpions — and did it around 9500 BC. That is roughly six thousand years before Stonehenge and seven thousand before the pyramids, and crucially before pottery, before metal, before writing, before the wheel, and before agriculture was established. The old assumption was that farming produced settlement, settlement produced surplus, and surplus produced monuments. This site suggests the sequence may have run the other way round.",
+    "Excavation began in 1995 under Klaus Schmidt, and only a fraction of the mound has been dug; geophysical survey indicates many more enclosures still buried. It became a UNESCO World Heritage Site in 2018 and now sits under protective canopies with raised walkways. Nearby, Karahan Tepe and a string of related sites are being investigated as part of the same Neolithic world, and the finds — including the Urfa Man, a life-size human statue of around 9000 BC and the oldest known — are in the city's excellent archaeology museum.",
+    "Şanlıurfa itself is not a backdrop. It is one of the oldest continuously inhabited cities in the world, known to the Greeks as Edessa, and it is a working pilgrimage city: at Balıklıgöl, sacred carp fill pools where, by tradition, Abraham was thrown into a fire that God turned to water. Around it are Ottoman mosques, courtyard houses, a covered bazaar with coppersmiths still hammering, and a food culture built on lamb, bulgur and a dark purple pepper called isot that is grown nowhere else. It is conservative, hot, and completely unlike the Turkey of the coast."
+  ],
+  "whyVisit": {
+    "intro": "This is the one place in Turkey where a single site genuinely changes how you think about the human past — and the city around it is not an anticlimax.",
+    "points": [
+      {
+        "title": "Göbekli Tepe rewrote prehistory",
+        "text": "Monumental carved architecture from around 9500 BC, built by people who had not yet domesticated plants or animals. It is the oldest known structure of its kind anywhere, and it is legible in a way most Neolithic sites are not."
+      },
+      {
+        "title": "The museum is exceptional",
+        "text": "Şanlıurfa's archaeology museum is among the largest in Turkey, with a full-scale reconstruction of a Göbekli Tepe enclosure and the Urfa Man — the oldest life-size human statue known, carved around 9000 BC."
+      },
+      {
+        "title": "Balıklıgöl is a living pilgrimage site",
+        "text": "Sacred carp pools beneath the castle rock, surrounded by Ottoman mosques and gardens, busy every day with families and pilgrims. A place of active devotion rather than a monument."
+      },
+      {
+        "title": "A bazaar that still works",
+        "text": "Covered markets and caravanserais where coppersmiths, felt-makers and spice merchants trade with local people rather than tourists, centred on the Gümrük Han courtyard of 1562."
+      },
+      {
+        "title": "The best food in Turkey is next door",
+        "text": "Urfa's own kebab, çiğ köfte and isot pepper are worth the trip, and Gaziantep — arguably the country's food capital, with its pistachio baklava and Roman mosaics — is two hours west."
+      }
+    ]
+  },
+  "attractionsIntro": "The Neolithic sites and the museum are the reason to come; the old city takes a full day on its own and should not be treated as filler.",
+  "attractions": [
+    {
+      "name": "Göbekli Tepe",
+      "text": "Circular and oval enclosures of T-shaped limestone pillars, carved in relief with animals and abstract symbols, raised from about 9500 BC and deliberately buried later. Under canopies with a walkway around the main excavation.",
+      "tip": "A guide is worth it — the layout is hard to read alone. Visit the museum first or the same day; the two only make sense together."
+    },
+    {
+      "name": "Şanlıurfa Archaeology Museum",
+      "text": "One of Turkey's largest, running from the Palaeolithic through the Neolithic to the Islamic period, with a reconstructed Göbekli Tepe enclosure at full scale and the Urfa Man statue of around 9000 BC.",
+      "tip": "Two hours. The Haleplibahçe mosaic museum with its Amazon hunting scenes is next door on the same ticket area."
+    },
+    {
+      "name": "Balıklıgöl",
+      "text": "Two pools of sacred carp in the Gölbaşı gardens beneath the castle rock, framed by the Halil-ür Rahman and Rızvaniye mosques, and tied to the tradition of Abraham surviving Nimrod's fire.",
+      "tip": "Late afternoon, when families come out and the light is on the mosque walls. Feed the fish, and do not attempt to catch one."
+    },
+    {
+      "name": "Urfa Castle",
+      "text": "The fortress on the rock directly above the pools, reached by steps or a tunnel, with two tall Corinthian columns on the summit known locally as the Throne of Nimrod and a view over the whole old city.",
+      "tip": "Climb at sunset. The steps are steep and completely exposed — not a midday activity in summer."
+    },
+    {
+      "name": "The old bazaar",
+      "text": "A warren of covered markets around the Gümrük Han of 1562: coppersmiths, felt-makers, the kazzaz silk market, spice traders, and a han courtyard where old men drink tea and play backgammon all day.",
+      "tip": "Closed on Sunday and quiet at Friday prayers. The tea in the Gümrük Han courtyard is the single best sit-down in the city."
+    },
+    {
+      "name": "Karahan Tepe",
+      "text": "Thirty-five kilometres east, a contemporary of Göbekli Tepe being excavated as part of the same Neolithic landscape, including a chamber of pillars carved directly out of the bedrock and a human head cut into the rock.",
+      "tip": "Access and opening have changed as excavation progresses — confirm locally before driving out."
+    },
+    {
+      "name": "Harran",
+      "text": "Forty-five kilometres south on the plain: distinctive beehive mud-brick houses, the ruins of a grand mosque with a tall square minaret, a castle and city walls. Named in Genesis and long a centre of moon worship and later learning.",
+      "tip": "Combine with the drive across the irrigated plain. The beehive houses maintained for visitors are hot inside — go early."
+    },
+    {
+      "name": "Halfeti",
+      "text": "A village on the Euphrates partly submerged when the Birecik Dam filled, with a minaret rising out of the water and boat trips along the flooded gorge. About two hours west.",
+      "tip": "Boats run from the new village. Best in the last two hours of light, when the gorge walls turn."
+    }
+  ],
+  "thingsToDoIntro": "Three days is enough for the Neolithic sites, the old city and one trip out onto the plain.",
+  "thingsToDo": [
+    {
+      "title": "See Göbekli Tepe with a guide",
+      "text": "The enclosures are protected under canopies and viewed from a walkway. Without someone explaining what you are looking at, the pillars read as stones in a pit; with it, the site is extraordinary.",
+      "tip": "Go at opening or in the last two hours. There is no shade on the approach and summer temperatures are severe."
+    },
+    {
+      "title": "Do the museum on the same day",
+      "text": "The reconstructed enclosure and the Urfa Man make sense of the excavation, and the sequence from Göbekli Tepe through Harran to Edessa is laid out in one building.",
+      "tip": "Museum in the heat of the middle of the day, site early or late. That ordering solves the summer problem."
+    },
+    {
+      "title": "Spend an evening at Balıklıgöl",
+      "text": "Walk the pools and gardens as the city comes out after the heat, then climb to the castle above for the view over the mosques and the old town roofs.",
+      "tip": "Modest dress matters here more than almost anywhere else in Turkey — this is an active religious site."
+    },
+    {
+      "title": "Get lost in the bazaar",
+      "text": "Coppersmiths, felt, spices, sacks of isot, and a caravanserai courtyard full of tea drinkers. It trades with the city rather than with visitors, which is exactly why it is worth an afternoon.",
+      "tip": "Buy isot here — a bag costs very little and nothing sold outside the region tastes like it."
+    },
+    {
+      "title": "Cross the plain to Harran",
+      "text": "Beehive houses, a ruined mosque and minaret, and a landscape transformed by irrigation. A half-day that shows you the Mesopotamian edge of Turkey.",
+      "tip": "The border with Syria is not far south. Stay on the main routes and check current travel advice before going."
+    },
+    {
+      "title": "Sit through a sıra gecesi",
+      "text": "Urfa's traditional music evening: a room of men, an oud and a def, sung poetry, endless tea and a long table of food. Some restaurants stage a version for visitors, and it is still worth doing.",
+      "tip": "Ask your hotel which nights are on. Expect no alcohol — this is a conservative city and most restaurants do not serve it."
+    }
+  ],
+  "foodIntro": "Southeastern cooking is the best in Turkey by common consent — lamb, bulgur, pomegranate, pistachio, and a pepper found nowhere else.",
+  "foods": [
+    {
+      "name": "Urfa kebabı",
+      "text": "Hand-minced lamb on a flat skewer, grilled over charcoal and served on flatbread with grilled tomato, onion and parsley. The mild counterpart to spicy Adana kebabı, and locals will explain the difference at length.",
+      "whereToTry": "Ocakbaşı grill houses across the old city. Ask for it 'Urfa' rather than 'Adana' to get the mild version."
+    },
+    {
+      "name": "Çiğ köfte",
+      "text": "Fine bulgur kneaded for a long time with isot, tomato and spices — traditionally with raw lamb, though most commercial versions are meatless. Rolled in the hand, wrapped in lettuce with lemon.",
+      "whereToTry": "Dedicated çiğ köfte shops. The kneading is a skill and the good places have a queue."
+    },
+    {
+      "name": "İsot",
+      "text": "Urfa's own pepper: sun-dried, then sweated under cloth until it turns a dark purple-black, with modest heat and a deep raisiny, almost smoky flavour. It goes into nearly everything cooked here.",
+      "whereToTry": "Sacks of it in the bazaar. Buy a bag — it is one of the best things you can take home from Turkey."
+    },
+    {
+      "name": "Lahmacun and tandır",
+      "text": "Paper-thin bread baked with minced lamb, onion and pepper, folded and eaten with lemon; and lamb cooked slowly in a pit oven until it falls apart. Both are breakfast and lunch staples here.",
+      "whereToTry": "Bakeries around the bazaar in the morning, when the tandır comes out and sells until it is gone."
+    },
+    {
+      "name": "Mırra",
+      "text": "Very strong, very bitter coffee boiled repeatedly and served in tiny handleless cups by a host who takes the cup back — a ceremonial drink of the southeast rather than a casual one.",
+      "whereToTry": "Sıra gecesi evenings and traditional houses. Menengiç, made from wild terebinth, is the gentler alternative."
+    },
+    {
+      "name": "Şıllık",
+      "text": "Thin pancakes layered with crushed walnuts and drenched in syrup, an Urfa dessert that appears at celebrations and after long meals. Sweeter and less flaky than baklava.",
+      "whereToTry": "Dessert shops in the old city, and any restaurant staging a sıra gecesi."
+    }
+  ],
+  "accommodation": {
+    "intro": "Şanlıurfa's best rooms are in restored stone courtyard houses in the old city — a genuine local building type, and cool in a way modern hotels are not.",
+    "areas": [
+      {
+        "name": "The old city",
+        "bestFor": "The best base by far",
+        "text": "Around Balıklıgöl and the bazaar, where nineteenth-century stone houses with shaded courtyards have been converted into small hotels. Everything in the historic centre is walkable from here."
+      },
+      {
+        "name": "Around Balıklıgöl",
+        "bestFor": "Being in the middle of it",
+        "text": "Immediately by the pools and the Gölbaşı gardens, which are busy from late afternoon until late at night. Atmospheric, and noisier than the quieter lanes behind."
+      },
+      {
+        "name": "The modern centre",
+        "bestFor": "Chain comfort and air conditioning",
+        "text": "North and west of the old town: business hotels, reliable air conditioning and easier parking, at the cost of any sense of place. Sensible in high summer."
+      },
+      {
+        "name": "Harran",
+        "bestFor": "A night on the plain",
+        "text": "A couple of simple guesthouses beside the beehive houses, 45 km south. Rarely necessary, but memorable if you want the plain at dawn."
+      },
+      {
+        "name": "Gaziantep",
+        "bestFor": "Pairing food with archaeology",
+        "text": "Two hours west, with restored han hotels, the Zeugma mosaic museum and the best food in the country. Many people split a southeastern trip between the two cities."
+      }
+    ],
+    "budget": [
+      { "label": "Restored courtyard-house hotel", "value": "€40–80 per night" },
+      { "label": "Göbekli Tepe entry", "value": "€12–20, shuttle included from the visitor centre" },
+      { "label": "Guided half-day to Göbekli Tepe", "value": "€35–70 per person" },
+      { "label": "Meal in an ocakbaşı", "value": "€8–15 per person" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Şanlıurfa is 1,300 km from Istanbul, so flying is the only sensible way in unless you are already in the southeast.",
+    "options": [
+      {
+        "mode": "Şanlıurfa GAP Airport (GNY)",
+        "text": "Thirty-five kilometres north of the city, with daily flights from Istanbul (about 2h) and Ankara. Shuttle buses meet arrivals and run into the centre.",
+        "detail": "A small airport with limited services. Confirm your return flight schedule, as frequencies change seasonally."
+      },
+      {
+        "mode": "Via Gaziantep",
+        "text": "Gaziantep has more flights and is two hours west by frequent bus, which makes flying into one city and out of the other a natural way to plan the southeast.",
+        "detail": "Gaziantep's Zeugma mosaic museum and its food justify two nights on the way through."
+      },
+      {
+        "mode": "Bus",
+        "text": "Long-distance coaches connect to [[ankara]] in about 11h, [[cappadocia|Nevşehir]] 8h, Adıyaman for Mount Nemrut 3h, and Mardin 3h.",
+        "detail": "Overnight services are comfortable, but the distances here are genuinely large."
+      },
+      {
+        "mode": "By car",
+        "text": "Useful for Harran, Karahan Tepe and Halfeti, all of which are awkward by public transport. Roads across the plain are wide and fast.",
+        "detail": "Check current travel advice before driving near the Syrian border, which runs south of the Harran plain."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The old city is compact and walkable; everything Neolithic needs a vehicle.",
+    "options": [
+      {
+        "mode": "Walking the old city",
+        "text": "Balıklıgöl, the castle, the bazaar, the mosques and most of the courtyard hotels are within fifteen minutes of one another on foot.",
+        "detail": "Lanes are stone and uneven. In summer, walk early and late and rest through the middle of the day."
+      },
+      {
+        "mode": "Taxi or driver",
+        "text": "Göbekli Tepe is 18 km out, Karahan Tepe 35 km and Harran 45 km. Hiring a taxi for a half or full day is common and reasonably priced.",
+        "detail": "Agree the price and the waiting time in advance. Many hotels arrange a driver they know."
+      },
+      {
+        "mode": "Organised tours",
+        "text": "Half-day trips to Göbekli Tepe and longer ones combining Harran and Karahan Tepe, usually with a guide, which makes a real difference at the Neolithic sites.",
+        "detail": "Ask whether the guide is licensed for the site itself, not just the transport."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Practical for combining Halfeti, Harran and a run west to Gaziantep, and the plain roads are easy driving.",
+        "detail": "Hire at the airport. City-centre parking near the old town is difficult."
+      },
+      {
+        "mode": "Dolmuş",
+        "text": "Minibuses run to Harran and around the city cheaply, but not usefully to Göbekli Tepe or Karahan Tepe.",
+        "detail": "Fine for Harran if you are patient; not a realistic way to see the excavations."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "March–May and October–November",
+    "summary": "Şanlıurfa is one of the hottest cities in Turkey. The spring and autumn windows are not a preference here — they are close to a requirement if you want to spend time outdoors.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The plain is green, temperatures sit between 18 and 30°C, and the sites are comfortable all day. Wildflowers on the ridge at Göbekli Tepe and the best light of the year."
+      },
+      {
+        "season": "Summer (June–September)",
+        "rating": "avoid",
+        "text": "Regularly above 40°C and occasionally well beyond, with no shade at any of the archaeological sites. Possible only at dawn and dusk, with the museum and the bazaar filling the middle of the day."
+      },
+      {
+        "season": "Autumn (October–November)",
+        "rating": "best",
+        "text": "The heat breaks in October and the city becomes a pleasure again at 20–28°C. Clear, dry and quiet, and the pistachio and pepper harvests are in."
+      },
+      {
+        "season": "Winter (December–February)",
+        "rating": "shoulder",
+        "text": "Mild by Anatolian standards at around 10°C, occasionally wet, and very quiet. Everything is open, prices are low, and the light is soft — but days are short."
+      }
+    ],
+    "avoid": "July and August outright, if you can. There is no shade at Göbekli Tepe, Karahan Tepe or Harran, the ground reflects the heat, and daytime temperatures above 42°C are normal rather than exceptional."
+  },
+  "itinerary": {
+    "title": "Three days in Şanlıurfa",
+    "intro": "The Neolithic first, the city second, the plain third. Adjust the timings to the heat rather than the clock in summer.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Göbekli Tepe",
+        "summary": "The site and the museum, which belong together.",
+        "morning": "Göbekli Tepe at opening, with a guide, before the heat.",
+        "afternoon": "The archaeology museum and the reconstructed enclosure, plus the Haleplibahçe mosaics.",
+        "evening": "Balıklıgöl as the city comes out, then dinner at an ocakbaşı."
+      },
+      {
+        "day": 2,
+        "title": "The old city",
+        "summary": "Bazaars, mosques and the rock above them.",
+        "morning": "The covered bazaar, the Gümrük Han courtyard and the coppersmiths.",
+        "afternoon": "Rest through the worst of the heat, then the Ulu Cami and the old lanes.",
+        "evening": "Climb to Urfa Castle for sunset, then a sıra gecesi if one is running."
+      },
+      {
+        "day": 3,
+        "title": "The plain",
+        "summary": "Harran and, if it is open, Karahan Tepe.",
+        "morning": "Harran — beehive houses, the ruined mosque and minaret, and the walls.",
+        "afternoon": "Karahan Tepe if accessible, or the drive west to Halfeti on the Euphrates.",
+        "evening": "Back to Urfa, or continue to Gaziantep for the food."
+      }
+    ]
+  },
+  "tipsIntro": "This is the most culturally distinct part of Turkey covered in this guide, and a few things are worth knowing before you arrive.",
+  "tips": [
+    "Take a guide at Göbekli Tepe. From the walkway the enclosures read as stones in a pit; with someone explaining the pillars, the carvings and the dating, it becomes the most remarkable site in the country.",
+    "Do the archaeology museum on the same day as the site. The full-scale reconstruction and the Urfa Man statue make the excavation legible, and the museum is the obvious place to spend the hottest hours.",
+    "Şanlıurfa is a conservative, religious city. Dress modestly — covered shoulders and knees — particularly at Balıklıgöl and around the mosques, and note that most restaurants do not serve alcohol.",
+    "Summer here is not a matter of comfort. Above 42°C with no shade at any of the sites, the only workable plan is dawn and dusk outdoors with the middle of the day indoors.",
+    "Buy isot in the bazaar. The dark purple Urfa pepper is dried and sweated in a way done nowhere else, costs very little by the bag, and is the best edible souvenir in Turkey.",
+    "Karahan Tepe's access and opening hours have changed repeatedly as excavation continues. Confirm locally on the day rather than relying on anything published in advance.",
+    "Check your government's current travel advice before travelling in the southeast. Şanlıurfa city and Göbekli Tepe are visited routinely, but the province reaches the Syrian border and advisories treat the border zone differently.",
+    "Pair Şanlıurfa with Gaziantep, two hours west. Between them you get the oldest monuments on earth, the Zeugma mosaics and the best food in Turkey, with one flight in and another out."
+  ],
+  "faq": [
+    {
+      "q": "What makes Göbekli Tepe so important?",
+      "a": "It is monumental architecture built around 9500 BC by hunter-gatherers — before pottery, metal, writing, the wheel, and before farming was established. T-shaped limestone pillars up to five and a half metres tall and ten tonnes in weight were quarried, carved with animals and raised in circles. That inverts the standard model in which agriculture came first and monuments followed, and it makes the site roughly six thousand years older than Stonehenge."
+    },
+    {
+      "q": "How do I visit Göbekli Tepe?",
+      "a": "It is 18 km north-east of Şanlıurfa. You buy a ticket at the visitor centre and take a short shuttle to the excavation, which is under protective canopies with a raised walkway around it. Taxis from the city, half-day tours and hire cars all work. Take a guide — the pillars are hard to interpret unaided — and go at opening or late in the day, because there is no shade."
+    },
+    {
+      "q": "Is Şanlıurfa safe to visit?",
+      "a": "The city and Göbekli Tepe are visited routinely by Turkish and international travellers, and the practical concerns are the ordinary ones. Şanlıurfa province does, however, reach the Syrian border, and government travel advisories treat that border zone differently from the city. Check your own government's current advice before booking, and stay on the main routes when crossing the plain to Harran."
+    },
+    {
+      "q": "How many days do I need in Şanlıurfa?",
+      "a": "Three. One for Göbekli Tepe and the archaeology museum, which belong together; one for the old city — the bazaar, Balıklıgöl and the castle; and one for the plain, taking in Harran and, if it is open, Karahan Tepe. Add two more nights in Gaziantep, two hours west, and you have a complete southeastern trip."
+    },
+    {
+      "q": "What is Balıklıgöl?",
+      "a": "Two pools of sacred carp in gardens beneath the castle rock, tied to the tradition that Nimrod cast Abraham into a fire here and God turned the flames to water and the coals to fish. The pools are ringed by Ottoman mosques and are an active pilgrimage site, busy every evening with local families. Dress modestly, feed the fish, and do not try to take one."
+    },
+    {
+      "q": "When is the best time to visit Şanlıurfa?",
+      "a": "March to May and October to November. This is one of the hottest cities in Turkey — July and August regularly exceed 42°C, and none of the archaeological sites has shade, which makes the middle of a summer day genuinely unusable. Spring brings a green plain and comfortable days; autumn brings clear dry weather and the harvests. Winter is mild at around 10°C and very quiet."
+    },
+    {
+      "q": "Is the food in Şanlıurfa really that good?",
+      "a": "Yes, and it is a serious reason to come. This is lamb, bulgur, pomegranate and pistachio country, and the local isot pepper — sun-dried then sweated until it turns near-black — is grown nowhere else. Urfa kebabı, hand-kneaded çiğ köfte, pit-baked tandır and şıllık for dessert are all local. Gaziantep, two hours west, is by common consent the best eating city in the country."
+    }
+  ],
+  "related": ["cappadocia", "ankara", "ephesus", "dordogne-sarlat"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations", "best-time-southern-europe"]
+}

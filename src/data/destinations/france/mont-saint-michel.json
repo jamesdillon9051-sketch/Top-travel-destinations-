@@ -1,0 +1,333 @@
+{
+  "slug": "mont-saint-michel",
+  "name": "Mont-Saint-Michel",
+  "country": "france",
+  "region": "Manche, Normandy",
+  "categories": ["unesco", "historic", "coastal"],
+  "tagline": "A Gothic abbey on a tidal island in a bay with the fastest tides in Europe — and one of the very few sights that beats its own photographs.",
+  "highlight": "The abbey after the day-trippers leave, when the village empties and the bay goes silent.",
+  "shortDescription": "A rock in a vast tidal bay, crowned by an abbey that took five centuries to build. Some three million people visit a year, and almost all of them leave before the best hours.",
+  "metaDescription": "A Mont-Saint-Michel travel guide: how to visit, why staying overnight changes everything, tides and bay walks, where to sleep, when to go, and a two-day plan.",
+  "suggestedStay": "1–2 nights",
+  "nearestAirport": "Rennes (RNS) or Paris, then train to Pontorson",
+  "knownFor": "The abbey, the tides, the causeway",
+  "budget": "€130–210 per day, mid-range",
+  "goodFor": "History, photography, one unforgettable image",
+  "coords": { "lat": 48.636, "lng": -1.5115 },
+  "image": {
+    "file": "File:Mont St Michel at sunrise.jpg",
+    "alt": "The abbey of Mont-Saint-Michel rising from the tidal flats at sunrise"
+  },
+  "intro": [
+    "Some famous sights are a mild disappointment in person. Mont-Saint-Michel is the opposite: photographs flatten it, because they cannot convey that the thing is 92 metres high, that the bay around it is 500 square kilometres of empty sand, or that the tide can move across those flats faster than a person walks.",
+    "The island has been a pilgrimage site since 708, when a bishop at nearby Avranches reported being told three times by the Archangel Michael to build a church on the rock — the third time, according to the story, with a finger through the skull. The abbey that grew there over the following eight centuries is a feat of medieval engineering: a Romanesque church balanced on the summit, supported by an enormous three-storey Gothic structure called La Merveille, built up the sheer north face.",
+    "The complication is that around three million people a year visit, nearly all of them between 10:00 and 17:00, funnelled through one narrow street. The single most valuable piece of advice about Mont-Saint-Michel is to be there outside those hours — which in practice means sleeping on the island or in the villages a few minutes away."
+  ],
+  "whyVisit": {
+    "intro": "It is a short visit — half a day covers the abbey — but few places in Europe deliver a stronger single impression, and the setting is genuinely unlike anywhere else.",
+    "points": [
+      {
+        "title": "The engineering is astonishing",
+        "text": "La Merveille stacks a cloister, a refectory, a knights' hall and storerooms on three levels against a vertical rock face, all in the early 1200s. The cloister's double row of offset columns sits directly above a hall whose vaults carry the whole weight. Medieval builders were working at the limit of what was possible."
+      },
+      {
+        "title": "The tides are the largest in Europe",
+        "text": "The bay has a tidal range of up to 15 metres, and at the highest spring tides the water surrounds the mount completely. The old line about the sea advancing 'at the speed of a galloping horse' is an exaggeration, but on the flattest sands it genuinely moves faster than you can walk."
+      },
+      {
+        "title": "It has been restored to an island",
+        "text": "The 19th-century causeway silted the bay badly. A €200 million project removed it, dammed and flushed the river, and replaced the road with a raised bridge on piles in 2014. The mount is properly surrounded by water again at high tide for the first time in over a century."
+      },
+      {
+        "title": "The night version is a different place",
+        "text": "Between about 18:00 and 09:00 the day visitors are gone and perhaps a hundred people remain. The ramparts are open, the village lanes are empty, the abbey is floodlit and the bay is silent. It is the strongest argument for staying overnight anywhere in this guide."
+      },
+      {
+        "title": "The bay walk is a genuine adventure",
+        "text": "Guided barefoot crossings of the sand flats — several kilometres out into the bay, through channels and past quicksand — are one of the more unusual things you can do in France, and they show you the scale of the place in a way the island never can."
+      }
+    ]
+  },
+  "attractionsIntro": "The island is small: one street, one abbey, one circuit of ramparts. The rest of what makes a visit good happens around it.",
+  "attractions": [
+    {
+      "name": "The Abbey",
+      "text": "A one-way route climbs through the whole complex — the west terrace with its bay panorama, the abbey church at the summit, the cloister and refectory of La Merveille, the huge treadwheel that hauled supplies up the rock, and the crypts that carry the church above. Allow 90 minutes to two hours.",
+      "tip": "The last entry is an hour before closing. In summer the abbey opens some evenings with music in the rooms — the best possible way to see it."
+    },
+    {
+      "name": "The Grande Rue and the ramparts",
+      "text": "The single street through the village climbs from the gate to the abbey steps, lined with restaurants and souvenir shops, and it is a crush by midday. The rampart walk above it is the alternative route up: quieter, with views over the bay at every turn.",
+      "tip": "Go up by the ramparts and down by the Grande Rue, or vice versa — never both ways on the street."
+    },
+    {
+      "name": "The bay at low tide",
+      "text": "When the water withdraws it leaves several kilometres of sand, mudflats and winding channels in every direction. Walking out onto it — with a guide — puts the mount in its proper scale and is the memory most people keep.",
+      "tip": "Never walk out unguided. The bay has quicksand, fast-moving channels and tides that outrun walkers; people die here most years."
+    },
+    {
+      "name": "The Passerelle and the bay approach",
+      "text": "The 760-metre bridge from the mainland is deliberately designed to make you walk the last stretch. Shuttles run it, but going on foot — 35 minutes from the visitor centre — is much the better arrival, with the mount growing in front of you the whole way.",
+      "tip": "The final section floods at the highest tides, which is worth timing deliberately if the tide tables allow."
+    },
+    {
+      "name": "The parish church and Saint-Aubert's chapel",
+      "text": "Below the abbey, the small parish church of Saint-Pierre serves the village's handful of residents, and a tiny chapel sits on the rocks at the island's northern tip, reachable at low tide around the base.",
+      "tip": "The walk around the base of the rock is free, takes 20 minutes and almost nobody does it."
+    },
+    {
+      "name": "Avranches and the Scriptorial",
+      "text": "Twenty minutes away on the mainland, this museum holds the abbey's medieval manuscripts — the working library of the monks who built the place, some over a thousand years old. It is the best context for what you have just walked through.",
+      "tip": "Combine it with the Jardin des Plantes in Avranches, which has a long view back across the bay to the mount."
+    },
+    {
+      "name": "Saint-Malo and the Emerald Coast",
+      "text": "Fifty minutes west, a walled corsair city rebuilt after 1944, with ramparts you can circle, tidal swimming pools and some of the best seafood in Brittany. The obvious pairing with a night at the mount.",
+      "tip": "Saint-Malo's tidal range is nearly as extreme. Check the tide before planning a beach afternoon."
+    }
+  ],
+  "thingsToDoIntro": "There is less to do here than at any other destination in this guide, and that is fine — the point is to be present at the right hours.",
+  "thingsToDo": [
+    {
+      "title": "Stay overnight and walk the village at 21:00",
+      "text": "After the last shuttle down, the island belongs to the few dozen people staying on it. The lanes are empty, the ramparts are open, the abbey is lit and the bay is completely dark. It is a genuinely different place from the one the day-trippers see.",
+      "tip": "There are only a handful of hotels on the island and they book months ahead. Beauvoir and Ardevon, both minutes away, are the fallback."
+    },
+    {
+      "title": "Walk the bay with a guide",
+      "text": "Licensed guides run barefoot crossings of two to four hours out into the sands, explaining the tides, the quicksand and the ecology. Some routes cross to Tombelaine, the smaller uninhabited island two kilometres north.",
+      "tip": "Book ahead, wear shorts, and expect to be muddy to the knee. Departures are dictated by tide times, not convenience."
+    },
+    {
+      "title": "See a spring high tide",
+      "text": "At the largest tides — around 36 to 48 hours after a new or full moon — water surrounds the mount entirely and floods the end of the bridge. Tide coefficients above 100 are published years in advance and draw a crowd.",
+      "tip": "The official tide tables list coefficients. Anything over 110 is spectacular; below 90 the water does not fully surround the rock."
+    },
+    {
+      "title": "Watch sunrise from the mainland",
+      "text": "The classic photograph is taken not from the island but from the flats or the dam on the Couesnon river looking north. Sunrise gives you side light and no crowds, and in the right conditions mist across the bay.",
+      "tip": "The barrage on the Couesnon and the path along the eastern shore are both good vantage points and a short walk from Beauvoir."
+    },
+    {
+      "title": "Eat somewhere other than the Grande Rue",
+      "text": "The island's street restaurants are the definition of captive-market dining. Better food, at better prices, is a few minutes away on the mainland at Beauvoir and Ardevon, or over in Saint-Malo and Cancale.",
+      "tip": "Cancale, 40 minutes west, is Brittany's oyster capital and sells them by the dozen straight from stalls on the shore."
+    },
+    {
+      "title": "Cycle the bay",
+      "text": "Flat cycle paths run along the polders and shoreline around the bay, giving you the mount from a dozen different angles. Bikes can be hired at the visitor centre.",
+      "tip": "The route east towards the Couesnon dam and the polder farmland is quiet and gives the best changing perspectives."
+    }
+  ],
+  "foodIntro": "This is the Normandy–Brittany border, which means salt-marsh lamb, butter with visible salt crystals, cider instead of wine, and some of the best shellfish in France a short drive away.",
+  "foods": [
+    {
+      "name": "Agneau de pré-salé",
+      "text": "Lamb raised on the salt marshes around the bay, grazing on grasses regularly flooded by the tide. The meat is subtly saline and needs almost nothing done to it. It has protected status and is the genuine local speciality.",
+      "whereToTry": "Restaurants in Beauvoir, Ardevon and around the bay. In season roughly June to December."
+    },
+    {
+      "name": "Oysters from Cancale",
+      "text": "Forty minutes west, Cancale has been farming oysters since Roman times. They are sold by the dozen from stalls on the seafront, opened in front of you, eaten on the sea wall with a lemon and the shells thrown onto the beach.",
+      "whereToTry": "The Pointe du Hoc stalls at Cancale, cheapest and freshest bought directly from the growers."
+    },
+    {
+      "name": "Galettes and cider",
+      "text": "Buckwheat pancakes filled with ham, egg and cheese — the Breton savoury staple — washed down with dry cider served in a ceramic bowl rather than a glass. Cheap, filling and everywhere in the region.",
+      "whereToTry": "Crêperies in Pontorson, Saint-Malo and Dol-de-Bretagne."
+    },
+    {
+      "name": "Salted butter caramel",
+      "text": "Brittany's most successful invention: caramel made with salted butter, sold as sweets, as a spreadable paste and folded into desserts everywhere in the region.",
+      "whereToTry": "Any Breton confiserie. The spreadable version travels well and makes a genuinely good gift."
+    },
+    {
+      "name": "Kouign-amann",
+      "text": "A Breton pastry of laminated dough with sugar and salted butter folded through it and caramelised in the pan — dense, sticky and gloriously excessive. The name means 'butter cake' in Breton, which undersells it.",
+      "whereToTry": "Bakeries throughout Brittany. Best eaten warm within a few hours of baking."
+    },
+    {
+      "name": "La Mère Poulard's omelette",
+      "text": "The island's most famous dish: eggs beaten in a copper bowl for several minutes and cooked over an open fire in a long-handled pan, producing something closer to a soufflé. It is a genuine 19th-century tradition and it is also very expensive.",
+      "whereToTry": "On the Grande Rue. Worth watching them beat the eggs in the doorway; whether it is worth the price is a personal decision."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you sleep is the single biggest decision here, because it determines whether you see the island at its best hours or only during the crush.",
+    "areas": [
+      {
+        "name": "On the island itself",
+        "bestFor": "The empty evening and early morning",
+        "text": "A handful of small hotels sit on the Grande Rue. Rooms are small, old and expensive, and luggage must be carried up steps and lanes. In exchange you get the mount at 21:00 and 07:00 with almost nobody on it, which is the whole point."
+      },
+      {
+        "name": "Beauvoir and Ardevon",
+        "bestFor": "The best value close by",
+        "text": "Two villages on the mainland a few minutes from the shuttle terminal, with hotels, B&Bs and better-value restaurants than anything on the island. Close enough to walk to the bridge for sunrise."
+      },
+      {
+        "name": "The visitor-centre hotels",
+        "bestFor": "Convenience and parking",
+        "text": "A cluster of chain and mid-range hotels at La Caserne, where the car parks and shuttles are. Functional rather than charming, but a two-minute walk to the first shuttle of the day."
+      },
+      {
+        "name": "Pontorson",
+        "bestFor": "Arriving by train, budget stays",
+        "text": "The nearest railway station, nine kilometres south, with a shuttle bus to the mount. The cheapest accommodation in the area and workable without a car, though the town itself is unremarkable."
+      },
+      {
+        "name": "Saint-Malo",
+        "bestFor": "Combining the mount with a proper town",
+        "text": "Fifty minutes west, a walled city with ramparts, beaches and excellent seafood. A good base if you want more than one night in the area and would rather not sleep beside a car park."
+      }
+    ],
+    "budget": [
+      { "label": "Budget hotel in Pontorson or Beauvoir", "value": "€70–110 per night" },
+      { "label": "Mid-range near the visitor centre", "value": "€110–170 per night" },
+      { "label": "Hotel on the island", "value": "€180–320 per night" },
+      { "label": "Abbey entry", "value": "About €13, free for EU residents under 26" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "There is no station and no airport at the mount itself, so every route involves a final transfer. From Paris it is a comfortable half-day.",
+    "options": [
+      {
+        "mode": "Train to Pontorson",
+        "text": "Paris Montparnasse to Pontorson-Mont-Saint-Michel via Rennes or Caen, roughly 3h30 to 4h. A shuttle bus meets most trains for the last nine kilometres.",
+        "detail": "The Rennes route is generally faster. Book the TGV leg early for the best fares."
+      },
+      {
+        "mode": "By car",
+        "text": "About 4h from Paris, 1h from Saint-Malo, 1h20 from Rennes, 2h from Bayeux and [[normandy-d-day-beaches|the D-Day beaches]]. Cars must park at the visitor centre 2.5 km from the mount.",
+        "detail": "Parking is charged per day and the fee is unavoidable. Free shuttles run from there to the bridge."
+      },
+      {
+        "mode": "Day tours from Paris",
+        "text": "Long coach and rail day trips are widely sold. They involve about nine hours of travel for three hours at the mount, arriving squarely in the busiest window.",
+        "detail": "Possible, but this is the destination where a day trip costs you the most in quality of experience."
+      },
+      {
+        "mode": "The last stretch",
+        "text": "From the visitor centre it is a free shuttle, a horse-drawn carriage, or a 35-minute walk along the causeway and bridge. The walk is much the best arrival if you have the time and the weather.",
+        "detail": "The shuttle runs frequently from early morning until well after midnight in summer."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The island is entirely pedestrian and consists of one street and a set of stairs. Getting around means getting between the mainland and the rock.",
+    "options": [
+      {
+        "mode": "On foot",
+        "text": "The bridge walk from the visitor centre takes about 35 minutes each way. Inside the village everything is stairs and cobbles, climbing about 90 metres from the gate to the abbey.",
+        "detail": "Not step-free. The abbey has limited accessibility and the village has none — check ahead if mobility is a concern."
+      },
+      {
+        "mode": "Free shuttle (Le Passeur)",
+        "text": "Runs continuously between the visitor centre car parks and a stop about 350 metres from the island gate, taking roughly 12 minutes. Free, frequent and running late into the night in summer.",
+        "detail": "The last stretch to the gate is always on foot — no vehicle goes to the walls."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Hire is available at the visitor centre, and flat paths run along the bay and the polders. Bikes must be left at a rack before the final approach.",
+        "detail": "The best use of a bike is the shoreline route east for the changing views, not the crossing itself."
+      },
+      {
+        "mode": "Guided bay walks",
+        "text": "The only safe way onto the sands. Licensed guides run two to four-hour crossings from Genêts on the northern shore or from near the mount itself.",
+        "detail": "Departure times follow the tides. Book in advance, particularly in July and August."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "The mount is open all year and the weather matters less than the crowds and the tides. Shoulder seasons give you mild days and manageable numbers; a big spring tide is worth planning around whatever the month.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Mild, long-dayed and much quieter than summer, with the bay's light at its clearest. May and June are ideal for the guided bay walks. Rain is possible at any time — this is the Channel coast."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "The busiest weeks by a wide margin, with the Grande Rue shoulder to shoulder from 10:00. The compensation is evening abbey openings with music and light, and shuttles running late — both of which reward staying overnight."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "September is excellent: still mild, dramatically quieter, and often with mist over the bay at dawn. October brings shorter days and more weather but also some of the year's largest tides around the equinox."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold, windy and frequently wet, with short days — but almost empty, and the abbey in low winter light is memorable. Some mainland restaurants close and bay walks run less often."
+      }
+    ],
+    "avoid": "The single most crowded hours are 10:00–17:00 in July and August. If those are your only dates, sleep on or beside the island and use the evening and early morning instead."
+  },
+  "itinerary": {
+    "title": "Two days at Mont-Saint-Michel",
+    "intro": "Built around avoiding the middle of the day. One night on or beside the island is what makes this work.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive late, and take the evening",
+        "summary": "Deliberately arrive after the day-trippers have started to leave.",
+        "morning": "Travel — from Paris, Rennes or [[normandy-d-day-beaches|Bayeux]]. Aim to reach the visitor centre by mid-afternoon.",
+        "afternoon": "Walk the bridge on foot, check in, and do the abbey on a late-afternoon ticket as the crowds thin.",
+        "evening": "The ramparts and the Grande Rue after 19:00, when they are nearly empty, then dinner and the floodlit walls from the causeway."
+      },
+      {
+        "day": 2,
+        "title": "Dawn on the bay, then the sands",
+        "summary": "The best two hours of the visit, followed by the bay itself.",
+        "morning": "Out before 08:00 for sunrise from the mainland shore or the Couesnon dam, then the walk around the base of the rock at low tide.",
+        "afternoon": "A guided bay walk out onto the flats, tides permitting, or the Scriptorial at Avranches for the abbey's medieval manuscripts.",
+        "evening": "Drive or take the train on to Saint-Malo, Cancale for oysters, or back towards [[loire-valley|the Loire]]."
+      }
+    ]
+  },
+  "tipsIntro": "A short visit with a small number of decisions that make a very large difference.",
+  "tips": [
+    "Sleeping on or immediately beside the island is the single best decision you can make here. The mount between 18:00 and 09:00 is a completely different place from the one three million people a year experience.",
+    "Never walk out onto the bay without a licensed guide. There is genuine quicksand, the channels shift, and the tide crosses the flats faster than you can walk. There are deaths most years.",
+    "Check the tide coefficient before you go. Values above 110 produce the spectacular high tides that surround the rock; below 90 the water stays well out.",
+    "Cars must park at the visitor centre 2.5 km away and the fee is per day, not per hour. Budget for it and use the free shuttle or walk.",
+    "The village is stairs, cobbles and a 90-metre climb with no step-free route. If mobility is limited, the views from the mainland shore and the bridge are excellent and the abbey has only partial access.",
+    "Restaurants on the Grande Rue are captive-market pricing. Eat in Beauvoir or Ardevon on the mainland, or drive to Cancale for oysters.",
+    "Book abbey tickets online with a time slot in summer, and check for the evening openings — the abbey with music and low light in July and August is far better than the daytime version.",
+    "The walk across the bridge takes 35 minutes each way and is much the best way to arrive. Take the shuttle only if the weather or your legs demand it."
+  ],
+  "faq": [
+    {
+      "q": "Is it worth staying overnight at Mont-Saint-Michel?",
+      "a": "Yes — more than almost anywhere else in this guide. Around three million people visit each year and almost all of them are there between 10:00 and 17:00. Staying on the island or in Beauvoir and Ardevon a few minutes away gives you the ramparts, the lanes and the floodlit abbey in the evening, and the bay at dawn, with a fraction of the crowd."
+    },
+    {
+      "q": "How long do you need at Mont-Saint-Michel?",
+      "a": "The abbey takes 90 minutes to two hours, and the village perhaps another hour, so the sight itself is half a day. But one night is strongly recommended so you get the evening and early morning, and a full second day lets you add a guided bay walk or the museum at Avranches."
+    },
+    {
+      "q": "Can you walk across the sand to Mont-Saint-Michel?",
+      "a": "Only with a licensed guide, and it is genuinely dangerous otherwise. The bay has quicksand, channels that shift with each tide, and a tidal range of up to 15 metres that moves water across the flats faster than a person walks. Guided crossings from Genêts or near the mount are excellent and safe; unguided attempts kill people most years."
+    },
+    {
+      "q": "Do you need a car to visit Mont-Saint-Michel?",
+      "a": "No. Trains from Paris reach Pontorson in about 3h30 to 4h, with a shuttle bus for the final nine kilometres. A car makes it easier to combine the mount with the D-Day beaches, Saint-Malo or Cancale, but it must be parked at the visitor centre 2.5 km away regardless."
+    },
+    {
+      "q": "When does the tide surround Mont-Saint-Michel?",
+      "a": "At the largest spring tides, roughly 36 to 48 hours after a new or full moon, when the tide coefficient exceeds about 100. At those times the water surrounds the rock completely and can flood the end of the bridge. Coefficients are published years in advance in the official tide tables, so it is easy to plan around if the timing matters to you."
+    },
+    {
+      "q": "Is Mont-Saint-Michel accessible for wheelchairs or limited mobility?",
+      "a": "Only partly. The bridge and shuttle are accessible, but the village is cobbled lanes and stairs climbing about 90 metres, and the abbey has steps throughout with only limited adapted access. The views from the mainland shore, the causeway and the bridge are excellent and fully accessible, and for many visitors that is the better plan."
+    },
+    {
+      "q": "What else is nearby?",
+      "a": "Saint-Malo, a walled corsair city, is 50 minutes west, and Cancale's oyster beds are 40 minutes away. Avranches, 20 minutes north, holds the abbey's medieval manuscripts at the Scriptorial. [[normandy-d-day-beaches|The D-Day beaches]] and Bayeux are about two hours east, which makes a natural two-or-three-day Normandy loop."
+    }
+  ],
+  "related": ["normandy-d-day-beaches", "loire-valley", "paris", "santiago-galicia"],
+  "relatedArticles": ["unesco-worth-planning-around", "first-trip-to-europe", "underrated-destinations"]
+}

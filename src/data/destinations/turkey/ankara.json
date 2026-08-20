@@ -1,0 +1,351 @@
+{
+  "slug": "ankara",
+  "name": "Ankara",
+  "country": "turkey",
+  "region": "Central Anatolia",
+  "categories": ["capital-city", "cultural", "historic", "off-the-beaten-path"],
+  "tagline": "The capital almost no visitor stops in, holding the one museum that explains everything else in Turkey.",
+  "highlight": "The Museum of Anatolian Civilizations — Çatalhöyük, the Hittites and the Phrygians under one Ottoman roof.",
+  "shortDescription": "A planned republican capital on the Anatolian plateau, with Atatürk's mausoleum, a Byzantine citadel, Augustus's own account of his reign carved on a temple wall, and Bronze Age capitals within reach.",
+  "metaDescription": "An Ankara travel guide: the Museum of Anatolian Civilizations, Anıtkabir, the castle quarter, the Temple of Augustus, day trips to Gordion and Hattusa, and a two-day itinerary.",
+  "suggestedStay": "2 days",
+  "nearestAirport": "Ankara Esenboğa (ESB)",
+  "knownFor": "Anıtkabir, Anatolian archaeology, the citadel, the republic",
+  "budget": "€50–100 per day, mid-range",
+  "goodFor": "Museums, history, understanding modern Turkey, rail connections",
+  "coords": { "lat": 39.9334, "lng": 32.8597 },
+  "image": {
+    "file": "File:Anıtkabir, Ankara, Turquía, 2024-10-03, DD 27.jpg",
+    "alt": "The colonnaded hall of Anıtkabir, Atatürk's mausoleum, above its ceremonial plaza in Ankara"
+  },
+  "intro": [
+    "Ankara is the capital of Turkey and one of the least-visited capitals in Europe or Asia. Most itineraries treat it as a change of trains between [[istanbul|Istanbul]] and [[cappadocia|Cappadocia]], which is a mistake for one specific reason: the Museum of Anatolian Civilizations. It sits inside a restored fifteenth-century Ottoman covered market, and it holds the finds from Çatalhöyük, from the Hittite capital at Hattusa, from the Assyrian merchant colonies at Kültepe and from Phrygian Gordion. Nothing else in the country lets you see, in two hours, the ten thousand years that everything else in Turkey is built on top of.",
+    "The city itself is a deliberate creation. When the republic was declared in 1923 the capital was moved here from Istanbul — inland, defensible, and pointedly not Ottoman — and a provincial town of a few tens of thousands was rebuilt as a modern administrative capital by German and Austrian planners. That history is legible in the wide boulevards, the ministries, and above all in Anıtkabir, the mausoleum built for Atatürk between 1944 and 1953, which is less a tomb than a statement of what the republic thought it was.",
+    "Underneath all of that there is a much older Ankara: a Byzantine and Seljuk citadel on a rock above the city, its walls built from recycled Roman columns and inscribed blocks, with a neighbourhood of Ottoman houses inside it. Below the castle stands a temple of Augustus whose walls carry the fullest surviving copy of the Res Gestae — the emperor's own account of his reign, written to be read across the empire, and still legible here."
+  ],
+  "whyVisit": {
+    "intro": "Ankara is not a beautiful city, and its case does not rest on charm. It rests on three or four things that exist nowhere else.",
+    "points": [
+      {
+        "title": "The Museum of Anatolian Civilizations",
+        "text": "Named European Museum of the Year in 1997, and the single most useful two hours in Turkey. Neolithic Çatalhöyük, Hattian gold, Assyrian clay tablets, Hittite reliefs and Phrygian bronzes, laid out chronologically inside an Ottoman bedesten."
+      },
+      {
+        "title": "Anıtkabir explains modern Turkey",
+        "text": "Atatürk's mausoleum, approached along a road lined with Hittite-style lions, is where the republic tells its own story. Turkish families come in enormous numbers, and watching them is as instructive as the building."
+      },
+      {
+        "title": "Augustus wrote his own epitaph here",
+        "text": "The Temple of Augustus and Rome carries the Res Gestae Divi Augusti in Latin and Greek — the most complete surviving copy anywhere of the emperor's summary of his own achievements, still on the wall where it was cut."
+      },
+      {
+        "title": "Two Bronze Age capitals within reach",
+        "text": "Gordion, capital of Phrygia and home of the Gordian Knot, is 90 km west and now a UNESCO site. Hattusa, the Hittite capital, is 200 km east with its lion gate and rock sanctuary. Both are day trips."
+      },
+      {
+        "title": "It is the hub of the rail network",
+        "text": "High-speed trains reach Istanbul in about four and a half hours and Konya in under two. If you are moving between the coast, Cappadocia and Istanbul by train, Ankara is where the network crosses."
+      }
+    ]
+  },
+  "attractionsIntro": "Ankara's sights divide neatly: the citadel hill in Ulus holds the ancient city and the museums, and Anıtkabir sits on its own hill to the south-west.",
+  "attractions": [
+    {
+      "name": "Museum of Anatolian Civilizations",
+      "text": "Housed in a fifteenth-century covered bazaar and han beneath the castle. Galleries run from Palaeolithic through Neolithic Çatalhöyük — including the seated goddess and reconstructed wall paintings — to Hattian, Assyrian, Hittite, Phrygian, Urartian and classical material.",
+      "tip": "Two hours minimum, and go early in your Turkish trip rather than late. Everything you see afterwards makes more sense."
+    },
+    {
+      "name": "Anıtkabir",
+      "text": "Atatürk's mausoleum, completed in 1953: a ceremonial approach lined with twenty-four Hittite-style lions, a vast plaza, the colonnaded hall of honour, and a museum of the War of Independence with panoramic battle paintings beneath it.",
+      "tip": "Free. Time your arrival for the hourly changing of the guard, and allow an hour for the underground museum most visitors skip."
+    },
+    {
+      "name": "Ankara Castle and the Hisar quarter",
+      "text": "A citadel on the rock above Ulus with Byzantine and Seljuk walls built from reused Roman masonry, enclosing a lane-and-courtyard neighbourhood of Ottoman houses, some restored as cafés and carpet shops.",
+      "tip": "Walk the outer walls for the view over the whole plateau city. The steep lanes are cobbled and uneven — sensible shoes."
+    },
+    {
+      "name": "Temple of Augustus and Rome",
+      "text": "A Roman temple of the first century BC whose walls carry the Res Gestae Divi Augusti in Latin and Greek — the emperor's own record of his reign. It stands directly beside the Hacı Bayram mosque and tomb.",
+      "tip": "Free and open to the street. The Greek text is on the outer side wall, the Latin inside the entrance."
+    },
+    {
+      "name": "Hacı Bayram Mosque",
+      "text": "The tomb of Hacı Bayram Veli, a fifteenth-century Sufi teacher, and one of the most visited pilgrimage sites in Turkey. Busy every day with worshippers, and the surrounding square is full of stalls.",
+      "tip": "An active religious site immediately next to a Roman temple — dress modestly and be discreet with photographs."
+    },
+    {
+      "name": "Rahmi M. Koç Museum",
+      "text": "An industrial and transport museum in the Çengelhan, an Ottoman caravanserai of 1522 below the castle — engines, cars, scientific instruments and a reconstructed early Ankara shopfront street.",
+      "tip": "A good hour, and unexpectedly excellent for children. The courtyard café is the nicest stop on the castle hill."
+    },
+    {
+      "name": "Gordion",
+      "text": "Ninety kilometres west near Polatlı: the Phrygian capital where Alexander is said to have cut the Gordian Knot, with a great burial mound whose wooden chamber is among the oldest standing timber structures anywhere. UNESCO-listed in 2023.",
+      "tip": "You can walk inside the tumulus. Do the Ankara museum first — most of the finds from here are in it."
+    },
+    {
+      "name": "Hattusa and Yazılıkaya",
+      "text": "Two hundred kilometres east, the Hittite capital: several kilometres of city walls on a hillside, the Lion Gate, a tunnel through the ramparts, and the open-air rock sanctuary at Yazılıkaya with its procession of carved gods.",
+      "tip": "A long day — three hours each way — and you need a car or a tour. The site is spread out and involves real walking."
+    }
+  ],
+  "thingsToDoIntro": "Two days covers Ankara comfortably. A third buys you a Bronze Age capital.",
+  "thingsToDo": [
+    {
+      "title": "Give the museum a proper morning",
+      "text": "Work through the Museum of Anatolian Civilizations chronologically, from the Çatalhöyük rooms to the Hittite reliefs and the Phrygian material from Gordion. It reframes every ruin you will see elsewhere in Turkey.",
+      "tip": "Go on your way into the country rather than out of it. The order genuinely matters."
+    },
+    {
+      "title": "Visit Anıtkabir with everyone else",
+      "text": "Turkish school groups, families and army veterans come here in large numbers, and the atmosphere is part of the point. The scale, the ceremony and the museum beneath explain the republic better than any book.",
+      "tip": "Weekday mornings are calmer; public holidays are extraordinary but extremely busy."
+    },
+    {
+      "title": "Walk the citadel quarter",
+      "text": "Up through Ulus to the castle walls, round the ramparts for the view, then down through the lanes of Hisar past restored houses, spice shops and the copper bazaar on Çıkrıkçılar Yokuşu.",
+      "tip": "Late afternoon. The light is better and the walls are less exposed than at midday in summer."
+    },
+    {
+      "title": "Read the Res Gestae off the wall",
+      "text": "Stand in front of a temple wall on which Augustus listed what he had built, conquered and paid for. It is the fullest surviving copy in the world, and it costs nothing to see.",
+      "tip": "Combine it with the Hacı Bayram mosque next door and lunch in the square between them."
+    },
+    {
+      "title": "Take the train somewhere",
+      "text": "Ankara is the centre of the high-speed network. Konya — whirling dervishes and the Mevlâna museum — is under two hours each way, which makes a genuine day trip from the capital.",
+      "tip": "Book YHT tickets online in advance; popular departures sell out, especially on Friday and Sunday."
+    },
+    {
+      "title": "Eat and drink in Kızılay and Tunalı",
+      "text": "The modern city south of Ulus is where Ankara actually lives — student bars around Kızılay, restaurants along Tunalı Hilmi, and the meyhane streets of Sakarya Caddesi with fish and rakı.",
+      "tip": "Sakarya Caddesi from about 20:00. It is loud, cheap and entirely local."
+    }
+  ],
+  "foodIntro": "Central Anatolian cooking is meat, grain and pulses rather than olive oil and fish — plainer than the coast, and built for a cold plateau winter.",
+  "foods": [
+    {
+      "name": "Ankara tava",
+      "text": "Rice baked with lamb and a little tomato and fat in a shallow pan until the grains take on the meat, then turned out and served in wedges. The city's own dish and increasingly hard to find well made.",
+      "whereToTry": "Older restaurants in Ulus and around Kızılay that advertise it by name."
+    },
+    {
+      "name": "Bamya çorbası",
+      "text": "A sour soup of tiny dried okra pods threaded on strings and stored through the winter, cooked with lamb and lemon. An Ankara speciality that tastes nothing like okra elsewhere.",
+      "whereToTry": "Traditional lokantas. The dried okra strings are sold in the Ulus market if you want to see them first."
+    },
+    {
+      "name": "Kuru fasulye and pilav",
+      "text": "White beans in tomato sauce over rice, with pickles on the side — the standard civil-servant lunch, eaten standing up all over the government districts and much better than it sounds.",
+      "whereToTry": "Canteen-style lokantas around Kızılay and Bakanlıklar at noon on a weekday."
+    },
+    {
+      "name": "Beypazarı kurusu and güveç",
+      "text": "From the Ottoman town 100 km north-west: a dry, crisp ring biscuit eaten with tea, and a lamb-and-vegetable casserole baked in an earthenware pot. Beypazarı also turns its carrots into everything from juice to Turkish delight.",
+      "whereToTry": "Beypazarı itself on a day trip, or shops in Ankara selling the biscuits by the bag."
+    },
+    {
+      "name": "Çubuk pickles",
+      "text": "The district north of the city is known across Turkey for its pickles and vinegar — cucumbers, peppers, cabbage, green almonds — sold from barrels and drunk as brine as much as eaten.",
+      "whereToTry": "Turşucu shops throughout the city. Ask for a glass of the brine with your kuru fasulye."
+    },
+    {
+      "name": "Ankara simidi",
+      "text": "The local version of the sesame ring is smaller, thinner and much crisper than Istanbul's chewy one, sold from carts and bakeries and eaten with tea rather than as street food on the move.",
+      "whereToTry": "Any street cart in the morning. The difference from the Istanbul version is immediately obvious."
+    }
+  ],
+  "accommodation": {
+    "intro": "Ankara is a business and government city, which means good mid-range hotels, weekend discounts and very little in the way of boutique charm.",
+    "areas": [
+      {
+        "name": "Ulus",
+        "bestFor": "The old city and the museums",
+        "text": "Beneath the citadel, within walking distance of the Museum of Anatolian Civilizations, the castle, the Roman temple and the bazaar. Scruffy, cheap and the most interesting part of town on foot."
+      },
+      {
+        "name": "Kızılay",
+        "bestFor": "Central and lively",
+        "text": "The heart of the modern city, full of students, bookshops, bars and cheap restaurants, with metro connections in every direction and the Sakarya meyhane streets a few minutes away."
+      },
+      {
+        "name": "Tunalı Hilmi and Kavaklıdere",
+        "bestFor": "Comfortable and mid-range",
+        "text": "The embassy district: better hotels, good restaurants, wine bars and shops along a long shopping street, with the Atakule tower above. Quieter at night than Kızılay."
+      },
+      {
+        "name": "Çankaya",
+        "bestFor": "Business travellers",
+        "text": "The upper slopes, where the ministries, embassies and the presidential complex are. International chain hotels, good value at weekends, and further from everything you came to see."
+      },
+      {
+        "name": "Near the station",
+        "bestFor": "A single night in transit",
+        "text": "Ankara Gar is the high-speed rail hub and there are practical hotels around it. Sensible if you are passing through between Istanbul, Konya and Cappadocia."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range business hotel", "value": "€45–85 per night, often less at weekends" },
+      { "label": "Museum of Anatolian Civilizations entry", "value": "€8–15" },
+      { "label": "Anıtkabir", "value": "Free" },
+      { "label": "High-speed train to Istanbul", "value": "€15–30 one way, 4h30" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "As the capital, Ankara is the best-connected inland city in the country by both rail and road.",
+    "options": [
+      {
+        "mode": "Esenboğa Airport (ESB)",
+        "text": "Twenty-eight kilometres north, with frequent domestic flights to Istanbul, İzmir, Antalya and Trabzon, and a moderate number of international routes.",
+        "detail": "Havaş buses run to Kızılay and the AŞTİ bus terminal in about 45 minutes."
+      },
+      {
+        "mode": "High-speed rail (YHT)",
+        "text": "Istanbul in about 4h30, Konya in under 2h, Eskişehir in 1h30 and Sivas to the east. Comfortable, punctual and very cheap by European standards.",
+        "detail": "Book ahead online. Ankara Gar is central and connected to the metro."
+      },
+      {
+        "mode": "Bus",
+        "text": "AŞTİ, the main bus terminal, serves the whole country: [[cappadocia|Göreme]] about 4h30, Istanbul 6h, [[sanliurfa-gobekli-tepe|Şanlıurfa]] 11h, [[trabzon-black-sea|Trabzon]] 11h.",
+        "detail": "AŞTİ is on the Ankaray metro line, fifteen minutes from Kızılay."
+      },
+      {
+        "mode": "By car",
+        "text": "Needed only for Gordion, Hattusa and Beypazarı. Motorways radiate from the city and driving on the plateau is straightforward.",
+        "detail": "City-centre parking is difficult. Hire for the day trip rather than for the whole stay."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The metro handles the north-south axis; the historic sights are a walkable cluster once you are in Ulus.",
+    "options": [
+      {
+        "mode": "Metro and Ankaray",
+        "text": "Four metro lines plus the Ankaray light rail link Kızılay, Ulus, the bus terminal and the outer districts. Clean, cheap and the fastest way across a city that sprawls.",
+        "detail": "Buy an Ankarakart from a machine and load it — single tickets are awkward."
+      },
+      {
+        "mode": "Walking Ulus",
+        "text": "The castle, the Museum of Anatolian Civilizations, the Roman temple, the Rahmi Koç museum and the copper bazaar are all within fifteen minutes of one another on foot.",
+        "detail": "The castle hill is steep and the lanes are cobbled. Everything else is level."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Plentiful and reasonably priced. The practical way to reach Anıtkabir, which is a long walk from the nearest metro station and uphill from every direction.",
+        "detail": "Insist on the meter. App-based hailing works in the city."
+      },
+      {
+        "mode": "Buses and dolmuş",
+        "text": "An extensive municipal bus network plus minibuses, useful for Anıtkabir and the outer districts but harder to navigate without local knowledge.",
+        "detail": "Same Ankarakart as the metro. Route information is largely in Turkish."
+      },
+      {
+        "mode": "Day-trip tours",
+        "text": "Agencies run trips to Gordion, Hattusa and Beypazarı. Hattusa in particular is far easier organised than attempted by public transport.",
+        "detail": "Hattusa is three hours each way — confirm how long you actually get at the site."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Ankara sits at 900 metres on the Anatolian plateau, which makes for a genuinely continental climate: cold, snowy winters and hot dry summers, with two very pleasant shoulder seasons.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The plateau greens up, temperatures sit between 15 and 25°C and the outdoor sites — Gordion, Hattusa, the castle walls — are at their best. Rain is possible into May."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot at 30–33°C but very dry, and considerably more bearable than the humid coast. Evenings cool down noticeably. Hattusa and Gordion have little shade."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Clear, dry and warm through September, cooling steadily in October. The most reliable weather of the year and the best time for the day trips out of the city."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "shoulder",
+        "text": "Genuinely cold, often below freezing, with snow lying for weeks. The museums are unaffected and hotel rates fall, but Hattusa and Gordion become bleak and can be inaccessible."
+      }
+    ],
+    "avoid": "Hattusa in deep winter — the site is exposed high ground, the walking is substantial, and snow closes the approach roads. Gordion is less affected but no more pleasant."
+  },
+  "itinerary": {
+    "title": "Two days in Ankara",
+    "intro": "The citadel hill and its museums on the first day, the republic on the second — with a third day available for Gordion or Hattusa.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The citadel hill",
+        "summary": "Ten thousand years of Anatolia, then the Romans.",
+        "morning": "The Museum of Anatolian Civilizations, chronologically, for at least two hours.",
+        "afternoon": "The castle walls and the Hisar lanes, then the Rahmi Koç museum in its 1522 han.",
+        "evening": "The Temple of Augustus and Hacı Bayram at dusk, then dinner on Sakarya Caddesi."
+      },
+      {
+        "day": 2,
+        "title": "The republic",
+        "summary": "Anıtkabir, and the modern city that grew up around it.",
+        "morning": "Anıtkabir — the Lion Road, the hall of honour and the War of Independence museum beneath.",
+        "afternoon": "Kocatepe Mosque, then Tunalı Hilmi and the Atakule viewpoint.",
+        "evening": "Meyhane dinner in Kızılay, or a concert at the state opera."
+      },
+      {
+        "day": 3,
+        "title": "A Bronze Age capital",
+        "summary": "Optional, and much better after the museum.",
+        "morning": "Drive to Gordion — the Phrygian city and the burial mound you can walk inside.",
+        "afternoon": "The site museum, or continue to Beypazarı for its Ottoman streets.",
+        "evening": "Back in Ankara for the night train or a late train onwards."
+      }
+    ]
+  },
+  "tipsIntro": "Ankara is easy to do badly by treating it as a stopover. A little sequencing makes it one of the most useful stops in the country.",
+  "tips": [
+    "Visit the Museum of Anatolian Civilizations early in your Turkish trip, not at the end. Everything you see afterwards at [[ephesus|Ephesus]], [[cappadocia|Cappadocia]] or [[sanliurfa-gobekli-tepe|Göbekli Tepe]] slots into a sequence you have already seen laid out.",
+    "Anıtkabir is free and the underground War of Independence museum is the half most visitors miss. Allow two hours in total and aim to be there on the hour for the changing of the guard.",
+    "The Res Gestae on the Temple of Augustus is open to the street and costs nothing. The Latin text is inside the entrance wall, the Greek translation on the outer side wall.",
+    "Ankara is a government city, so hotel prices drop noticeably at weekends and rise Monday to Thursday — the opposite of most of Turkey.",
+    "Hattusa is a three-hour drive each way and the site itself involves several kilometres of walking on open hillside. Treat it as a full day with a car or a tour, not an afternoon.",
+    "Buy an Ankarakart from a station machine on arrival. It works on the metro, Ankaray and city buses, and paying any other way is more trouble than it is worth.",
+    "The castle lanes are steep, cobbled and uneven, and the climb from Ulus is real. Go late in the afternoon rather than in the middle of a summer day.",
+    "If you are travelling Istanbul–Cappadocia by train, breaking the journey here for a night costs you almost nothing in time and gives you the best museum in the country."
+  ],
+  "faq": [
+    {
+      "q": "Is Ankara worth visiting?",
+      "a": "For one or two days, yes — chiefly for the Museum of Anatolian Civilizations, which is the best place anywhere to understand Çatalhöyük, the Hittites and the Phrygians, and for Anıtkabir, which explains the modern republic. Add a Byzantine citadel and the fullest surviving copy of Augustus's Res Gestae and it is a substantial stop. It is not a beautiful city and nobody comes here for atmosphere."
+    },
+    {
+      "q": "How many days do you need in Ankara?",
+      "a": "Two is right: one for the citadel hill and its museums, one for Anıtkabir and the modern city. A third day lets you reach Gordion, 90 km west, or Hattusa, 200 km east — both Bronze Age capitals, and both far more rewarding after you have seen their finds in the Ankara museum."
+    },
+    {
+      "q": "What is the Museum of Anatolian Civilizations?",
+      "a": "Turkey's finest archaeological collection outside Istanbul, housed in a restored fifteenth-century covered bazaar below the castle and named European Museum of the Year in 1997. It runs chronologically from the Palaeolithic through Neolithic Çatalhöyük — the seated goddess figurine, reconstructed wall paintings — to Hattian gold, Assyrian trade tablets, Hittite reliefs and Phrygian bronzes from Gordion."
+    },
+    {
+      "q": "Is Anıtkabir worth seeing?",
+      "a": "Yes, and it is free. Atatürk's mausoleum was completed in 1953 on its own hill, approached along a ceremonial road lined with twenty-four Hittite-style lions. The scale and the ceremony are the point, as are the Turkish families and school groups who come in very large numbers. Do not skip the War of Independence museum beneath the plaza."
+    },
+    {
+      "q": "How do I get from Ankara to Cappadocia?",
+      "a": "By bus, which takes about four and a half hours from the AŞTİ terminal to Göreme or Nevşehir and runs frequently through the day. There is no direct high-speed rail. Many travellers do Istanbul to Ankara by train in four and a half hours, spend a night, and continue by bus — which turns an awkward transfer into a worthwhile stop."
+    },
+    {
+      "q": "Can I visit Hattusa from Ankara?",
+      "a": "Yes, but treat it as a full day. It is around 200 km east near Boğazkale, roughly three hours each way, and the Hittite capital is spread over several kilometres of hillside with the Lion Gate, the tunnel through the ramparts and the Yazılıkaya rock sanctuary two kilometres beyond. You need a hire car or an organised tour; public transport is impractical."
+    },
+    {
+      "q": "When is the best time to visit Ankara?",
+      "a": "April to June and September to October. The city sits at 900 metres on the Anatolian plateau, so winters are genuinely cold with snow lying for weeks, and summers are hot at 30–33°C though very dry. The shoulder seasons are mild and clear, and they are also when the outdoor sites at Gordion and Hattusa are at their best."
+    }
+  ],
+  "related": ["cappadocia", "istanbul", "sanliurfa-gobekli-tepe", "ephesus"],
+  "relatedArticles": ["underrated-destinations", "unesco-worth-planning-around", "first-trip-to-europe"]
+}

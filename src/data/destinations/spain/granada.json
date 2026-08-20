@@ -1,0 +1,351 @@
+{
+  "slug": "granada",
+  "name": "Granada",
+  "country": "spain",
+  "region": "Andalusia",
+  "categories": ["unesco", "historic", "cultural", "mountains"],
+  "tagline": "The last Moorish city in Spain, with a palace complex that is arguably the most beautiful building in Europe and a mountain range behind it.",
+  "highlight": "The Nasrid Palaces: honeycomb vaulting, carved stucco and courtyards designed entirely around water and light.",
+  "shortDescription": "A hillside city beneath the Sierra Nevada, holding the Alhambra — the finest surviving Islamic palace complex anywhere — and a tapas culture where the food still comes free with the drink.",
+  "metaDescription": "A Granada travel guide: how to book Alhambra tickets, the Albaicín and Sacromonte, free tapas, flamenco, where to stay, when to go and a three-day itinerary.",
+  "suggestedStay": "3 days",
+  "nearestAirport": "Granada (GRX) or Málaga (AGP), 1h30 by road",
+  "knownFor": "The Alhambra, the Albaicín, free tapas, flamenco",
+  "budget": "€100–170 per day, mid-range",
+  "goodFor": "History, architecture, tapas, mountain access",
+  "coords": { "lat": 37.1773, "lng": -3.5986 },
+  "image": {
+    "file": "File:Alhambra in the evening.jpg",
+    "alt": "The Alhambra palace complex on its ridge with the Sierra Nevada behind at dusk"
+  },
+  "intro": [
+    "Granada was the last Muslim kingdom in Western Europe. It held out for 250 years after the rest of Al-Andalus had fallen, and surrendered in January 1492 — the same year Columbus sailed. That long final chapter is why the Alhambra exists in the state it does: the Nasrid dynasty spent two and a half centuries building and refining a palace complex while the political map contracted around them.",
+    "The result is the most complete surviving Islamic palace anywhere, and it is genuinely astonishing. The Nasrid Palaces are built almost entirely from cheap materials — plaster, wood, tile — worked to a level of refinement that makes stone look crude. Every courtyard is organised around water. Every wall is covered in carved stucco, calligraphy and geometry. The effect is not grand in the European sense; it is intricate, cool and quiet.",
+    "The city around it is a hillside of white houses climbing towards the Sierra Nevada, whose peaks stay snow-covered into June and are visible from the middle of town. Granada is also the last major city in Spain where a free tapa still arrives with every drink, which makes eating here both cheap and genuinely sociable."
+  ],
+  "whyVisit": {
+    "intro": "The Alhambra alone would justify the trip. What makes Granada worth three days rather than one is everything stacked around it.",
+    "points": [
+      {
+        "title": "The Alhambra has no equal",
+        "text": "There are finer individual Islamic buildings elsewhere, but nothing that survives as a complete palace complex with its gardens, water systems and defensive walls intact. Around 2.7 million people visit a year and the number is capped precisely because demand exceeds what the site can absorb."
+      },
+      {
+        "title": "The Albaicín is a whole medieval quarter",
+        "text": "The old Moorish town on the hill facing the Alhambra kept its Islamic street plan entirely — narrow lanes, whitewashed walls, carmen houses with walled gardens. It is UNESCO-listed alongside the palace and is best explored with no route at all."
+      },
+      {
+        "title": "Free tapas are still real here",
+        "text": "Order a drink almost anywhere in Granada and food arrives with it, unrequested and unpriced. Three rounds is dinner. This tradition has died out in most of Spain and survives here as a genuine institution rather than a gimmick."
+      },
+      {
+        "title": "Flamenco with roots",
+        "text": "The Sacromonte caves above the city have been a centre of Roma flamenco for centuries, and the zambra granadina is a distinct local form. The small venues here are considerably closer to the source than the theatre shows elsewhere."
+      },
+      {
+        "title": "Mountains and coast within an hour",
+        "text": "The Sierra Nevada has mainland Spain's highest peak at 3,479 m and Europe's most southerly ski resort, forty minutes from the city. The Alpujarra villages on its southern slopes and the Mediterranean coast are both about an hour away."
+      }
+    ]
+  },
+  "attractionsIntro": "The Alhambra is the fixed point of any Granada trip and everything else arranges itself around your ticket time.",
+  "attractions": [
+    {
+      "name": "The Nasrid Palaces",
+      "text": "The heart of the Alhambra and the reason to come: the Court of the Myrtles with its long reflecting pool, the Court of the Lions with its twelve stone lions and 124 columns, and the Hall of the Two Sisters under a muqarnas dome of some 5,000 individual cells. Every surface is worked and every space is organised around water.",
+      "tip": "Your ticket carries a fixed half-hour entry slot for this section only. Miss it and you cannot enter, and it cannot be changed."
+    },
+    {
+      "name": "The Generalife",
+      "text": "The summer palace and gardens on the hill above, built as a retreat from the main complex. The Patio de la Acequia — a long water channel with arcing jets between clipped hedges — is the most photographed garden in Spain.",
+      "tip": "Quieter early or in the last entry slot. The walk up between the two complexes takes about fifteen minutes."
+    },
+    {
+      "name": "The Alcazaba",
+      "text": "The oldest part of the Alhambra, a military fortress with towers along the ridge. The Torre de la Vela gives the widest view — the whole city below, the Albaicín opposite, and the Sierra Nevada behind.",
+      "tip": "Included in the general ticket and often skipped. Climb it first if your Nasrid slot is later in the day."
+    },
+    {
+      "name": "The Albaicín and Mirador de San Nicolás",
+      "text": "The Moorish quarter opposite the Alhambra, a maze of white lanes climbing the hill. The Mirador de San Nicolás gives the classic view of the palace with the mountains behind, and is where everyone gathers at sunset.",
+      "tip": "The mirador is crowded at sunset. The Mirador de San Cristóbal higher up is quieter with a comparable view."
+    },
+    {
+      "name": "Sacromonte",
+      "text": "The hillside above the Albaicín where whitewashed cave houses are dug into the rock, historically home to Granada's Roma community and the birthplace of the zambra form of flamenco. Several caves operate as small performance venues.",
+      "tip": "The Cuevas del Sacromonte museum explains the cave dwellings themselves and gives the best view back at the Alhambra."
+    },
+    {
+      "name": "The Royal Chapel and Cathedral",
+      "text": "Ferdinand and Isabella are buried in the Capilla Real, in a Gothic chapel they commissioned deliberately in the city that completed the Reconquista. The adjoining cathedral is one of the first Renaissance churches in Spain.",
+      "tip": "The Royal Chapel is small, moving and easily missed next to the cathedral. Allow half an hour."
+    },
+    {
+      "name": "The Sierra Nevada and the Alpujarras",
+      "text": "Mainland Spain's highest mountains, forty minutes from the city, with skiing from December to April and high-altitude walking in summer. The Alpujarra villages on the southern slopes kept Moorish building styles into the modern era.",
+      "tip": "Capileira, Bubión and Pampaneira are the classic three villages, about 90 minutes away and reachable by bus."
+    },
+    {
+      "name": "The Carrera del Darro and the Bañuelo",
+      "text": "The street along the river beneath the Alhambra, with Roman and Moorish bridges and the Bañuelo — 11th-century Arab baths, among the oldest and best preserved in Spain.",
+      "tip": "The most beautiful street in Granada and the natural walking route from the centre up into the Albaicín."
+    }
+  ],
+  "thingsToDoIntro": "Granada is a small city and three days is enough to do all of this without hurrying.",
+  "thingsToDo": [
+    {
+      "title": "Do a free-tapas crawl",
+      "text": "Order a drink and food arrives. Each round is usually a different dish, and the quality varies wildly, which is part of the fun. Three or four bars over an evening costs about €12 and constitutes dinner.",
+      "tip": "Calle Elvira, Campo del Príncipe and the streets around Plaza Nueva are the classic circuits. The tapa often improves with each round at the same bar."
+    },
+    {
+      "title": "Get lost in the Albaicín",
+      "text": "The point is not to have a route. The lanes are too narrow and irregular to navigate deliberately, and every few turns opens onto a view, a carmen gate or a small square. Walking uphill eventually gets you somewhere with a view.",
+      "tip": "Go in the morning when the light is on the Alhambra opposite, and again at sunset when it is not."
+    },
+    {
+      "title": "See flamenco in a cave",
+      "text": "Sacromonte's cave venues are small, hot and considerably more intense than a theatre show. The zambra is a Granada form with its own repertoire, historically performed at weddings.",
+      "tip": "Book a smaller venue directly rather than through a hotel package with dinner and coach transfer."
+    },
+    {
+      "title": "Take an Arab bath",
+      "text": "Several hammams in the centre are modelled on the Moorish baths that stood on the same sites, with hot, warm and cold pools and optional massage. It is a tourist-facing institution but a genuinely pleasant one.",
+      "tip": "Book ahead and take the late evening slot, which is quieter and fits well after a day at the Alhambra."
+    },
+    {
+      "title": "Walk in the Alpujarras",
+      "text": "The white villages on the Sierra Nevada's southern slopes are connected by old mule paths and terraced irrigation channels built under Moorish rule. Pampaneira to Bubión to Capileira is an easy and beautiful half-day walk.",
+      "tip": "Buses from Granada take about 90 minutes. Go in spring or autumn; the villages are cold in winter and hot in August."
+    },
+    {
+      "title": "See the Alhambra from outside",
+      "text": "The walk up through the Cuesta de los Chinos or along the Carrera del Darro, and the miradors in the Albaicín, give you the complex in its landscape — which the inside cannot.",
+      "tip": "The Alhambra is floodlit at night and visible from most of the Albaicín. It is worth a walk after dinner."
+    }
+  ],
+  "foodIntro": "Granada eats Andalusian food with a mountain accent — more pork, beans and stews than the coast, and a strong Moorish undercurrent in the sweets.",
+  "foods": [
+    {
+      "name": "Free tapas",
+      "text": "Not a dish but the defining institution. Every drink comes with food: it might be olives and cheese, or migas, or a plate of stewed pork. In many bars the dishes get more substantial as you order more rounds.",
+      "whereToTry": "Almost anywhere. Calle Elvira, Calle Navas and Campo del Príncipe are the traditional circuits."
+    },
+    {
+      "name": "Habas con jamón",
+      "text": "Young broad beans fried with cured ham and often a poached egg. A simple, salty spring dish that appears on every tapas list in the city.",
+      "whereToTry": "Traditional bars in the centre, best from March to June when the beans are fresh."
+    },
+    {
+      "name": "Tortilla del Sacromonte",
+      "text": "An omelette traditionally made with lamb brains and sweetbreads, a legacy of using every part of the animal. Modern versions often substitute more approachable offal or vegetables, and the name persists either way.",
+      "whereToTry": "Older restaurants in the Albaicín and Sacromonte. Ask what is actually in it."
+    },
+    {
+      "name": "Plato alpujarreño",
+      "text": "The mountain plate: fried potatoes, morcilla, chorizo, cured ham and a fried egg. Enormous, cheap and designed for people who have been walking in the Alpujarras all day.",
+      "whereToTry": "Village restaurants in the Alpujarras and traditional places in Granada itself."
+    },
+    {
+      "name": "Piononos",
+      "text": "A small pastry from Santa Fe outside the city: a roll of syrup-soaked sponge topped with toasted cream, eaten in one or two bites. Named after Pope Pius IX and made to the same recipe since 1897.",
+      "whereToTry": "Pastelerías in Granada and Santa Fe. Sold in boxes and best eaten the same day."
+    },
+    {
+      "name": "Moorish sweets",
+      "text": "Almond, honey and cinnamon pastries made in convents and by Arab-style bakeries in the Albaicín — a direct survival of Al-Andalus cooking. The teterías along Calle Calderería serve them with mint tea.",
+      "whereToTry": "The Calderería Nueva teahouse street, and convent shops that sell through a turntable so the nuns stay unseen."
+    }
+  ],
+  "accommodation": {
+    "intro": "Granada is small, hilly and largely pedestrian in the historic parts. The main decision is whether you want to be in the flat centre or up in the Albaicín with the views and the stairs.",
+    "areas": [
+      {
+        "name": "The centre around Plaza Nueva",
+        "bestFor": "The best all-round base",
+        "text": "Flat, walkable, at the foot of both the Alhambra approach and the Albaicín, with the highest concentration of tapas bars. Ten minutes on foot to almost everything."
+      },
+      {
+        "name": "The Albaicín",
+        "bestFor": "Atmosphere and views",
+        "text": "Whitewashed lanes, carmen guesthouses with walled gardens, and the Alhambra opposite your window. The trade-off is a great many stairs, no vehicle access to most addresses, and a steep walk home after dinner."
+      },
+      {
+        "name": "Realejo",
+        "bestFor": "Local feel, good value",
+        "text": "The old Jewish quarter on the slope south of the centre, quieter and cheaper than Plaza Nueva, with a strong local bar scene around Campo del Príncipe."
+      },
+      {
+        "name": "Near the Alhambra",
+        "bestFor": "An early entry slot",
+        "text": "A few hotels sit on the Alhambra hill itself, including one inside the walls. Convenient if you have an early Nasrid slot, and quiet at night, but a walk down into town for everything else."
+      },
+      {
+        "name": "Sacromonte",
+        "bestFor": "Something different",
+        "text": "Converted cave houses, cool in summer and genuinely unusual. Furthest from the centre and a serious uphill walk, so best if you are staying several nights."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€20–35 per night" },
+      { "label": "Comfortable hotel or carmen guesthouse", "value": "€90–160 per night" },
+      { "label": "Alhambra general ticket", "value": "About €19, including the Nasrid Palaces and Generalife" },
+      { "label": "Evening out on free tapas", "value": "€10–15 per person for three or four rounds" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Granada sits inland in eastern Andalusia. Málaga's much larger airport is the usual gateway, with a fast road connection.",
+    "options": [
+      {
+        "mode": "Málaga Airport",
+        "text": "About 1h30 by road, with frequent direct buses to Granada bus station. Far more international flights than Granada's own small airport.",
+        "detail": "Buses run roughly hourly and cost around €12–15. Book ahead in summer."
+      },
+      {
+        "mode": "Granada Airport (GRX)",
+        "text": "Seventeen kilometres west, with a limited set of domestic and a few European routes. A shuttle bus meets flights and reaches the centre in about 45 minutes.",
+        "detail": "Convenient when the routes suit, but check Málaga and Seville before assuming it is the best option."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "AVE from Madrid in about 3h15, and from [[cordoba]] in around 1h30. The line to [[seville]] involves a change and takes roughly 2h30 to 3h.",
+        "detail": "The station is a 25-minute walk or short bus ride northwest of the centre."
+      },
+      {
+        "mode": "Bus",
+        "text": "Frequent and comfortable coaches connect Granada with [[seville]] (3h), [[cordoba]] (2h30), Málaga (1h45) and the Alpujarras.",
+        "detail": "For Seville the bus is often faster and cheaper than the train."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Granada is compact but steep. Everything in the centre is walkable; the Alhambra and the Albaicín both involve real climbs.",
+    "options": [
+      {
+        "mode": "Walking",
+        "text": "The centre is flat and small — Plaza Nueva to the cathedral is five minutes. The Albaicín and the Alhambra are both uphill, the Alhambra by about 20 minutes of steady climb from Plaza Nueva.",
+        "detail": "The Cuesta de Gomérez through the woods is the pleasant way up to the Alhambra."
+      },
+      {
+        "mode": "Minibuses",
+        "text": "Small red buses (lines C30, C31, C32, C34) run up into the Albaicín, Sacromonte and the Alhambra on routes too narrow for full-size vehicles.",
+        "detail": "The C30 to the Alhambra and C31 to the Albaicín are the two most useful. Flat fare, frequent."
+      },
+      {
+        "mode": "Metro",
+        "text": "A single light-rail line runs north–south through the city, useful for reaching the train station and the outer districts but not the historic core.",
+        "detail": "Not needed for a typical visit unless your accommodation is out of the centre."
+      },
+      {
+        "mode": "Taxi",
+        "text": "Cheap by Spanish city standards and genuinely useful for getting up to Sacromonte or back from a late dinner in the Albaicín.",
+        "detail": "Taxis cannot enter much of the Albaicín; expect to be dropped at the nearest accessible corner."
+      },
+      {
+        "mode": "Buses to the mountains",
+        "text": "Regional buses reach the Sierra Nevada ski station in about 45 minutes and the Alpujarra villages in around 90.",
+        "detail": "Services to the Alpujarras are limited to a few a day — check return times before setting off."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "Granada sits at 738 m with the Sierra Nevada behind it, which makes it noticeably cooler than Seville and Córdoba but still very hot in high summer and genuinely cold in winter.",
+    "seasons": [
+      {
+        "season": "Spring (March–May)",
+        "rating": "best",
+        "text": "The best season. Warm days of 18–26°C, snow still on the Sierra Nevada behind the Alhambra, and the Generalife gardens at their peak. Semana Santa fills the city and is spectacular but needs booking well ahead."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "shoulder",
+        "text": "Hot, frequently 35–40°C, though the altitude means nights cool down more than in Seville. The Alhambra is best done at the first or last slot; the middle of the day is punishing on those open courtyards."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Warm, clear and much quieter, with the heat easing through September. October is excellent — mild days, cool evenings and the lowest visitor numbers of the good months."
+      },
+      {
+        "season": "Winter (November–February)",
+        "rating": "quiet",
+        "text": "Cold by Andalusian standards — 4–14°C, with frost and occasional snow in the city. The compensation is an empty Alhambra, the Sierra Nevada ski season, and the cheapest rooms of the year."
+      }
+    ],
+    "avoid": "The Alhambra caps daily visitors and sells out weeks ahead in spring and autumn. Tickets are released roughly three months in advance and the Nasrid Palaces slot on your ticket is fixed and non-transferable."
+  },
+  "itinerary": {
+    "title": "Three days in Granada",
+    "intro": "Built around whatever Alhambra slot you managed to get. This version assumes a morning Nasrid entry on day two, which is the most common.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The Albaicín and the view",
+        "summary": "Get the geography and see the Alhambra from outside before going in.",
+        "morning": "The Carrera del Darro along the river, the Bañuelo Arab baths, then climb into the Albaicín with no route.",
+        "afternoon": "The Royal Chapel and cathedral in the centre, and a wander through the Alcaicería silk market lanes.",
+        "evening": "Sunset from the Mirador de San Nicolás, then a free-tapas crawl down Calle Elvira."
+      },
+      {
+        "day": 2,
+        "title": "The Alhambra",
+        "summary": "A full half-day inside, then something quiet afterwards.",
+        "morning": "Alhambra entry — Alcazaba first for the view, then the Nasrid Palaces at your fixed slot, then the Generalife gardens. Allow three to four hours.",
+        "afternoon": "Rest, or an Arab bath, or the Carmen de los Mártires gardens just below the Alhambra.",
+        "evening": "Flamenco in a Sacromonte cave, then dinner late in the Realejo."
+      },
+      {
+        "day": 3,
+        "title": "Mountains or Sacromonte",
+        "summary": "Out of the city, or deeper into it.",
+        "morning": "Bus to the Alpujarras for Pampaneira, Bubión and Capileira and a walk between them.",
+        "afternoon": "Alternatively, the Sacromonte caves museum and the Abadía, then the walk back down along the ridge.",
+        "evening": "Last tapas circuit, then the Alhambra floodlit from the Albaicín."
+      }
+    ]
+  },
+  "tipsIntro": "Granada advice is mostly Alhambra advice, and it matters.",
+  "tips": [
+    "Book Alhambra tickets the day they are released — roughly three months ahead. They sell out, and there is no walk-up option in high season.",
+    "Your ticket carries a fixed half-hour entry window for the Nasrid Palaces. Arrive late and you are refused entry; the slot cannot be moved. Everything else on the site is flexible within the day.",
+    "Bring the exact ID or passport used to buy the ticket. Names are checked against documents at the gate and mismatches are refused.",
+    "If general tickets are gone, official guided tours hold a separate allocation and are often still available. So are the night visits to the Nasrid Palaces, which are a completely different experience.",
+    "Granada is genuinely hilly. The Albaicín and Sacromonte involve serious climbs on uneven cobbles — the little red minibuses exist for exactly this reason and cost the same as a normal bus.",
+    "Free tapas are real and vary by bar. If the first round is poor, move on; if it is good, stay, because many places escalate the dishes with each round.",
+    "Granada is 738 m up with mountains behind it, so evenings are much cooler than Seville even in August, and winter nights drop below freezing. Bring a layer whatever the forecast says for Andalusia.",
+    "The Mirador de San Nicolás at sunset is crowded and increasingly a scrum. San Cristóbal, ten minutes higher, has a comparable view and a fraction of the people."
+  ],
+  "faq": [
+    {
+      "q": "How far in advance should I book Alhambra tickets?",
+      "a": "As early as you can — tickets are released roughly three months ahead and genuinely sell out, particularly in spring and autumn. Your ticket carries a fixed half-hour entry slot for the Nasrid Palaces which cannot be changed or missed. If general tickets are gone, official guided tours and the night visits hold separate allocations and are often still available."
+    },
+    {
+      "q": "How many days do you need in Granada?",
+      "a": "Three. One for the Albaicín, the centre and the view of the Alhambra from outside; one for the Alhambra itself, which takes three to four hours and deserves a quiet afternoon afterwards; and one for Sacromonte, the Alpujarras or the Sierra Nevada. Two days works if you skip the mountains."
+    },
+    {
+      "q": "Are tapas really free in Granada?",
+      "a": "Yes, and it is the last major Spanish city where this is standard rather than exceptional. Order a drink and a plate of food arrives unrequested and unpriced. Many bars escalate the dishes with each round, so three or four drinks at €2.50–3.50 each amounts to dinner. This does not apply in Barcelona or Madrid, where tapas are ordered and paid for."
+    },
+    {
+      "q": "What is the best time of year to visit Granada?",
+      "a": "April to May and September to October. Spring is particularly good — warm days, snow still on the Sierra Nevada behind the Alhambra, and the Generalife gardens at their peak. Summer regularly hits 35–40°C, though the altitude means the nights cool. Winter is cold at 4–14°C but the Alhambra is nearly empty and rooms are at their cheapest."
+    },
+    {
+      "q": "Can I visit Granada as a day trip from Seville or Málaga?",
+      "a": "You can, and it is a poor idea. Seville is about three hours each way by bus and Málaga an hour and a half, and the Alhambra alone takes three to four hours with a fixed entry slot you cannot be late for. Granada deserves two nights minimum — and the free tapas and the Albaicín at night are half of what makes it worth coming."
+    },
+    {
+      "q": "Is Granada walkable?",
+      "a": "The centre is flat and small, but the two things you came for are both uphill. The Alhambra is about twenty minutes of steady climb from Plaza Nueva, and the Albaicín is a maze of steep cobbled lanes. Small red minibuses (C30, C31, C32) run up into both on routes too narrow for full-size buses, at standard fares."
+    },
+    {
+      "q": "Where should I see flamenco in Granada?",
+      "a": "Sacromonte, in one of the cave venues where the Roma zambra granadina developed. These rooms are small, hot and considerably more intense than a theatre show. Book directly with a smaller venue rather than through a hotel package that bundles dinner and a coach transfer."
+    }
+  ],
+  "related": ["cordoba", "seville", "madrid", "sicily"],
+  "relatedArticles": ["unesco-worth-planning-around", "best-time-southern-europe", "first-trip-to-europe"]
+}

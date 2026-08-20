@@ -1,0 +1,147 @@
+{
+  "country": "turkey",
+  "title": "The Complete Turkey Travel Guide",
+  "subtitle": "How the country divides, why domestic flights make it work, and what a fortnight can realistically cover.",
+  "summary": "Turkey holds more classical Greek cities than Greece and better-preserved Roman ruins than most of Italy, plus a volcanic landscape carved into churches and an eleven-thousand-year-old temple. This guide covers how to choose between them, how to move around a country 1,600 km wide, and what the seasons and the currency actually mean in practice.",
+  "readingTime": "15 min read",
+  "updated": "2026",
+  "faq": [
+    {
+      "q": "Is Istanbul enough for a first trip?",
+      "a": "Genuinely, yes. Istanbul justifies four or five days on its own — Hagia Sophia, Topkapı, the Bosphorus, the bazaars and the Asian side are a full trip. If you have eight days, adding Cappadocia by a 90-minute flight is the natural extension. If you have less than five, do not try to add anything."
+    },
+    {
+      "q": "Should I use buses or fly?",
+      "a": "Fly between regions and use buses within them. Turkey's domestic flights are cheap, frequent and competitive — Istanbul to Cappadocia is 90 minutes against ten hours by road. The long-distance bus network is excellent and comfortable and is the right choice for shorter hops and for anyone on a tight budget."
+    },
+    {
+      "q": "Do I need a car in Turkey?",
+      "a": "Not for Istanbul, where driving is genuinely unpleasant, and not for Cappadocia if you use tours. You do want one for the Turquoise Coast between Fethiye and Antalya, which is one of the great Mediterranean drives, and for the Black Sea mountains. Hire at a coastal airport rather than in a city."
+    },
+    {
+      "q": "What is the biggest planning mistake?",
+      "a": "Underestimating the size of the country. Istanbul to Şanlıurfa is 1,300 km — further than London to Milan. The second is booking a connection between Istanbul's two airports, which are on different continents and about two hours apart in traffic."
+    }
+  ],
+  "sections": [
+    {
+      "id": "how-turkey-divides",
+      "title": "How Turkey divides",
+      "navLabel": "The regions",
+      "body": [
+        "Turkey is 1,600 km from west to east, with a population of 85 million and geography that changes completely as you cross it. Five broad regions cover almost everything a visitor comes for.",
+        "**Istanbul and the northwest.** A city of some 16 million straddling Europe and Asia, and one of the great urban destinations in the world. It was the capital of the Roman, Byzantine and Ottoman empires in turn and has the buildings from each. It is also completely unlike the rest of the country.",
+        "**The Aegean coast.** [[ephesus|Ephesus]], [[pamukkale|Pamukkale]], [[bodrum|Bodrum]], İzmir and a string of classical sites. The densest concentration of Greek and Roman archaeology anywhere, in a Mediterranean landscape of olive groves and pine-backed coves.",
+        "**The Mediterranean — the Turquoise Coast.** From [[fethiye-oludeniz|Fethiye]] east through Kaş and Kalkan to [[antalya-turquoise-coast|Antalya]], with Lycian rock tombs, sunken cities, and the Lycian Way long-distance path running above the sea.",
+        "**Central Anatolia.** A high dry plateau holding [[cappadocia|Cappadocia]]'s eroded volcanic landscape, Konya's whirling dervish tradition, and [[ankara|Ankara]], the capital, with the country's best museum of Anatolian prehistory.",
+        "**The east and southeast.** [[sanliurfa-gobekli-tepe|Şanlıurfa]] and Göbekli Tepe, Gaziantep's food, Mardin's stone city, and Mount Nemrut's giant heads. And in the north, [[trabzon-black-sea|the Black Sea coast]] — green, wet and mountainous, closer to the Alps than the Aegean."
+      ],
+      "note": "The practical unit is two or three of these, connected by domestic flights. Attempting four means the trip becomes a series of transfers."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing between the ten destinations",
+      "navLabel": "Choosing where",
+      "tone": "tint",
+      "list": [
+        {
+          "title": "If you have one week",
+          "text": "[[istanbul]] and [[cappadocia]]. Four or five days in the city and three in the valleys, connected by a 90-minute flight. It is the standard first-visit itinerary in Turkey because it covers the two things the country is most famous for and requires almost no logistics."
+        },
+        {
+          "title": "If you care about archaeology",
+          "text": "[[ephesus]] first — a Roman city you walk through rather than look at, with a library facade, a 24,000-seat theatre and painted terrace houses. Then [[pamukkale]] for Hierapolis above the travertines, and [[sanliurfa-gobekli-tepe|Göbekli Tepe]] if you have three weeks."
+        },
+        {
+          "title": "If you want coast and boats",
+          "text": "[[fethiye-oludeniz|Fethiye and Ölüdeniz]] for the Blue Lagoon, paragliding and gulet trips, or [[bodrum]] for a more sophisticated Aegean scene. [[antalya-turquoise-coast|Antalya]] combines a walled old town with Roman sites and the eastern end of the Lycian coast."
+        },
+        {
+          "title": "If you want a landscape you cannot see elsewhere",
+          "text": "[[cappadocia]], where volcanic ash eroded into cones and pinnacles that people then hollowed into churches, houses and eight-level underground cities. [[pamukkale]] is the other one — white travertine terraces filled with warm mineral water."
+        },
+        {
+          "title": "If you want the country most visitors miss",
+          "text": "[[trabzon-black-sea|The Black Sea coast]], which is green, rainy and mountainous with tea plantations and a monastery glued to a cliff. Or [[sanliurfa-gobekli-tepe|Şanlıurfa]] in the southeast, beside a temple complex that predates agriculture."
+        },
+        {
+          "title": "If you want context before the sites",
+          "text": "[[ankara]]. The Museum of Anatolian Civilizations is the single best place to understand the Hittites, the Phrygians and the prehistory that everything else in Turkey sits on top of — and almost no foreign visitors go."
+        }
+      ]
+    },
+    {
+      "id": "moving",
+      "title": "Moving around a very large country",
+      "navLabel": "Getting around",
+      "body": [
+        "Turkey's size is the constraint that shapes every itinerary. Istanbul to Şanlıurfa is 1,300 km. Istanbul to Antalya is 700 km. Even the Aegean coast alone runs several hundred kilometres from İzmir down to Fethiye.",
+        "**Domestic flights are the answer and they are cheap.** Several carriers compete and fares are frequently under €50 booked a few weeks out. Istanbul to Cappadocia is 90 minutes against about ten hours by road; Istanbul to İzmir is an hour. Building an itinerary around two or three flights is normal here in a way it is not in most European countries.",
+        "The critical detail is that **Istanbul has two airports on two different continents**. Istanbul Airport (IST) is on the European side, about 40 km northwest of the centre. Sabiha Gökçen (SAW) is on the Asian side, about 45 km southeast. They are roughly two hours apart in traffic, and booking a same-day connection between them is one of the most common and expensive mistakes visitors make.",
+        "**Long-distance buses** are excellent — reclining seats, attendants serving tea, frequent stops, and a network reaching essentially every town. Overnight services save a hotel night. The bus stations, or otogar, are usually well outside city centres with free shuttle minibuses into town.",
+        "**High-speed rail** connects Istanbul, Ankara, Konya and Eskişehir, but does not yet reach the coasts. **Dolmuş minibuses** run fixed local routes leaving when full and are how the coast actually gets around. And a **hire car** is genuinely worth it for the Turquoise Coast drive between Fethiye and Antalya."
+      ],
+      "note": "Never drive in Istanbul. The city has 16 million people, aggressive traffic and almost no parking. Use the tram, metro and ferries, which are excellent and cost almost nothing with an Istanbulkart."
+    },
+    {
+      "id": "seasons",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "body": [
+        "Turkey has three quite different climates and the shoulder seasons are the only period that works well in all of them.",
+        "**April to June** is the strongest window. Istanbul's tulips bloom in April, Cappadocia's valleys are green and full of wildflowers, the archaeological sites are walkable, and the coast warms up through May with swimmable sea by the end of the month.",
+        "**July and August** are hot everywhere and extreme inland. The southeast around Şanlıurfa regularly exceeds 42°C. Ephesus, Hierapolis and Aphrodisias have almost no shade and become genuinely unwise in the middle of the day. The coast is at its busiest and most expensive, though the sea is at its best. The Black Sea coast is the one comfortable exception, being cool, green and wet.",
+        "**September and October** are arguably the best of all. The sea is at its warmest in September after a summer of heating, the inland heat breaks, the crowds thin and prices fall. October is excellent for Cappadocia and for walking the classical sites.",
+        "**November to March** empties the coast — many resort hotels and restaurants close entirely from November to April. Istanbul in winter is cold, grey and atmospheric with very few visitors, and Cappadocia under snow is genuinely spectacular. Eastern Anatolia gets severe."
+      ],
+      "note": "Ramadan shifts each year and changes opening hours and atmosphere, particularly in more conservative regions; restaurants in tourist areas operate normally. The two Eid holidays see domestic transport book out completely."
+    },
+    {
+      "id": "money",
+      "title": "Money, costs and inflation",
+      "navLabel": "Costs",
+      "tone": "tint",
+      "body": [
+        "Turkey has experienced sustained high inflation for several years, which has two practical consequences for visitors. The first is that any price quoted in lira in a guidebook or an older article is unreliable — restaurant menus are reprinted often and figures move fast. Always check current prices.",
+        "The second is that for anyone holding euros, pounds or dollars, Turkey remains one of the best-value destinations in the wider Mediterranean, frequently around half the cost of Greece or Italy for equivalent quality. That gap has been narrowing as inflation feeds through, but it is still substantial.",
+        "Mid-range travel runs roughly €75–130 per person per day, covering a three-star hotel, restaurant meals and local transport. Careful budget travel works at €35–60 with hostels, street food and buses. Comfortable travel with good hotels and private guides sits around €150–250.",
+        "Two costs worth budgeting separately. A **Cappadocia balloon flight** is €200–300 per person and is not a small line item — but it is also the thing most people remember most. And **domestic flights**, while cheap individually, add up across an ambitious itinerary.",
+        "Cards work in cities and resorts. Carry cash for markets, small towns, dolmuş fares and rural areas. Bargaining is expected in bazaars and for carpets, not in shops or restaurants."
+      ]
+    },
+    {
+      "id": "etiquette",
+      "title": "Culture and mosques",
+      "navLabel": "Etiquette",
+      "body": [
+        "Turkey is internally varied to a degree that matters. Istanbul, İzmir and the coastal resorts are cosmopolitan and secular in feel; central and eastern Anatolia are considerably more conservative. Dressing and behaving in a way that works in Bodrum will feel out of place in Şanlıurfa, and adjusting is a courtesy rather than a rule.",
+        "**Mosques** have clear and simple etiquette. Remove your shoes at the entrance, cover your head if you are a woman — scarves are provided at every visitor-facing mosque — and cover shoulders and knees regardless of gender. Avoid visiting during the five daily prayers, do not walk in front of anyone praying, and keep your voice down. Almost all mosques welcome visitors outside prayer times and none charge.",
+        "**Hospitality** is a genuine value and not a sales technique. Being offered tea in a shop, including a carpet shop, carries no obligation at all — accepting the glass and then not buying anything is entirely normal and nobody will take offence. Refusing hospitality outright is more awkward than accepting it.",
+        "One legal point worth knowing: **insulting Atatürk or the Turkish state is a criminal offence**, not merely a social taboo. Politics, the Kurdish question and the events of 1915 are all subjects where strong and divergent feelings exist. Listening is the sensible posture."
+      ]
+    },
+    {
+      "id": "itineraries",
+      "title": "Three routes that work",
+      "navLabel": "Routes",
+      "numbered": true,
+      "list": [
+        {
+          "title": "One week: Istanbul and Cappadocia",
+          "text": "Four nights in [[istanbul]] and three in [[cappadocia]], connected by a 90-minute flight. The classic first trip, covering the great imperial city and the strangest landscape in the country with minimal logistics.",
+          "tip": "Put Cappadocia second and allow two possible balloon mornings — flights are cancelled for wind more often than people expect."
+        },
+        {
+          "title": "Two weeks: the full arc",
+          "text": "The route on the [[c:turkey|Turkey country page]]: Istanbul, Cappadocia, then a flight to İzmir for [[ephesus]] and [[pamukkale]], and a hire car down the Turquoise Coast through [[fethiye-oludeniz|Fethiye]] to [[antalya-turquoise-coast|Antalya]].",
+          "tip": "Fly into Istanbul and out of Antalya. An open-jaw booking saves a full day of backtracking."
+        },
+        {
+          "title": "Ten days: coast and classics only",
+          "text": "Fly into İzmir, base at Selçuk for [[ephesus]], on to [[pamukkale]], then the coast at [[bodrum]] or [[fethiye-oludeniz|Fethiye]] with a gulet trip. No Istanbul, which is a legitimate choice if you have been before.",
+          "tip": "This is the best Turkey itinerary for anyone who wants swimming and ruins rather than cities."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "slug": "paris",
+  "name": "Paris",
+  "country": "france",
+  "region": "Île-de-France",
+  "categories": ["major-city", "capital-city", "cultural", "unesco"],
+  "tagline": "The world's most visited city, and still the best place in France to spend three unhurried days.",
+  "highlight": "The Louvre, the Musée d'Orsay and Sainte-Chapelle — three of Europe's great collections within one Métro ride of each other.",
+  "shortDescription": "France's capital packs more world-class museums, monuments and neighbourhood restaurants into six square miles than anywhere else in Europe. It rewards walking more than ticking off a list.",
+  "metaDescription": "A practical Paris travel guide: what to see, where to eat, which arrondissement to stay in, how to use the Métro, when to visit, and a three-day itinerary that skips the queues.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Charles de Gaulle (CDG) and Orly (ORY)",
+  "knownFor": "Museums, boulevards, bakeries, the Eiffel Tower",
+  "budget": "€130–220 per day, mid-range",
+  "goodFor": "First-time visitors, art, food, walking",
+  "coords": { "lat": 48.8566, "lng": 2.3522 },
+  "image": {
+    "file": "File:Eiffel Tower sunset skyline (Unsplash).jpg",
+    "alt": "The Eiffel Tower rising above the Paris rooftops at sunset"
+  },
+  "intro": [
+    "Paris is the most visited city on earth, which means two things at once: everything you have heard about it is true, and almost everyone experiences it badly. The default trip is a forced march between four monuments, two hours of it spent in queues, punctuated by a mediocre lunch on a boulevard where the menus have photographs on them.",
+    "The city rewards a completely different approach. Paris is small — you can walk from the Louvre to the Eiffel Tower in under an hour — and it is organised into twenty arrondissements that spiral out from the Seine like a snail shell. Each one has its own market street, its own bakery worth crossing town for, and its own local character. The monuments are worth seeing, but the reason people fall for Paris is the ordinary texture between them.",
+    "Three days is the honest minimum: one for the great museums, one for the historic core and the islands, and one for a neighbourhood you choose yourself. Four or five lets you slow down and take a day trip to [[loire-valley|the châteaux of the Loire]] or [[mont-saint-michel]] without cutting the city short."
+  ],
+  "whyVisit": {
+    "intro": "Plenty of European capitals have good museums and old buildings. Paris earns its reputation on density, consistency and the sheer number of things worth stopping for between the places you meant to go.",
+    "points": [
+      {
+        "title": "The museums are genuinely unmatched",
+        "text": "The Louvre alone holds around 35,000 works on display. But the Musée d'Orsay's Impressionist floor, the Rodin Museum's garden, the Musée de l'Orangerie's two oval rooms of Monet water lilies and the Picasso Museum in the Marais would each be the headline attraction of a smaller city. You can see four world-class collections in three days without rushing."
+      },
+      {
+        "title": "It is built for walking",
+        "text": "Central Paris is about 6 miles across. The Seine cuts through the middle with wide quays on both banks, and the historic core is dense enough that you pass three things worth looking at on the way to the one you planned. Very few great cities are this compact."
+      },
+      {
+        "title": "Food at every price point",
+        "text": "This is a city where a €1.30 baguette from a good bakery is a genuine pleasure and a €14 prix-fixe lunch in a neighbourhood bistro is normal. The Michelin restaurants get the attention, but the reliable joy of Paris is the everyday standard — the cheese shop, the market street, the corner café."
+      },
+      {
+        "title": "The layers are still visible",
+        "text": "Roman baths at Cluny, a 13th-century stained-glass chapel at Sainte-Chapelle, Haussmann's 19th-century boulevards, and the glass pyramid of the 1980s all sit within a short walk. Paris did not preserve one period; it kept adding without erasing, and you can read the whole sequence on foot."
+      },
+      {
+        "title": "It works as a hub",
+        "text": "Paris has six main railway stations pointing in every direction. Rouen, Reims, Chartres, Giverny and the Loire châteaux are all day trips. Bordeaux is two hours by TGV, Strasbourg is under two, and Marseille is three. If you have a week in France, starting here costs you nothing in flexibility."
+      }
+    ]
+  },
+  "attractionsIntro": "You cannot see all of these properly in three days, and trying is the classic Paris mistake. Pick four, book them in advance, and leave the rest as things you walk past.",
+  "attractions": [
+    {
+      "name": "The Louvre",
+      "text": "The largest art museum in the world, in a former royal palace. The Mona Lisa is small, mobbed and honestly the least rewarding thing in the building; the Venus de Milo, the Winged Victory of Samothrace, the Egyptian antiquities and the Richelieu wing's French sculpture courtyards are the reason to come. Treat it as three hours in two or three wings rather than an attempt at the whole thing.",
+      "tip": "Book a timed slot online. Wednesday and Friday evenings run until 21:00 and are noticeably calmer than any daytime slot."
+    },
+    {
+      "name": "Musée d'Orsay",
+      "text": "A converted Beaux-Arts railway station holding the world's great collection of Impressionist and Post-Impressionist painting — Monet, Degas, Renoir, Van Gogh, Cézanne. It is a fraction of the Louvre's size and, for most visitors, twice as enjoyable. The fifth-floor galleries behind the giant station clock are the highlight.",
+      "tip": "Go late afternoon on Thursday, when it stays open to 21:45 and the crowds thin out considerably after 18:00."
+    },
+    {
+      "name": "Sainte-Chapelle and the Île de la Cité",
+      "text": "A 13th-century royal chapel whose upper level is essentially a glass box: fifteen windows, 1,113 stained-glass scenes, and on a bright day the most spectacular interior in the city. It sits inside a working courthouse complex on the island where Paris began, a two-minute walk from Notre-Dame.",
+      "tip": "Go on a sunny morning — the effect depends entirely on light, and it is genuinely flat on a grey day. Security screening means a queue regardless of tickets."
+    },
+    {
+      "name": "The Eiffel Tower",
+      "text": "Built as a temporary exhibition piece for 1889 and nearly demolished twice. Going up is a two-to-three-hour commitment with the queues; the second floor has the better views, as the top is high enough that the city flattens out. Many people enjoy it more from the ground, from the Champ de Mars or across the river at Trocadéro.",
+      "tip": "If you want to go up, book the first slot of the day online weeks ahead. For photographs, the Rue de l'Université looking west, or Trocadéro just after sunrise, beat anything from the tower itself."
+    },
+    {
+      "name": "Notre-Dame de Paris",
+      "text": "Reopened in December 2024 after the 2019 fire, with the restored interior noticeably brighter than the smoke-darkened version most people remember. Entry to the cathedral is free but timed; the archaeological crypt beneath the square is an underrated ten minutes on Roman and medieval Paris.",
+      "tip": "Free timed slots are released on the official app a couple of days ahead and go quickly. Early morning is the calmest way in."
+    },
+    {
+      "name": "Montmartre and Sacré-Cœur",
+      "text": "The hill above the city, crowned by a white basilica with one of the best free views in Paris. The streets immediately around Place du Tertre are a tourist scrum; walk two blocks west to Rue Lepic, Rue des Abbesses and the vineyard on Rue des Saules and it becomes a village again.",
+      "tip": "Take the Métro to Abbesses and walk up through the back streets rather than arriving at the funicular with everyone else."
+    },
+    {
+      "name": "The Marais",
+      "text": "The best-preserved pre-Haussmann quarter, spanning the 3rd and 4th arrondissements — narrow streets, 17th-century mansions, the arcaded Place des Vosges, the Picasso Museum, and the historic Jewish quarter along Rue des Rosiers. It is also the city's best browsing district for food, bookshops and independent boutiques.",
+      "tip": "Many Marais shops open on Sunday, when much of Paris is shut. It is the obvious place to spend a Sunday afternoon."
+    },
+    {
+      "name": "Père-Lachaise Cemetery",
+      "text": "110 acres of cobbled avenues, tombs and plane trees on the eastern edge of the city, holding Oscar Wilde, Chopin, Édith Piaf and Jim Morrison among a million others. It is far more a landscape than a graveyard, and on a weekday morning you can walk for an hour and barely see anyone.",
+      "tip": "Take a map from the entrance kiosk — the numbering is genuinely confusing, and the hill is steeper than it looks."
+    }
+  ],
+  "thingsToDoIntro": "The monuments are only half of it. These are the things that make a Paris trip feel like a stay rather than a tour.",
+  "thingsToDo": [
+    {
+      "title": "Do a market street properly",
+      "text": "Rue Mouffetard in the 5th, Rue Montorgueil in the 2nd, Rue des Martyrs in the 9th and the Marché d'Aligre in the 12th are working food streets, not tourist attractions. Buy a baguette, some cheese, a bottle of wine and fruit, and you have assembled a better lunch than most restaurants will sell you.",
+      "tip": "Most market streets are liveliest Tuesday to Saturday morning and largely closed on Monday."
+    },
+    {
+      "title": "Walk the Seine at dusk",
+      "text": "From the Île Saint-Louis west along the Left Bank quays to the Pont Alexandre III is about forty minutes and takes in Notre-Dame, the bouquinistes' green book stalls, the Louvre across the water and the Eiffel Tower ahead. In summer the lower quays are pedestrianised and lined with people eating on the stone.",
+      "tip": "The Eiffel Tower sparkles for five minutes on the hour after dark. Pont de Bir-Hakeim and the Trocadéro terrace are the classic viewpoints."
+    },
+    {
+      "title": "Sit in a café without a plan",
+      "text": "Ordering un café and staying for an hour is not loitering here; it is the intended use. A pavement table costs a euro or two more than the bar, and that is the rent for as long as you want it. This is the single cheapest genuinely Parisian thing you can do.",
+      "tip": "Coffee at the zinc bar, standing, is the cheapest option in any café — often half the terrace price."
+    },
+    {
+      "title": "Take a day trip to Versailles",
+      "text": "Forty minutes on the RER C. The palace is overwhelming and overcrowded; the gardens, the Grand Canal and Marie-Antoinette's rustic hamlet at the far end are the better half of the day and far quieter. Rent a bike or a rowing boat and the scale of the place finally makes sense.",
+      "tip": "Closed Mondays. Go Tuesday if you can, and head for the estate first, palace second — everyone else does the reverse."
+    },
+    {
+      "title": "See something above ground level",
+      "text": "The Tour Montparnasse observation deck and the rooftop of Galeries Lafayette both give you the skyline with the Eiffel Tower in it — which, obviously, the Eiffel Tower cannot. The Arc de Triomphe's roof gives you the twelve-avenue star of the Étoile from directly above.",
+      "tip": "The Galeries Lafayette rooftop terrace is free and rarely busy before 11:00."
+    },
+    {
+      "title": "Spend an evening in a wine bar",
+      "text": "The modern Paris cave à manger — a wine shop with a kitchen — is where the city eats now. Small plates, natural wine, no reservations, loud rooms. The 11th arrondissement around Rue de Charonne and Rue Oberkampf has the highest concentration.",
+      "tip": "Turn up at 19:00 or after 21:30. Between those hours you will be waiting on the pavement."
+    }
+  ],
+  "foodIntro": "Paris is not a city of one signature dish; it is a city of very high floors. The bread, the cheese and the coffee at the bottom of the market are better than most places manage at the top.",
+  "foods": [
+    {
+      "name": "Baguette de tradition",
+      "text": "The protected, additive-free version — crackling crust, irregular open crumb, and best within four hours of baking. Paris runs an annual competition for the best one in the city, and the winner supplies the Élysée Palace for a year.",
+      "whereToTry": "Any bakery advertising 'baguette de tradition' with a queue at 08:00 or 18:30. Look for the annual Grand Prix winners' plaques."
+    },
+    {
+      "name": "Steak frites",
+      "text": "The default bistro plate: a cut of entrecôte or bavette, a mountain of thin fries, and a sauce — béarnaise, au poivre, or the guarded herb-butter recipes some restaurants build their whole reputation on. Order it saignant (rare) or à point (medium rare); anything more cooked will be quietly judged.",
+      "whereToTry": "Traditional bistros in the 6th, 7th and 17th. Several long-running places serve only this, with no menu at all."
+    },
+    {
+      "name": "Croissant au beurre",
+      "text": "Ordered by name to distinguish it from the cheaper margarine version. A good one shatters, leaves the plate covered in flakes and needs nothing on it. It is a breakfast item — Parisians do not eat them at 16:00, though nobody will stop you.",
+      "whereToTry": "The same bakeries that do the good baguettes. Before 10:00 for a batch still warm."
+    },
+    {
+      "name": "Cheese, properly chosen",
+      "text": "A fromagerie will ask when you plan to eat it and cut accordingly. A classic plate runs soft to strong: a Comté, a Camembert or Brie de Meaux, a goat's cheese and a blue such as Roquefort. Cheese comes after the main course in France, before dessert.",
+      "whereToTry": "Any neighbourhood fromagerie — there is one on nearly every market street. They will happily assemble a plate for a picnic."
+    },
+    {
+      "name": "Falafel in the Marais",
+      "text": "Rue des Rosiers, the historic Jewish street in the Marais, has been serving overstuffed pita with fried aubergine, hummus, pickled cabbage and harissa for decades. Queues run down the street at lunchtime and it remains one of the best-value hot meals in central Paris.",
+      "whereToTry": "Rue des Rosiers, 4th arrondissement. Closed Friday evening and Saturday for Shabbat."
+    },
+    {
+      "name": "Pastry, as a decision",
+      "text": "The classics worth prioritising: an éclair, a Paris-Brest (praline cream in choux, invented to celebrate a bicycle race), a tarte au citron, and the mille-feuille. Every good pâtisserie does all four, and the differences between them are the point.",
+      "whereToTry": "The pâtisseries of Saint-Germain and the 9th. Buy one, eat it in a park, repeat the next day."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you sleep matters more in Paris than in most cities, because the arrondissements have genuinely different characters and the Métro shuts around 01:15 on weeknights. Anywhere in the 1st to the 11th puts you within walking distance of something worth walking to.",
+    "areas": [
+      {
+        "name": "The Marais (3rd and 4th)",
+        "bestFor": "First-time visitors who want to walk everywhere",
+        "text": "Central, beautiful, full of restaurants and open on Sundays. You can walk to Notre-Dame, the Louvre, the Île Saint-Louis and Bastille. It is the most expensive neighbourhood per square metre and the streets are noisy late — worth asking for a courtyard room."
+      },
+      {
+        "name": "Saint-Germain and the Latin Quarter (5th and 6th)",
+        "bestFor": "Classic Left Bank Paris, museums, bookshops",
+        "text": "Cafés with literary plaques, the Luxembourg Gardens, the Musée d'Orsay and the Panthéon within walking distance. The 5th around Rue Mouffetard is noticeably cheaper and more student-ish than the polished 6th."
+      },
+      {
+        "name": "The 11th — Oberkampf and Charonne",
+        "bestFor": "Food, nightlife, better value",
+        "text": "Where much of the city's interesting eating and drinking has moved. Fewer monuments, far more restaurants, and prices roughly 20–30% below the Marais for the same standard of room. Ten minutes to the centre on Métro line 5 or 9."
+      },
+      {
+        "name": "Montmartre (18th)",
+        "bestFor": "Village atmosphere and views",
+        "text": "Steep, pretty and slightly removed — the trade-off is 20–30 minutes on the Métro to most sights and a lot of stairs with a suitcase. Stay on the western or southern slopes rather than immediately around Place du Tertre."
+      },
+      {
+        "name": "The 7th — near the Eiffel Tower",
+        "bestFor": "Quiet, families, the postcard view",
+        "text": "Residential, handsome and calm, with the Rodin Museum, Les Invalides and Rue Cler's market street. It is the least lively option after dark, and worth it mainly if a tower view from the window genuinely matters to you."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€40–70 per night" },
+      { "label": "Two-star hotel or small apartment", "value": "€110–170 per night" },
+      { "label": "Comfortable three to four-star", "value": "€180–300 per night" },
+      { "label": "Luxury", "value": "€400+ per night" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Paris is one of the easiest cities in the world to reach — two international airports, six long-distance rail terminals and direct trains from London, Brussels, Amsterdam, Geneva and Barcelona.",
+    "options": [
+      {
+        "mode": "Charles de Gaulle Airport (CDG)",
+        "text": "The main international gateway, 25 km northeast. The RER B train reaches Gare du Nord in about 35 minutes and runs every 10–15 minutes; it is far faster than a taxi in traffic.",
+        "detail": "Taxis to central Paris are a fixed fare — around €56 to the Right Bank, €65 to the Left. Refuse anyone who approaches you inside the terminal."
+      },
+      {
+        "mode": "Orly Airport (ORY)",
+        "text": "Smaller and closer, 13 km south, used mostly for domestic and short-haul European flights. Métro line 14 now runs directly from Orly to Châtelet in about 25 minutes.",
+        "detail": "Fixed taxi fares of roughly €36 to the Left Bank and €44 to the Right."
+      },
+      {
+        "mode": "Eurostar and international rail",
+        "text": "London to Gare du Nord takes 2h20. Brussels is 1h25, Amsterdam 3h20, Geneva 3h10, Barcelona 6h30. Arriving by train puts you in the centre of the city with no transfer at all.",
+        "detail": "Eurostar requires check-in 45–90 minutes ahead; domestic TGVs need only a few minutes."
+      },
+      {
+        "mode": "TGV from within France",
+        "text": "Lyon 2h, [[bordeaux]] 2h05, [[strasbourg-alsace|Strasbourg]] 1h50, Marseille 3h10. Fares are cheapest booked several weeks out and rise steeply close to departure.",
+        "detail": "Note that different destinations use different stations — Gare de Lyon for the southeast, Montparnasse for the west and southwest, Gare de l'Est for Alsace."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk wherever you reasonably can, and use the Métro for anything over about 25 minutes. Almost nobody visiting Paris needs a taxi, and nobody at all needs a rental car.",
+    "options": [
+      {
+        "mode": "The Métro",
+        "text": "Sixteen lines, 300-odd stations, and rarely more than 500 m from wherever you are standing. Trains run roughly 05:30 to 01:15, an hour later on Friday and Saturday. Navigate by the terminus name at the end of your line — that is how directions are signed.",
+        "detail": "Paper tickets have been phased out. Load a Navigo Easy card, or use contactless bank card and phone payment on most lines."
+      },
+      {
+        "mode": "Walking",
+        "text": "The most efficient way to cover central Paris. Louvre to Notre-Dame is 20 minutes, Notre-Dame to the Panthéon 15, the Marais to Bastille 10. You will average 15,000 steps a day here without trying.",
+        "detail": "Bring shoes that cope with cobbles and be alert at crossings — Parisian drivers treat zebra crossings as advisory."
+      },
+      {
+        "mode": "The RER",
+        "text": "The regional express network, which crosses the city faster than the Métro with fewer stops and continues into the suburbs. RER C serves Versailles, RER B serves both CDG airport and Disneyland.",
+        "detail": "Journeys outside central Paris need a separate, more expensive ticket — keep it, as you must scan it to exit."
+      },
+      {
+        "mode": "Vélib' bike share",
+        "text": "Around 1,400 stations and a genuinely usable network of protected lanes along the Seine, Rue de Rivoli and the main north–south axes. A day pass costs a few euros and it is often faster than the Métro for medium distances.",
+        "detail": "The electric bikes cost more per minute but earn it on Montmartre's hills."
+      },
+      {
+        "mode": "Buses and river",
+        "text": "Buses are slower than the Métro but you see the city, and routes 69, 72 and 87 are scenic runs in their own right. The Batobus river shuttle is a pleasant way to cover the Seine sights.",
+        "detail": "Standard Métro tickets and Navigo passes are valid on city buses."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Paris has no bad season, only different trade-offs. The shoulder months give you long days and mild weather without August's heat or the deep-winter grey, and the city is fully open — which is not true in August, when a surprising number of restaurants close for the month.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The classic answer. Chestnut trees in the parks, terraces filling up, daylight until 21:30 by June, and temperatures around 17–24°C. Late May and June are the peak of it. Expect rain roughly one day in three and pack for it."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot, busy and slightly hollowed out — many Parisians leave in August and a good number of neighbourhood restaurants shut for two to four weeks. The upside is the long evenings, the pedestrianised riverside and open-air cinema in the parks. Very few older buildings have air conditioning."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Arguably the best window of all. The city returns to work, everything reopens, the crowds thin from mid-September, and October light on limestone buildings is the reason photographers like this month. Temperatures 12–20°C, rain increasingly likely by late October."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Grey, damp and dark by 17:00, but the museums are empty, hotel rates drop by a third, and it is the only time you will have Sainte-Chapelle nearly to yourself. December's Christmas markets and lit boulevards are genuinely lovely; January and February are the cheapest weeks of the year."
+      }
+    ],
+    "avoid": "Museums close on either Monday or Tuesday — the Louvre on Tuesday, the Musée d'Orsay and Versailles on Monday. Check before you build a day around one. Also note that the first Sunday of the month is free entry at many national museums, which sounds appealing and means very long queues."
+  },
+  "itinerary": {
+    "title": "Three days in Paris",
+    "intro": "Built around one major museum per day rather than three, with each afternoon in a different part of the city. It assumes you are staying reasonably centrally and are happy to walk.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The islands and the Left Bank",
+        "summary": "Start where the city started, then cross to the Latin Quarter for the afternoon.",
+        "morning": "Île de la Cité at opening time — Sainte-Chapelle first while the light is good, then Notre-Dame's exterior and the flower market. Cross to the Île Saint-Louis for coffee and walk its single main street end to end.",
+        "afternoon": "Over to the Left Bank. The Panthéon and the Rue Mouffetard market street, then an hour in the Luxembourg Gardens — the most-used park in the city and the best place to understand how Parisians actually spend a Saturday.",
+        "evening": "Dinner in the 5th or 6th, then walk the Seine quays back east with the Louvre lit up across the water."
+      },
+      {
+        "day": 2,
+        "title": "Museums and the grand axis",
+        "summary": "One serious museum, then the ceremonial city — the Tuileries, the Champs-Élysées and the tower.",
+        "morning": "The Louvre on a pre-booked early slot, three hours maximum, two wings. Alternatively the Musée d'Orsay if Impressionism appeals more than antiquities — do not attempt both in one day.",
+        "afternoon": "Walk out through the Tuileries Garden, stopping at the Orangerie for Monet's water lilies, then along to Place de la Concorde and up the Champs-Élysées to the Arc de Triomphe. Climb it for the view down the twelve avenues.",
+        "evening": "Champ de Mars for the Eiffel Tower after dark, catching the sparkle on the hour, then dinner in the 7th or back east in the 11th."
+      },
+      {
+        "day": 3,
+        "title": "Montmartre and the Marais",
+        "summary": "The two neighbourhoods that feel least like a capital city and most like a series of villages.",
+        "morning": "Métro to Abbesses and walk up through Montmartre's back streets to Sacré-Cœur for the view, then down the north slope past the vineyard on Rue des Saules — the quiet side almost nobody sees.",
+        "afternoon": "Cross town to the Marais. The Place des Vosges, the Picasso Museum if you have the energy, Rue des Rosiers for late lunch, and an hour of browsing the streets between Rue Vieille du Temple and Rue de Bretagne.",
+        "evening": "A wine bar in the 11th, or if you have a fourth day, book an evening slot at whichever of the Louvre or Orsay you skipped."
+      }
+    ]
+  },
+  "tipsIntro": "Most Paris advice is about queues. This is the rest of it.",
+  "tips": [
+    "Learn 'bonjour' and use it every single time you enter a shop, café or bakery before saying anything else. Skipping it reads as rude in a way that visitors consistently underestimate, and it changes how you are treated more than any amount of French vocabulary.",
+    "Book the Louvre, the Eiffel Tower, Sainte-Chapelle and Versailles online before you leave home. Walk-up tickets either do not exist or cost you two hours.",
+    "Restaurants serve lunch roughly 12:00–14:00 and dinner from 19:30. Turning up at 17:00 hungry will get you a café sandwich, not a meal — plan around it or use a bakery.",
+    "Water is free: ask for 'une carafe d'eau' and you get tap water at no charge. Bottled water is a paid upsell.",
+    "Service is included by law, so tipping is genuinely optional. Rounding up or leaving a couple of euros for good service is normal; 15–20% is not expected.",
+    "Watch for the petition-and-clipboard and friendship-bracelet approaches around Sacré-Cœur, the Eiffel Tower and Métro exits. A firm 'non' and continuing to walk is all that is required.",
+    "The Métro is safe but pickpocketing is real on lines 1, 4 and 9 and on RER B from the airport. A zipped bag worn in front on crowded trains solves it.",
+    "Museums shut one weekday each, most close their ticket desks 45–60 minutes before the doors, and several stay open one evening a week — which is the single best-value time to visit."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Paris?",
+      "a": "Three full days is the working minimum for a first visit: one for the islands and Left Bank, one for a major museum and the grand axis, and one for Montmartre and the Marais. Four or five lets you add Versailles or a Loire day trip without cutting anything short. Two days is possible but you will spend it moving rather than looking."
+    },
+    {
+      "q": "Is the Paris Museum Pass worth buying?",
+      "a": "Only if you are visiting three or more included sites within its validity window and you dislike booking things individually. It covers the Louvre, Orsay, Versailles, the Arc de Triomphe and around 50 others, and lets you skip ticket queues — though not security queues. For a typical three-day trip with two big museums, buying individual timed tickets usually works out the same or cheaper."
+    },
+    {
+      "q": "Do I need to speak French?",
+      "a": "No. English is widely spoken in central Paris, especially in hotels, museums and restaurants. What matters far more than fluency is the greeting: say 'bonjour' on entering and 'merci, au revoir' on leaving, and ask 'parlez-vous anglais?' rather than opening in English. That small courtesy changes the whole interaction."
+    },
+    {
+      "q": "Is Paris expensive?",
+      "a": "Accommodation is; the rest need not be. Expect €110–170 a night for a decent mid-range room in a central arrondissement. But a bakery lunch runs €6–9, a neighbourhood bistro's prix-fixe lunch €16–24, a Métro journey about €2, and many of the best things — the Seine quays, Père-Lachaise, the parks, Montmartre — cost nothing. Budget roughly €130–220 per person per day all in."
+    },
+    {
+      "q": "What is the best area to stay in Paris?",
+      "a": "For a first visit, the Marais (3rd and 4th) or Saint-Germain and the Latin Quarter (5th and 6th) — both are central enough to walk almost everywhere. For better value and better restaurants, the 11th around Oberkampf runs 20–30% cheaper and is ten minutes from the centre by Métro. Avoid booking near Gare du Nord purely on price."
+    },
+    {
+      "q": "Is Paris safe for tourists?",
+      "a": "Yes, in the ordinary sense — violent crime against visitors is rare. Pickpocketing is the real risk, concentrated on Métro lines 1, 4 and 9, the RER B from Charles de Gaulle, and the crowds at Sacré-Cœur and the Eiffel Tower. A bag that zips, worn in front on busy trains, deals with nearly all of it."
+    },
+    {
+      "q": "Should I visit Paris in August?",
+      "a": "It is the one month with a real drawback. Many Parisians take their holiday then and a noticeable share of neighbourhood restaurants and bakeries close for two to four weeks, while the monuments stay at peak crowding and older buildings without air conditioning get uncomfortable. If August is your only option the city is still worth it — just check that specific places are open before building a day around them."
+    }
+  ],
+  "related": ["loire-valley", "normandy-d-day-beaches", "strasbourg-alsace", "rome"],
+  "relatedArticles": ["first-trip-to-europe", "europe-by-train", "unesco-worth-planning-around"]
+}

@@ -1,0 +1,147 @@
+{
+  "slug": "first-trip-to-europe",
+  "title": "Planning Your First Trip to Europe",
+  "kicker": "Planning",
+  "subtitle": "How many places, how many days, and the handful of decisions that determine whether the trip works.",
+  "summary": "Most first European trips go wrong in the same three ways: too many cities, too little time in each, and a route shaped by a cheap flight rather than by geography. Here is how to avoid all three.",
+  "readingTime": "10 min read",
+  "image": {
+    "file": "File:Prague Panorama - Oct 2010.jpg",
+    "alt": "A wide panorama of a European city of red roofs, spires and a river at dusk"
+  },
+  "featuredDestinations": ["paris", "rome", "barcelona"],
+  "sections": [
+    {
+      "id": "the-rule",
+      "title": "The one rule that matters most",
+      "navLabel": "The one rule",
+      "body": [
+        "Three nights minimum per place, and no more than one place per four days of trip length. That is it. Almost every other mistake first-time visitors make follows from breaking it.",
+        "The arithmetic is unforgiving. A 'night' in a city where you arrive at 18:00 and leave at 09:00 is not a night — it is dinner and a sleep. Two nights gives you exactly one full day. Three nights gives you two full days plus two half days, which is the first point at which a place stops being a checklist and starts being somewhere you have been.",
+        "Add to that the hidden cost of moving. A two-hour train between cities consumes closer to five hours once you count checking out, getting to the station, waiting, arriving, finding the new place and checking in. Do that four times in ten days and you have spent two entire days in transit — a fifth of your trip — and arrived everywhere tired.",
+        "So for a ten-day trip: two places, possibly three. For fourteen days: three, comfortably. For a week: two at most, and one is a perfectly respectable answer. People consistently find this too conservative when planning and consistently wish they had listened when they get home."
+      ],
+      "note": "The most common regret reported after a first European trip is not 'we missed a city' — it is 'we rushed'. Nobody comes back wishing they had packed in one more overnight stop."
+    },
+    {
+      "id": "choosing",
+      "title": "Choosing where to go",
+      "navLabel": "Where to go",
+      "tone": "tint",
+      "body": [
+        "Rather than starting from a list of famous cities, start from what you actually enjoy doing on holiday. Europe is small enough that almost every interest is well served somewhere, and building around the interest gives you a better trip than building around the fame."
+      ],
+      "list": [
+        {
+          "title": "If you like museums and cities",
+          "text": "[[paris]], Rome, Madrid, London, Vienna, Berlin. Pick two that are well connected — Paris and Amsterdam, or Rome and Florence — and give each three or four nights. Cities are the easiest first trip because everything is walkable and nothing needs a car."
+        },
+        {
+          "title": "If you want food and wine",
+          "text": "[[bordeaux]] and the southwest of France, Emilia-Romagna in Italy, the Basque country across the Spanish–French border, or [[strasbourg-alsace|Alsace]]. These regions reward slowness and generally require a rental car for two or three days."
+        },
+        {
+          "title": "If you want beaches and warmth",
+          "text": "The Mediterranean, but be specific about the month. [[nice-french-riviera|The French Riviera]], the Amalfi Coast, the Greek islands and southern Spain are all superb in June and September and unpleasantly crowded and expensive in August."
+        },
+        {
+          "title": "If you want mountains and walking",
+          "text": "The Alps — [[chamonix-mont-blanc|Chamonix]], the Dolomites, the Bernese Oberland — or the Pyrenees. Note the seasons carefully: alpine resorts have two closed periods each year when the lifts shut and half the hotels close."
+        },
+        {
+          "title": "If you want history you can stand in",
+          "text": "Rome, Athens, [[normandy-d-day-beaches|Normandy]], [[dordogne-sarlat|the Dordogne]] for prehistory, or the Roman sites of southern France and Spain. These reward reading a little beforehand more than any other kind of trip."
+        }
+      ]
+    },
+    {
+      "id": "geography",
+      "title": "Let geography pick the route, not the flight",
+      "navLabel": "Route",
+      "body": [
+        "The single most expensive mistake in trip planning is shaping the itinerary around a cheap flight found before the route existed. A €40 fare that adds a 90-minute airport transfer at each end, an overnight in the wrong city and a backtrack later costs far more than €40 in time.",
+        "Decide the route first. Then book the flights that serve it — ideally flying into one city and out of another, which almost never costs more than a return and can save you a full day of retracing. Airlines call this an open-jaw or multi-city booking and every major carrier sells it.",
+        "Within Europe, the train usually beats the plane for journeys under about four hours once you count getting to airports, security and baggage. Paris to Lyon, Rome to Florence, Madrid to Seville, Amsterdam to Brussels — all are faster and far more pleasant by rail. Beyond five or six hours, or where no direct line exists, flying starts to make sense again.",
+        "One more geographical point: Europe is bigger than it looks on a map that also contains the United States. Paris to Rome is 1,100 km, roughly Chicago to Atlanta. Lisbon to Warsaw is further than New York to Denver. Two countries in ten days is a comfortable trip; five is a blur."
+      ]
+    },
+    {
+      "id": "practicalities",
+      "title": "The practical checklist",
+      "navLabel": "Practicalities",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Check entry requirements early",
+          "text": "Most of Europe is in the Schengen Area, which allows many nationalities 90 visa-free days in any 180. The EU is phasing in biometric entry checks and the ETIAS travel authorisation, so verify the current position for your passport a few months before you travel rather than a week."
+        },
+        {
+          "title": "Book the unmissable things before the flights",
+          "text": "A handful of sights genuinely sell out weeks ahead — the Alhambra in Granada, the Vatican Museums, the Anne Frank House, the Sagrada Família, the Aiguille du Midi in high summer. If one of these is the reason for the trip, secure it first and build around the date."
+        },
+        {
+          "title": "Get money sorted, simply",
+          "text": "A card with no foreign transaction fee, contactless enabled, plus a small amount of cash for markets and rural businesses. Always choose to be charged in the local currency when a card machine offers you the choice — 'dynamic currency conversion' in your home currency is consistently a worse rate."
+        },
+        {
+          "title": "Sort data before you land",
+          "text": "An eSIM bought before departure is usually far cheaper than a roaming pass and works the moment you land. Offline maps downloaded in advance cover the gaps."
+        },
+        {
+          "title": "Pack less than you think, in one bag",
+          "text": "European cities mean cobbles, stairs and trains without lifts. A single bag you can carry up two flights of stairs is worth more than any amount of outfit planning. Laundry exists everywhere."
+        },
+        {
+          "title": "Leave gaps in the schedule",
+          "text": "Book the accommodation and the two or three things that must be booked. Leave the rest open. The best days on most trips are the unplanned ones, and a fully scheduled itinerary has no room for the restaurant someone recommends or the market you walk past."
+        }
+      ]
+    },
+    {
+      "id": "sample-routes",
+      "title": "Three routes that work",
+      "navLabel": "Sample routes",
+      "tone": "tint",
+      "body": [
+        "Each of these obeys the three-night rule, uses trains rather than flights between stops, and flies into one city and out of another."
+      ],
+      "list": [
+        {
+          "title": "Ten days: Paris and the Loire",
+          "text": "Four nights in [[paris]], three in [[loire-valley|the Loire Valley]], then back to Paris or onward. Gentle, entirely rail-based, and the single easiest first trip to France. Add three nights in [[normandy-d-day-beaches|Normandy]] to make it fourteen."
+        },
+        {
+          "title": "Fourteen days: France north to south",
+          "text": "Paris, then [[dordogne-sarlat|the Dordogne]] or [[bordeaux]], then [[provence-luberon|Provence]], finishing in [[nice-french-riviera|Nice]] and flying home from there. Four stops in fourteen days, three TGV legs and one short car rental."
+        },
+        {
+          "title": "Ten days: two countries, one border",
+          "text": "Pair adjacent regions rather than distant capitals — northern Italy and southern France, or Spain's Basque country and southwest France. Short transfers, big cultural contrast, and no internal flights."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long should a first trip to Europe be?",
+      "a": "Ten to fourteen days is the sweet spot. It absorbs the jet lag, allows two or three genuine stops at three or four nights each, and leaves room for a rest day. A week works well for a single country or a pair of nearby cities. Under five days, stay in one place."
+    },
+    {
+      "q": "Is a rail pass worth buying?",
+      "a": "Sometimes. Passes suit long distances across several countries and undecided plans. They suit fixed routes inside France, Spain or Italy much less, because high-speed trains there still charge a compulsory seat reservation on top of the pass and advance individual tickets are often cheaper. Price your actual route both ways before deciding."
+    },
+    {
+      "q": "What is the best time of year for a first trip?",
+      "a": "May, June, September or early October. You get long days, mild weather, everything open and none of August's crowds and prices. July and August are peak season everywhere in Europe simultaneously, which is the worst possible combination of hot, expensive and busy."
+    },
+    {
+      "q": "How much should I budget per day?",
+      "a": "In Western Europe, roughly €75–110 a day for careful budget travel, €150–230 mid-range, and €260+ for comfortable hotels and restaurant dinners. Capital cities add 25–35%. Southern and Eastern Europe run noticeably cheaper. Accommodation and restaurant dinners dominate the total; transport and sightseeing are usually smaller than people expect."
+    },
+    {
+      "q": "Should I book everything in advance?",
+      "a": "Book accommodation, long-distance trains and the two or three sights that genuinely sell out. Leave everything else open. Over-scheduling is the most common way to make a good itinerary feel like work, and the unplanned afternoons are usually what people remember."
+    }
+  ],
+  "readNext": ["europe-by-train", "week-cost-five-countries", "food-primer"]
+}

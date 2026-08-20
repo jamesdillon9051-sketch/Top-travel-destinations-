@@ -1,0 +1,359 @@
+{
+  "slug": "bodrum",
+  "name": "Bodrum",
+  "country": "turkey",
+  "region": "Muğla, Aegean coast",
+  "categories": ["coastal", "historic", "archaeological", "food-and-wine"],
+  "tagline": "A Crusader castle on the harbour of ancient Halicarnassus, and a peninsula of white villages, each with a completely different idea of a holiday.",
+  "highlight": "The Castle of St Peter, built by the Knights of St John out of the stones of one of the Seven Wonders of the Ancient World.",
+  "shortDescription": "Turkey's most stylish stretch of Aegean coast, built on the site of Halicarnassus, with a Bronze Age shipwreck in the castle and thirteen villages on the peninsula behind it.",
+  "metaDescription": "A Bodrum travel guide: the Castle of St Peter and its underwater archaeology, the Mausoleum site, the peninsula villages, gulet cruises, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "Bodrum–Milas (BJV)",
+  "knownFor": "The castle, the Mausoleum, gulets, peninsula villages",
+  "budget": "€80–180 per day, mid-range",
+  "goodFor": "Sailing, food and nightlife, low-key luxury, day trips to Greece",
+  "coords": { "lat": 37.0344, "lng": 27.4305 },
+  "image": {
+    "file": "File:Bodrum Castle, Turkey.jpg",
+    "alt": "The Castle of St Peter standing on its headland above Bodrum's harbour and yachts"
+  },
+  "intro": [
+    "Bodrum was Halicarnassus, and Halicarnassus produced two things the world still knows: Herodotus, who invented history as a subject, and the Mausoleum, the tomb built for the Carian ruler Mausolus after his death in 353 BC, so extravagant that his name became the word for a monumental tomb in most European languages. It was one of the Seven Wonders of the Ancient World. Earthquakes brought it down, and the Knights of St John quarried the wreckage to build the castle that now stands on the headland — which is why the Mausoleum site is a set of foundations and the castle is magnificent.",
+    "That castle is the reason to come even if you have no interest in beaches. Begun in 1402, with towers named for the nationalities of the knights who garrisoned them, it now holds the Museum of Underwater Archaeology — the finds from wrecks excavated along this coast, including one from around 1300 BC whose cargo of copper, tin, ivory and Canaanite jars rewrote what was known about Bronze Age trade in the Mediterranean.",
+    "Modern Bodrum is a different proposition again: a peninsula of white cube houses under bougainvillea, kept low and white by building rules that have held since the 1970s, wrapped around thirteen or so villages that each attract a different crowd. Gümüşlük has a sunken city under the shallows and fish restaurants with their tables in the sand. Yalıkavak has a superyacht marina. Türkbükü has wooden decks instead of a beach and a Sunday-lunch scene. It is the most self-consciously stylish part of the Turkish coast, and unusually for a resort area, it also has genuine history and one of the country's best museums."
+  ],
+  "whyVisit": {
+    "intro": "Bodrum is where Turkey's Aegean coast is at its most sophisticated, and where the ancient world sits directly under the marina.",
+    "points": [
+      {
+        "title": "The castle museum is world-class",
+        "text": "A Crusader fortress from 1402 housing the Museum of Underwater Archaeology, with material recovered from wrecks along this coast spanning the Bronze Age to the Middle Ages. Both the building and the collection would justify the trip alone."
+      },
+      {
+        "title": "A Wonder of the Ancient World stood here",
+        "text": "The Mausoleum of Halicarnassus, built around 350 BC and standing for some 1,600 years. What remains is a foundation you can walk, but knowing that the castle is built from its marble changes how you look at both."
+      },
+      {
+        "title": "Thirteen villages, thirteen holidays",
+        "text": "The peninsula is not one place. Gümüşlük is a quiet fishing bay over sunken Myndos; Yalıkavak is yachts and designer shops; Bitez is windsurfing; Gümbet is nightlife. Choosing the right one is most of the trip."
+      },
+      {
+        "title": "This is where gulets come from",
+        "text": "The broad wooden boats that sail the whole Turkish coast were built here, and Bodrum's yards still build them. It is the departure point for cruises into the Gökova gulf, generally quieter than the Fethiye routes."
+      },
+      {
+        "title": "Greece is twenty minutes away",
+        "text": "Ferries cross to Kos several times daily in season, which makes an easy island day trip and a genuinely useful link between a Greek island holiday and the Turkish coast."
+      }
+    ]
+  },
+  "attractionsIntro": "The town's sights cluster around the harbour and take a day. The peninsula is the other half of Bodrum and needs a car or a lot of dolmuş rides.",
+  "attractions": [
+    {
+      "name": "The Castle of St Peter",
+      "text": "A Knights Hospitaller fortress begun in 1402 on the headland between Bodrum's two bays, with towers named for the English, French, German and Italian knights, chapel, dungeons, gardens of Mediterranean plants and views over both harbours.",
+      "tip": "Allow two to three hours if the museum halls are open, and check current opening — sections have been closed for restoration at various times."
+    },
+    {
+      "name": "The Museum of Underwater Archaeology",
+      "text": "Inside the castle: cargoes raised from ancient wrecks off this coast, including a Late Bronze Age ship of around 1300 BC carrying copper and tin ingots, ebony, ivory and Canaanite jars, plus a Byzantine 'Glass Wreck'.",
+      "tip": "The Bronze Age cargo is the highlight — it demonstrates trade links from Egypt to the Baltic in a single hold."
+    },
+    {
+      "name": "The Mausoleum site",
+      "text": "The foundations, drainage channels and a few surviving blocks of the tomb of Mausolus, one of the Seven Wonders. A small exhibition explains the reconstruction; the surviving sculpture is largely in the British Museum.",
+      "tip": "Go after the castle, not before. Seeing where the marble ended up first makes the empty site far more affecting."
+    },
+    {
+      "name": "The ancient theatre",
+      "text": "A 4th-century-BC Greek theatre cut into the hillside above the town, one of the oldest in Anatolia, seating around 13,000 and still used for summer concerts, with the whole bay laid out below it.",
+      "tip": "Free to enter and usually deserted. Best in the last hour of daylight."
+    },
+    {
+      "name": "Gümüşlük",
+      "text": "A fishing village on the site of ancient Myndos, where the ruins run out into shallow water and you can wade the causeway to Rabbit Island. Fish restaurants put their tables on the sand at the water's edge.",
+      "tip": "Come for a late lunch and stay for the sunset, which is the best on the peninsula. Cars are kept out of the village centre."
+    },
+    {
+      "name": "Yalıkavak",
+      "text": "The peninsula's smart end: a large marina with designer shops and restaurants, a restored old village behind it, and the windmills on the ridge above. Expensive and undeniably good-looking.",
+      "tip": "The old village streets uphill from the marina are far cheaper for dinner and rather more pleasant."
+    },
+    {
+      "name": "The Myndos Gate",
+      "text": "The surviving gateway of the Halicarnassus city walls, where Alexander the Great's siege broke through in 334 BC. Restored, with the ditch in front of it still visible.",
+      "tip": "Ten minutes from the centre and almost always empty. A short stop rather than an outing."
+    },
+    {
+      "name": "The gulet yards at İçmeler",
+      "text": "Working boatyards on the edge of town where wooden gulets are still built and repaired by hand, hulls up on stocks and open to view from the road.",
+      "tip": "No visitor facilities — it is a working yard. Worth ten minutes if you are passing on the way east."
+    }
+  ],
+  "thingsToDoIntro": "The good days here are a mix of one serious sight and one village, with a boat somewhere in the middle.",
+  "thingsToDo": [
+    {
+      "title": "Do the castle properly",
+      "text": "Walk the towers and battlements, then the underwater archaeology halls, then out through the gardens. It is both a Crusader fortress and a museum of ancient seafaring, and it deserves a slow morning.",
+      "tip": "Start at opening. The courtyards get very hot by midday and there is limited shade on the walls."
+    },
+    {
+      "title": "Work your way round the peninsula",
+      "text": "Gümüşlük for lunch in the water, Yalıkavak for the marina, Türkbükü for the deck scene, Bitez for windsurfing, Akyarlar for the quietest swimming. Each is 20–40 minutes from town.",
+      "tip": "Pick two per day, not five. The roads are winding and the point of each village is to sit still in it."
+    },
+    {
+      "title": "Sail the Gökova gulf",
+      "text": "Day boats and multi-day gulet cruises leave the harbour for the bays east of Bodrum — Cleopatra's Island with its coarse white sand, Sedir, and anchorages with no road access.",
+      "tip": "Gökova is calmer and less trafficked than the Fethiye routes. Four days is the classic length."
+    },
+    {
+      "title": "Cross to Kos for the day",
+      "text": "A ferry of twenty to forty minutes puts you in Greece for lunch — a different island, a different alphabet and a completely different set of ruins, back the same evening.",
+      "tip": "Take your passport and check the last return sailing. Visa rules differ by nationality — confirm before you board."
+    },
+    {
+      "title": "Eat çökertme kebabı where it comes from",
+      "text": "The dish is named after a village on this peninsula: matchstick potatoes under sliced beef, garlic yoghurt and a tomato-butter sauce. It is Muğla's contribution to Turkish cooking and it is everywhere here.",
+      "tip": "Order it in a village restaurant rather than on the marina, where it costs three times as much and is usually worse."
+    },
+    {
+      "title": "Windsurf or sail off Bitez",
+      "text": "The meltem, the summer northerly, blows steadily across the peninsula's south-facing bays. Bitez and Gümbet have schools, boards and dinghies for hire and reliable afternoon wind.",
+      "tip": "The wind builds through the afternoon. Beginners should book mornings; anyone competent should wait until after 14:00."
+    }
+  ],
+  "foodIntro": "Aegean cooking with a seafood bias, plus one dish the peninsula genuinely invented and a tangerine it is famous for.",
+  "foods": [
+    {
+      "name": "Çökertme kebabı",
+      "text": "Named after a village on the Bodrum peninsula: thin matchstick fried potatoes topped with strips of marinated beef, garlic yoghurt and a butter-and-tomato sauce poured over at the table. Rich and very good.",
+      "whereToTry": "Village restaurants across the peninsula. It appears on almost every menu in Muğla province."
+    },
+    {
+      "name": "Grilled octopus",
+      "text": "Ahtapot, slow-tenderised and then grilled over charcoal with olive oil, lemon and oregano, served either hot as a main or cold as a meze with a salad of onion and parsley.",
+      "whereToTry": "The fish restaurants at Gümüşlük, with your feet close to the water."
+    },
+    {
+      "name": "Kalamar tava with tarator",
+      "text": "Squid rings in a light batter, fried crisp and served with tarator — a thick sauce of ground walnuts, bread, garlic and vinegar that is far better than the mayonnaise usually offered elsewhere.",
+      "whereToTry": "Any meyhane in Bodrum town. Ask for tarator specifically if it does not arrive."
+    },
+    {
+      "name": "Zeytinyağlı enginar",
+      "text": "Artichoke hearts braised in olive oil with carrot, potato, broad beans and dill, served cold. A defining Aegean dish and a good test of a restaurant's meze table.",
+      "whereToTry": "Traditional restaurants in spring and early summer, when the artichokes are local."
+    },
+    {
+      "name": "Bodrum mandalina",
+      "text": "The peninsula's tangerines are a regional emblem, celebrated with an autumn festival, and turned into everything from fresh juice to a sweet mandarin liqueur poured over ice.",
+      "whereToTry": "Market stalls from November, and bars across the peninsula for the liqueur year-round."
+    },
+    {
+      "name": "Lokma",
+      "text": "Small balls of yeasted dough deep-fried and dropped straight into cold syrup, served warm by the plate. Sold from dedicated stalls and, by tradition, given away free in memory of the dead.",
+      "whereToTry": "Stalls in Bodrum's back streets and at village markets. Eat them within minutes of frying."
+    }
+  ],
+  "accommodation": {
+    "intro": "Where you sleep on the peninsula matters more than in most destinations, because the villages are genuinely different and the roads between them are slow.",
+    "areas": [
+      {
+        "name": "Bodrum town",
+        "bestFor": "Sights, ferries and getting around",
+        "text": "The castle, the Mausoleum, the theatre, the bus station and the ferry port are all here, along with the widest range of prices. The bay is for looking at rather than swimming in."
+      },
+      {
+        "name": "Gümüşlük",
+        "bestFor": "Quiet, fish and sunsets",
+        "text": "A low-key bay on the western tip over the ruins of ancient Myndos, with restaurants at the water's edge, a car-free centre and the best sunsets on the peninsula. Thirty minutes from town."
+      },
+      {
+        "name": "Yalıkavak",
+        "bestFor": "Marina glamour",
+        "text": "The smart end: a superyacht marina, designer shops, restaurants with prices to match, and a restored old village on the slope behind that is much better value for eating."
+      },
+      {
+        "name": "Türkbükü and Gölköy",
+        "bestFor": "The deck scene",
+        "text": "On the north coast, where there is little sand and hotels build wooden platforms out over the water instead. Fashionable, expensive and a particular kind of holiday."
+      },
+      {
+        "name": "Bitez and Akyarlar",
+        "bestFor": "Families and actual beaches",
+        "text": "Bitez has a shallow bay, tangerine groves behind and steady afternoon wind for windsurfing; Akyarlar at the south-western tip has the best sand on the peninsula and far fewer people."
+      }
+    ],
+    "budget": [
+      { "label": "Pension in Bodrum town", "value": "€40–70 per night" },
+      { "label": "Boutique hotel on the peninsula", "value": "€100–250 per night" },
+      { "label": "Castle and museum entry", "value": "€15–25" },
+      { "label": "Ferry to Kos, return", "value": "€35–60 depending on season and operator" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Bodrum has its own airport and one of the busiest ferry links to the Greek islands.",
+    "options": [
+      {
+        "mode": "Bodrum–Milas Airport (BJV)",
+        "text": "Thirty-five kilometres north, roughly 45 minutes, with heavy seasonal charter traffic from Europe and year-round domestic flights from Istanbul and Ankara.",
+        "detail": "Havaş shuttles run to Bodrum otogar. Peninsula villages are a further 20–40 minutes."
+      },
+      {
+        "mode": "Ferry from Kos",
+        "text": "Twenty to forty minutes depending on the boat, several sailings a day in summer and a reduced service in winter. The simplest crossing between the Greek islands and Turkey.",
+        "detail": "Passport required. Check visa requirements for your nationality in both directions before booking."
+      },
+      {
+        "mode": "Bus",
+        "text": "İzmir is about 3h30, [[ephesus|Selçuk]] 3h, [[pamukkale]] 4h30, [[fethiye-oludeniz|Fethiye]] 4h30 and Istanbul overnight at around 12h.",
+        "detail": "The otogar is central, a few minutes' walk from the castle."
+      },
+      {
+        "mode": "By car",
+        "text": "Useful mainly for the peninsula itself. The drive east around the Gökova gulf towards Marmaris and Datça is beautiful and slow.",
+        "detail": "Hire at the airport. Parking in Bodrum town and in Gümüşlük is difficult in high season."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Dolmuş minibuses link every village to Bodrum town constantly; a car saves a great deal of time if you want to village-hop.",
+    "options": [
+      {
+        "mode": "Dolmuş",
+        "text": "Shared minibuses run from Bodrum otogar to every village on the peninsula — Gümüşlük, Yalıkavak, Türkbükü, Bitez — leaving when full and running until late in summer.",
+        "detail": "All routes radiate from Bodrum, so village-to-village usually means changing in town."
+      },
+      {
+        "mode": "Rental car or scooter",
+        "text": "The efficient way to see several villages in a day and to reach the quieter southern coves. Distances are short but the roads climb and wind.",
+        "detail": "Parking is the constraint, not driving. In August, arrive at popular bays before midday or not at all."
+      },
+      {
+        "mode": "Water taxis and day boats",
+        "text": "Boats leave Bodrum harbour each morning for the bays, and water taxis connect some of the north-coast villages in season — often faster and always nicer than the road.",
+        "detail": "Services thin out sharply outside June to September."
+      },
+      {
+        "mode": "Walking in town",
+        "text": "Bodrum's centre is compact: the castle, marina, bazaar, Mausoleum and theatre are all within twenty minutes on foot of one another.",
+        "detail": "The theatre involves a climb up from the seafront. Everything else is flat."
+      },
+      {
+        "mode": "Taxis",
+        "text": "Plentiful but expensive by Turkish standards, particularly late at night between villages, which is when most people end up needing one.",
+        "detail": "Agree the fare or insist on the meter before setting off."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Bodrum has a short, intense high season. The shoulder months give you the same sea and the same villages without the August prices or the traffic.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Warm, green and quiet, with everything open by mid-May and the sea swimmable from late May. The ruins and the castle are comfortable, and hotel prices are a fraction of August's."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot at 32–36°C but tempered by the meltem wind, and completely full — this is the Turkish domestic holiday season as well as the international one. Prices peak and roads clog."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best month of the year is September: warmest sea, easing heat and the crowds gone after the first week. October is still swimmable and the tangerine harvest begins."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Bodrum town keeps working, but most of the peninsula shuts. Mild at 14–16°C, often wet, and the castle is a pleasure with nobody in it. Not a beach trip."
+      }
+    ],
+    "avoid": "The peninsula is rocky rather than sandy. If your idea of the trip is a long stretch of sand, Bodrum will disappoint — the coast is coves, platforms and wooden decks, and the best sand is at Akyarlar in the far south-west."
+  },
+  "itinerary": {
+    "title": "Four days in Bodrum",
+    "intro": "One day for ancient Halicarnassus, one on the water, and two working around the peninsula.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Halicarnassus",
+        "summary": "The castle, the Mausoleum and the theatre.",
+        "morning": "The Castle of St Peter and the underwater archaeology halls, from opening.",
+        "afternoon": "The Mausoleum site and the Myndos Gate.",
+        "evening": "The ancient theatre at golden hour, then dinner in the bazaar streets."
+      },
+      {
+        "day": 2,
+        "title": "The western tip",
+        "summary": "Ruins in the shallows and the peninsula's best sunset.",
+        "morning": "Yalıkavak marina and the old village above it.",
+        "afternoon": "Gümüşlük — wade the causeway to Rabbit Island over sunken Myndos.",
+        "evening": "Fish with your feet in the sand, and the sunset from the bay."
+      },
+      {
+        "day": 3,
+        "title": "On the water",
+        "summary": "A day boat into the Gökova gulf.",
+        "morning": "Leave Bodrum harbour for the bays east, with swimming stops.",
+        "afternoon": "Cleopatra's Island or one of the roadless anchorages.",
+        "evening": "Back to the marina, then çökertme kebabı away from the waterfront."
+      },
+      {
+        "day": 4,
+        "title": "Kos or the south coast",
+        "summary": "Greece for the day, or the quietest bays on the peninsula.",
+        "morning": "The ferry to Kos, or drive south to Akyarlar.",
+        "afternoon": "A Greek island town and its ruins, or the best sand on the peninsula.",
+        "evening": "Last sailing back, or dinner at Bitez after the wind drops."
+      }
+    ]
+  },
+  "tipsIntro": "Bodrum rewards choosing carefully — the wrong village is a genuinely different holiday from the one you booked.",
+  "tips": [
+    "Choose the village before the hotel. Gümüşlük, Yalıkavak, Türkbükü and Gümbet attract completely different crowds at completely different prices, and the winding roads between them make hopping around slower than the map suggests.",
+    "Do the castle before the Mausoleum site. Knowing that the fortress was quarried out of the Wonder makes a field of foundations far more interesting than it looks.",
+    "Check what is open inside the castle before you buy a ticket — the museum has closed sections for restoration at various points, and the collection is the main reason to go in.",
+    "Bodrum's coast is rock and coves, not sand. If you want a long beach, book Akyarlar in the south-west; if you want wooden decks and a scene, book Türkbükü. Neither is a substitute for the other.",
+    "Eat çökertme kebabı in a village restaurant rather than on the marina. The dish comes from a village on this peninsula and costs a third of the waterfront price for a better version.",
+    "The meltem wind blows hardest through the afternoon in July and August. It makes the heat bearable and the windsurfing excellent, and it will take an umbrella off the beach.",
+    "The Kos ferry makes a genuine day trip, but take your passport and check the last return sailing — and confirm the visa position for your nationality in both directions before you board.",
+    "August is the Turkish domestic holiday month as well as the international season. Book accommodation and restaurants well ahead, or come in September when the sea is warmer and the peninsula is half as full."
+  ],
+  "faq": [
+    {
+      "q": "Is Bodrum worth visiting for more than the beach?",
+      "a": "Very much so. It stands on ancient Halicarnassus — the home of Herodotus and of the Mausoleum, one of the Seven Wonders — and the Crusader castle on the harbour holds a first-rate museum of underwater archaeology, including a Bronze Age wreck of around 1300 BC. Add a 4th-century-BC theatre and the Myndos Gate, and there is a full day of history before you reach the water."
+    },
+    {
+      "q": "Which Bodrum village should I stay in?",
+      "a": "Gümüşlük for quiet, fish restaurants at the water's edge and the best sunsets; Yalıkavak for the marina, shopping and expense; Türkbükü and Gölköy for the wooden-deck scene on the north coast; Bitez and Akyarlar for families and actual sand; and Bodrum town itself if you want the sights, the ferries and the widest range of prices."
+    },
+    {
+      "q": "Does Bodrum have good beaches?",
+      "a": "Not in the long-stretch-of-sand sense. The peninsula is rocky, and many hotels build wooden platforms out over the water instead of having a beach at all. Bitez has a shallow sandy bay, Akyarlar in the south-west has the best sand, and the coves reached by boat are lovely — but if a big beach is the priority, [[fethiye-oludeniz|Fethiye]] or [[antalya-turquoise-coast|Antalya]] will suit you better."
+    },
+    {
+      "q": "How do I get from Bodrum to Kos?",
+      "a": "Ferries cross in twenty to forty minutes depending on the vessel, with several sailings a day from Bodrum's port between roughly April and October and a reduced winter service. It is a straightforward day trip. Take your passport, check the last return sailing before you go, and confirm the visa requirements for your nationality in both directions."
+    },
+    {
+      "q": "When is the best time to visit Bodrum?",
+      "a": "May, June, September and early October. The sea is swimmable from late May to late October, and the shoulder months give you the same villages without August's prices and traffic. July and August are hot at 32–36°C and completely full, as this is the Turkish domestic holiday season too. In winter most of the peninsula closes, though Bodrum town stays open."
+    },
+    {
+      "q": "What is a gulet cruise from Bodrum like?",
+      "a": "Gulets are broad wooden boats, historically built in Bodrum's own yards, and they run day trips and multi-day cruises into the Gökova gulf east of the peninsula. You sleep on deck or in a small cabin, and anchor in bays that no road reaches. The Gökova routes are generally quieter than the Fethiye ones. Four days is the classic length."
+    },
+    {
+      "q": "Can I combine Bodrum with Ephesus and Pamukkale?",
+      "a": "Easily, and it is the standard Aegean circuit. [[ephesus|Selçuk]] is about three hours north by bus and [[pamukkale]] four and a half hours inland, so a week covering all three is comfortable. Fly into İzmir or Bodrum, work between them by bus or hire car, and fly out of the other end."
+    }
+  ],
+  "related": ["ephesus", "fethiye-oludeniz", "pamukkale", "antalya-turquoise-coast"],
+  "relatedArticles": ["best-time-southern-europe", "unesco-worth-planning-around", "first-trip-to-europe"]
+}

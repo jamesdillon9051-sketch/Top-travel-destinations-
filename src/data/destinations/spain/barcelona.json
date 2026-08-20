@@ -1,0 +1,359 @@
+{
+  "slug": "barcelona",
+  "name": "Barcelona",
+  "country": "spain",
+  "region": "Catalonia",
+  "categories": ["major-city", "coastal", "cultural", "unesco"],
+  "tagline": "A Mediterranean city built on a grid, with an unfinished cathedral that has been under construction since 1882 and a beach twenty minutes from the medieval quarter.",
+  "highlight": "The Sagrada Família's stained glass at the right hour — blue-green in the morning, red-gold by late afternoon.",
+  "shortDescription": "Catalonia's capital pairs a dense Gothic core with the most ambitious modernista architecture in Europe, and puts a city beach at the end of the metro line.",
+  "metaDescription": "A practical Barcelona travel guide: Gaudí sites and how to book them, the Gothic quarter, where to eat, which neighbourhood to stay in, pickpocket advice and a four-day itinerary.",
+  "suggestedStay": "4 days",
+  "nearestAirport": "Barcelona–El Prat (BCN), 15 km southwest",
+  "knownFor": "Gaudí, the Barri Gòtic, Barceloneta beach, Catalan food",
+  "budget": "€140–230 per day, mid-range",
+  "goodFor": "Architecture, food, city and beach, nightlife",
+  "coords": { "lat": 41.3874, "lng": 2.1686 },
+  "image": {
+    "file": "File:Park Güell - city view 01.jpg",
+    "alt": "The city of Barcelona and the sea seen from the terraces of Park Güell"
+  },
+  "intro": [
+    "Barcelona is two cities laid on top of each other. Underneath is the Barri Gòtic — a medieval knot of alleys around a Roman core, so narrow in places that two people cannot pass. Around it is the Eixample, a rigidly geometric 19th-century grid of 133-metre blocks with their corners cut off, designed by an engineer who wanted light and air to reach every apartment.",
+    "The grid is what made the city's architecture possible. Barcelona's industrial wealth in the late 1800s coincided with a Catalan cultural revival, and the result was modernisme — the movement that produced Gaudí, Domènech i Montaner and Puig i Cadafalch. Seven of their buildings are UNESCO-listed, and the Sagrada Família, begun in 1882, is still about a decade from completion.",
+    "It is also a city with a real coastline. Barceloneta beach is fifteen minutes from the cathedral on foot, which is genuinely unusual for a European city of this size. The consequence is that Barcelona attracts enormous numbers of visitors — around 12 million a year against a population of 1.6 million — and both the crowding and the local resentment of it are real. Visiting thoughtfully matters here more than in most places."
+  ],
+  "whyVisit": {
+    "intro": "Plenty of cities have good architecture and a beach. Barcelona's case rests on how strange and specific its architecture is, and how compressed everything else is around it.",
+    "points": [
+      {
+        "title": "Gaudí has no equivalent anywhere",
+        "text": "The Sagrada Família's interior is a forest of branching stone columns lit through gradient stained glass; Casa Batlló has no straight lines in it; Park Güell's terrace is a serpentine bench tiled in broken ceramic. This is not a variation on Art Nouveau — it is a body of work with no real parallel."
+      },
+      {
+        "title": "The medieval city is intact",
+        "text": "The Barri Gòtic and El Born preserve a street plan that has barely changed since the 14th century, including chunks of Roman wall, a Gothic cathedral with a cloister full of geese, and Santa Maria del Mar — a church of extraordinary spatial clarity built by the port workers who used it."
+      },
+      {
+        "title": "City and sea in one trip",
+        "text": "Four kilometres of beach reachable by metro, plus the Montjuïc hill with gardens, museums and a cable car. You can look at architecture in the morning and swim in the afternoon without leaving the city."
+      },
+      {
+        "title": "Catalan food is its own thing",
+        "text": "Not tapas. Catalan cooking pairs mountain and sea — pa amb tomàquet, escalivada, botifarra, fideuà, calçots in winter — and the region has an unusually high concentration of ambitious restaurants."
+      },
+      {
+        "title": "It is a working city, not a museum",
+        "text": "Gràcia, Sant Antoni and Poblenou are ordinary neighbourhoods with squares full of people eating outside, and they are twenty minutes from the centre. The Barcelona that is not on the tourist map is most of it."
+      }
+    ]
+  },
+  "attractionsIntro": "The Gaudí sites all require timed tickets booked ahead. Everything else can be done on the day, and much of the best of Barcelona costs nothing at all.",
+  "attractions": [
+    {
+      "name": "Sagrada Família",
+      "text": "Gaudí's basilica, begun in 1882 and still unfinished. The interior is the point: columns that branch like trees into a canopy, lit by stained glass graded from blues and greens on the eastern Nativity side to reds and oranges on the western Passion side. The effect changes completely through the day.",
+      "tip": "Morning slots get the blue-green light, late afternoon the red-gold. Add the tower lift — a separate ticket — for the view down onto the roof."
+    },
+    {
+      "name": "Park Güell",
+      "text": "A failed housing development turned public park on a hill north of the centre, with the famous mosaic bench, the hypostyle hall and a view over the whole city to the sea. The monumental core is ticketed and timed; the surrounding parkland is free.",
+      "tip": "The free area above the paid zone has arguably the better view. Go at opening or in the last hour."
+    },
+    {
+      "name": "Casa Batlló and La Pedrera",
+      "text": "Two Gaudí apartment buildings on Passeig de Gràcia. Casa Batlló has a facade of coloured glass and bone-like balconies and an interior with no straight line in it; La Pedrera, also called Casa Milà, has an undulating stone front and a rooftop of sculpted chimneys.",
+      "tip": "If you only do one, Casa Batlló is the more extraordinary interior and La Pedrera the better roof. Both are expensive — around €29–35."
+    },
+    {
+      "name": "The Barri Gòtic and the cathedral",
+      "text": "The medieval quarter around the Gothic cathedral, whose cloister keeps thirteen white geese — one for each year of Saint Eulalia's life. Roman wall fragments, hidden squares and the Plaça del Rei are all within a few hundred metres.",
+      "tip": "Go at 08:00. The same lanes that are impassable at midday are silent and genuinely medieval first thing."
+    },
+    {
+      "name": "Santa Maria del Mar and El Born",
+      "text": "A 14th-century church built in just 55 years by the porters and sailors of the port, which gives it an unusual unity — wide, spare and luminous, quite unlike the cathedral. El Born around it is the best browsing district in the city.",
+      "tip": "The rooftop tour gives access to the towers and the roof. Book it directly with the church."
+    },
+    {
+      "name": "The Picasso Museum",
+      "text": "Five medieval palaces in El Born holding over 4,000 works, weighted heavily towards Picasso's early years in Barcelona — which is what makes it interesting. You see him learning, rather than the famous later work.",
+      "tip": "The Las Meninas series, 58 reworkings of the Velázquez painting, is the highlight and often overlooked."
+    },
+    {
+      "name": "Montjuïc",
+      "text": "The hill above the port, holding the National Art Museum of Catalonia and its unmatched Romanesque frescoes, the Joan Miró Foundation, the 1992 Olympic ring, botanical gardens and a castle. A cable car runs up from the port.",
+      "tip": "MNAC's Romanesque collection — church frescoes removed from Pyrenean chapels and remounted — is the best thing in Barcelona that nobody visits."
+    },
+    {
+      "name": "La Boqueria and Sant Antoni markets",
+      "text": "La Boqueria off La Rambla is spectacular and now largely a tourist experience. The Mercat de Sant Antoni, fifteen minutes away, is a restored 1882 iron market where people actually shop, with a Sunday book market around it.",
+      "tip": "Go to Boqueria before 09:00 or go to Sant Antoni instead. The stalls at the back of Boqueria still serve locals."
+    }
+  ],
+  "thingsToDoIntro": "Barcelona rewards splitting your days: one architectural thing in the morning, a neighbourhood in the afternoon, and the beach or a hill in between.",
+  "thingsToDo": [
+    {
+      "title": "Walk the Eixample and look up",
+      "text": "The grid's chamfered corners were designed so trams could turn, and the block interiors were meant to be gardens. Passeig de Gràcia has the famous buildings, but the side streets are full of modernista facades nobody photographs.",
+      "tip": "Carrer d'Enric Granados and the streets around Sant Antoni are the pleasant, low-tourist version of the Eixample."
+    },
+    {
+      "title": "Spend an evening in Gràcia",
+      "text": "A former village absorbed by the city, with a series of small squares — Plaça del Sol, Plaça de la Virreina, Plaça de la Vila — each ringed with terraces. It is where Barcelona goes out, twenty minutes from the centre on the metro.",
+      "tip": "The Festa Major de Gràcia in August sees streets compete to decorate themselves entirely. It is genuinely extraordinary."
+    },
+    {
+      "title": "Swim, but not at Barceloneta",
+      "text": "Barceloneta is the closest and the most crowded. The beaches northeast towards Bogatell and Mar Bella are cleaner and calmer, and the coastal towns on the R1 train line — Sant Pol de Mar, Caldes d'Estrac — are better again.",
+      "tip": "The R1 runs along the shore from Plaça Catalunya. Forty minutes gets you a proper beach town."
+    },
+    {
+      "title": "Take the funicular up Tibidabo",
+      "text": "The mountain behind the city at 512 m, with a church, a century-old amusement park and the widest view over Barcelona to the sea. The old blue tram and funicular up to it are half the pleasure.",
+      "tip": "Clearer in winter and after rain. On a hazy summer day the view is much less rewarding."
+    },
+    {
+      "title": "Eat a proper Catalan lunch",
+      "text": "Not tapas — a menú del día at a neighbourhood restaurant, or a full Catalan meal of pa amb tomàquet, escalivada, and fideuà or arròs negre. Catalan cooking is closer to Provençal than to Andalusian.",
+      "tip": "In winter, calçots — grilled spring onions eaten with romesco sauce, wearing a bib — are a Catalan ritual worth seeking out."
+    },
+    {
+      "title": "Day trip to Montserrat",
+      "text": "An hour northwest, a serrated rock massif holding a Benedictine monastery and the Black Madonna. Reached by rack railway or cable car, with walking trails along the ridges above.",
+      "tip": "Go early. The boys' choir sings at 13:00 most weekdays and the monastery is very busy by then."
+    }
+  ],
+  "foodIntro": "Catalan cooking is not Spanish tapas. It combines mountain and sea, uses a lot of tomato, garlic and almonds, and has its own vocabulary that appears untranslated on menus.",
+  "foods": [
+    {
+      "name": "Pa amb tomàquet",
+      "text": "Bread rubbed with ripe tomato, olive oil and salt. It sounds like nothing and it is the foundation of Catalan eating — served with everything, and often assembled at the table.",
+      "whereToTry": "Every Catalan restaurant, usually as an automatic accompaniment to charcuterie or grilled meat."
+    },
+    {
+      "name": "Fideuà and arròs negre",
+      "text": "Fideuà is paella's cousin made with short toasted noodles instead of rice, served with aioli. Arròs negre is rice cooked in squid ink — black, intense and far better than it looks.",
+      "whereToTry": "Barceloneta's seafood restaurants and the older places in El Born. A lunch dish."
+    },
+    {
+      "name": "Escalivada",
+      "text": "Aubergine, pepper and onion roasted whole over embers until the skins blacken, then peeled, torn into strips and dressed in olive oil. Often served with anchovies or on toast.",
+      "whereToTry": "Traditional Catalan restaurants and most menú del día starters."
+    },
+    {
+      "name": "Calçots",
+      "text": "A winter ritual rather than a dish: long grilled spring onions charred over vine cuttings, peeled by hand and dipped in romesco sauce. Eaten wearing a bib, from late January to March.",
+      "whereToTry": "Calçotada restaurants outside the city, especially around Valls. Some city restaurants run them in season."
+    },
+    {
+      "name": "Crema catalana",
+      "text": "A custard flavoured with lemon and cinnamon under a caramelised sugar crust — set with cornflour rather than baked in a bain-marie, which makes it lighter than crème brûlée and, Catalans will tell you, the original.",
+      "whereToTry": "Every traditional restaurant in the city."
+    },
+    {
+      "name": "Vermut",
+      "text": "Sweet red vermouth on ice with an olive and a slice of orange, drunk before Sunday lunch. The vermut hour is a Barcelona institution and has become fashionable again after decades out of favour.",
+      "whereToTry": "Old bodegas in Sant Antoni, Gràcia and Poble-sec, from about noon on Sundays."
+    }
+  ],
+  "accommodation": {
+    "intro": "Barcelona's centre is walkable and the metro covers everything else, so the choice is mostly between atmosphere, noise and price. The Gothic quarter is central and loud; the Eixample is calmer and better value.",
+    "areas": [
+      {
+        "name": "The Eixample",
+        "bestFor": "The best all-round base",
+        "text": "The 19th-century grid north of the old town, with the Gaudí houses, wide streets and the widest choice of hotels. Quieter than the old town, well served by metro, and central without being in the crush."
+      },
+      {
+        "name": "El Born and the Barri Gòtic",
+        "bestFor": "Atmosphere and walking",
+        "text": "Medieval streets, the best browsing and restaurants on your doorstep. The trade-offs are real: noise until late, small old rooms, and the highest concentration of pickpocketing in the city."
+      },
+      {
+        "name": "Gràcia",
+        "bestFor": "Local feel, better value",
+        "text": "A former village of small squares and independent shops, twenty minutes from the centre by metro. Where Barcelona actually goes out, at noticeably lower prices than the old town."
+      },
+      {
+        "name": "Sant Antoni and Poble-sec",
+        "bestFor": "Food and value",
+        "text": "Just west of the old town, with a restored market, vermouth bars and a strong restaurant scene. Walkable to the centre and to Montjuïc, and cheaper than anywhere comparable."
+      },
+      {
+        "name": "Barceloneta and the beachfront",
+        "bestFor": "Sea access",
+        "text": "On the sand, which is the appeal, but it is a narrow grid of old fishermen's flats that gets very busy and very loud in summer. Better for a short stay than a long one."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "€30–55 per night" },
+      { "label": "Comfortable hotel", "value": "€120–200 per night, more in summer" },
+      { "label": "Four-star or apartment", "value": "€200–320 per night" },
+      { "label": "Gaudí entry", "value": "€26–35 each; the Sagrada Família with towers is about €36" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Barcelona is one of the best-connected cities in southern Europe, with a large airport, high-speed rail to Madrid and France, and Mediterranean ferries.",
+    "options": [
+      {
+        "mode": "Barcelona–El Prat Airport",
+        "text": "Fifteen kilometres southwest, with two terminals. The Aerobús runs to Plaça Catalunya in about 35 minutes; metro line L9 Sud and the R2 Nord train are cheaper and only slightly slower.",
+        "detail": "Note that some low-cost flights use Girona or Reus, both around 100 km away with a coach transfer."
+      },
+      {
+        "mode": "AVE high-speed rail",
+        "text": "Madrid in 2h30, [[valencia]] in 3h, Seville in 5h30. Three operators compete on the Madrid line, which has cut fares substantially.",
+        "detail": "Barcelona Sants is the main station, five minutes from the centre by metro."
+      },
+      {
+        "mode": "From France",
+        "text": "Direct high-speed trains to Perpignan, Montpellier, Lyon, Toulouse and [[paris]] — Paris takes about 6h30 and runs a couple of times a day.",
+        "detail": "This makes a combined France and Spain trip straightforward without flying."
+      },
+      {
+        "mode": "Ferries",
+        "text": "Overnight and daytime crossings to [[mallorca]], Menorca and Ibiza from the port, taking 3h30 to 8h depending on the vessel.",
+        "detail": "A cabin on the overnight sailing saves a hotel night and a travel day."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Walk the old town, take the metro for everything else. Barcelona is compact enough that a taxi is rarely the fastest option and never the cheapest.",
+    "options": [
+      {
+        "mode": "Metro",
+        "text": "Eight lines covering the whole city, running until midnight on weeknights, 02:00 on Fridays and all night on Saturdays. Clean, frequent and easy to navigate.",
+        "detail": "The T-Casual ten-journey ticket is far better value than singles. Keep bags in front — the metro is where most pickpocketing happens."
+      },
+      {
+        "mode": "Walking",
+        "text": "The old town is a fifteen-minute walk end to end, and the Eixample grid is about 20 minutes from the centre to the Sagrada Família. Flat throughout, except Park Güell and Montjuïc.",
+        "detail": "The grid's chamfered corners mean diagonal walking is slower than it looks on a map."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Barcelona has built over 200 km of protected lanes and the city is flat along the coast. The bike-share scheme is residents-only, but private hire is widely available.",
+        "detail": "The seafront path from Barceloneta northeast is the best ride in the city."
+      },
+      {
+        "mode": "Funiculars and cable cars",
+        "text": "Montjuïc has a funicular from Paral·lel metro and a cable car to the castle; a separate harbour cable car crosses from Barceloneta. Tibidabo has its own funicular and historic tram.",
+        "detail": "The Montjuïc funicular is included in a standard metro ticket; the cable cars are not."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "Rodalies lines run up and down the coast to beach towns and inland to Montserrat, from Plaça Catalunya and Sants.",
+        "detail": "The R1 north along the shore and the R5 to Montserrat are the two most useful for visitors."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Barcelona has a mild Mediterranean climate and no genuinely bad month. The variable is crowding, which is extreme in July and August and manageable the rest of the year.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Warm, bright and comfortable at 18–26°C, with the sea swimmable from about mid-June. Terraces are open, the light is good and the crowds are moderate until the last week of June."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Hot and humid at 28–32°C, extremely crowded, and the period when local tension around tourism is highest. Queues for Gaudí sites are long even with tickets, and the beaches are packed."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best window. The sea is at its warmest in September, temperatures ease to the mid-twenties, and crowds thin sharply after the first week. La Mercè festival in late September is the city's biggest and worth planning around."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild at 13–16°C with plenty of sun, and by far the cheapest and quietest season. Swimming is out, but the museums and Gaudí sites are genuinely pleasant rather than an endurance test."
+      }
+    ],
+    "avoid": "The Mobile World Congress in late February and early March fills every hotel in the city and multiplies rates. Check the dates before booking a late-winter trip."
+  },
+  "itinerary": {
+    "title": "Four days in Barcelona",
+    "intro": "One major Gaudí site per day rather than three, with each afternoon in a different neighbourhood. Assumes advance tickets for the Sagrada Família and Park Güell.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The medieval city",
+        "summary": "Start with the oldest layer, before the crowds and before any tickets.",
+        "morning": "The Barri Gòtic at 08:00 — the cathedral, the Roman wall, Plaça del Rei — then the streets of El Born.",
+        "afternoon": "Santa Maria del Mar, the Picasso Museum, and browsing the lanes around Passeig del Born.",
+        "evening": "Vermut and tapas in El Born, then a walk down to the waterfront."
+      },
+      {
+        "day": 2,
+        "title": "Gaudí",
+        "summary": "The two big ones, booked ahead, with the Eixample in between.",
+        "morning": "Sagrada Família on an early slot for the blue-green light, plus the tower lift.",
+        "afternoon": "Walk down to Passeig de Gràcia for Casa Batlló or La Pedrera, then Park Güell in the last two hours of daylight.",
+        "evening": "Dinner in Gràcia, a short walk downhill from the park."
+      },
+      {
+        "day": 3,
+        "title": "Montjuïc and the sea",
+        "summary": "The hill in the morning, the water in the afternoon.",
+        "morning": "Cable car or funicular up Montjuïc for MNAC's Romanesque frescoes and the Miró Foundation.",
+        "afternoon": "Down to the port, along the seafront, and a swim at Bogatell or Mar Bella rather than Barceloneta.",
+        "evening": "Seafood at Barceloneta, or back into Sant Antoni for the market district."
+      },
+      {
+        "day": 4,
+        "title": "Out of the city",
+        "summary": "Montserrat, a beach town, or a slower day in the neighbourhoods.",
+        "morning": "Train and rack railway to Montserrat for the monastery, the Black Madonna and a ridge walk.",
+        "afternoon": "Alternatively, the R1 up the coast to Sant Pol de Mar or Caldes d'Estrac.",
+        "evening": "Last dinner in the Eixample or Sant Antoni, away from the old town."
+      }
+    ]
+  },
+  "tipsIntro": "Barcelona-specific advice, one item of which matters considerably more than the rest.",
+  "tips": [
+    "Barcelona has one of the most organised pickpocketing operations in Europe, concentrated on La Rambla, the metro, and the crowds at the Sagrada Família and Park Güell. Bag worn in front, nothing in back pockets, and never hang a bag on a chair back — that is the single most common theft in the city.",
+    "Book the Sagrada Família, Park Güell and Casa Batlló online with timed slots. Walk-up either does not exist or costs you two hours, and Park Güell's monumental zone caps numbers per half hour.",
+    "The Sagrada Família's light changes completely through the day — blues and greens in the morning on the Nativity side, reds and golds in late afternoon on the Passion side. Pick deliberately.",
+    "Avoid restaurants on La Rambla and in the immediate tourist core. Walk five minutes into Sant Antoni, Gràcia or Poble-sec and both the food and the prices improve sharply.",
+    "The T-Casual ten-journey metro ticket costs far less per trip than singles and is shareable between people. Buy it at any station machine.",
+    "Tourism tension in Barcelona is real, particularly in Barceloneta and the old town. Keeping noise down at night in residential streets and not treating neighbourhoods as a set is genuinely appreciated.",
+    "Catalan is co-official and widely used. Menus and signs often appear in Catalan first — 'sortida' is exit, 'carrer' is street, and 'pa amb tomàquet' is bread with tomato.",
+    "Beaches get better the further northeast you go. Bogatell and Mar Bella are calmer than Barceloneta, and the R1 coastal train reaches proper beach towns in forty minutes."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Barcelona?",
+      "a": "Four is right for a first visit — one for the medieval quarter, one for the main Gaudí sites, one for Montjuïc and the beach, and one for a day trip or the neighbourhoods. Three works if you skip the day trip. Two means seeing the Sagrada Família and very little else properly."
+    },
+    {
+      "q": "Do I need to book the Sagrada Família in advance?",
+      "a": "Yes. Entry is by timed slot and it sells out days to weeks ahead in high season. The tower lifts are a separate and more limited ticket, worth adding for the view down onto the roofline. Park Güell's monumental zone and Casa Batlló also use timed entry and should be booked at the same time."
+    },
+    {
+      "q": "Is Barcelona safe?",
+      "a": "Yes for violent crime, which is rare. But it has one of Europe's most organised pickpocketing problems, concentrated on La Rambla, the metro, and the crowds around the Sagrada Família and Park Güell. Keep bags in front on public transport, put nothing in back pockets, and never hang a bag on the back of a chair — that last one is the most common theft in the city."
+    },
+    {
+      "q": "When is the best time to visit Barcelona?",
+      "a": "May to June and September to October. September is arguably best: the sea is at its warmest, temperatures ease to the mid-twenties and the crowds drop sharply after the first week. July and August are hot, humid and extremely crowded. Winter is mild at 13–16°C and by far the cheapest and quietest time."
+    },
+    {
+      "q": "Is Barcelona a good beach destination?",
+      "a": "It is a great city that happens to have a beach, rather than a beach destination. Barceloneta is fifteen minutes from the cathedral and correspondingly crowded. Bogatell and Mar Bella further northeast are better, and the R1 coastal train reaches proper beach towns like Sant Pol de Mar in about forty minutes."
+    },
+    {
+      "q": "Are tapas a Barcelona thing?",
+      "a": "Not originally. Tapas are Andalusian, and Catalan cooking is its own tradition — pa amb tomàquet, escalivada, fideuà, arròs negre, calçots in winter. Tapas bars certainly exist in Barcelona, but eating a full Catalan meal at a neighbourhood restaurant will show you far more of what the region actually cooks."
+    },
+    {
+      "q": "How do I get from Barcelona airport to the city?",
+      "a": "The Aerobús runs from both terminals to Plaça Catalunya in about 35 minutes. Metro line L9 Sud and the R2 Nord train are cheaper and only slightly slower. Note that some low-cost airlines fly to Girona or Reus instead, both about 100 km away with a coach transfer of well over an hour."
+    }
+  ],
+  "related": ["valencia", "madrid", "mallorca", "milan"],
+  "relatedArticles": ["first-trip-to-europe", "best-time-southern-europe", "europe-by-train"]
+}

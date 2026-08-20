@@ -1,0 +1,359 @@
+{
+  "slug": "chicago",
+  "name": "Chicago",
+  "country": "united-states",
+  "region": "Illinois",
+  "categories": ["major-city", "cultural", "coastal"],
+  "tagline": "The city that invented the skyscraper, rebuilt itself after burning down, and put 42 kilometres of public beach on a freshwater sea.",
+  "highlight": "The architecture boat tour on the Chicago River — the best hour of sightseeing in any American city.",
+  "shortDescription": "America's great architectural city, on a lake the size of a small country, with a museum of Impressionism to rival Paris and the blues clubs that shaped modern music.",
+  "metaDescription": "A Chicago travel guide: the architecture river cruise, the Art Institute, deep-dish and Italian beef, blues clubs, the lakefront, when to go and a four-day itinerary.",
+  "suggestedStay": "3–4 days",
+  "nearestAirport": "O'Hare (ORD) and Midway (MDW)",
+  "knownFor": "Architecture, the Art Institute, blues, deep-dish pizza",
+  "budget": "$190–310 per day, mid-range",
+  "goodFor": "Architecture, museums, music, food",
+  "coords": { "lat": 41.8781, "lng": -87.6298 },
+  "image": {
+    "file": "File:Wendella architecture tour on Chicago River (9433676806).jpg",
+    "alt": "A tour boat on the Chicago River between the glass and stone towers of the downtown Loop"
+  },
+  "intro": [
+    "In October 1871 a fire destroyed about nine square kilometres of Chicago and left a third of the population homeless. The rebuilding that followed produced, within fifteen years, the first steel-framed skyscraper in the world, and the city has been arguing about buildings ever since. Louis Sullivan, Frank Lloyd Wright, Mies van der Rohe and Frank Gehry all worked here, and the result is the most architecturally serious city in the United States.",
+    "It sits on Lake Michigan, which is 494 kilometres long and behaves like a sea — it has waves, storms and a horizon. An unusual 19th-century decision kept almost the entire waterfront in public hands, so Chicago has 42 kilometres of lakefront parks, beaches and a continuous cycling path where most cities would have private development and a motorway.",
+    "The third thing is the music. The Great Migration brought hundreds of thousands of Black Americans north from the Mississippi Delta between the 1910s and 1970s, and the blues they brought was electrified here, in South and West Side clubs, and became the direct ancestor of rock and roll. Chess Records was a mile from the Loop. That lineage is still audible in clubs across the city most nights of the week."
+  ],
+  "whyVisit": {
+    "intro": "Chicago is consistently under-visited by international travellers relative to its quality, and it is a considerably better city than its reputation abroad suggests.",
+    "points": [
+      {
+        "title": "The architecture is the best in America",
+        "text": "The skyscraper was invented here in 1885. The Loop holds work by Sullivan, Burnham, Mies van der Rohe and Jeanne Gang within a few blocks, and Frank Lloyd Wright's home, studio and 25 of his buildings are in Oak Park, half an hour away."
+      },
+      {
+        "title": "The Art Institute is world-class",
+        "text": "The second-largest art museum in the United States, with a French Impressionist collection second only to Paris — Seurat's La Grande Jatte, Caillebotte's Paris Street, six Monet haystacks — plus Hopper's Nighthawks and Wood's American Gothic."
+      },
+      {
+        "title": "Forty-two kilometres of public lakefront",
+        "text": "Parks, beaches and a continuous walking and cycling trail along the entire city shoreline, kept public by a 19th-century campaign. In summer Chicago has genuine city beaches on freshwater."
+      },
+      {
+        "title": "The blues are still played here",
+        "text": "Muddy Waters, Howlin' Wolf and Buddy Guy all recorded in this city, and the clubs that carry that tradition still run live music most nights, on the South and West Sides and in the North Side venues."
+      },
+      {
+        "title": "It is significantly cheaper than the coasts",
+        "text": "Hotels, restaurants and drinks run 25–40% below New York or San Francisco for equivalent quality, and the food scene is one of the strongest in the country."
+      }
+    ]
+  },
+  "attractionsIntro": "The Loop and the lakefront cover most of it, and both are walkable. The neighbourhoods need the L train.",
+  "attractions": [
+    {
+      "name": "The architecture river cruise",
+      "text": "Ninety minutes on the Chicago River through the heart of the Loop with a trained docent explaining the buildings on both banks. It is the single best introduction to any American city and there is no close competitor.",
+      "tip": "The Chicago Architecture Center's own tours have the best-trained guides. Book ahead in summer and sit on the open upper deck."
+    },
+    {
+      "name": "The Art Institute of Chicago",
+      "text": "Two million square feet of galleries holding Seurat's A Sunday on La Grande Jatte, Hopper's Nighthawks, Grant Wood's American Gothic, and one of the great Impressionist collections outside France. The Thorne Miniature Rooms are an unexpected delight.",
+      "tip": "Enter through the Modern Wing on Monroe Street rather than the lion entrance — it is quieter and better organised."
+    },
+    {
+      "name": "Millennium Park and Cloud Gate",
+      "text": "A park built over a railway yard, holding Anish Kapoor's mirrored Cloud Gate — universally called the Bean — Frank Gehry's Pritzker Pavilion, and the Crown Fountain's video faces that spout water at children in summer.",
+      "tip": "The Bean at dawn, with the skyline reflected and nobody in the frame, is worth the early start."
+    },
+    {
+      "name": "The Loop's skyscrapers",
+      "text": "The Rookery with Frank Lloyd Wright's light court, the Monadnock's load-bearing brick walls, the Chicago Board of Trade, and Mies van der Rohe's Federal Center. Most are free to walk into the lobbies.",
+      "tip": "The Chicago Architecture Center runs excellent walking tours of the Loop. The Rookery lobby alone is worth ten minutes."
+    },
+    {
+      "name": "The lakefront trail and beaches",
+      "text": "Forty-two kilometres of path along Lake Michigan from the far north to the far south side, passing Oak Street and North Avenue beaches, Navy Pier and the Museum Campus.",
+      "tip": "The stretch from the Museum Campus north to Lincoln Park is the classic ride, with the skyline on one side and the lake on the other."
+    },
+    {
+      "name": "The Museum Campus",
+      "text": "The Field Museum of natural history with Sue the Tyrannosaurus, the Shedd Aquarium and the Adler Planetarium, on a lakefront peninsula south of the Loop. The view of the skyline from the Adler's point is the best in the city.",
+      "tip": "Walk out to the Adler even if you skip the planetarium. The skyline view from there is the classic Chicago photograph."
+    },
+    {
+      "name": "Oak Park and Frank Lloyd Wright",
+      "text": "Half an hour west on the Green Line, holding Wright's own home and studio plus 25 buildings from his Prairie School years, the largest concentration of his work anywhere.",
+      "tip": "The home and studio tour is the essential one and sells out. The Unity Temple nearby is his masterpiece of the period."
+    },
+    {
+      "name": "Wicker Park, Pilsen and the neighbourhoods",
+      "text": "Wicker Park and Logan Square for bars and restaurants, Pilsen for Mexican food and murals, Chinatown for one of the largest in the country, Hyde Park for the university and Obama's old neighbourhood.",
+      "tip": "Pilsen's 16th Street murals and the National Museum of Mexican Art, which is free, are both underrated."
+    }
+  ],
+  "thingsToDoIntro": "Chicago rewards a mix of the Loop, the lake and one neighbourhood a day.",
+  "thingsToDo": [
+    {
+      "title": "Take the architecture boat first",
+      "text": "Do this on your first afternoon. Ninety minutes on the river gives you the city's history, geography and buildings in one go, and everything you see afterwards makes more sense.",
+      "tip": "Late afternoon light on the buildings is best. Several operators run it — the Chicago Architecture Center's is the most substantive."
+    },
+    {
+      "title": "Cycle the lakefront",
+      "text": "Forty-two kilometres of separated path along Lake Michigan. The stretch from the Museum Campus north past the beaches to Lincoln Park is about 10 km and is the best free thing in the city.",
+      "tip": "Divvy bike-share docks are everywhere along the route. Go early — it is busy with runners and cyclists by 08:00 in summer."
+    },
+    {
+      "title": "Hear live blues",
+      "text": "Chicago blues is electrified Delta blues and the city's clubs still play it seven nights a week. The North Side venues are easiest to reach; the South and West Side clubs are closer to the source.",
+      "tip": "Buddy Guy's Legends downtown is the famous one. Ask locally about the smaller South Side rooms if you want the real thing."
+    },
+    {
+      "title": "Eat both pizzas and the beef",
+      "text": "Deep-dish is the famous one and locals eat it rarely. Tavern-style thin crust cut into squares is what Chicago actually eats. The Italian beef sandwich — thin sliced beef, gravy, hot giardiniera — is the true local dish.",
+      "tip": "Order the beef 'dipped, hot' and eat it leaning forward. Deep-dish takes 45 minutes to bake — order when you sit down."
+    },
+    {
+      "title": "Ride the L around the Loop",
+      "text": "The elevated railway that gives the downtown its name runs on tracks above the street, through the middle of the buildings. The Brown or Pink line circuit costs one fare and is a genuine sightseeing ride.",
+      "tip": "Sit at the front of the first carriage. The stretch around the northeast corner of the Loop is the best."
+    },
+    {
+      "title": "Go up something tall",
+      "text": "Willis Tower's Skydeck has glass boxes projecting from the 103rd floor; 360 Chicago at the John Hancock has a tilting window and, crucially, a view that includes the Willis Tower.",
+      "tip": "360 Chicago has the better view because Willis is in it. The Signature Lounge one floor up charges nothing but the price of a drink."
+    }
+  ],
+  "foodIntro": "Chicago is one of America's great eating cities and its reputation abroad rests on the wrong dish. Deep-dish is real; it is not what people here eat most weeks.",
+  "foods": [
+    {
+      "name": "Italian beef",
+      "text": "Thin-sliced slow-roasted beef in seasoned gravy on a French roll, with sweet peppers or spicy pickled giardiniera. Ordered 'dipped' means the whole roll goes into the gravy. This, not deep-dish, is the genuine Chicago sandwich.",
+      "whereToTry": "Beef stands across the city, most of them counter-service and unglamorous. Ask for it dipped and hot."
+    },
+    {
+      "name": "Deep-dish and tavern-style pizza",
+      "text": "Deep-dish is a buttery high-sided crust filled with cheese, toppings and chunky tomato on top, baked for 45 minutes. Tavern-style is thin, crisp and cut into squares — and is what Chicagoans actually order.",
+      "whereToTry": "Deep-dish downtown; tavern-style at neighbourhood bars across the North and Southwest sides."
+    },
+    {
+      "name": "The Chicago hot dog",
+      "text": "An all-beef frankfurter in a poppy-seed bun with mustard, onion, relish, tomato, a pickle spear, sport peppers and celery salt. Never ketchup — the prohibition is genuine and enforced socially.",
+      "whereToTry": "Hot dog stands everywhere. Ask for it 'dragged through the garden' for all the toppings."
+    },
+    {
+      "name": "Mexican food in Pilsen and Little Village",
+      "text": "Chicago has one of the largest Mexican populations in the United States, and the taquerías, bakeries and torta shops of Pilsen and Little Village are the everyday result.",
+      "whereToTry": "18th Street in Pilsen and 26th Street in Little Village. Birria and al pastor are the specialities."
+    },
+    {
+      "name": "Polish and Eastern European food",
+      "text": "Chicago has the largest Polish population outside Poland, and pierogi, kielbasa and Polish bakeries are a genuine part of the city's food landscape, mostly on the northwest side.",
+      "whereToTry": "Avondale, Jefferson Park and Archer Heights. Milk bars and delis rather than restaurants."
+    },
+    {
+      "name": "The fine dining scene",
+      "text": "Chicago has been one of the most innovative restaurant cities in the world for two decades, with a cluster of tasting-menu restaurants that reshaped American cooking. Reservations open months ahead.",
+      "whereToTry": "West Loop and Fulton Market hold most of them. Book the day reservations open."
+    }
+  ],
+  "accommodation": {
+    "intro": "The Loop and River North are central and convenient; the neighbourhoods north and west are cheaper and considerably more interesting in the evening.",
+    "areas": [
+      {
+        "name": "The Loop",
+        "bestFor": "Museums, architecture, walking",
+        "text": "The downtown core, walkable to the Art Institute, Millennium Park and the river cruises, and on every L line. Quiet in the evenings once offices empty, which some people like."
+      },
+      {
+        "name": "River North",
+        "bestFor": "Restaurants and nightlife",
+        "text": "Just north of the river, with the highest concentration of restaurants and bars downtown, and a ten-minute walk to the Loop museums. The most convenient all-round base."
+      },
+      {
+        "name": "Gold Coast and Streeterville",
+        "bestFor": "The lake and Michigan Avenue",
+        "text": "Between Michigan Avenue and the lakefront, with the beaches, the Hancock tower and the shopping. More expensive and quieter than River North."
+      },
+      {
+        "name": "Wicker Park and Logan Square",
+        "bestFor": "Food, bars, value",
+        "text": "Northwest of downtown on the Blue Line, and where much of the city's best independent eating and drinking is. 15–25 minutes to the Loop and noticeably cheaper."
+      },
+      {
+        "name": "Lincoln Park and Lakeview",
+        "bestFor": "Families, parks, the lakefront",
+        "text": "North along the lake, residential and green, with the free zoo, the beaches and easy access to the lakefront trail. Twenty minutes to downtown on the Brown or Red Line."
+      }
+    ],
+    "budget": [
+      { "label": "Hostel dorm", "value": "$40–70 per night" },
+      { "label": "Comfortable hotel", "value": "$150–260 per night, notably cheaper in winter" },
+      { "label": "Art Institute", "value": "About $32; free evenings for Illinois residents only" },
+      { "label": "Architecture river cruise", "value": "$50–55 for 90 minutes" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Chicago is the transport hub of the American interior, with two airports and the country's busiest rail junction.",
+    "options": [
+      {
+        "mode": "O'Hare (ORD)",
+        "text": "One of the world's busiest airports, 27 km northwest, connected to downtown by the Blue Line L in about 45 minutes for around $5. The train runs 24 hours.",
+        "detail": "Far cheaper than a taxi and often faster in traffic. The station is inside Terminal 2."
+      },
+      {
+        "mode": "Midway (MDW)",
+        "text": "Closer, 16 km southwest, handling mostly domestic and budget carriers. The Orange Line reaches the Loop in about 25 minutes.",
+        "detail": "Smaller and quicker to move through than O'Hare when the routes suit."
+      },
+      {
+        "mode": "By train",
+        "text": "Union Station is the hub of Amtrak's national network, with overnight services to New Orleans, Seattle, San Francisco and Los Angeles, and shorter runs to Milwaukee, Detroit and St Louis.",
+        "detail": "The City of New Orleans south along the Blues Highway is a genuine music-history journey."
+      },
+      {
+        "mode": "By car",
+        "text": "Detroit is 4h30, Minneapolis 6h30, [[new-york-city|New York]] 12h. A car is unnecessary in the city and parking downtown is expensive.",
+        "detail": "Chicago is a natural start or end point for a Route 66 trip, which begins downtown on Adams Street."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "The L train and walking cover almost everything. Chicago is flat, gridded and easy to navigate.",
+    "options": [
+      {
+        "mode": "The L",
+        "text": "Eight colour-coded lines, elevated downtown and underground in places, with the Red and Blue lines running 24 hours. A flat fare per ride, paid with a Ventra card or contactless.",
+        "detail": "The Loop circuit is a sightseeing ride in its own right. Day and three-day passes are good value."
+      },
+      {
+        "mode": "Walking",
+        "text": "The Loop is about 1.5 km square and the grid is rigidly logical — everything is numbered from the corner of State and Madison. Millennium Park to the Museum Campus is 25 minutes along the lakefront.",
+        "detail": "Chicago's grid uses 800 address numbers per mile, so 1600 North is two miles north of the centre line."
+      },
+      {
+        "mode": "Divvy bikes",
+        "text": "A large bike-share network, and the 42 km lakefront trail is entirely separated from traffic. The best way to cover the shoreline.",
+        "detail": "Day passes in the app. The lakefront is flat the entire way."
+      },
+      {
+        "mode": "Buses",
+        "text": "An extensive grid of bus routes filling the gaps between L lines, particularly useful for east–west journeys and reaching the lakefront museums.",
+        "detail": "The number 146 and 151 buses along the lakefront are useful for the Museum Campus."
+      },
+      {
+        "mode": "Water taxis",
+        "text": "River and lake water taxis run in the warmer months between Union Station, Michigan Avenue and Chinatown — a pleasant and cheap alternative to the L.",
+        "detail": "Seasonal, roughly April to October, and a good way to see the buildings from the water without a tour."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "Chicago has genuinely extreme seasons. Summers are hot and humid, winters are severely cold with lake-effect wind, and the shoulder months are excellent.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The city coming back outdoors, at 12–24°C, with the lakefront reopening and the festival season starting. May and June are ideal; April can still be raw."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Hot and humid at 26–32°C, with the beaches open, free festivals almost every weekend and the lakefront at its liveliest. Also the busiest and most expensive period."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Arguably the best window: clear, 12–24°C, with the humidity gone and the crowds thinning. October brings colour to the parks and the lake is still swimmable early in the month."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Genuinely cold — often below −10°C with wind off the lake that makes it feel far worse. The compensation is that hotel rates fall by half, the museums are empty, and everything you came for is indoors."
+      }
+    ],
+    "avoid": "January and February if cold bothers you at all. The wind off Lake Michigan through the downtown street grid is the reason for the city's nickname, and it is not an exaggeration."
+  },
+  "itinerary": {
+    "title": "Four days in Chicago",
+    "intro": "Architecture first, because everything afterwards makes more sense. Then one museum, one neighbourhood and the lake.",
+    "days": [
+      {
+        "day": 1,
+        "title": "The river and the Loop",
+        "summary": "Start with the buildings, from the water and then on foot.",
+        "morning": "Millennium Park, Cloud Gate and the Crown Fountain.",
+        "afternoon": "The architecture river cruise — 90 minutes, and the best orientation in the city.",
+        "evening": "A Loop walking loop past the Rookery and the Monadnock, then dinner in River North."
+      },
+      {
+        "day": 2,
+        "title": "The Art Institute and the lake",
+        "summary": "One great museum, then the shoreline.",
+        "morning": "The Art Institute — Impressionists, Nighthawks and American Gothic. Three hours.",
+        "afternoon": "Walk south along the lakefront to the Museum Campus and out to the Adler for the skyline view.",
+        "evening": "360 Chicago at the Hancock at sunset, then dinner on the Gold Coast."
+      },
+      {
+        "day": 3,
+        "title": "Neighbourhoods",
+        "summary": "Out of downtown, which is where the city actually lives.",
+        "morning": "Pilsen for the murals and the National Museum of Mexican Art, then tacos on 18th Street.",
+        "afternoon": "Wicker Park and Logan Square, or Oak Park for Frank Lloyd Wright.",
+        "evening": "Blues at a club, and an Italian beef on the way home."
+      },
+      {
+        "day": 4,
+        "title": "The lakefront and whatever you missed",
+        "summary": "Bikes, beaches and the last of the buildings.",
+        "morning": "Divvy bike north along the lakefront through Lincoln Park to the beaches.",
+        "afternoon": "The free Lincoln Park Zoo and conservatory, or the Field Museum.",
+        "evening": "Deep-dish, ordered when you sit down, and the L back through the Loop."
+      }
+    ]
+  },
+  "tipsIntro": "Chicago specifics, including two things about food that locals will thank you for knowing.",
+  "tips": [
+    "Do the architecture river cruise on your first afternoon rather than your last. It explains the city's geography and history in ninety minutes and everything you see afterwards lands better.",
+    "Deep-dish is genuine but it is not what Chicagoans eat regularly — tavern-style thin crust cut into squares is. And the actual local dish is the Italian beef sandwich, ordered dipped and hot.",
+    "Do not put ketchup on a Chicago hot dog. This is a real and enforced social convention, and several stands will decline to provide it.",
+    "The L's Red and Blue lines run 24 hours, which is rare in the United States. The Blue Line to O'Hare costs about $5 and beats a taxi on both price and often time.",
+    "Chicago's grid uses 800 address numbers per mile, counted from State and Madison. Once you know that, you can calculate walking distances from any address in your head.",
+    "The Art Institute's free evenings apply only to Illinois residents. Everyone else pays about $32, and it is worth it.",
+    "Winter cold here is not ordinary cold. Wind off Lake Michigan funnelled through the downtown grid regularly produces wind chills below −20°C. If you come in January, dress for it properly.",
+    "Chicago is 25–40% cheaper than New York or San Francisco for hotels and restaurants of equivalent quality, which makes it one of the best-value major American cities."
+  ],
+  "faq": [
+    {
+      "q": "Is the Chicago architecture boat tour worth it?",
+      "a": "It is the single best hour and a half of sightseeing in any American city, and it should be the first thing you do. Ninety minutes on the river with a trained docent explaining the buildings on both banks gives you the city's history and geography at once. The Chicago Architecture Center's own tours have the best-trained guides; book ahead in summer."
+    },
+    {
+      "q": "How many days do you need in Chicago?",
+      "a": "Three to four. One for the river cruise and the Loop's architecture, one for the Art Institute and the lakefront, one for a neighbourhood such as Pilsen or Wicker Park, and optionally one for Oak Park's Frank Lloyd Wright houses or more of the lakefront. The city is compact and well connected, so days are efficient."
+    },
+    {
+      "q": "What food is Chicago actually known for?",
+      "a": "Deep-dish pizza is the famous answer and locals eat it rarely. The genuine Chicago dishes are the Italian beef sandwich — thin-sliced beef in gravy with hot giardiniera, ordered 'dipped' — tavern-style thin-crust pizza cut into squares, and the Chicago hot dog with its specific set of toppings and its absolute prohibition on ketchup."
+    },
+    {
+      "q": "When is the best time to visit Chicago?",
+      "a": "May to June and September to October. Summer is hot, humid and busy but has the beaches and constant free festivals. Winter is genuinely severe — wind off Lake Michigan regularly produces chills below −20°C — though hotel rates halve and the museums empty. Autumn is the pick: clear, mild and much quieter than summer."
+    },
+    {
+      "q": "Is Chicago safe for visitors?",
+      "a": "The areas visitors use — the Loop, River North, the Gold Coast, Lincoln Park, Wicker Park, Pilsen and the lakefront — are safe with normal city precautions. Chicago's violent crime statistics are heavily concentrated in specific South and West Side neighbourhoods that visitors have no particular reason to be in, and the citywide figure gives a misleading picture of the tourist experience."
+    },
+    {
+      "q": "Do you need a car in Chicago?",
+      "a": "No. The L train covers the city with eight lines, two of which run 24 hours, and the Blue Line reaches O'Hare in 45 minutes for about $5. The Loop is walkable, the grid is logical, and the 42 km lakefront trail is best by bike. Downtown parking is expensive and unnecessary."
+    },
+    {
+      "q": "Where can I hear blues in Chicago?",
+      "a": "Live blues runs most nights across the city. Buddy Guy's Legends downtown is the best-known and reliably good. The North Side clubs are easiest to reach, while the South and West Side rooms are closer to where the music was electrified in the 1940s and 1950s. Ask locally — the smaller South Side venues are where the tradition is most alive."
+    }
+  ],
+  "related": ["new-york-city", "new-orleans", "washington-dc", "milan"],
+  "relatedArticles": ["us-national-parks-road-trip", "underrated-destinations", "packing-by-season"]
+}

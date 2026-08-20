@@ -1,0 +1,395 @@
+{
+  "slug": "turkey",
+  "name": "Turkey",
+  "continent": "Southeast Europe and Western Asia",
+  "countryCode": "TR",
+  "tagline": "Roman cities, an eleven-thousand-year-old temple, a volcanic landscape carved into churches, and 8,000 km of coastline.",
+  "cardDescription": "A country that straddles two continents and holds more Greek and Roman ruins than Greece and Italy, at a fraction of the price of either.",
+  "metaDescription": "A complete Turkey travel guide: the 10 best places to visit, Turkish food, when to go, domestic flights and buses, costs, etiquette and a two-week itinerary.",
+  "image": {
+    "file": "File:Ottoman Style Houses in Safranbolu - 2014.10 - panoramio.jpg",
+    "alt": "White timber-framed Ottoman houses stacked on a hillside in Safranbolu"
+  },
+  "destinations": [
+    "istanbul",
+    "cappadocia",
+    "ephesus",
+    "pamukkale",
+    "antalya-turquoise-coast",
+    "fethiye-oludeniz",
+    "sanliurfa-gobekli-tepe",
+    "bodrum",
+    "trabzon-black-sea",
+    "ankara"
+  ],
+  "intro": [
+    "Turkey occupies the land bridge between Europe and Asia and has been fought over, settled and rebuilt by Hittites, Greeks, Persians, Romans, Byzantines, Seljuks and Ottomans. The practical consequence for a visitor is an almost absurd density of archaeology: there are more classical Greek cities in Turkey than in Greece, and the Roman remains at Ephesus and Aphrodisias are better preserved than most of what survives in Italy.",
+    "It also has genuine geographical variety. The Aegean and Mediterranean coasts run for thousands of kilometres past pine-backed coves and Lycian tombs cut into cliffs. Central Anatolia is a high, dry plateau where volcanic ash eroded into the cones and pinnacles of Cappadocia. The Black Sea coast in the north is green, wet and mountainous, closer to the Alps than to the Aegean. And the southeast holds Göbekli Tepe, a temple complex built around 9500 BC — six thousand years before Stonehenge and before agriculture existed.",
+    "The other thing that draws people is value. Turkey has had high inflation for several years, and for visitors holding euros, pounds or dollars it remains among the best-value destinations in the wider Mediterranean — often half the cost of Greece or Italy for comparable quality. That gap is narrowing, but it is still real."
+  ],
+  "placesIntro": "Ordered roughly by how strongly we would recommend each for a first visit. Turkey is large — Istanbul to Şanlıurfa is 1,300 km — so most trips take a coastal cluster or a central one rather than crossing the country.",
+  "thingsToDoIntro": "The experiences that recur wherever you go, and that make a Turkish trip feel Turkish.",
+  "thingsToDo": [
+    {
+      "title": "Drink tea, constantly",
+      "text": "Çay is served in small tulip-shaped glasses at every possible occasion — in shops, at ferry terminals, while you look at carpets, before and after meals. Turkey drinks more tea per head than any other country on earth, and refusing a glass is unusual.",
+      "tip": "It is served without milk, with sugar cubes on the side. Saying 'açık' gets you a weaker brew."
+    },
+    {
+      "title": "Go to a hamam",
+      "text": "A Turkish bath is a hot marble room, a scrub with a coarse mitt that removes an alarming quantity of skin, a foam wash and a rest. The historic ones in [[istanbul]] date to the 16th century and are architectural monuments in themselves.",
+      "tip": "Bring nothing; everything is provided. Historic hamams are more expensive and considerably more beautiful than neighbourhood ones."
+    },
+    {
+      "title": "Eat a long breakfast",
+      "text": "Turkish kahvaltı is a spread rather than a dish — cheeses, olives, tomato, cucumber, honey with clotted cream, eggs, jams and endless bread and tea. It takes an hour and a half and it is the best meal of the day.",
+      "tip": "A 'serpme kahvaltı' is the full spread for a table. Van, in the far east, is famous for the most extravagant version."
+    },
+    {
+      "title": "Walk through a Roman city",
+      "text": "[[ephesus]], Aphrodisias, Pergamon, Hierapolis at [[pamukkale]], Perge and Aspendos near [[antalya-turquoise-coast|Antalya]]. Several have theatres seating 15,000 and streets you can walk end to end.",
+      "tip": "Go at opening or in the last two hours. Shade is minimal and summer temperatures on these sites exceed 40°C."
+    },
+    {
+      "title": "Take a gulet boat",
+      "text": "Wooden broad-beamed boats sail the Aegean and Mediterranean coasts on trips from a day to a week, anchoring in coves reachable no other way. The 'blue cruise' between [[fethiye-oludeniz|Fethiye]] and [[antalya-turquoise-coast|Antalya]] is the classic route.",
+      "tip": "Cabin charters share the boat with strangers; private charters are surprisingly affordable split between six or eight."
+    },
+    {
+      "title": "Bargain, politely",
+      "text": "Fixed prices are normal in shops and supermarkets, and negotiation is expected in bazaars, for carpets and for some taxi journeys. It is a conversation rather than a confrontation, and usually involves tea.",
+      "tip": "Decide your price before starting. Walking away is a legitimate move and often produces a better offer."
+    }
+  ],
+  "foodIntro": "Turkish cooking draws on Ottoman court cuisine, Anatolian village food, and the Balkan, Arab, Persian and Caucasian traditions the empire encompassed. It is regional to a degree that surprises visitors.",
+  "foods": [
+    {
+      "name": "Kebap, in its regional forms",
+      "text": "Not one dish. Adana kebap is hand-minced lamb with red pepper; Urfa is the milder version; İskender is döner over bread with tomato sauce and yoghurt; şiş is cubed and grilled. Each region defends its own.",
+      "whereToTry": "Gaziantep and [[sanliurfa-gobekli-tepe|Şanlıurfa]] in the southeast are the heartland. Every city has good ocakbaşı grill houses."
+    },
+    {
+      "name": "Meze",
+      "text": "Small cold and hot dishes eaten before or instead of a main course — stuffed vine leaves, aubergine purée, yoghurt with garlic, marinated anchovies, broad beans in olive oil. Served with rakı.",
+      "whereToTry": "Meyhanes — traditional taverns — in Istanbul, İzmir and along the Aegean coast."
+    },
+    {
+      "name": "Pide and lahmacun",
+      "text": "Pide is a boat-shaped flatbread baked with cheese, minced meat or egg. Lahmacun is a paper-thin round topped with spiced minced lamb, rolled with parsley and lemon and eaten by hand. Both are cheap and everywhere.",
+      "whereToTry": "Pide salonu and lahmacun shops in any town. Lahmacun is the better street food."
+    },
+    {
+      "name": "Baklava and Turkish sweets",
+      "text": "Layers of filo with pistachio or walnut, soaked in syrup. Gaziantep's pistachio baklava has protected status and is genuinely a cut above. Künefe — shredded pastry over melting cheese — is the other essential.",
+      "whereToTry": "Gaziantep for baklava; künefe across the southeast and in Hatay."
+    },
+    {
+      "name": "Balık ekmek and Black Sea fish",
+      "text": "Grilled fish in bread, sold from boats and stalls at Istanbul's Eminönü. In winter, hamsi — Black Sea anchovies — appear everywhere, fried in cornmeal or baked with rice.",
+      "whereToTry": "[[istanbul|Istanbul]]'s waterfront for balık ekmek; [[trabzon-black-sea|Trabzon]] and the Black Sea coast for hamsi from November to February."
+    },
+    {
+      "name": "Turkish coffee and rakı",
+      "text": "Coffee ground to powder and boiled in a cezve, served unfiltered with the grounds settling in the cup. Rakı is an anise spirit drunk with water and ice, which turns it white, alongside meze and fish.",
+      "whereToTry": "Coffee everywhere; rakı in meyhanes, traditionally over a long evening rather than quickly."
+    },
+    {
+      "name": "Menemen and Turkish breakfast",
+      "text": "Eggs scrambled slowly with tomato, green pepper and sometimes cheese, eaten with bread. The centrepiece of a breakfast spread that also includes cheeses, olives, honey and clotted cream.",
+      "whereToTry": "Breakfast salons everywhere, especially at weekends when Turkish families make a morning of it."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Turkey is straightforward to travel in, though the currency situation and the entry rules both change often enough to need checking close to departure.",
+  "practical": {
+    "capital": "Ankara",
+    "language": "Turkish. English is common in Istanbul, the coastal resorts and among younger people; much less so in central and eastern Anatolia.",
+    "currency": "Turkish lira (₺)",
+    "money": "Cards are widely accepted in cities and resorts; carry cash for markets, small towns and rural areas. Because of persistent high inflation, prices in lira change quickly — check current figures rather than relying on older guides.",
+    "visa": "Many nationalities need an e-Visa obtained online before travel, though several European countries have been exempted in recent years and the list changes. Check the official e-Visa site for your passport before booking.",
+    "plugs": "Type C and F, 230 V, 50 Hz. Two round pins, as in continental Europe.",
+    "emergency": "112 for all emergencies, nationwide.",
+    "tipping": "Around 10% at restaurants, rounding up for taxis, and a small note for hamam attendants and hotel staff. Not as embedded as in the United States but genuinely appreciated.",
+    "safety": "Generally safe for visitors, with normal precautions against pickpocketing in Istanbul's tourist areas and bazaars. Check your government's current travel advice for border regions with Syria and Iraq, which are separate from the areas covered in this guide.",
+    "connectivity": "Excellent 4G and 5G in cities and along the coasts. Foreign phones must be registered and taxed after about 120 days of use, which does not affect ordinary trips. A local or eSIM is much cheaper than roaming.",
+    "timeZone": "UTC+3 year-round. Turkey abolished daylight saving in 2016, so the offset from Europe shifts twice a year.",
+    "budget": [
+      { "label": "Backpacker", "value": "€35–60 per day — hostels, street food, buses" },
+      { "label": "Mid-range", "value": "€75–130 per day — three-star hotels, restaurant meals, domestic flights" },
+      { "label": "Comfortable", "value": "€150–250 per day — good hotels, private guides, car hire" },
+      { "label": "Cappadocia balloon", "value": "€200–300 per person, and worth budgeting separately" }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Turkey has several climates — Mediterranean on the south coast, continental on the Anatolian plateau, and a wet oceanic Black Sea coast. The shoulder seasons work almost everywhere, which is not true of high summer.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The strongest window. Istanbul's tulips in April, wildflowers in Cappadocia, warm but not punishing coastal temperatures, and the archaeological sites bearable. The sea is swimmable from late May."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot everywhere and extreme inland — the southeast regularly exceeds 42°C and walking Ephesus at midday is genuinely unwise. The coast is at its busiest and most expensive, and the sea is warm. The Black Sea coast is the comfortable exception."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "Arguably the best of all. The sea is at its warmest in September, the heat eases inland, the crowds thin and prices fall. October is excellent for Cappadocia and the archaeological sites."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Istanbul is cold, grey and atmospheric with very few visitors. Cappadocia under snow is spectacular. The coast largely closes — many resort hotels and restaurants shut from November to April — and eastern Anatolia gets severe."
+      }
+    ],
+    "avoid": "Ramadan affects opening hours and the atmosphere in more conservative regions, though restaurants in tourist areas operate normally. The dates move each year. The two Eid holidays see domestic travel peak and transport book out."
+  },
+  "tripDuration": {
+    "headline": "12–16 days for a first trip",
+    "summary": "Turkey is 1,600 km across and the highlights are spread thinly. Domestic flights are cheap and frequent, which is what makes an ambitious itinerary possible — but two or three regions is still the sensible limit.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Istanbul alone. The city genuinely fills five days and is one of the great urban destinations in the world.",
+        "detail": "A perfectly good short trip, and better than adding a rushed Cappadocia leg."
+      },
+      {
+        "length": "8–10 days",
+        "text": "Istanbul and Cappadocia, the classic pairing — four or five days in the city and three in the valleys, connected by a 90-minute flight.",
+        "detail": "The most common first-visit itinerary in Turkey, and it works well."
+      },
+      {
+        "length": "12–16 days",
+        "text": "Istanbul, Cappadocia and the Aegean coast — Ephesus, Pamukkale and the Turquoise Coast. Two or three internal flights and a car for the coastal section.",
+        "detail": "The itinerary on this page. Enough to see the country's range without living on aeroplanes."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds the southeast — Şanlıurfa, Göbekli Tepe, Gaziantep and Mardin — or the Black Sea coast and the northeast. Both are genuinely different countries from the coast.",
+        "detail": "The southeast is the strongest addition for anyone interested in archaeology or food."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "Turkey's distances are large and its domestic flights are cheap. Long-distance buses are excellent and the high-speed rail network is expanding but still limited.",
+    "options": [
+      {
+        "mode": "Domestic flights",
+        "text": "Cheap, frequent and the practical way to cover the country. Istanbul to Cappadocia is 90 minutes, to İzmir an hour, to Antalya 75 minutes. Several carriers compete on the main routes.",
+        "detail": "Istanbul has two airports — the new Istanbul Airport on the European side and Sabiha Gökçen on the Asian. Check which your flight uses; they are two hours apart."
+      },
+      {
+        "mode": "Long-distance buses",
+        "text": "An extensive, comfortable and inexpensive network reaching almost every town, with reclining seats, attendants serving tea and frequent stops. Overnight services save a hotel night.",
+        "detail": "Otogar bus stations are usually well outside city centres, with free shuttle minibuses into town."
+      },
+      {
+        "mode": "High-speed rail",
+        "text": "The YHT network links Istanbul, [[ankara]], Konya and Eskişehir, with Ankara to Istanbul in about 4h30. Comfortable and cheap, but the network does not yet reach the coasts or the east.",
+        "detail": "Useful for Ankara and Konya; irrelevant for most coastal itineraries."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Worth it for the Turquoise Coast, Cappadocia's valleys and the Black Sea mountains. Roads are good, fuel is expensive, and driving standards in cities are assertive.",
+        "detail": "Avoid driving in Istanbul entirely. Pick up a car at a coastal airport instead."
+      },
+      {
+        "mode": "Dolmuş and minibuses",
+        "text": "Shared minibuses running fixed routes and leaving when full, covering the gaps between towns and villages. Cheap, frequent and the standard way to move locally on the coast.",
+        "detail": "Flag them down anywhere on the route and pay the driver. Say 'inecek var' to be let off."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in Turkey",
+    "intro": "Istanbul, Cappadocia and the Aegean and Mediterranean coasts, using two internal flights and a hire car for the coastal leg. Covers five of the ten destinations in this guide.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Istanbul",
+        "morning": "Land and settle in Sultanahmet or Karaköy.",
+        "afternoon": "A first walk through Sultanahmet — the outside of Hagia Sophia and the Blue Mosque.",
+        "evening": "Dinner in Karaköy, and the Galata Bridge after dark."
+      },
+      {
+        "day": 2,
+        "title": "Istanbul — the Byzantine and Ottoman core",
+        "morning": "Hagia Sophia at opening, then the Basilica Cistern.",
+        "afternoon": "Topkapı Palace and its harem, three hours minimum.",
+        "evening": "The Grand Bazaar before it closes at 19:00, then meze and rakı."
+      },
+      {
+        "day": 3,
+        "title": "Istanbul — the water and the other side",
+        "morning": "The Spice Bazaar and a ferry up the Bosphorus.",
+        "afternoon": "Kadıköy on the Asian side for the market and the food streets.",
+        "evening": "Back by ferry at sunset, with the minarets in silhouette."
+      },
+      {
+        "day": 4,
+        "title": "Istanbul — Beyoğlu and the hamam",
+        "morning": "The Süleymaniye Mosque, the finest of Sinan's work, and its terrace view.",
+        "afternoon": "İstiklal Caddesi, Galata Tower and the backstreets of Beyoğlu.",
+        "evening": "A historic hamam, then an early night before the flight."
+      },
+      {
+        "day": 5,
+        "title": "Fly to Cappadocia",
+        "morning": "Ninety-minute flight to Kayseri or Nevşehir, then transfer to Göreme.",
+        "afternoon": "The Göreme Open Air Museum's rock-cut churches.",
+        "evening": "Sunset from Sunset Point over the Rose Valley."
+      },
+      {
+        "day": 6,
+        "title": "Cappadocia — the balloons",
+        "morning": "A dawn hot-air balloon flight over the valleys, weather permitting.",
+        "afternoon": "The Ihlara Valley or Derinkuyu underground city.",
+        "evening": "A cave hotel terrace, and an early night."
+      },
+      {
+        "day": 7,
+        "title": "Cappadocia — walking",
+        "morning": "The Red and Rose valleys on foot, about three hours between villages.",
+        "afternoon": "Uçhisar castle rock and Pigeon Valley.",
+        "evening": "Pottery kebab in Avanos, cracked open at the table."
+      },
+      {
+        "day": 8,
+        "title": "Fly to the Aegean",
+        "morning": "Fly to İzmir, collect a car and drive south to Selçuk.",
+        "afternoon": "Ephesus in the late afternoon, when the light is low and the coaches gone.",
+        "evening": "Selçuk, a small town beneath a Byzantine castle."
+      },
+      {
+        "day": 9,
+        "title": "Ephesus and Şirince",
+        "morning": "The Terrace Houses at Ephesus, a separate ticket and worth it.",
+        "afternoon": "Şirince, a hillside village of Greek houses eight kilometres away.",
+        "evening": "Drive east towards Pamukkale, about 2h30."
+      },
+      {
+        "day": 10,
+        "title": "Pamukkale and Hierapolis",
+        "morning": "The travertine terraces at opening, barefoot, before the crowds.",
+        "afternoon": "Hierapolis above them — the theatre, the necropolis and the Antique Pool.",
+        "evening": "Drive south towards the coast."
+      },
+      {
+        "day": 11,
+        "title": "Fethiye and Ölüdeniz",
+        "morning": "Arrive on the Turquoise Coast and settle in Fethiye or Kayaköy.",
+        "afternoon": "The Blue Lagoon at Ölüdeniz, and the abandoned Greek village at Kayaköy.",
+        "evening": "Fethiye's fish market, where you buy the fish and a restaurant cooks it."
+      },
+      {
+        "day": 12,
+        "title": "The Lycian coast",
+        "morning": "A boat trip through the coves, or paragliding from Babadağ.",
+        "afternoon": "The rock tombs at Fethiye or the ruins at Tlos.",
+        "evening": "Kabak or Faralya for the sunset over the sea."
+      },
+      {
+        "day": 13,
+        "title": "East to Antalya",
+        "morning": "The coast road east through Kalkan and Kaş, one of Turkey's great drives.",
+        "afternoon": "The sunken city at Kekova by boat, or the ruins at Myra.",
+        "evening": "Arrive in Antalya's walled Kaleiçi."
+      },
+      {
+        "day": 14,
+        "title": "Antalya and depart",
+        "morning": "Kaleiçi's Ottoman lanes and the Antalya Museum, one of the best in Turkey.",
+        "afternoon": "Aspendos's Roman theatre if there is time, then the airport.",
+        "evening": "Fly home from Antalya."
+      }
+    ]
+  },
+  "culture": {
+    "intro": "Turkey is a large and internally varied country: Istanbul and the coastal resorts are cosmopolitan and secular in feel, while central and eastern Anatolia are considerably more conservative. Hospitality is a genuine and serious value almost everywhere.",
+    "etiquette": [
+      {
+        "title": "Mosque visiting has clear rules",
+        "text": "Remove shoes at the entrance, cover your head if you are a woman — scarves are usually provided — and cover shoulders and knees regardless of gender. Avoid visiting during the five daily prayers, and never walk in front of someone praying."
+      },
+      {
+        "title": "Hospitality is not a sales technique",
+        "text": "Being offered tea is a genuine courtesy and carries no obligation, including in shops. Accepting a glass and then not buying anything is entirely normal and nobody will mind."
+      },
+      {
+        "title": "Dress varies sharply by region",
+        "text": "Beachwear is fine on the coast and normal city clothing is fine in Istanbul. In central and eastern Anatolia, covered shoulders and long trousers or skirts are considerably more comfortable for everyone."
+      },
+      {
+        "title": "Bargaining has its place",
+        "text": "Expected in bazaars, for carpets and souvenirs, and for some taxi journeys. Not expected in shops, supermarkets or restaurants. It is a friendly negotiation, not a confrontation."
+      },
+      {
+        "title": "Some subjects are sensitive",
+        "text": "Politics, Atatürk, the Kurdish question and the events of 1915 are all subjects where strong feelings exist and where insulting Atatürk or the Turkish state is a criminal offence. Listening rather than asserting is the sensible approach."
+      },
+      {
+        "title": "Meals are shared and unhurried",
+        "text": "Meze arrive to the table for everyone, dishes are passed, and a rakı evening is expected to last hours. Refusing food repeatedly reads as rejection rather than restraint."
+      }
+    ],
+    "dos": [
+      "Accept the tea — it costs nothing and carries no obligation",
+      "Remove shoes and cover up before entering a mosque",
+      "Learn 'merhaba', 'teşekkür ederim' and 'lütfen'",
+      "Carry cash for markets, small towns and rural areas",
+      "Check whether your Istanbul flight uses IST or Sabiha Gökçen — they are two hours apart",
+      "Bargain in bazaars, cheerfully, and be willing to walk away"
+    ],
+    "donts": [
+      "Don't enter a mosque during prayer times or walk in front of worshippers",
+      "Don't wear beachwear away from the beach, especially inland",
+      "Don't make jokes about Atatürk — it is a criminal offence, not a taboo",
+      "Don't assume card payment in rural areas or small family businesses",
+      "Don't drink tap water; bottled is universal and cheap",
+      "Don't underestimate distances — Istanbul to Şanlıurfa is 1,300 km"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out in Turkey, several of which are specific to how the country works rather than general travel advice.",
+  "tips": [
+    "Check which Istanbul airport your flight uses. Istanbul Airport (IST) is on the European side and Sabiha Gökçen (SAW) on the Asian, and they are about two hours apart in traffic. Booking a connection between them is a common and expensive mistake.",
+    "Turkey has had high inflation for several years, so prices quoted in lira in older guides are unreliable. Check current figures, and expect restaurant menus to be reprinted often.",
+    "Turkey abolished daylight saving in 2016 and stays on UTC+3 year-round, so the time difference from Europe changes twice a year. Verify flight times against your own clock changes.",
+    "Cappadocia balloon flights are cancelled for wind on a significant proportion of mornings. Allow at least two possible mornings, and book the first one — cancellations roll forward.",
+    "Buy an Istanbulkart the moment you arrive in Istanbul. It works on ferries, trams, metro, buses and funiculars, costs a fraction of single fares and can be shared between people.",
+    "Archaeological sites have almost no shade and summer temperatures on them exceed 40°C. Ephesus, Hierapolis and Aphrodisias should be walked at opening or in the last two hours of light.",
+    "Domestic flights are cheap and frequent and are what makes a Turkish itinerary work. Overnight buses are the budget alternative and are far more comfortable than they sound.",
+    "Tap water is generally not drunk even by locals. Bottled water is universally available and costs very little."
+  ],
+  "faq": [
+    {
+      "q": "Is Turkey safe to visit?",
+      "a": "The areas covered in this guide — Istanbul, the Aegean and Mediterranean coasts, Cappadocia, the Black Sea and the Şanlıurfa region — are generally safe for visitors, with the usual precautions against pickpocketing in Istanbul's crowded tourist areas. Border regions with Syria and Iraq are a separate matter and carry government travel advisories. Check your own government's current advice before booking, as it is updated regularly."
+    },
+    {
+      "q": "How many days do you need in Turkey?",
+      "a": "Twelve to sixteen for a first trip covering two or three regions. Eight to ten days does Istanbul and Cappadocia comfortably, which is the classic pairing. Four or five days is enough for Istanbul alone, and the city genuinely justifies it. Turkey is 1,600 km across, so trying to add the southeast or the Black Sea to a fortnight means living on aeroplanes."
+    },
+    {
+      "q": "Do I need a visa for Turkey?",
+      "a": "It depends on your passport and the rules have changed several times recently. Many nationalities need an e-Visa obtained online before travel, while several European countries have been exempted in recent years. Check the official Turkish e-Visa website for your specific nationality before booking — it takes minutes and the requirement is enforced at check-in."
+    },
+    {
+      "q": "Is Turkey expensive?",
+      "a": "It remains among the best-value destinations in the wider Mediterranean, often half the cost of Greece or Italy for comparable quality, though persistent high inflation means lira prices change quickly. Mid-range travel runs roughly €75–130 per person per day. Budget travel works at €35–60. The main exception is a Cappadocia balloon flight at €200–300 per person, which is worth budgeting for separately."
+    },
+    {
+      "q": "What is the best time of year to visit Turkey?",
+      "a": "April to June and September to October. Spring brings wildflowers and comfortable temperatures everywhere; September has the warmest sea of the year and thinning crowds. July and August are hot, with the southeast exceeding 42°C and archaeological sites genuinely unpleasant at midday. Winter empties the coast entirely but Istanbul and snowy Cappadocia are both memorable."
+    },
+    {
+      "q": "Should I visit Istanbul or the coast?",
+      "a": "For a first visit, both if you have ten days or more. Istanbul is one of the great cities of the world and needs four or five days on its own. The coast — Ephesus, Pamukkale and the Turquoise Coast — is a separate trip in feel and needs a car. If you only have a week, do Istanbul and Cappadocia rather than splitting between the city and the beach."
+    },
+    {
+      "q": "Do people speak English in Turkey?",
+      "a": "Widely in Istanbul, the coastal resorts and among younger and university-educated people. Much less so in central and eastern Anatolia and in smaller towns. A handful of Turkish words — merhaba for hello, teşekkür ederim for thank you, lütfen for please — go a long way and are genuinely appreciated."
+    }
+  ]
+}

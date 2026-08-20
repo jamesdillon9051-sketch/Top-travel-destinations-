@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+
+# Scratch space used by the image pipeline before WebP conversion.
+.cache/
+content/images/_originals/

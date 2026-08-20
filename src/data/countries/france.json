@@ -1,0 +1,395 @@
+{
+  "slug": "france",
+  "name": "France",
+  "continent": "Western Europe",
+  "countryCode": "FR",
+  "tagline": "Alpine summits, Atlantic oyster beds, Roman ruins and the world's most visited city — inside one very well-connected country.",
+  "cardDescription": "The most visited country on earth, and one of the few where a two-hour train ride genuinely changes the landscape, the architecture and what is on the plate.",
+  "metaDescription": "A complete France travel guide: the 10 best places to visit, what to eat, when to go, how the TGV network works, daily budgets, etiquette and a two-week itinerary.",
+  "image": {
+    "file": "File:Beach and Cliffs of Étretat, Normandy-8172.jpg",
+    "alt": "The white chalk arch and needle rock of Étretat rising from the sea in Normandy"
+  },
+  "destinations": [
+    "paris",
+    "provence-luberon",
+    "nice-french-riviera",
+    "loire-valley",
+    "mont-saint-michel",
+    "chamonix-mont-blanc",
+    "bordeaux",
+    "normandy-d-day-beaches",
+    "strasbourg-alsace",
+    "dordogne-sarlat"
+  ],
+  "intro": [
+    "France receives around 100 million international visitors a year, more than any other country, and a startling share of them see only Paris. That is a shame, because France's real advantage is not any single city — it is how much genuine variety it packs into a country roughly the size of Texas, and how easy the high-speed rail network makes moving between the pieces.",
+    "In one week you can stand under Mont Blanc, walk a Roman aqueduct, eat oysters pulled from the Atlantic that morning and sleep in a village that has not changed shape since the 14th century. The regions are not variations on a theme; Alsace has half-timbered houses and sauerkraut, Provence has olive groves and Roman theatres, Brittany has menhirs and salted butter. They feel like different countries because, until relatively recently, they were.",
+    "This guide covers ten destinations chosen to give you that range rather than a list of the ten most photographed spots. There is one unavoidable capital, two coastlines that could not be less alike, the country's greatest concentration of châteaux, a mountain town, a wine city, two regions most itineraries skip entirely, and a tidal island that is arguably the single most striking sight in Western Europe."
+  ],
+  "placesIntro": "Ranked roughly by how strongly we would recommend them to a first-time visitor, though the honest answer is that the right order depends on the season you are travelling and how much you like cities. Each has its own full guide.",
+  "thingsToDoIntro": "The experiences that recur across regions — the things that make a French trip feel French regardless of which corner you end up in.",
+  "thingsToDo": [
+    {
+      "title": "Shop a weekly market",
+      "text": "Almost every French town has one, on a fixed day, in the main square. This is not a tourist performance — it is where people buy food. Rotisserie chickens, cheese cut to order, regional charcuterie, and produce that was in the ground yesterday. Assembling lunch from a market is one of the cheapest and best meals you will eat in France.",
+      "tip": "Ask which day the marché runs before booking a town — arriving the morning after is a genuine missed opportunity."
+    },
+    {
+      "title": "Ride the TGV",
+      "text": "France's high-speed network reaches 320 km/h and turns the country into a series of two-hour hops. Paris to [[bordeaux]] is 2h05, to [[strasbourg-alsace|Strasbourg]] 1h50, to Marseille 3h10. Booked a month ahead it is often cheaper than flying and always less hassle.",
+      "tip": "Fares are dynamic and rise sharply near departure. Book as soon as tickets open — usually four to six months ahead."
+    },
+    {
+      "title": "Visit a working vineyard",
+      "text": "Bordeaux, Burgundy, the Rhône, Champagne, Alsace and the Loire all run tastings that welcome visitors without ceremony. A small family domaine will typically give you half an hour and four glasses for nothing or a token fee, on the reasonable assumption you will buy a bottle.",
+      "tip": "Book small producers ahead by email — many are two-person operations with no tasting room staff."
+    },
+    {
+      "title": "Walk a fortified old town",
+      "text": "France has an extraordinary density of intact medieval centres — [[dordogne-sarlat|Sarlat]], Carcassonne, [[strasbourg-alsace|Strasbourg]]'s Petite France, Dinan, Pérouges. These are living towns rather than museums, and the trick is to be there early or late, when the day-trip coaches are not.",
+      "tip": "The best hour in any French old town is 08:00, when the bakeries are open and nothing else is."
+    },
+    {
+      "title": "Take the long lunch seriously",
+      "text": "The two-hour midday meal is still standard outside big cities, and the formule or menu du jour — two or three courses for €16–24 — is the single best value in French dining. Many small-town restaurants serve lunch only.",
+      "tip": "Between roughly 14:00 and 19:00 most kitchens are closed. Eat when the French eat or plan on a bakery."
+    },
+    {
+      "title": "Drive one great road",
+      "text": "The rail network is excellent but it does not reach the lavender plateaus, the Dordogne valley or the Alpine passes. One rental car for two or three days in the right region transforms a trip — the Route des Vins in Alsace, the Luberon's hill villages, or the D-Day coast.",
+      "tip": "Book automatic transmission well ahead if you need one; the French default is manual and automatics sell out."
+    }
+  ],
+  "foodIntro": "France's national dishes are mostly regional dishes that travelled. These are the ones worth planning a meal around, and where they actually come from.",
+  "foods": [
+    {
+      "name": "Bread, cheese and butter",
+      "text": "Not a dish, but the foundation. France produces well over a thousand cheeses, and a proper fromagerie will ask when you intend to eat it before choosing a piece. Salted butter with visible crystals is standard in Brittany and Normandy and worth seeking out.",
+      "whereToTry": "Any market or neighbourhood fromagerie, in any town, on any day except Monday."
+    },
+    {
+      "name": "Coq au vin and boeuf bourguignon",
+      "text": "The two great Burgundian braises — chicken and beef slow-cooked in red wine with lardons, mushrooms and onions. Served everywhere, best in the region itself, and a reliable test of whether a bistro is cooking or reheating.",
+      "whereToTry": "Traditional bistros nationwide; Burgundy and Lyon for the originals."
+    },
+    {
+      "name": "Bouillabaisse",
+      "text": "Marseille's fisherman's stew, made from rockfish that were once too bony to sell, served as a broth with rouille and croutons followed by the fish itself. A real one is expensive and takes a day's notice; the cheap versions along tourist ports are not the same dish.",
+      "whereToTry": "Marseille and the Provençal coast near [[nice-french-riviera|Nice]]. Look for restaurants that signed the Bouillabaisse Charter."
+    },
+    {
+      "name": "Oysters and seafood platters",
+      "text": "France is Europe's largest oyster producer, and the plateau de fruits de mer — oysters, langoustines, whelks, crab, on ice — is the Atlantic coast's signature. Cancale in Brittany, Arcachon near [[bordeaux]] and the Normandy coast are the heartlands.",
+      "whereToTry": "Coastal Normandy, Brittany and Arcachon Bay. Traditionally eaten in months containing an 'r'."
+    },
+    {
+      "name": "Choucroute and tarte flambée",
+      "text": "Alsace's German inheritance — fermented cabbage with sausages and smoked pork, and a paper-thin flatbread of crème fraîche, onion and bacon that arrives on a wooden board. Nothing else in France tastes like this.",
+      "whereToTry": "[[strasbourg-alsace|Strasbourg]] and the villages along the Alsace wine route."
+    },
+    {
+      "name": "Duck, in every form",
+      "text": "The southwest runs on it: confit de canard, magret, and foie gras, alongside walnuts and truffles. It is the richest regional cooking in France and portions reflect that.",
+      "whereToTry": "The [[dordogne-sarlat|Dordogne]] and the wider southwest around Sarlat and Toulouse."
+    },
+    {
+      "name": "Crêpes and galettes",
+      "text": "Brittany's contribution: sweet crêpes of wheat flour, and savoury galettes of buckwheat filled with ham, egg and cheese. Traditionally eaten with dry cider served in a ceramic cup rather than a glass.",
+      "whereToTry": "Brittany and Normandy, and crêperies in every French city."
+    }
+  ],
+  "practicalIntro": "The essentials, current for 2026. Nothing here should surprise a visitor from another European country; the notes matter more if you are arriving from outside the Schengen Area.",
+  "practical": {
+    "capital": "Paris",
+    "language": "French. English is widely spoken in cities, tourist areas and by younger people; much less so in rural areas.",
+    "currency": "Euro (€)",
+    "money": "Cards are accepted almost everywhere, contactless is universal, and many places no longer take cash at all. Carry €30–50 for markets, rural bakeries and small village restaurants.",
+    "visa": "Part of the Schengen Area. Many nationalities — including UK, US, Canadian, Australian and NZ passport holders — can enter visa-free for up to 90 days in any 180. The EU's new EES biometric checks and the ETIAS travel authorisation are being phased in; check the current requirement before you book.",
+    "plugs": "Type E, 230 V, 50 Hz. Two round pins with an earth pin in the socket — most Type C plugs fit.",
+    "emergency": "112 for any emergency. 15 for medical, 17 for police, 18 for fire.",
+    "tipping": "Service is included by law and staff are paid a proper wage. Rounding up or leaving a few euros for good service is normal and appreciated; 15–20% is not expected anywhere.",
+    "safety": "Very safe by any measure. The realistic risks are pickpocketing in Paris, Nice, Marseille and Lyon — busy Métro lines, station concourses and crowded monuments — and vehicle break-ins at rural trailheads. Violent crime against visitors is rare.",
+    "connectivity": "Excellent 4G and 5G nationwide, patchy in Alpine valleys. EU roaming applies for EU SIMs; others should look at an eSIM, which is typically far cheaper than a carrier's roaming pass.",
+    "timeZone": "Central European Time (UTC+1), with daylight saving from late March to late October.",
+    "budget": [
+      { "label": "Backpacker", "value": "€75–110 per day — hostels, markets, trains booked early" },
+      { "label": "Mid-range", "value": "€150–230 per day — three-star hotels, one restaurant meal a day" },
+      { "label": "Comfortable", "value": "€260–400 per day — good hotels, restaurants, some car hire" },
+      { "label": "Paris premium", "value": "Add roughly 25–35% to any of the above" }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September–October",
+    "summary": "France is a four-season destination with genuinely different answers by region. The general rule holds well: late spring and early autumn give you warm weather, long days, everything open and none of the August crush. July and August are the exception rather than the default — hot, expensive, and the one period when parts of the country partially close for holidays.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The strongest all-round window. Paris and the Loire are at their best, Provence's landscape is green rather than scorched, the Alps switch from ski season to hiking from late June, and coastal water is still cold. Lavender does not bloom until late June at the earliest."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Peak season everywhere, and the only time the Riviera, Corsica and the Alps are all fully in swing. Also peak prices, peak crowds and 30°C+ across the south. Note that many French people take their own holiday in August, so some city restaurants close for weeks."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "September is arguably the single best month in France: warm sea, harvest under way in the wine regions, and the crowds gone by mid-month. October brings colour to the Dordogne and Alsace and the first properly wet weather in the north."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "The Alps are in full ski season and the cities are cheap, empty and atmospheric — Strasbourg's Christmas market is the oldest in France. Against that, many rural hotels and restaurants in Provence, the Dordogne and along the coast simply close from November to March."
+      }
+    ],
+    "avoid": "The first two weeks of August, when French holidays peak, and the school half-terms in late February and late October if you are heading for the Alps. Also check for Bastille Day (14 July) and the mid-August public holiday, when transport is packed and much of the country is shut."
+  },
+  "tripDuration": {
+    "headline": "10–14 days for a first trip",
+    "summary": "France is bigger than it looks on a map — Paris to Nice is 930 km — but the TGV compresses it. The mistake is not the distance, it is trying to see three regions in a week and spending the trip on trains.",
+    "options": [
+      {
+        "length": "4–5 days",
+        "text": "Paris only, with one day trip — Versailles, Giverny or Reims. Enough to see the city properly rather than sprint it. Do not try to add the Loire and Normandy on top of this.",
+        "detail": "Best paired with a direct flight or Eurostar so you lose no time in transit."
+      },
+      {
+        "length": "7–8 days",
+        "text": "Paris plus one region. The natural pairings are Paris and the Loire, Paris and Normandy, or Paris and Alsace — each is under two hours by train. Roughly three days in the capital and four outside it.",
+        "detail": "This is the sweet spot for a first visit and the itinerary most people should choose."
+      },
+      {
+        "length": "10–14 days",
+        "text": "Paris, one northern region and the south. For example Paris → the Loire → the Dordogne → Provence → Nice, or Paris → Alsace → the Alps. Two or three bases, no more, with a rental car for the rural leg.",
+        "detail": "Fourteen days is where France starts to feel like several countries rather than one."
+      },
+      {
+        "length": "3 weeks or more",
+        "text": "Adds the parts most visitors never reach — Brittany, Corsica, the Pyrenees, the Jura. At this length it is worth pointing the trip at a theme: the Atlantic coast, the wine regions, or a long walk such as a section of the GR routes.",
+        "detail": "A car becomes close to essential beyond about two weeks."
+      }
+    ]
+  },
+  "transport": {
+    "intro": "France has one of the best rail networks in the world and a road network to match. The right answer is usually trains between regions and a car within them.",
+    "options": [
+      {
+        "mode": "TGV high-speed rail",
+        "text": "The backbone. Paris is the hub, with lines radiating to every corner: Lille 1h, Strasbourg 1h50, Bordeaux 2h05, Lyon 2h, Marseille 3h10, Nice 5h30. Trains are comfortable, reliable and reach 320 km/h.",
+        "detail": "Reservations are compulsory on TGV. Book early — the same seat can cost €29 or €140 depending on when you buy."
+      },
+      {
+        "mode": "TER regional trains",
+        "text": "Slower local services connecting smaller towns, with no reservation needed and fixed fares. This is how you reach the Loire châteaux towns, the Alsace wine villages and much of Normandy.",
+        "detail": "Cross-country journeys that avoid Paris are often slow — France's network is deliberately radial."
+      },
+      {
+        "mode": "Rental car",
+        "text": "Essential for Provence's hill villages, the Dordogne, the D-Day beaches, Alsace's wine route and the Alps beyond the main valleys. Roads are excellent and well signed; motorway tolls are significant, roughly €25–35 for a three-hour drive.",
+        "detail": "Most French hire cars are manual. Many city centres are low-emission zones requiring a Crit'Air sticker ordered in advance."
+      },
+      {
+        "mode": "Domestic flights",
+        "text": "Rarely worth it. France has banned short domestic flights where a train does the same journey in under 2h30, and for most other routes the train wins once you count airport transfers.",
+        "detail": "The exception is Corsica, and Paris to Nice or Toulouse if you are very short on time."
+      },
+      {
+        "mode": "Buses and coaches",
+        "text": "Long-distance coaches are markedly cheaper than the TGV and markedly slower. Useful on a tight budget or for routes the railway does not serve well, such as between smaller southern towns.",
+        "detail": "City buses and trams are excellent in Bordeaux, Strasbourg, Nice and Lyon."
+      }
+    ]
+  },
+  "itinerary": {
+    "title": "Two weeks in France",
+    "intro": "A route that crosses the country without doubling back, using trains between regions and a car for the two rural legs. It covers six of the ten destinations in this guide and can be cut to ten days by dropping the Dordogne.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive in Paris",
+        "morning": "Land at Charles de Gaulle and take the RER B into the city. Check in and resist the urge to schedule anything demanding.",
+        "afternoon": "The Île de la Cité and Sainte-Chapelle, then the Île Saint-Louis and the Left Bank quays on foot.",
+        "evening": "Dinner in the 5th or 6th, and an early night to break the jet lag."
+      },
+      {
+        "day": 2,
+        "title": "Paris — museums and the grand axis",
+        "morning": "The Louvre or the Musée d'Orsay on a pre-booked morning slot. Three hours, two wings, no more.",
+        "afternoon": "The Tuileries, the Orangerie's Monet rooms, Place de la Concorde and the Arc de Triomphe.",
+        "evening": "The Champ de Mars for the Eiffel Tower after dark."
+      },
+      {
+        "day": 3,
+        "title": "Paris — Montmartre and the Marais",
+        "morning": "Montmartre's back streets up to Sacré-Cœur, then down the quiet north slope.",
+        "afternoon": "The Marais — Place des Vosges, Rue des Rosiers, and the streets around Rue de Bretagne.",
+        "evening": "A wine bar in the 11th."
+      },
+      {
+        "day": 4,
+        "title": "To the Loire Valley",
+        "morning": "Train to Tours or Blois, about an hour from Paris. Collect a rental car at the station.",
+        "afternoon": "Château de Chambord — the largest and strangest of them, with a double-helix staircase attributed to Leonardo.",
+        "evening": "Stay in Amboise or Blois, both walkable riverside towns."
+      },
+      {
+        "day": 5,
+        "title": "Loire châteaux",
+        "morning": "Chenonceau, arched across the River Cher and the most beautiful of the group. Arrive at opening.",
+        "afternoon": "Villandry's Renaissance gardens, or Amboise and Leonardo's final home at Clos Lucé.",
+        "evening": "Dinner in Amboise, then drop the car back."
+      },
+      {
+        "day": 6,
+        "title": "South to the Dordogne",
+        "morning": "Train south via Bordeaux or Limoges to Sarlat, picking up a car on arrival. It is a long travel day — use it.",
+        "afternoon": "Sarlat's medieval centre in the late afternoon, once the coaches have gone.",
+        "evening": "Duck, walnuts and a bottle of Bergerac."
+      },
+      {
+        "day": 7,
+        "title": "The Dordogne valley",
+        "morning": "Canoe the Dordogne past La Roque-Gageac and the cliff-top castles at Beynac and Castelnaud.",
+        "afternoon": "Lascaux IV's replica of the painted caves, or the clifftop village of Rocamadour.",
+        "evening": "Back to Sarlat for the night."
+      },
+      {
+        "day": 8,
+        "title": "Bordeaux",
+        "morning": "Drive or take the train west to Bordeaux, roughly two and a half hours.",
+        "afternoon": "The 18th-century waterfront, Place de la Bourse and the water mirror, and the Cité du Vin.",
+        "evening": "Oysters and white wine at the Marché des Capucins district."
+      },
+      {
+        "day": 9,
+        "title": "Saint-Émilion or the dunes",
+        "morning": "A vineyard morning in Saint-Émilion, 40 minutes east — a UNESCO-listed medieval wine town.",
+        "afternoon": "Or, in warm weather, the Dune du Pilat at Arcachon — the tallest sand dune in Europe.",
+        "evening": "Return to Bordeaux."
+      },
+      {
+        "day": 10,
+        "title": "TGV to Provence",
+        "morning": "The high-speed line east to Avignon, around four hours with one change.",
+        "afternoon": "The Palais des Papes and the walled centre of Avignon.",
+        "evening": "Dinner on Place de l'Horloge."
+      },
+      {
+        "day": 11,
+        "title": "The Luberon",
+        "morning": "Collect a car and drive into the hill villages — Gordes, Roussillon's ochre cliffs, Ménerbes.",
+        "afternoon": "The Abbaye de Sénanque, and in late June or July the lavender on the Valensole plateau.",
+        "evening": "Stay in a village rather than driving back to the city."
+      },
+      {
+        "day": 12,
+        "title": "Roman Provence",
+        "morning": "The Pont du Gard aqueduct, then Nîmes or the amphitheatre and theatre at Arles.",
+        "afternoon": "Aix-en-Provence for the afternoon markets and Cézanne's studio.",
+        "evening": "Drop the car and take the train to Nice."
+      },
+      {
+        "day": 13,
+        "title": "Nice and the Riviera",
+        "morning": "Vieux Nice, the Cours Saleya market and the climb up Castle Hill for the bay view.",
+        "afternoon": "The train along the coast to Villefranche-sur-Mer, Èze or Menton.",
+        "evening": "Dinner in the old town, then the Promenade des Anglais after dark."
+      },
+      {
+        "day": 14,
+        "title": "Depart",
+        "morning": "The Matisse or Chagall museums in Cimiez if your flight is late.",
+        "afternoon": "Fly home from Nice, or take the TGV back to Paris in five and a half hours.",
+        "evening": ""
+      }
+    ]
+  },
+  "culture": {
+    "intro": "France has a reputation for rudeness that is mostly a misunderstanding of formality. French social interaction is more scripted than in English-speaking countries, and visitors who skip the script get a cool response and conclude the French are unfriendly. Learn three phrases and the country becomes noticeably warmer.",
+    "etiquette": [
+      {
+        "title": "Always greet first",
+        "text": "Say 'bonjour' — or 'bonsoir' after about 18:00 — on entering any shop, café, bakery, lift or waiting room, before you say anything else. Leaving without 'merci, au revoir' is equally noticeable. This is the single most important thing on this page."
+      },
+      {
+        "title": "Ask before switching to English",
+        "text": "'Bonjour, parlez-vous anglais?' is met with goodwill almost everywhere. Opening a conversation in English without asking is what generates the frosty reception people complain about."
+      },
+      {
+        "title": "Meals have a shape and a time",
+        "text": "Lunch runs 12:00–14:00, dinner from 19:30 or 20:00. Courses come in order and cheese arrives before dessert. Asking for substitutions or splitting a main course is unusual and mildly awkward."
+      },
+      {
+        "title": "The bill comes when you ask",
+        "text": "Staff will not bring it unprompted — clearing you out would be rude. Catch an eye and say 'l'addition, s'il vous plaît'. Equally, nobody will rush you: the table is yours for the evening."
+      },
+      {
+        "title": "Volume and space",
+        "text": "Conversation in restaurants and on public transport is quieter than in the US, UK or Australia. Loud phone calls on trains attract genuine irritation."
+      },
+      {
+        "title": "Dress is a little more considered",
+        "text": "Not formal, but tidier. Athletic wear outside a gym, beachwear away from the beach and flip-flops in a restaurant all read as odd. Churches expect shoulders and knees covered."
+      }
+    ],
+    "dos": [
+      "Say bonjour on entering and au revoir on leaving — every single time",
+      "Try a few words of French, however badly; the effort counts more than the accuracy",
+      "Ask for 'une carafe d'eau' to get free tap water at any restaurant",
+      "Eat at French hours, or plan around the 14:00–19:00 gap when kitchens close",
+      "Validate regional train tickets where a machine is provided",
+      "Carry a little cash for markets and small rural businesses"
+    ],
+    "donts": [
+      "Don't open with English before greeting and asking",
+      "Don't expect shops to be open on Sunday, or anything much on Monday morning",
+      "Don't tip 20% — service is included and it is genuinely not expected",
+      "Don't snap your fingers or call 'garçon' to get a waiter's attention",
+      "Don't assume dinner is available at 18:00 outside tourist districts",
+      "Don't leave anything visible in a parked car, particularly at rural trailheads"
+    ]
+  },
+  "tipsIntro": "The things that most often catch visitors out, and the small habits that make a French trip run more smoothly.",
+  "tips": [
+    "Book TGV tickets the moment they open, usually four to six months ahead. The difference between an early booking and a walk-up fare on the same train can be four-fold.",
+    "Sunday closing is real and catches people out constantly. Supermarkets shut early or entirely, and many small towns have nothing open at all. Shop on Saturday.",
+    "Many museums close one day a week — the Louvre on Tuesday, most others on Monday — and nearly all stop selling tickets 45 to 60 minutes before closing.",
+    "The lunchtime formule at a neighbourhood restaurant is the best value in French dining: two or three courses for €16–24, often the same kitchen that charges double at dinner.",
+    "If you rent a car, check whether your route enters a low-emission zone. Paris, Lyon, Strasbourg and several other cities require a Crit'Air sticker, which must be ordered in advance and posted to you.",
+    "Pharmacies with a green cross handle far more than in most countries — pharmacists diagnose minor complaints and can dispense without a prescription. They are the sensible first stop for anything small.",
+    "Train stations are often not the same station: Paris has six terminals serving different directions, and getting the wrong one costs you an hour. Check the departure station, not just the city.",
+    "Rural France largely shuts from November to March, particularly in Provence, the Dordogne and along the coast. Confirm that hotels and restaurants are open before building a winter trip around them."
+  ],
+  "faq": [
+    {
+      "q": "What is the best time of year to visit France?",
+      "a": "May to June and September to October. Both give you warm weather, long daylight, everything open and none of the August crowding or pricing. September is particularly good — the sea is still warm on both coasts, the wine harvest is under way, and the crowds thin out sharply after the first week."
+    },
+    {
+      "q": "How many days do you need in France?",
+      "a": "Ten to fourteen for a first trip that goes beyond Paris. Seven to eight days works well for Paris plus one nearby region such as the Loire, Normandy or Alsace. Four or five days is enough for Paris alone with a single day trip, and trying to add a second region at that length means spending the trip in transit."
+    },
+    {
+      "q": "Do I need a car in France?",
+      "a": "Not between cities — the TGV network is faster and easier. But you do need one within rural regions. Provence's hill villages, the Dordogne valley, the D-Day beaches, the Alsace wine route and much of the Alps are impractical without one. The usual answer is trains between regions and a rental car for two or three days inside each."
+    },
+    {
+      "q": "Is France expensive to travel in?",
+      "a": "Mid-range travel runs roughly €150–230 per person per day outside Paris, and 25–35% more in the capital. Costs are dominated by accommodation and restaurant dinners. Markets, bakery lunches, the lunchtime formule and early-booked train tickets bring it down substantially — a careful traveller manages €75–110 a day."
+    },
+    {
+      "q": "Is it rude to speak English in France?",
+      "a": "No, but opening in English without a greeting is. Start with 'Bonjour' and then 'parlez-vous anglais?' and you will almost always get a friendly response and often fluent English. The perceived rudeness that visitors report is nearly always a reaction to a missing greeting rather than to the language itself."
+    },
+    {
+      "q": "What is the best region of France for a first visit?",
+      "a": "Paris plus the Loire Valley is the easiest and most rewarding first pairing — an hour apart by train, with the capital's museums balanced against Renaissance châteaux and small riverside towns. If you would rather have coast and light, Provence and the Riviera is the strongest alternative, though it needs a car and is best avoided in August."
+    },
+    {
+      "q": "Do I need a visa to visit France?",
+      "a": "France is in the Schengen Area. Passport holders from the UK, US, Canada, Australia, New Zealand and many other countries can visit visa-free for up to 90 days in any 180-day period. The EU is phasing in biometric Entry/Exit checks and the ETIAS travel authorisation, so check the current requirement close to your travel date."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Top Travel Destinations",
+  "tagline": "Ten places worth the trip, in five countries",
+  "description": "A practical travel guide to France, Spain, the United States, Turkey and Italy — ten hand-picked destinations in each, with attractions, food, transport, seasons and day-by-day itineraries you can actually plan a trip from.",
+  "siteUrl": "https://jamesdillon9051-sketch.github.io",
+  "basePath": "/Top-travel-destinations-/",
+  "repoUrl": "https://github.com/jamesdillon9051-sketch/Top-travel-destinations-",
+  "hero": {
+    "file": "File:Annecy, France - Apr 2026.jpg",
+    "alt": "A lake town backed by snow-dusted mountains at golden hour"
+  },
+  "home": {
+    "headline": "Fifty places worth building a trip around",
+    "subhead": "Not the ten most photographed spots in each country — the ten that give you the widest, most useful picture of it. Cities, coastlines, ruins, mountains and the odd place most lists forget.",
+    "introTitle": "Lists are easy. Useful lists are not.",
+    "intro": [
+      "Almost every \"best places to visit\" list is the same handful of famous names in a different order. That is fine for daydreaming and useless for planning. It tells you nothing about whether two places sit three hours apart or three days apart, whether the season you have free is the season worth going, or what a week there actually costs.",
+      "This site takes a different approach. Each country gets exactly ten destinations, chosen so that together they cover the range of that country — a major city or two, the historic sites that justify the flight, a coastline, somewhere genuinely wild, and at least one place that rarely makes the shortlist but rewards the detour. Every one of them has a full guide behind it.",
+      "Each destination page covers the same ground: what is actually worth seeing, what to eat and where, which neighbourhood to sleep in, how to get around without a car (or why you need one), when to go, and a day-by-day plan you can follow or ignore. The country guides then show you how to string it all together."
+    ],
+    "stats": [
+      { "value": "5", "label": "Countries covered in depth" },
+      { "value": "50", "label": "Destinations, each with a full guide" },
+      { "value": "10", "label": "Per country — no filler entries" },
+      { "value": "100%", "label": "Freely licensed photography" }
+    ],
+    "countriesIntro": "Start with a country and work down to a destination, or jump straight into the full list if you already know roughly where you are heading.",
+    "featuredIntro": "A cross-section of what is on the site: a capital, a volcanic landscape you can walk on, an island archipelago, a Renaissance city and a ruined port that was one of the biggest cities in the Roman world.",
+    "featured": [
+      "paris",
+      "cappadocia",
+      "granada",
+      "zion-southern-utah",
+      "florence-tuscany",
+      "sanliurfa-gobekli-tepe"
+    ],
+    "articlesIntro": "The pieces that cut across countries — seasons, budgets, trains, and how to choose between two places that look identical on a map.",
+    "featuredArticles": [
+      "first-trip-to-europe",
+      "europe-by-train",
+      "best-time-southern-europe"
+    ],
+    "how": {
+      "title": "How to plan a trip from here in four steps",
+      "intro": "The pages are designed to be read in this order. It takes about twenty minutes to go from \"somewhere in Italy, maybe\" to a route with dates on it.",
+      "steps": [
+        {
+          "title": "Pick the country, then read its guide",
+          "text": "The country guide is the strategic view — how the regions differ, how long you realistically need, which combinations of destinations work and which involve a wasteful amount of backtracking. Read this before you fall in love with a specific town.",
+          "tip": "If your dates are fixed, read the \"best time to visit\" section first. It may quietly rule out a third of the country."
+        },
+        {
+          "title": "Shortlist three or four destinations",
+          "text": "Use the ten-destination list on the country page. Each card shows the category — major city, coast, national park, off the beaten path — so you can build a trip with some variety in it rather than four cathedral towns in a row.",
+          "tip": "A good rule: no more than one big city per week, and never two long transfers back to back."
+        },
+        {
+          "title": "Read the destination pages properly",
+          "text": "This is where the practical detail lives — which neighbourhood to stay in, whether you need to book the headline attraction weeks ahead, what the transport actually costs, and how many days the place genuinely deserves.",
+          "tip": "The suggested itinerary on each page is sized to the minimum stay that does not feel rushed. Add a day if you like slow mornings."
+        },
+        {
+          "title": "Sanity-check the season and the sums",
+          "text": "Come back to the country page for the seasonal breakdown and the daily budget bands, and read the relevant travel article for anything that cuts across countries — rail passes, national park reservations, or what a week really costs once you add food and entry tickets.",
+          "tip": "Book flights last. Deciding the route first almost always turns out cheaper than shaping a trip around one cheap fare."
+        }
+      ]
+    }
+  }
+}

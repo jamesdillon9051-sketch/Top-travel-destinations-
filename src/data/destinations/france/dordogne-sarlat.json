@@ -1,0 +1,385 @@
+{
+  "slug": "dordogne-sarlat",
+  "name": "The Dordogne & Sarlat",
+  "shortName": "The Dordogne",
+  "country": "france",
+  "region": "Dordogne, Nouvelle-Aquitaine",
+  "categories": [
+    "historic",
+    "nature",
+    "food-and-wine",
+    "off-the-beaten-path"
+  ],
+  "tagline": "Cliff-top castles above a green river, the best-preserved medieval town in France, and cave paintings made seventeen thousand years ago.",
+  "highlight": "Lascaux — the most sophisticated prehistoric art ever found, seen through a replica so exact you forget it is one.",
+  "shortDescription": "A limestone valley of castles, walnut groves and honey-coloured villages, holding the densest concentration of prehistoric sites in Europe and France's richest regional cooking.",
+  "metaDescription": "A guide to the Dordogne and Sarlat: prehistoric caves at Lascaux, castles at Beynac and Castelnaud, canoeing the river, duck and walnut cooking, and a four-day itinerary.",
+  "suggestedStay": "4–5 days",
+  "nearestAirport": "Bergerac (EGC) or Bordeaux (BOD), then 1–2h by road",
+  "knownFor": "Lascaux, Sarlat, cliff castles, duck and truffles",
+  "budget": "€120–200 per day, mid-range",
+  "goodFor": "Families, food, prehistory, slow driving",
+  "coords": {
+    "lat": 44.8908,
+    "lng": 1.2166
+  },
+  "image": {
+    "file": "File:La Roque-Gageac Dordogne.jpg",
+    "alt": "The village of La Roque-Gageac beneath a limestone cliff on the banks of the Dordogne river"
+  },
+  "intro": [
+    "The Dordogne valley is the part of France that most reliably converts visitors into repeat visitors. It has no single overwhelming sight in the way that Paris or Mont-Saint-Michel do. What it has instead is an unusually high concentration of good things within a very small area: a river with castles on the cliffs above it, a medieval town that survived intact because it was too poor to be modernised, and the richest prehistoric heritage in Europe.",
+    "That last part deserves emphasis. The Vézère valley, just north of the Dordogne, contains 147 prehistoric sites and 25 decorated caves, fifteen of which are UNESCO-listed. Lascaux, discovered by four teenagers and a dog in 1940, holds paintings around 17,000 years old that are not primitive scratchings but confident, sophisticated art. Standing in front of them — even in the replica, the original having been closed since 1963 — rearranges your sense of how long people have been people.",
+    "The valley is also, by a comfortable margin, the best place to eat in this guide. Southwest French cooking runs on duck, walnuts, truffles, cèpes and foie gras, and Sarlat's Saturday market is one of the great food markets of Europe. Combined with the castles, the canoeing and the villages, it makes a case for four or five days rather than the two most itineraries allow."
+  ],
+  "whyVisit": {
+    "intro": "The Dordogne rarely appears in a top-five list of French regions, which is exactly why it is worth the detour. It rewards a slow week better than almost anywhere else in the country.",
+    "points": [
+      {
+        "title": "The prehistory is genuinely world-class",
+        "text": "The Vézère valley holds the densest concentration of Palaeolithic sites in Europe. Lascaux's replica reproduces the original chamber to within a millimetre; Font-de-Gaume is one of the very few caves with original polychrome paintings still open to the public. Nothing else in Western Europe compares."
+      },
+      {
+        "title": "Sarlat survived by accident",
+        "text": "The town was economically stagnant for centuries, which meant nobody knocked anything down. The result is the highest density of listed medieval and Renaissance buildings in France — an entire honey-coloured town centre with almost no modern intrusions."
+      },
+      {
+        "title": "The castles face each other across a war",
+        "text": "Beynac and Castelnaud sit on opposing cliffs two kilometres apart, French and English respectively during the Hundred Years' War. You can see one from the other. Add Marqueyssac, Milandes and Fayrac and this is the densest castle landscape in France."
+      },
+      {
+        "title": "The food is the richest in France",
+        "text": "Duck confit, magret, foie gras, walnut oil, black truffles from December to February, cèpe mushrooms in autumn, and potatoes cooked in duck fat with garlic and parsley. Sarlat's Saturday market is worth planning a trip around."
+      },
+      {
+        "title": "It is quiet outside August",
+        "text": "In late September the villages are empty, the river is warm enough to paddle, the walnut harvest is under way, and you can park in Sarlat. The same places in mid-August are a very different proposition."
+      }
+    ]
+  },
+  "attractionsIntro": "Everything here is within about 40 minutes of Sarlat. Group the Vézère prehistoric sites into one day and the Dordogne castles into another.",
+  "attractions": [
+    {
+      "name": "Lascaux IV",
+      "text": "The original cave closed in 1963 after visitor breath began destroying the paintings. Lascaux IV, opened in 2016, reproduces the entire decorated section to within a millimetre using laser scanning, and it is uncanny — the atmosphere, temperature and darkness are recreated along with the art.",
+      "tip": "Book online in advance, especially July and August. The guided tour runs about 90 minutes and English-language slots are limited."
+    },
+    {
+      "name": "Font-de-Gaume",
+      "text": "One of the last caves in the world where you can see original polychrome prehistoric paintings in situ. Around 200 figures, roughly 17,000 years old, including a celebrated frieze of reindeer. Visitor numbers are severely restricted to protect the pigments.",
+      "tip": "Tickets are extremely limited and must be booked online the moment they are released. This is the single hardest ticket in the region and worth the effort."
+    },
+    {
+      "name": "Sarlat-la-Canéda",
+      "text": "A completely intact medieval and Renaissance town centre of golden limestone, with the Saturday market filling every square and street. The lanes off the main axis are almost empty even in summer, and the town is best walked at night when it is lit by gas-style lamps.",
+      "tip": "Wednesday has a smaller market, Saturday the full one. Arrive before 09:00 on Saturday or accept that parking will be a long walk away."
+    },
+    {
+      "name": "Château de Beynac",
+      "text": "A 12th-century fortress on a 150-metre cliff above the river, held by the French during the Hundred Years' War and largely unaltered since. The keep, the great hall and the terrace view along the valley are the highlights, and the village beneath it climbs the cliff in steps.",
+      "tip": "Park at the top if driving — the riverside car park means a steep climb through the village."
+    },
+    {
+      "name": "Château de Castelnaud",
+      "text": "Beynac's English counterpart on the opposite cliff, now housing a museum of medieval warfare with reconstructed trebuchets and siege engines in the grounds. It is much the better castle for children and has demonstrations through the summer.",
+      "tip": "The view from Castelnaud takes in Beynac, Marqueyssac and the river bend — arguably the best single view in the valley."
+    },
+    {
+      "name": "Les Jardins de Marqueyssac",
+      "text": "150,000 hand-clipped box shrubs on a cliff-top promontory, laid out in curving hedges with a belvedere 130 metres above the river. On Thursday evenings in July and August the gardens are lit by a thousand candles.",
+      "tip": "The candlelit evenings are the best thing in the valley in high summer. Book ahead and arrive before dusk."
+    },
+    {
+      "name": "La Roque-Gageac",
+      "text": "A single row of houses pressed between a limestone cliff and the river, facing due south so warmly that a tropical garden grows against the rock. Traditional flat-bottomed gabare boats run river trips from the quay.",
+      "tip": "Officially one of the most beautiful villages in France, and correspondingly busy midday. Early morning light on the cliff is the reason to be there at 08:00."
+    },
+    {
+      "name": "Rocamadour",
+      "text": "An hour east, a village and pilgrimage site built vertically up a 120-metre gorge wall in three tiers — houses, then churches, then a castle. It has drawn pilgrims since the 12th century and the approach view is astonishing.",
+      "tip": "Technically in the neighbouring Lot department. The best view is from the L'Hospitalet road on the far side of the gorge."
+    }
+  ],
+  "thingsToDoIntro": "The valley is designed for a slow rhythm: a market in the morning, something on the water in the afternoon, and a long dinner.",
+  "thingsToDo": [
+    {
+      "title": "Canoe the Dordogne",
+      "text": "The classic stretch runs from Vitrac or Cénac down past La Roque-Gageac, Castelnaud, Beynac and Marqueyssac — about 12 to 15 km of slow green water with castles on the cliffs above. Operators run a shuttle back upstream.",
+      "tip": "Take three to four hours, not two. Suitable for beginners and children; the current does most of the work."
+    },
+    {
+      "title": "Go to Sarlat market on Saturday",
+      "text": "The whole town centre becomes a market — walnut oil, foie gras, cheeses, cèpes in autumn, truffles in winter, and hot rotisserie stands. It is one of the best food markets in France and worth building the week around.",
+      "tip": "There is a covered market in the old church that runs daily in season, for the days when the big market is not on."
+    },
+    {
+      "title": "See two caves in one day",
+      "text": "Lascaux IV for the scale and sophistication of the art, and either Font-de-Gaume for originals or Rouffignac, where a small electric train takes you a kilometre underground past mammoth engravings.",
+      "tip": "Rouffignac is easier to get into than Font-de-Gaume and the train ride through the dark is memorable in itself."
+    },
+    {
+      "title": "Eat a walnut-and-duck lunch",
+      "text": "The regional menu is duck in some form, potatoes fried in duck fat with garlic and parsley, salad dressed in walnut oil, and a walnut tart. It is heavy, superb, and best eaten at lunch rather than dinner.",
+      "whereToTry": "Village restaurants throughout the valley.",
+      "tip": "Walnut oil is not for cooking — it is a dressing oil and it goes rancid quickly. Buy small bottles."
+    },
+    {
+      "title": "Visit a market town on its day",
+      "text": "Beyond Sarlat: Le Bugue on Tuesday, Saint-Cyprien on Sunday, Belvès on Saturday, Domme on Thursday. Each is a working market in a walled or fortified village, and none is on a coach itinerary.",
+      "tip": "Domme's market square sits on a clifftop with a panoramic view over the whole valley."
+    },
+    {
+      "title": "Take a hot air balloon over the valley",
+      "text": "Several operators fly from near La Roque-Gageac at dawn and in the early evening, drifting over the castles and the river. The valley's geography — cliffs, bends, castles — makes it one of the best ballooning landscapes in France.",
+      "tip": "Flights are weather-dependent and cancel often. Book early in your stay so there is time to rebook."
+    }
+  ],
+  "foodIntro": "This is the richest regional cooking in France, and it makes no apologies. Duck fat is the cooking medium, walnuts are in everything, and the winter truffle season is taken extremely seriously.",
+  "foods": [
+    {
+      "name": "Confit de canard",
+      "text": "Duck legs salted, then cooked slowly in their own fat and preserved in it, then crisped in a pan before serving. The technique is a preservation method that turned out to produce something better than the fresh version.",
+      "whereToTry": "Every restaurant in the valley. Usually served with pommes sarladaises."
+    },
+    {
+      "name": "Pommes sarladaises",
+      "text": "Potatoes sliced thin and fried in duck fat with garlic and parsley until the edges caramelise. Named for Sarlat and served with almost everything. They are not a side dish so much as a regional institution.",
+      "whereToTry": "Alongside any duck dish, everywhere in the Dordogne."
+    },
+    {
+      "name": "Foie gras",
+      "text": "The Périgord is one of the two great foie gras regions of France. Sold raw, mi-cuit or fully cooked, and eaten as a starter on toasted bread with a glass of sweet Monbazillac from just down the river.",
+      "whereToTry": "Sarlat market and farm shops throughout the valley. Producers will explain the grades and let you taste."
+    },
+    {
+      "name": "Black truffle",
+      "text": "Tuber melanosporum, harvested from December to February and traded at winter markets in Sarlat and Sorges. It is expensive, extraordinarily aromatic, and used sparingly — shaved over scrambled eggs or pasta rather than cooked.",
+      "whereToTry": "Winter truffle markets, and restaurants running truffle menus from December to February."
+    },
+    {
+      "name": "Walnuts and walnut oil",
+      "text": "The Périgord has protected status for its walnuts, harvested in October. The oil is pressed from roasted nuts and used cold for dressings; the nuts appear in cakes, tarts, salads and a walnut liqueur called vin de noix.",
+      "whereToTry": "Any market. Working walnut mills in the valley run tours and sell direct."
+    },
+    {
+      "name": "Cabécou and Rocamadour cheese",
+      "text": "Small flat discs of goat's cheese, sold at every stage from fresh to dry and hard. Often served warm on toast in a salad dressed with walnut oil — the standard regional starter.",
+      "whereToTry": "Markets and restaurants throughout the Dordogne and neighbouring Lot."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sarlat is the obvious base for a first visit, but the valley's real pleasure is a rented house with a view. Distances are short enough that anywhere between Sarlat and Les Eyzies works.",
+    "areas": [
+      {
+        "name": "Sarlat-la-Canéda",
+        "bestFor": "First-time visitors, restaurants, the market",
+        "text": "The largest town, with the most restaurants and accommodation and a walkable medieval centre. Ten minutes from the river and 25 from the castles. Parking is genuinely difficult on market days."
+      },
+      {
+        "name": "The riverside villages",
+        "bestFor": "Views and quiet evenings",
+        "text": "La Roque-Gageac, Vitrac, Beynac and Castelnaud all have small hotels and guesthouses right on the water. Beautiful, quiet after dark, and a very short drive from everything."
+      },
+      {
+        "name": "Les Eyzies and the Vézère valley",
+        "bestFor": "The prehistoric caves",
+        "text": "Twenty minutes north of Sarlat, in the middle of the cave sites and much quieter. A better base if prehistory rather than castles is your priority."
+      },
+      {
+        "name": "A rented gîte",
+        "bestFor": "Families and longer stays",
+        "text": "The valley has an enormous stock of converted stone farmhouses and barns with pools, usually rented by the week. For four or more people it is far better value than hotels and suits the slow pace of the region."
+      },
+      {
+        "name": "Bergerac",
+        "bestFor": "Flying in, and wine",
+        "text": "An hour west with its own airport and the Monbazillac and Pécharmant vineyards nearby. Less scenic than the Sarlat area but a practical arrival and departure point."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget hotel or B&B",
+        "value": "€60–95 per night"
+      },
+      {
+        "label": "Comfortable hotel or guesthouse",
+        "value": "€100–160 per night"
+      },
+      {
+        "label": "Gîte with a pool",
+        "value": "€700–1,600 per week, sleeping six to eight"
+      },
+      {
+        "label": "Canoe hire",
+        "value": "€18–28 per person including the shuttle"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "The Dordogne is genuinely rural and every route involves a final drive. Bergerac's small airport is the shortcut; otherwise arrive via Bordeaux.",
+    "options": [
+      {
+        "mode": "Bergerac Airport",
+        "text": "Seasonal flights from the UK, Netherlands and Belgium land an hour west of Sarlat. Small, quick to clear, with hire cars on site — much the easiest arrival if the routes suit your dates.",
+        "detail": "Flights are largely April to October. Outside that season, use Bordeaux or Toulouse."
+      },
+      {
+        "mode": "Via Bordeaux",
+        "text": "[[bordeaux]] is two hours by TGV from Paris, and Sarlat is about 2h30 further by car or a slow regional train via Bergerac. The most reliable year-round route.",
+        "detail": "Hire the car in Bordeaux and drive east — the road through the Bergerac vineyards is pleasant in itself."
+      },
+      {
+        "mode": "By train from Paris",
+        "text": "Paris to Sarlat takes about 6h with a change at Bordeaux or Libourne, on infrequent regional services for the final leg. Possible, but the valley is very difficult without a car once you arrive.",
+        "detail": "Souillac, 30 minutes east, has better connections on the Paris–Toulouse line."
+      },
+      {
+        "mode": "By car",
+        "text": "Paris to Sarlat is about 6h. From [[provence-luberon|Provence]] it is roughly 5h across the Massif Central, and from Toulouse about 2h30.",
+        "detail": "The drive from Bordeaux via Bergerac and the vineyards is more interesting than the motorway route."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car is required. The sites are spread through rural valleys with essentially no public transport between them, and this is the region in this guide where that matters most.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Distances are short — Sarlat to Beynac is 20 minutes, to Lascaux 30, to Rocamadour an hour — but the roads are small and winding, and journeys take longer than the map implies.",
+        "detail": "Village car parks are usually paid in summer and free out of season. Book automatics well ahead."
+      },
+      {
+        "mode": "Canoe",
+        "text": "Not a joke: the river is a genuine transport route for one stretch of the valley, passing under the castles at exactly the right speed. Operators shuttle you back to your car.",
+        "detail": "Runs roughly May to September depending on water levels."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "A greenway follows a disused railway between Sarlat and Cazoulès, and the riverside roads are quiet. The valley sides are steep — everything above the water involves a climb.",
+        "detail": "Electric bikes are widely available and make the castles genuinely reachable."
+      },
+      {
+        "mode": "Gabare river boats",
+        "text": "Traditional flat-bottomed boats run hour-long trips from La Roque-Gageac and Beynac with commentary, passing beneath the castles.",
+        "detail": "A good alternative to canoeing if you would rather not paddle."
+      },
+      {
+        "mode": "Walking",
+        "text": "Sarlat, Domme, Beynac and the villages are all walked rather than driven, and the GR6 long-distance path crosses the region with good day sections along the cliffs.",
+        "detail": "The clifftop path between Marqueyssac and Beynac has the finest views in the valley."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June and September",
+    "summary": "The Dordogne has warm summers and mild, damp winters. The determining factor is the crowd: August fills the valley completely and September empties it, with almost identical weather.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green, quiet and mild, with everything open by May and the river running well for canoeing by June. Temperatures of 18–26°C, occasional rain, and the villages largely to yourself."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "shoulder",
+        "text": "Hot, often above 30°C, and very busy — this is a favourite French and Dutch family holiday region. The canoeing and swimming are at their best, and Marqueyssac's candlelit evenings run, but parking and restaurant tables both require planning."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The best window of the year. September is warm with the river still swimmable and the crowds gone; October brings the walnut harvest, cèpe mushrooms on every menu and autumn colour along the valley."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Damp and grey, with many hotels, restaurants and some sites closed. The exception is the truffle season from December to February, when the winter markets at Sarlat and Sorges are a genuine draw for food travellers."
+      }
+    ],
+    "avoid": "The first three weeks of August, when the valley is at capacity. Also note that several caves and châteaux close or cut hours from November to March — check individually before a winter visit."
+  },
+  "itinerary": {
+    "title": "Four days in the Dordogne",
+    "intro": "Based in or near Sarlat with a car, arranged so the Saturday market falls on day one if your dates allow. Deliberately unhurried.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Sarlat",
+        "summary": "The market, the town, and an evening walk through the lit lanes.",
+        "morning": "Sarlat's Saturday market from 08:30 — walnut oil, foie gras, cheese and lunch supplies.",
+        "afternoon": "The medieval town itself: the cathedral, the Lanterne des Morts, and the lanes east of the main street where nobody goes.",
+        "evening": "Dinner in town, then walk the old centre after dark when the gas-style lamps are lit."
+      },
+      {
+        "day": 2,
+        "title": "Castles and the river",
+        "summary": "The Hundred Years' War from both sides, then the water.",
+        "morning": "Château de Beynac, then across the valley to Castelnaud for the siege engines and the view back.",
+        "afternoon": "Canoe from Cénac or Vitrac down past La Roque-Gageac and under the castles — three hours on the water.",
+        "evening": "Dinner in La Roque-Gageac on the river, or back to Sarlat."
+      },
+      {
+        "day": 3,
+        "title": "Prehistory in the Vézère",
+        "summary": "Seventeen thousand years of art in a single day.",
+        "morning": "Lascaux IV on a pre-booked morning slot — about 90 minutes for the full tour.",
+        "afternoon": "Font-de-Gaume if you secured tickets, or Rouffignac's underground train, then the National Prehistory Museum at Les Eyzies.",
+        "evening": "Stay in the Vézère valley for the evening, or return to Sarlat."
+      },
+      {
+        "day": 4,
+        "title": "Gardens, cliffs and Rocamadour",
+        "summary": "The valley's set-piece views, and a detour east.",
+        "morning": "Les Jardins de Marqueyssac — the clipped box hedges and the belvedere 130 m above the river.",
+        "afternoon": "Drive east to Rocamadour, built vertically up a gorge wall, or stay local for Domme's clifftop market square.",
+        "evening": "A last walnut-and-duck dinner, or drive on towards [[bordeaux]]."
+      }
+    ]
+  },
+  "tipsIntro": "Notes for a rural region that assumes you have a car and a relaxed attitude to schedules.",
+  "tips": [
+    "Book Lascaux IV online well ahead, particularly for an English-language slot — they are limited and sell out in July and August.",
+    "Font-de-Gaume is the hardest ticket in the region because it is one of the last caves with original polychrome paintings open to the public. Tickets release online on a rolling basis and go within minutes.",
+    "A car is genuinely required here. There is essentially no public transport between the villages, caves and castles, and taxis are scarce and expensive.",
+    "Sarlat on a Saturday is wonderful and the parking is dreadful. Arrive before 09:00, or park in one of the outer lots and walk ten minutes.",
+    "Walnut oil is a dressing oil, not a cooking oil, and turns rancid within a few months of opening. Buy small bottles and keep them cool.",
+    "Canoeing is easier than it looks — the current does the work and the standard route is suitable for children. Take three to four hours rather than rushing it.",
+    "Marqueyssac's candlelit Thursday evenings in July and August are the best single experience in the valley in high summer. Book ahead.",
+    "From November to March many restaurants, hotels and several caves close. Winter visits work only around the truffle markets, and need checking site by site."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in the Dordogne?",
+      "a": "Four to five. One day for Sarlat and its market, one for the castles and canoeing, one for the prehistoric caves in the Vézère valley, and one for the gardens at Marqueyssac and a trip to Rocamadour. The region rewards slowness — many visitors rent a house for a week and never run out of things to do."
+    },
+    {
+      "q": "Can you see the original Lascaux cave paintings?",
+      "a": "No. The original cave has been closed to the public since 1963 because visitors' breath and body heat were destroying the pigments. Lascaux IV, opened in 2016, is a laser-scanned facsimile accurate to within a millimetre, recreating the temperature, darkness and acoustics as well as the art — and it is genuinely convincing. For original paintings in situ, Font-de-Gaume is one of the very few caves still open, with severely limited tickets."
+    },
+    {
+      "q": "Do you need a car in the Dordogne?",
+      "a": "Yes. This is the region in this guide where it matters most. The caves, castles, villages and markets are spread across rural valleys with almost no public transport between them, taxis are scarce, and the nearest railway stations serve only a handful of towns. Hire a car at Bergerac or Bordeaux airport."
+    },
+    {
+      "q": "What is the best base in the Dordogne?",
+      "a": "Sarlat-la-Canéda for a first visit — the most restaurants and accommodation, the best market, and 20 to 30 minutes from the castles and caves. For a quieter stay, the riverside villages of La Roque-Gageac, Vitrac or Beynac are lovely, and Les Eyzies is better if the prehistoric sites are your main interest. For families, a rented gîte with a pool is the classic choice."
+    },
+    {
+      "q": "Is canoeing on the Dordogne suitable for beginners?",
+      "a": "Yes. The classic stretch from Vitrac or Cénac down past La Roque-Gageac, Castelnaud and Beynac is slow-moving, shallow and has no rapids. The current does most of the work, operators provide buoyancy aids and run a shuttle back to your car, and children handle it comfortably. Allow three to four hours to do it at a pleasant pace."
+    },
+    {
+      "q": "When is truffle season in the Dordogne?",
+      "a": "December to February. Black truffles are traded at winter markets in Sarlat and at Sorges, and restaurants across the valley run truffle menus through those months. It is the one genuine reason to visit in winter, when much of the region's tourist infrastructure is closed."
+    },
+    {
+      "q": "Is the Dordogne good for children?",
+      "a": "Unusually so. Castelnaud has working trebuchets and siege-engine demonstrations, the canoeing is gentle and popular with families, Rouffignac's cave is visited by a small underground train, and the region's rented houses with pools are geared entirely towards family holidays. It is one of the most family-friendly regions in France."
+    }
+  ],
+  "related": ["bordeaux", "provence-luberon", "loire-valley", "sanliurfa-gobekli-tepe"],
+  "relatedArticles": [
+    "underrated-destinations",
+    "unesco-worth-planning-around",
+    "first-trip-to-europe"
+  ]
+}

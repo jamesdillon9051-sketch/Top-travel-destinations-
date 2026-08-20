@@ -1,0 +1,389 @@
+{
+  "slug": "strasbourg-alsace",
+  "name": "Strasbourg & Alsace",
+  "shortName": "Alsace",
+  "country": "france",
+  "region": "Bas-Rhin and Haut-Rhin, Grand Est",
+  "categories": [
+    "cultural",
+    "unesco",
+    "food-and-wine",
+    "historic"
+  ],
+  "tagline": "Half-timbered villages, a cathedral that was the tallest building in the world for 227 years, and a wine route that tastes more German than French.",
+  "highlight": "Strasbourg Cathedral's astronomical clock and the 142-metre spire you can climb for a view into three countries.",
+  "shortDescription": "A region that changed nationality four times in seventy-five years and kept both cultures — French administration, German architecture, and a food and wine tradition that belongs to neither.",
+  "metaDescription": "A guide to Strasbourg and Alsace: the cathedral and Petite France, the wine route villages, Christmas markets, choucroute and Riesling, where to stay and a four-day itinerary.",
+  "suggestedStay": "3–5 days",
+  "nearestAirport": "Strasbourg (SXB) or Basel-Mulhouse (BSL)",
+  "knownFor": "The cathedral, Petite France, Christmas markets, Riesling",
+  "budget": "€130–210 per day, mid-range",
+  "goodFor": "Wine, architecture, Christmas, cycling",
+  "coords": {
+    "lat": 48.5734,
+    "lng": 7.7521
+  },
+  "image": {
+    "file": "File:Canal @ Petite France @ Strasbourg (44605704925).jpg",
+    "alt": "Half-timbered houses reflected in a canal in the Petite France quarter of Strasbourg"
+  },
+  "intro": [
+    "Alsace sits between the Vosges mountains and the Rhine, and it has spent most of its history being fought over. It was French from 1681, German from 1871, French again in 1918, German again in 1940 and French once more in 1945 — four changes of nationality in the lifetime of a single person. The result is a region that is genuinely bicultural in a way nowhere else in France is.",
+    "You see it immediately. The villages are half-timbered with steep tiled roofs and window boxes, which is a German building tradition. The food is choucroute, pretzels and smoked pork. The wines are Riesling, Gewürztraminer and Pinot Gris, bottled in tall green flutes and labelled by grape variety rather than by place, which is the German convention. And all of it is signed, administered and spoken in French.",
+    "Strasbourg is the region's capital and one of the two seats of the European Parliament, which is a fitting job for a city that spent centuries as the disputed ground between the two countries now sitting in it. Its old town, the Grande Île, is a UNESCO site, and the cathedral is one of the great buildings of European Gothic. Beyond the city, a 170 km wine route threads through some of the prettiest villages in France."
+  ],
+  "whyVisit": {
+    "intro": "Alsace offers a version of France that surprises people who think they know the country — different architecture, different food, different wine, and a distinct history that is legible everywhere you look.",
+    "points": [
+      {
+        "title": "The cathedral is genuinely extraordinary",
+        "text": "Built in pink Vosges sandstone, finished in 1439 and the tallest building in the world until 1874. Victor Hugo called it a 'gigantic and delicate marvel'. Its astronomical clock, rebuilt in 1843, still runs a daily procession of figures at 12:30."
+      },
+      {
+        "title": "The wine route is one of Europe's best drives",
+        "text": "One hundred and seventy kilometres from Marlenheim to Thann, through vineyards on the Vosges foothills and a string of villages — Riquewihr, Eguisheim, Kaysersberg, Ribeauvillé — that regularly top lists of the most beautiful in France."
+      },
+      {
+        "title": "The Christmas markets are the originals",
+        "text": "Strasbourg's Christkindelsmärik dates from 1570, making it the oldest in France and among the oldest anywhere. From late November the whole city centre becomes a market, and the smaller towns along the wine route run their own, often better, versions."
+      },
+      {
+        "title": "A distinct food and wine culture",
+        "text": "Alsatian whites are among the best in France and remain undervalued abroad. The food — choucroute garnie, tarte flambée, baeckeoffe — is unlike anything else in the country, and the region has an unusually high concentration of Michelin stars."
+      },
+      {
+        "title": "Excellent for cycling",
+        "text": "Alsace has one of the densest cycle networks in France, with over 2,500 km of marked routes including a dedicated wine-route path along the vineyards and the flat EuroVelo 15 along the Rhine."
+      }
+    ]
+  },
+  "attractionsIntro": "Strasbourg fills two days comfortably. The wine route needs a car or a bike and is the reason to stay longer.",
+  "attractions": [
+    {
+      "name": "Strasbourg Cathedral",
+      "text": "Pink sandstone Gothic, with an asymmetric single spire — the second was never built — that reached 142 metres and held the record for the world's tallest building for 227 years. The west facade is a dense screen of sculpture, and 332 steps lead to a viewing platform.",
+      "tip": "The astronomical clock's figure procession runs once daily at 12:30 with paid entry; the clock itself can be seen free at other times."
+    },
+    {
+      "name": "La Petite France",
+      "text": "The old tanners' and millers' quarter on the Grande Île, where the Ill river splits into channels crossed by covered bridges. Steeply pitched half-timbered houses with open lofts — used for drying hides — lean over the water, and it is the most photographed part of the city.",
+      "tip": "Go early. By 11:00 in summer the main bridges are shoulder to shoulder. The Barrage Vauban terrace above gives the best overview."
+    },
+    {
+      "name": "The Grande Île",
+      "text": "The whole island city centre is UNESCO-listed: the cathedral square, the Palais Rohan, the Place Kléber, and a maze of streets that reward wandering more than a checklist. It is compact enough to cross in twenty minutes.",
+      "tip": "The Neustadt, the German imperial quarter built after 1871 just east of the island, was added to the UNESCO listing in 2017 and is almost always empty of visitors."
+    },
+    {
+      "name": "Riquewihr and the wine villages",
+      "text": "A walled village of painted half-timbered houses surrounded on all sides by vineyards, which survived both world wars intact. Nearby Eguisheim, Kaysersberg, Ribeauvillé and Hunawihr are variations on the same theme, each with its own cellars.",
+      "tip": "Riquewihr is the busiest. Eguisheim, with its concentric ring streets, is nearly as pretty and considerably calmer."
+    },
+    {
+      "name": "Colmar",
+      "text": "The wine route's largest town, with a canal district inevitably nicknamed Little Venice and the Unterlinden Museum, which holds the Isenheim Altarpiece — one of the most powerful paintings of the northern Renaissance.",
+      "tip": "The Isenheim Altarpiece alone justifies the trip. Allow an hour for it and skip the boat trips if pressed for time."
+    },
+    {
+      "name": "Haut-Koenigsbourg",
+      "text": "A castle on a Vosges ridge at 757 metres, ruined for centuries and rebuilt with considerable imagination by Kaiser Wilhelm II between 1900 and 1908. Whether it is authentic is debatable; the view over the Rhine plain to the Black Forest is not.",
+      "tip": "On a clear day you can see the Alps. The road up is narrow and the car park fills by mid-morning in summer."
+    },
+    {
+      "name": "The Christmas markets",
+      "text": "From the Friday before Advent to Christmas Eve, Strasbourg runs around a dozen separate markets across the city centre, with a giant tree on the Place Kléber. Colmar, Riquewihr, Kaysersberg and Eguisheim run smaller and in many ways nicer versions.",
+      "tip": "Weekdays are far more pleasant than weekends, when day-trippers arrive from Germany and Switzerland in large numbers."
+    },
+    {
+      "name": "The Vosges and Route des Crêtes",
+      "text": "The mountain ridge road built as a military supply route in the First World War, running along the crest above the vineyards with wide views and access to walking trails, high lakes and battlefield sites.",
+      "tip": "Closed by snow from roughly November to April. The Hartmannswillerkopf battlefield near the southern end is sobering and rarely visited."
+    }
+  ],
+  "thingsToDoIntro": "One city, one wine route, one mountain range — and in December, an entirely separate reason to come.",
+  "thingsToDo": [
+    {
+      "title": "Drive or cycle the Route des Vins",
+      "text": "One hundred and seventy kilometres of vineyard road through the villages, with cellars every few hundred metres. A dedicated cycle path shadows much of it, which is the better way to do it if you intend to taste.",
+      "tip": "The central section between Ribeauvillé and Colmar has the highest concentration of good villages if you only have a day."
+    },
+    {
+      "title": "Taste Alsatian white wine at the source",
+      "text": "Riesling, Gewürztraminer, Pinot Gris, Muscat and Sylvaner, plus Crémant d'Alsace. Most producers offer free or token-fee tastings without appointment, which is rarer in France than you might think.",
+      "tip": "Alsatian labels name the grape rather than the vineyard. Ask for 'sec' if you want dry — Gewürztraminer in particular is often off-dry."
+    },
+    {
+      "title": "Eat tarte flambée in a village winstub",
+      "text": "A winstub is Alsace's version of a bistro — wood-panelled, informal and serving regional food with local wine. Tarte flambée arrives on a board and is eaten with your hands, and orders traditionally keep coming until you say stop.",
+      "tip": "Many winstubs serve tarte flambée only in the evening. Lunch is more likely to be choucroute or baeckeoffe."
+    },
+    {
+      "title": "Take a boat through Strasbourg",
+      "text": "Covered boats run from behind the Palais Rohan around the Grande Île, through the locks at Petite France and out past the European institutions. About 70 minutes and the best way to understand how the city is built on water.",
+      "tip": "Evening departures in summer run when the buildings are floodlit and are noticeably nicer."
+    },
+    {
+      "title": "Climb the cathedral spire",
+      "text": "332 steps to a platform at 66 metres, with the Rhine plain, the Vosges and — on a clear day — the Black Forest in Germany laid out below.",
+      "tip": "There is no lift, and the staircase is a narrow spiral. Go early in summer when it is cooler and quieter."
+    },
+    {
+      "title": "Do the Christmas markets properly",
+      "text": "Mulled wine, bredele biscuits, mannele bread-men and the smell of hot cinnamon almonds. The Strasbourg markets are the biggest, but the village markets along the wine route are smaller, older-feeling and much less crowded.",
+      "tip": "Go midweek and stay overnight in a village. Weekend day-tripping into Strasbourg in December is the least pleasant version of this."
+    }
+  ],
+  "foodIntro": "Alsatian cooking is French technique applied to German ingredients: pork, cabbage, potatoes, freshwater fish and a great deal of white wine, both in the pan and in the glass.",
+  "foods": [
+    {
+      "name": "Choucroute garnie",
+      "text": "Fermented cabbage slowly cooked in Riesling with juniper, served under an arrangement of smoked pork, sausages, bacon and boiled potatoes. It is the definitive Alsatian dish and portions are formidable.",
+      "whereToTry": "Winstubs throughout the region. Traditionally a lunch dish, and one large enough to make dinner unnecessary."
+    },
+    {
+      "name": "Tarte flambée",
+      "text": "Known locally as flammekueche: a very thin bread base spread with fromage blanc and cream, scattered with onion and bacon, and baked in a wood oven for a couple of minutes. Served on a wooden board, eaten with the fingers.",
+      "whereToTry": "Village winstubs in the evening. Order more than you think you need — they are thin and go quickly."
+    },
+    {
+      "name": "Baeckeoffe",
+      "text": "Three meats — beef, pork and lamb — marinated overnight in white wine and baked slowly with potatoes and onions in a sealed earthenware pot. The name means 'baker's oven'; it was traditionally left at the bakery on washing day.",
+      "whereToTry": "Traditional restaurants, usually needing to be ordered in advance because of the cooking time."
+    },
+    {
+      "name": "Pretzels and mannele",
+      "text": "Bretzels are everywhere, salted and often split and filled. In late November and December, mannele — small brioche men — appear in every bakery for the feast of Saint Nicholas.",
+      "whereToTry": "Any Alsatian bakery. The pretzels here are softer and breadier than the hard German kind."
+    },
+    {
+      "name": "Munster cheese",
+      "text": "A washed-rind cheese from the Vosges valleys with an aroma that arrives well before the plate does and a surprisingly mild taste. Traditionally eaten with cumin seeds and a glass of Gewürztraminer.",
+      "whereToTry": "Markets and cheese shops throughout the region. Farm-made versions from the Vosges are the ones to look for."
+    },
+    {
+      "name": "Alsatian white wine",
+      "text": "Riesling for dry and mineral, Gewürztraminer for aromatic and often off-dry, Pinot Gris for weight, Muscat for floral. Crémant d'Alsace is France's largest producer of sparkling wine outside Champagne and is excellent value.",
+      "whereToTry": "Cellars along the wine route, most of which pour without appointment for a token fee or nothing at all."
+    }
+  ],
+  "accommodation": {
+    "intro": "Strasbourg and Colmar are the two practical bases, an hour apart by train. The wine villages are lovely to stay in but need a car and have limited options.",
+    "areas": [
+      {
+        "name": "Strasbourg — the Grande Île",
+        "bestFor": "First-time visitors, walking everywhere",
+        "text": "Inside the UNESCO old town, within ten minutes of the cathedral and Petite France. The widest choice of restaurants, and the tram network for everything else. Prices spike sharply during the Christmas markets."
+      },
+      {
+        "name": "Strasbourg — Neustadt and Krutenau",
+        "bestFor": "Better value, local restaurants",
+        "text": "The German imperial quarter and the student district just off the island, both a short walk or one tram stop from the centre, with noticeably better prices and a livelier local food scene."
+      },
+      {
+        "name": "Colmar",
+        "bestFor": "The wine route",
+        "text": "Smaller and prettier than Strasbourg, in the middle of the wine villages, with the Unterlinden Museum and good rail links. The better base if the vineyards rather than the city are your priority."
+      },
+      {
+        "name": "A wine village",
+        "bestFor": "Atmosphere and evenings",
+        "text": "Riquewihr, Eguisheim, Kaysersberg or Ribeauvillé. Waking up inside a walled vineyard village after the day visitors have gone is the best of Alsace. You will need a car and should expect only a handful of restaurants."
+      },
+      {
+        "name": "Obernai or Sélestat",
+        "bestFor": "A midpoint on the railway",
+        "text": "Small towns on the Strasbourg–Colmar line, cheaper than either, with their own old centres and reasonable access to the wine route by bus or bike."
+      }
+    ],
+    "budget": [
+      {
+        "label": "Budget hotel or hostel",
+        "value": "€50–90 per night"
+      },
+      {
+        "label": "Comfortable hotel",
+        "value": "€100–170 per night"
+      },
+      {
+        "label": "Christmas market period",
+        "value": "Expect 50–100% above normal rates, booked months ahead"
+      },
+      {
+        "label": "Wine tasting",
+        "value": "Free to €10 at most producers; often waived on purchase"
+      }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Strasbourg is under two hours from Paris by TGV and sits on the German border, which makes it one of the best-connected cities in eastern France.",
+    "options": [
+      {
+        "mode": "TGV from Paris",
+        "text": "Paris Gare de l'Est to Strasbourg in about 1h50, with frequent departures. The station is a ten-minute walk or two tram stops from the cathedral.",
+        "detail": "One of the best-value TGV routes in France if booked a couple of months ahead."
+      },
+      {
+        "mode": "Airports",
+        "text": "Strasbourg's own airport is small; Basel-Mulhouse, about 1h20 south, has far more European routes and good onward connections. Frankfurt is 2h by train.",
+        "detail": "The EuroAirport at Basel has separate French and Swiss exits — use the French one for Alsace."
+      },
+      {
+        "mode": "From Germany and Switzerland",
+        "text": "Strasbourg to Frankfurt is about 2h by train, Karlsruhe 40 minutes, Basel 1h20, Zurich around 2h. A tram now crosses the Rhine to Kehl in Germany in fifteen minutes.",
+        "detail": "This makes Alsace easy to combine with the Black Forest or a wider Rhine trip."
+      },
+      {
+        "mode": "By car",
+        "text": "Paris is about 4h30 on the A4. Within the region, Strasbourg to Colmar is 45 minutes and the wine route runs south from there.",
+        "detail": "Strasbourg's centre is a low-emission zone requiring a Crit'Air sticker, which must be ordered in advance."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Strasbourg is one of the most cycle-friendly cities in France and has an excellent tram network. The wine route is the part that needs a car or a bike.",
+    "options": [
+      {
+        "mode": "Walking and trams",
+        "text": "The Grande Île is compact and largely pedestrian. Six tram lines cover the rest of the city and reach the station, the European institutions and the German border.",
+        "detail": "Buy a day pass if making more than three journeys; single tickets are valid for an hour including transfers."
+      },
+      {
+        "mode": "Bicycle",
+        "text": "Strasbourg has over 600 km of cycle lanes and a large bike-share scheme, and the wine route has a dedicated path running alongside the vineyards for much of its length.",
+        "detail": "Cycling the wine route removes the drink-driving problem entirely and is genuinely the best way to do it."
+      },
+      {
+        "mode": "Regional trains",
+        "text": "The Strasbourg–Colmar–Mulhouse line runs frequently and serves Obernai, Sélestat, Barr and Ribeauvillé's nearest station, putting several wine towns within reach without a car.",
+        "detail": "From Sélestat and Colmar, seasonal shuttle buses reach the vineyard villages and Haut-Koenigsbourg."
+      },
+      {
+        "mode": "Rental car",
+        "text": "The most flexible way to do the wine route and the Vosges. Distances are short and roads excellent, but tasting and driving do not mix.",
+        "detail": "Two days of hire from Colmar covers the villages, Haut-Koenigsbourg and the Route des Crêtes comfortably."
+      },
+      {
+        "mode": "Wine tours",
+        "text": "Half and full-day minibus tours run from both Strasbourg and Colmar, covering three or four villages and two or three cellars with a driver.",
+        "detail": "Typically €65–110 per person. The sensible option if you want to taste seriously."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "May–June, September, and December for the markets",
+    "summary": "Alsace has a continental climate — colder winters and warmer summers than most of France — and three distinct good seasons. Which one to choose depends entirely on whether you want vineyards or Christmas markets.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "Green vineyards, window boxes in full flower — the villages take this seriously — and mild weather in the high teens and low twenties. Quiet compared with summer and December, and the best time for cycling the wine route."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "good",
+        "text": "Warm, often 25–30°C, with long evenings and village festivals most weekends. Riquewihr and Colmar get genuinely crowded in the middle of the day, but the region absorbs visitors better than most."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The grape harvest runs from September into October and the vineyards turn gold and red. Warm days, cool nights, wine festivals in the villages, and fewer visitors than summer. Arguably the best month of the year here is October."
+      },
+      {
+        "season": "Christmas markets (late November–24 December)",
+        "rating": "good",
+        "text": "A completely different reason to come. Strasbourg's market dates from 1570 and the whole city centre is given over to it. Cold, often below freezing, crowded at weekends, and hotel prices roughly double — but genuinely atmospheric."
+      }
+    ],
+    "avoid": "January to March is the region's low point: cold, grey, vineyards bare, the Route des Crêtes closed by snow and many village businesses shut after the Christmas rush. The markets end on 24 December and the villages empty overnight."
+  },
+  "itinerary": {
+    "title": "Four days in Strasbourg and Alsace",
+    "intro": "Two days in the city and two on the wine route, moving base to Colmar halfway. Works by train and bike, or with a car for the second half.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Strasbourg's old town",
+        "summary": "The cathedral, the island and the water.",
+        "morning": "The cathedral at opening, the astronomical clock at 12:30, and the climb up the spire beforehand.",
+        "afternoon": "La Petite France and the Barrage Vauban terrace, then a boat trip around the Grande Île.",
+        "evening": "Dinner in a winstub in the Krutenau district rather than on the cathedral square."
+      },
+      {
+        "day": 2,
+        "title": "The other Strasbourg",
+        "summary": "The German imperial quarter and the European institutions, both largely visitor-free.",
+        "morning": "The Neustadt — wide boulevards and monumental German architecture from 1871–1918, UNESCO-listed and almost empty.",
+        "afternoon": "The European Parliament district, or the Musée Alsacien for regional life, or the tram across the Rhine into Germany for an hour.",
+        "evening": "Train to Colmar, 35 minutes, and dinner there."
+      },
+      {
+        "day": 3,
+        "title": "Colmar and the wine villages",
+        "summary": "The Isenheim Altarpiece, then the prettiest villages in France.",
+        "morning": "The Unterlinden Museum for the Isenheim Altarpiece, then Colmar's old town and Little Venice.",
+        "afternoon": "Bike or drive north to Eguisheim, Riquewihr and Kaysersberg, with a cellar tasting in each if you are not driving.",
+        "evening": "Stay in a village if you can, and eat tarte flambée in a winstub."
+      },
+      {
+        "day": 4,
+        "title": "Castle and mountains",
+        "summary": "Height, views and a change from vineyards.",
+        "morning": "Haut-Koenigsbourg castle on its ridge, for the reconstruction and the view across the Rhine plain.",
+        "afternoon": "The Route des Crêtes along the Vosges ridge, weather and season permitting, or a final village and cellar.",
+        "evening": "Back to Colmar or Strasbourg for the train onward."
+      }
+    ]
+  },
+  "tipsIntro": "Alsace-specific notes, several of which relate to timing.",
+  "tips": [
+    "Alsatian wine labels name the grape variety rather than the vineyard, which is the German convention and unlike the rest of France. Ask specifically for 'sec' if you want dry — Gewürztraminer and Pinot Gris are often off-dry.",
+    "Cycle the wine route rather than driving it. There is a dedicated path along the vineyards, the villages are a few kilometres apart, and it removes the drink-driving problem entirely.",
+    "Christmas market accommodation in Strasbourg books out months ahead and prices roughly double. Consider staying in Colmar or a village and travelling in, and go midweek rather than at the weekend.",
+    "The markets run from the Friday before Advent to 24 December and then stop. Arriving between Christmas and New Year means an empty city with the stalls already dismantled.",
+    "Strasbourg's centre is a low-emission zone requiring a Crit'Air sticker, which must be ordered online in advance and posted to you. Plan for this if driving.",
+    "The cathedral spire is 332 steps with no lift, up a narrow spiral staircase. It is worth it, but not for everyone.",
+    "Village restaurants often serve tarte flambée only in the evening. If you want it, plan dinner rather than lunch.",
+    "The Route des Crêtes over the Vosges closes with snow from roughly November to April. Check before building a day around it."
+  ],
+  "faq": [
+    {
+      "q": "Is Alsace French or German?",
+      "a": "French, and has been continuously since 1945 — but it changed hands four times between 1681 and 1945, and both cultures are visible everywhere. The architecture, food and wine traditions are Germanic; the language, administration and daily life are French. The regional dialect, Alsatian, is a Germanic language still spoken by some older residents."
+    },
+    {
+      "q": "How many days do you need in Alsace?",
+      "a": "Three to five. Two days covers Strasbourg properly — the cathedral, Petite France, the Neustadt and a boat trip — and two more give you Colmar and the wine route villages. A fifth day lets you add Haut-Koenigsbourg and the Vosges ridge road without rushing."
+    },
+    {
+      "q": "What is the best way to see the Alsace wine route?",
+      "a": "By bicycle if you intend to taste — a dedicated cycle path runs alongside the vineyards, the villages are only a few kilometres apart, and it solves the drink-driving problem. Otherwise a car for two days from Colmar, or a minibus tour with a driver. The central stretch between Ribeauvillé and Colmar has the highest concentration of good villages."
+    },
+    {
+      "q": "When are the Strasbourg Christmas markets?",
+      "a": "From the Friday before the first Sunday of Advent until 24 December — so roughly the last week of November through Christmas Eve. They stop abruptly on the 24th, so arriving between Christmas and New Year means finding the stalls already dismantled. Go midweek if you can; weekends draw large numbers of day-trippers from Germany and Switzerland."
+    },
+    {
+      "q": "Which Alsace village is the prettiest?",
+      "a": "Riquewihr is the most famous — a completely walled village surrounded by vineyards that survived both world wars intact — and consequently the busiest. Eguisheim, built in concentric rings around its centre, is nearly as beautiful and much calmer. Kaysersberg and Ribeauvillé are both excellent and less visited than Riquewihr."
+    },
+    {
+      "q": "Is Strasbourg worth visiting outside December?",
+      "a": "Yes. The cathedral is one of the great buildings of European Gothic, Petite France is beautiful at any time of year, and the UNESCO-listed Neustadt quarter is almost entirely free of visitors. May, June, September and October all give you better weather, half the prices and a fraction of the December crowds."
+    },
+    {
+      "q": "What wine is Alsace known for?",
+      "a": "Aromatic whites, almost exclusively. Riesling is the flagship — dry, mineral and long-lived. Gewürztraminer is intensely aromatic and often off-dry, Pinot Gris has weight and texture, and Muscat is floral and light. Crémant d'Alsace is France's largest sparkling wine production outside Champagne and offers excellent value. Unusually for France, labels name the grape rather than the place."
+    }
+  ],
+  "related": [
+    "paris",
+    "chamonix-mont-blanc",
+    "loire-valley",
+    "normandy-d-day-beaches"
+  ],
+  "relatedArticles": [
+    "europe-by-train",
+    "underrated-destinations",
+    "packing-by-season"
+  ]
+}

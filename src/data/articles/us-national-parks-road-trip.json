@@ -1,0 +1,147 @@
+{
+  "slug": "us-national-parks-road-trip",
+  "title": "How to Plan a US National Parks Road Trip",
+  "kicker": "Road trips",
+  "subtitle": "The reservation systems, the distances and the water — three things that decide whether this trip works.",
+  "summary": "American national parks are no longer places you turn up at. Timed entry, permit lotteries and mandatory shuttles now govern the popular ones, and the distances between them are larger than almost any visitor expects. Here is how to plan around both.",
+  "readingTime": "11 min read",
+  "image": {
+    "file": "File:Going-to-the-Sun Road (Patterson).jpg",
+    "alt": "A mountain highway curving along a cliff face beneath snow-streaked peaks"
+  },
+  "featuredDestinations": ["grand-canyon", "zion-southern-utah", "yellowstone"],
+  "sections": [
+    {
+      "id": "booking",
+      "title": "The bookings that decide your trip",
+      "navLabel": "Bookings",
+      "body": [
+        "This is the section that has changed most in the last decade, and the one that most often ruins otherwise well-planned trips. Visitor numbers to the popular American parks grew sharply through the 2010s and 2020s, and the response has been a patchwork of reservation systems that differ from park to park and change every year.",
+        "There are broadly four mechanisms. **Timed-entry reservations** require you to book a window to drive into the park at all, released in blocks weeks or months ahead. **Permit lotteries** govern specific trails — [[zion-southern-utah|Zion's]] Angels Landing is the best-known example. **Mandatory shuttles** replace private cars on the main road, as in Zion Canyon for most of the year. And **in-park lodging** at places like [[grand-canyon|the Grand Canyon]] and [[yellowstone]] opens 13 months in advance and is gone within days.",
+        "The practical approach is simple but has to happen early. As soon as your dates are fixed, go to the National Park Service website for each park you intend to visit and check its current system — not a guidebook, not a blog, the park's own page. Then book whatever needs booking and treat those bookings as the fixed points around which everything else moves.",
+        "One purchase that always pays: the **America the Beautiful annual pass**, around $80, covers entry to every national park for one vehicle and its occupants for a year. Individual park entry runs $20–35 per vehicle, so it breaks even at three or four parks."
+      ],
+      "note": "In-park lodging is worth the effort disproportionately. Staying inside a park means being at a viewpoint at sunrise and sunset, which is when the landscape is transformed and the day visitors are absent."
+    },
+    {
+      "id": "distances",
+      "title": "Distances, and the two-hundred-mile rule",
+      "navLabel": "Distances",
+      "tone": "tint",
+      "body": [
+        "American road distances are the second great planning error. The parks look close together on a national map and are not. [[yellowstone]] to [[grand-canyon|the Grand Canyon]] is about 800 miles. Zion to Yosemite is 500. Even within the tight Utah cluster, Zion to Arches is four and a half hours.",
+        "A workable rule is **two hundred miles a day maximum** on a sightseeing road trip. That is about three and a half hours of driving, which leaves a morning and an evening at either end for actually being somewhere. Four hundred miles is a transit day and you will see nothing at all.",
+        "It follows that a good parks route is a loop through a cluster rather than a line across the map. The southern Utah and northern Arizona cluster is the best of these — Zion, Bryce, Capitol Reef, Arches, Canyonlands, Monument Valley and the Grand Canyon all sit within a fortnight's comfortable driving, starting and finishing at Las Vegas.",
+        "The other strong clusters are Yellowstone with Grand Teton, an hour apart in Wyoming; Yosemite with Sequoia and Kings Canyon in California; and Glacier with the Montana Rockies. Trying to combine two clusters in under three weeks means spending the difference on interstate driving."
+      ],
+      "list": [
+        { "title": "Zion to Bryce Canyon", "text": "About 2 hours. The two pair naturally and are usually done back to back." },
+        { "title": "Bryce to Capitol Reef", "text": "Roughly 2h30 on Scenic Byway 12, which is a destination in itself rather than a transfer." },
+        { "title": "Capitol Reef to Moab", "text": "About 2h20, giving access to Arches and Canyonlands from one base." },
+        { "title": "Moab to Monument Valley", "text": "Around 2h30 south through the Navajo Nation." },
+        { "title": "Monument Valley to Grand Canyon South Rim", "text": "About 3h via Page and Antelope Canyon." },
+        { "title": "Grand Canyon back to Las Vegas", "text": "Roughly 4h30, which makes the loop close cleanly." }
+      ]
+    },
+    {
+      "id": "safety",
+      "title": "Water, heat and wildlife",
+      "navLabel": "Safety",
+      "body": [
+        "The desert parks kill people every year, almost always through the same two mistakes: not carrying enough water, and hiking downhill in the morning without accounting for the climb back in the afternoon heat.",
+        "The Grand Canyon is the clearest example. Descending is easy and the temperature rises roughly 5°C for every 1,000 metres you drop, so a pleasant 25°C at the rim can be 40°C at the river. The park's own guidance is blunt: **do not attempt to hike to the river and back in one day**. For any desert hike, carry at least four litres of water per person, start at dawn, and turn around at the point where you have used a third of your water rather than half.",
+        "Wildlife is the mountain parks' equivalent, and Europeans consistently underestimate it. In [[yellowstone]], bison injure more visitors than bears do, because they look placid, weigh a tonne and can run at 50 km/h. The park requires 25 metres of distance from bison and elk and 100 metres from bears and wolves. Bear spray is sold everywhere in the region, and is worth carrying on any backcountry trail.",
+        "Two smaller things that catch people out: mobile coverage is genuinely absent across most park interiors, so download offline maps before you arrive; and fuel stations can be a hundred miles apart in the Utah and Arizona desert, so fill up whenever you drop below half a tank."
+      ],
+      "note": "Altitude is a quiet factor in the mountain parks. Yellowstone's plateau sits at 2,400 m and Bryce Canyon's rim is 2,400–2,700 m. Expect breathlessness and poor sleep on the first night."
+    },
+    {
+      "id": "when",
+      "title": "When to go",
+      "navLabel": "When to go",
+      "tone": "tint",
+      "body": [
+        "The two calendars that matter are the road opening dates in the mountain parks and the heat in the desert ones, and they do not overlap neatly.",
+        "**Mountain parks** — Yellowstone, Glacier, the high Rockies — have a short season. Yellowstone's roads open progressively from late April into May and close from early November, with the interior reachable only by snowcoach in winter. Glacier's Going-to-the-Sun Road often does not fully open until early July. For these, mid-June to September is the window, and September is the pick: the crowds fall away after the Labor Day weekend and the wildlife is active.",
+        "**Desert parks** — the Grand Canyon, Zion, Arches, Death Valley — are open all year and are best in spring and autumn. April to May and late September to October give you warm days, cool nights and manageable crowds. July and August regularly exceed 40°C, and hiking in the middle of the day becomes genuinely dangerous. Winter is cold, sometimes snowy at altitude, and wonderfully empty — Bryce Canyon with snow on the hoodoos is one of the great American sights.",
+        "Avoid the three big domestic travel weekends entirely: Memorial Day in late May, Independence Day on 4 July and Labor Day in early September. These are the days the parks are fullest and the reservation systems most strained."
+      ]
+    },
+    {
+      "id": "practical",
+      "title": "Practical kit and logistics",
+      "navLabel": "Practical",
+      "numbered": true,
+      "list": [
+        {
+          "title": "Rent the right car, not the biggest",
+          "text": "A standard saloon or small SUV handles every paved park road. Genuine four-wheel drive is only needed for specific unpaved routes, and most rental agreements prohibit taking the car off sealed roads anyway. Check the contract before planning a dirt-road detour."
+        },
+        {
+          "title": "Buy the annual pass",
+          "text": "The America the Beautiful pass costs about $80 and covers entry to every national park for a vehicle and everyone in it for twelve months. It breaks even at three or four parks and can be bought at the first park entrance."
+        },
+        {
+          "title": "Carry more water than feels sensible",
+          "text": "Four litres per person per day in the desert parks, plus a reserve in the car. Refill stations exist at visitor centres but not on trails, and heat exhaustion is the most common serious incident in the Southwest."
+        },
+        {
+          "title": "Download everything offline",
+          "text": "Offline maps, park maps, your reservations and your accommodation details. Coverage inside parks ranges from patchy to absent, and the gaps between them in Utah and Arizona are worse."
+        },
+        {
+          "title": "Book the sunrise and sunset, not the middle",
+          "text": "The first and last hour of light transform these landscapes and are also when the day visitors are elsewhere. Structuring days around them — and resting through the middle — is the single biggest quality improvement available."
+        },
+        {
+          "title": "Layer for a 20-degree swing",
+          "text": "Desert nights are cold and altitude amplifies it. A day that reaches 32°C at Bryce can drop below 5°C after dark. Take a warm layer regardless of the daytime forecast."
+        }
+      ]
+    },
+    {
+      "id": "routes",
+      "title": "Two routes that work",
+      "navLabel": "Routes",
+      "list": [
+        {
+          "title": "The Southwest loop — 12 to 14 days",
+          "text": "Las Vegas, [[zion-southern-utah|Zion]], Bryce Canyon, Scenic Byway 12, Capitol Reef, Moab for Arches and Canyonlands, Monument Valley, Page for Antelope Canyon and Horseshoe Bend, [[grand-canyon|the Grand Canyon]] South Rim, and back to Las Vegas. Roughly 1,400 miles, no leg over three hours.",
+          "tip": "The single best national parks route in the country, and it needs no internal flights."
+        },
+        {
+          "title": "Yellowstone and the Tetons — 7 to 9 days",
+          "text": "Fly into Jackson or Bozeman, four nights in and around [[yellowstone]] for the geyser basins and the Lamar Valley wildlife, then three in Grand Teton an hour south. Short driving, dense wildlife, and one of the most concentrated landscapes in the country.",
+          "tip": "June to September only. Book in-park lodging 13 months out or stay in West Yellowstone or Gardiner."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do US national parks require reservations?",
+      "a": "Several of the most popular ones now do, in some form — timed-entry windows to drive in, permit lotteries for specific trails, or mandatory shuttles replacing private cars. The systems differ by park and change annually, so check each park's own page on the National Park Service website as soon as your dates are fixed rather than relying on a guidebook."
+    },
+    {
+      "q": "Is the America the Beautiful pass worth buying?",
+      "a": "Yes, on almost any parks trip. It costs about $80 and covers entry to every national park for one vehicle and its occupants for a year, against $20–35 per park per vehicle otherwise. It breaks even at three or four parks and can be bought at the first entrance gate you reach."
+    },
+    {
+      "q": "How far can you drive in a day on a parks road trip?",
+      "a": "Two hundred miles, or about three and a half hours, is the practical maximum if you want to actually see anything. That leaves a morning and an evening at either end. Four hundred miles is a transit day with no sightseeing in it — and since the first and last hours of light are the best part of these landscapes, transit days are expensive in more than time."
+    },
+    {
+      "q": "Which US national parks are best to combine?",
+      "a": "The southern Utah and northern Arizona cluster is the strongest: Zion, Bryce, Capitol Reef, Arches, Canyonlands, Monument Valley and the Grand Canyon all sit within a comfortable fortnight's loop from Las Vegas. Yellowstone with Grand Teton, an hour apart, is the best short pairing. Yosemite with Sequoia works in California. Combining two clusters needs three weeks or an internal flight."
+    },
+    {
+      "q": "How much water should I carry hiking in the desert?",
+      "a": "At least four litres per person per day, with a reserve left in the car. There are no refill points on trails, only at visitor centres. Start at dawn, and turn back when you have used a third of your water rather than half — the return leg in a canyon is uphill and in the hottest part of the day."
+    },
+    {
+      "q": "What is the best time of year for a national parks trip?",
+      "a": "Depends which parks. Desert parks — the Grand Canyon, Zion, Arches — are best in April to May and late September to October, avoiding the 40°C-plus summer. Mountain parks — Yellowstone, Glacier — have a short season from roughly mid-June to September, because their roads are closed by snow the rest of the year. September works well for both."
+    }
+  ],
+  "readNext": ["packing-by-season", "week-cost-five-countries", "underrated-destinations"]
+}

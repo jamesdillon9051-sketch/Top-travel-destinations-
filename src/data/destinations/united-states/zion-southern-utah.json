@@ -1,0 +1,384 @@
+{
+  "slug": "zion-southern-utah",
+  "name": "Zion & Southern Utah",
+  "shortName": "Zion",
+  "country": "united-states",
+  "region": "Utah",
+  "categories": ["national-park", "nature", "scenic", "mountains"],
+  "tagline": "Five national parks in one corner of one state, plus the best road in America connecting them.",
+  "highlight": "The Narrows — wading up the Virgin River between sandstone walls 600 metres high and, in places, ten metres apart.",
+  "shortDescription": "A concentration of canyon country unmatched anywhere: Zion's sheer red walls, Bryce's hoodoos, Arches' sandstone spans and Canyonlands' mesas, within a few hours of each other.",
+  "metaDescription": "A guide to Zion and southern Utah: the Narrows and Angels Landing permits, Bryce, Arches and Canyonlands, the shuttle system, when to go and a seven-day driving itinerary.",
+  "suggestedStay": "6–9 days for the region, 2–3 for Zion alone",
+  "nearestAirport": "Las Vegas (LAS), 2h30 to Zion; Salt Lake City (SLC), 4h30",
+  "knownFor": "The Narrows, Angels Landing, Bryce's hoodoos, Delicate Arch",
+  "budget": "$190–310 per day, mid-range",
+  "goodFor": "Hiking, road trips, photography, geology",
+  "coords": { "lat": 37.2982, "lng": -113.0263 },
+  "image": {
+    "file": "File:The Watchman, Zion National Park, Oct 16.jpg",
+    "alt": "The Watchman peak rising above the Virgin River in Zion Canyon at sunset"
+  },
+  "intro": [
+    "Southern Utah holds five national parks — Zion, Bryce Canyon, Capitol Reef, Arches and Canyonlands — within a few hours' driving of each other, along with a state park system that would be national parks anywhere else. It is the densest concentration of spectacular landscape in North America, and the fact that you can drive between all five in a week is what makes it the best road trip in the country.",
+    "Zion is the busiest and the most immediately dramatic. The main canyon is a slot cut by the Virgin River through Navajo sandstone, with walls rising up to 600 metres almost vertically and, in the section called the Narrows, closing to about ten metres apart. Unlike the Grand Canyon, where you look down into the landscape, in Zion you stand at the bottom of it looking up — a completely different sensation.",
+    "The parks are geologically sequential, which is a genuinely useful thing to know. The rock layers exposed at the top of the Grand Canyon are the bottom layers at Zion, and Zion's top layers are Bryce's bottom ones. Driving north through the region is driving forward through about 250 million years of stacked deposition, and the guides at each park will explain their piece of it."
+  ],
+  "whyVisit": {
+    "intro": "Nowhere else puts this much varied and accessible landscape in one place, and the variety between the parks is as striking as any of them individually.",
+    "points": [
+      {
+        "title": "The Narrows is a walk unlike any other",
+        "text": "You hike up the riverbed itself, in the water, between walls hundreds of metres high that narrow to about ten metres apart. It is the most memorable day hike in the American Southwest and requires no technical skill, only a stick and the right footwear."
+      },
+      {
+        "title": "Five parks, all different",
+        "text": "Zion is vertical red sandstone; Bryce is a natural amphitheatre of orange hoodoos at 2,400 m; Capitol Reef is a 160 km buckle in the earth's crust; Arches has over 2,000 natural stone spans; Canyonlands is mesas and gorges on a scale that swallows the eye."
+      },
+      {
+        "title": "The driving is the point",
+        "text": "Scenic Byway 12 between Bryce and Capitol Reef crosses a knife-edge ridge with drops on both sides and is regularly named among the best roads in the world. The Zion–Mount Carmel Highway climbs the canyon wall in switchbacks and a tunnel."
+      },
+      {
+        "title": "It is designed for hiking",
+        "text": "Trails at every level, from the paved Riverside Walk to Angels Landing's chain-assisted ridge. Almost everything is a day hike, and the parks are close enough that you can do a different one each morning."
+      },
+      {
+        "title": "The night skies are extraordinary",
+        "text": "Bryce Canyon has some of the darkest skies in the United States and runs an annual astronomy festival. On a clear moonless night you can see 7,500 stars with the naked eye — most places manage a few dozen."
+      }
+    ]
+  },
+  "attractionsIntro": "Zion fills two or three days; the wider region needs a week. These are the fixed points of the classic loop.",
+  "attractions": [
+    {
+      "name": "The Narrows",
+      "text": "A 26 km slot in the Virgin River, walked upstream from the end of the Riverside Walk. Most people go as far as Wall Street, about 3 km in, where the canyon closes to ten metres wide with 300-metre walls. You are in the water for most of it.",
+      "tip": "Rent neoprene socks, canyoneering boots and a walking stick from Springdale. Check the flash flood forecast — the canyon closes when the risk is high, and this is not a rule to test."
+    },
+    {
+      "name": "Angels Landing",
+      "text": "A 450-metre climb ending on a narrow fin of rock with chains bolted into it and drops on both sides. Spectacular and genuinely exposed — several people have died from falls. A permit lottery now controls numbers on the final section.",
+      "tip": "Permits are allocated by seasonal and day-before lotteries. If you do not have one, Observation Point via East Mesa gives a higher view with no exposure."
+    },
+    {
+      "name": "Bryce Canyon",
+      "text": "Not a canyon but an eroded amphitheatre on the edge of a plateau, filled with thousands of orange rock spires called hoodoos, formed by 200 freeze-thaw cycles a year. The rim sits at 2,400–2,700 m, so it is much cooler than Zion.",
+      "tip": "Walk down among the hoodoos on the Navajo Loop and Queen's Garden trail — about 5 km and the only way to grasp the scale. Sunrise Point at dawn is the classic view."
+    },
+    {
+      "name": "Arches National Park",
+      "text": "Over 2,000 natural sandstone arches in a small area near Moab, including Delicate Arch — the one on the Utah number plate — reached by a 5 km round trip over slickrock.",
+      "tip": "Delicate Arch at sunset is the classic and the crowded option. Timed-entry reservations apply in peak season; check the current system before arriving."
+    },
+    {
+      "name": "Canyonlands",
+      "text": "The largest Utah park, split into districts by the Green and Colorado rivers. Island in the Sky is the accessible one, a mesa with viewpoints over 300 metres of layered canyon. Mesa Arch at sunrise frames the light beneath it.",
+      "tip": "Mesa Arch at dawn is heavily photographed and correspondingly busy. Grand View Point at the end of the road is emptier and arguably better."
+    },
+    {
+      "name": "Scenic Byway 12",
+      "text": "A 200 km road between Bryce and Capitol Reef, crossing the Grand Staircase-Escalante, climbing Boulder Mountain to 2,900 m and running along the Hogback — a ridge with sheer drops on both sides and no barrier.",
+      "tip": "Allow a full day with stops. Calf Creek Falls, a 10 km round trip to a 40-metre waterfall, breaks the drive well."
+    },
+    {
+      "name": "Capitol Reef",
+      "text": "The quietest of the five, built around the Waterpocket Fold — a 160 km wrinkle in the earth's crust. It also holds the orchards of a Mormon settlement, where you can still pick fruit in season.",
+      "tip": "The scenic drive and the Hickman Bridge trail cover it in half a day. The pie at the historic Gifford Homestead is a genuine institution."
+    },
+    {
+      "name": "Antelope Canyon and Horseshoe Bend",
+      "text": "Just over the Arizona border at Page. A slot canyon of sculpted sandstone accessible only on Navajo-guided tours, and a 300-metre-deep meander of the Colorado a short walk from the road.",
+      "tip": "Antelope Canyon cannot be visited independently. Book a Navajo-operated tour weeks ahead; midday gives the light beams in the upper canyon."
+    }
+  ],
+  "thingsToDoIntro": "This is a hiking and driving region. Almost everything worth doing involves one or the other, at either end of the day.",
+  "thingsToDo": [
+    {
+      "title": "Walk up the Narrows",
+      "text": "Take the shuttle to the Temple of Sinawava, walk the paved Riverside Walk, then step into the river. Most people turn around after two or three hours; the water is knee to waist deep depending on the season.",
+      "tip": "Water temperature is around 10°C most of the year. Rent proper boots and neoprene socks in Springdale — trainers are miserable."
+    },
+    {
+      "title": "Descend into Bryce's amphitheatre",
+      "text": "The rim viewpoints are impressive; walking down among the hoodoos on the Navajo Loop and Queen's Garden is transformative. About 5 km with 200 m of climbing back out.",
+      "tip": "Do it clockwise, descending the steep Wall Street switchbacks and climbing the gentler Queen's Garden side."
+    },
+    {
+      "title": "Drive Scenic Byway 12",
+      "text": "Two hundred kilometres between Bryce and Capitol Reef over slickrock desert, a 2,900 m mountain and a ridge with drops on both sides. One of the great drives anywhere.",
+      "tip": "Fuel is sparse. Fill up in Escalante or Boulder, and note that mobile coverage disappears entirely for long stretches."
+    },
+    {
+      "title": "Watch the sky at Bryce",
+      "text": "One of the darkest skies in the country at 2,400 m with no light pollution. Rangers run astronomy programmes and the annual festival brings dozens of telescopes.",
+      "tip": "Take a warm layer — it can drop below freezing at night even in June."
+    },
+    {
+      "title": "Get onto slickrock at Moab",
+      "text": "Arches and Canyonlands by day, and Moab in between as one of the world's great mountain-biking and four-wheel-drive towns. The Slickrock Trail is a rite of passage for cyclists.",
+      "tip": "Rafting the Colorado through the canyons is the low-effort alternative and runs from spring to autumn."
+    },
+    {
+      "title": "Photograph at the right hour",
+      "text": "Red sandstone is flat and pale at midday and glows in the first and last hour of light. Delicate Arch at sunset, Mesa Arch at sunrise, Bryce's hoodoos at dawn, Zion's Watchman from the bridge at dusk.",
+      "tip": "The middle of the day is for driving between parks, not for looking at them."
+    }
+  ],
+  "foodIntro": "Southern Utah is small towns and park gateways, and the food is straightforward. The exceptions are worth knowing about because they are genuinely good and often the only option for fifty miles.",
+  "foods": [
+    {
+      "name": "Utah scones and honey butter",
+      "text": "Not British scones but squares of fried dough served hot with honey butter, a Mormon pioneer inheritance found across the state and nowhere else.",
+      "whereToTry": "Diners and family restaurants in the small towns between parks."
+    },
+    {
+      "name": "The Gifford Homestead pie",
+      "text": "Fruit pies baked at a preserved Mormon farmstead inside Capitol Reef, from orchards planted in the 1880s that visitors can still pick in season. Sold by the pie and usually gone by mid-morning.",
+      "whereToTry": "Fruita, inside Capitol Reef National Park. Arrive early."
+    },
+    {
+      "name": "Navajo tacos",
+      "text": "Fry bread topped with beans, meat, cheese and salad, found across the Colorado Plateau and particularly on and around Navajo Nation towards Monument Valley.",
+      "whereToTry": "Roadside stands and cafés between Moab, Monument Valley and Page."
+    },
+    {
+      "name": "Green chile everything",
+      "text": "Roasted Hatch chile in burgers, breakfast burritos and stews, spreading north from New Mexico into southern Utah. The default way to add flavour to road-trip food.",
+      "whereToTry": "Diners in Moab, Springdale and Kanab. Best in autumn when the chile harvest arrives."
+    },
+    {
+      "name": "Springdale and Moab restaurants",
+      "text": "The two gateway towns have developed genuinely good restaurant strips serving hikers — hearty, seasonal and better than park-adjacent food usually is.",
+      "whereToTry": "Springdale for Zion, Moab for Arches and Canyonlands. Both fill early in season."
+    },
+    {
+      "name": "Utah beer, and the rules",
+      "text": "Utah's alcohol laws are unusual: draught beer is capped at 5% ABV, spirits and stronger beer are sold only in state liquor stores, and restaurants have specific licensing rules.",
+      "whereToTry": "Moab and Springdale both have breweries. Buy anything stronger at a state liquor store, closed on Sundays."
+    }
+  ],
+  "accommodation": {
+    "intro": "The region is a driving loop, so you will change base every two or three nights. Booking ahead matters enormously — the gateway towns are small and demand vastly exceeds supply in season.",
+    "areas": [
+      {
+        "name": "Springdale",
+        "bestFor": "Zion",
+        "text": "A single street at the park gate, with the free shuttle running into the park and canyon walls rising directly above the hotels. Expensive and worth it, because you can be at the first shuttle."
+      },
+      {
+        "name": "Moab",
+        "bestFor": "Arches and Canyonlands",
+        "text": "The region's largest gateway town, an adventure-sports hub with the widest choice of accommodation, restaurants and outfitters. Both parks are within 40 minutes."
+      },
+      {
+        "name": "Bryce Canyon City and Tropic",
+        "bestFor": "Bryce",
+        "text": "Small clusters at the park entrance and a few miles east. Limited but adequate, and being close matters because sunrise at the rim is the reason to be here."
+      },
+      {
+        "name": "Torrey",
+        "bestFor": "Capitol Reef and Byway 12",
+        "text": "A small town at the eastern end of Scenic Byway 12, with a couple of surprisingly good restaurants and dark skies. The natural overnight between Bryce and Moab."
+      },
+      {
+        "name": "In-park lodges and campgrounds",
+        "bestFor": "Sunrise without driving",
+        "text": "Zion Lodge, Bryce Canyon Lodge and the park campgrounds. All book out months ahead and all are worth the effort for being inside at dawn and dusk."
+      }
+    ],
+    "budget": [
+      { "label": "Park entry", "value": "$30–35 per vehicle per park, or free with the $80 annual pass" },
+      { "label": "Gateway town motel", "value": "$140–280 per night in season, far less November to March" },
+      { "label": "In-park lodge", "value": "$220–350 per night, booked 6–13 months ahead" },
+      { "label": "Narrows gear rental", "value": "$25–55 per person for boots, socks and stick" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Las Vegas is the usual gateway for a southern Utah loop and Salt Lake City the alternative. Either way this is a driving trip.",
+    "options": [
+      {
+        "mode": "Las Vegas (LAS)",
+        "text": "About 2h30 to Zion and the standard start of the loop, with cheap flights, cheap car hire and a straightforward drive northeast on Interstate 15.",
+        "detail": "Also the natural end point, since the loop closes back towards Las Vegas from [[grand-canyon|the Grand Canyon]]."
+      },
+      {
+        "mode": "Salt Lake City (SLC)",
+        "text": "About 4h30 to Zion and 4h to Moab, with more domestic connections and often cheaper fares than Las Vegas.",
+        "detail": "Better if you are doing the loop in the other direction, starting with Arches and Canyonlands."
+      },
+      {
+        "mode": "St George and Cedar City",
+        "text": "Small regional airports within an hour of Zion, with limited connections through Salt Lake City or Phoenix.",
+        "detail": "Convenient if the schedules work, but usually more expensive than driving from Las Vegas."
+      },
+      {
+        "mode": "Combining with Arizona",
+        "text": "Page and Antelope Canyon are 2h from Bryce, Monument Valley 2h30 from Moab, and [[grand-canyon|the Grand Canyon]] 2h30 from Page.",
+        "detail": "The full loop of Utah and northern Arizona takes 12 to 14 days and is the best road trip in the country."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "A car for the region, and the park shuttle inside Zion Canyon, which is closed to private vehicles for most of the year.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "Essential. Distances between parks run two to three hours and there is no public transport at all between them. A standard car handles every paved road in all five parks.",
+        "detail": "Fuel stations are sparse on Scenic Byway 12 and in the Grand Staircase. Fill up whenever you drop below half."
+      },
+      {
+        "mode": "The Zion shuttle",
+        "text": "Free, mandatory, and the only way up Zion Canyon from roughly March to November — private cars are barred. Runs frequently from the visitor centre with nine stops up the canyon.",
+        "detail": "A second free shuttle runs through Springdale to the park entrance, so you can leave the car at the hotel entirely."
+      },
+      {
+        "mode": "Timed entry and permits",
+        "text": "Arches operates timed-entry reservations in peak season, and Zion runs a permit lottery for Angels Landing. Both change annually.",
+        "detail": "Check each park's own page as soon as your dates are fixed. These are the bookings that shape the trip."
+      },
+      {
+        "mode": "Walking",
+        "text": "Everything worth seeing is a hike, from paved half-hour walks to full-day routes. Trails are well marked and the parks publish honest difficulty ratings.",
+        "detail": "Slickrock is disorienting — routes are marked with stone cairns rather than paths. Follow them carefully."
+      },
+      {
+        "mode": "Guided tours",
+        "text": "Required for Antelope Canyon, which is on Navajo land, and useful for canyoneering, rafting and four-wheel-drive routes around Moab.",
+        "detail": "Antelope Canyon tours book out weeks ahead in season."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–May and September–October",
+    "summary": "The desert parks are unbearable in high summer and the higher ones can be snowbound in winter. The shoulder seasons are not just better, they are a different trip.",
+    "seasons": [
+      {
+        "season": "Spring (April–May)",
+        "rating": "best",
+        "text": "Warm at 18–27°C, wildflowers out, and the Virgin River high enough to be interesting without closing the Narrows. Bryce at 2,400 m is still cold and may hold snow into April."
+      },
+      {
+        "season": "Summer (June–August)",
+        "rating": "avoid",
+        "text": "Zion and Moab routinely exceed 38°C and hiking after 10:00 becomes dangerous. July and August also bring monsoon thunderstorms and flash flood risk, which closes the Narrows and the slot canyons. Bryce, being higher, stays pleasant."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "The pick of the year. Temperatures fall to the low twenties, the crowds thin after the Labor Day weekend, cottonwoods turn yellow along the Virgin River, and the light is at its best."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "quiet",
+        "text": "Cold and nearly empty, with Zion's shuttle suspended so you can drive the canyon yourself. Bryce with snow on orange hoodoos is one of the great American sights. Some roads and trails close, and the Narrows is generally out."
+      }
+    ],
+    "avoid": "Flash flood risk from July to September. Slot canyons including the Narrows and Antelope flood from rain falling many kilometres away, with no warning at the canyon itself. Check the daily forecast and obey closures without exception."
+  },
+  "itinerary": {
+    "title": "Seven days in southern Utah",
+    "intro": "A one-way loop from Las Vegas, hitting four parks and the best road in the country, with no leg over three hours.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Las Vegas to Zion",
+        "summary": "Collect the car and get to the canyon.",
+        "morning": "Fly in, pick up the car, drive northeast — about 2h30 to Springdale.",
+        "afternoon": "The shuttle up Zion Canyon and the paved Riverside Walk to the mouth of the Narrows.",
+        "evening": "The Watchman from the footbridge at sunset."
+      },
+      {
+        "day": 2,
+        "title": "Zion",
+        "summary": "The big Zion day, starting at the first shuttle.",
+        "morning": "The Narrows — three hours up the river to Wall Street and back, in rented boots.",
+        "afternoon": "Angels Landing if you have a permit, or the Watchman Trail for a lower-effort view.",
+        "evening": "Springdale, and an early night."
+      },
+      {
+        "day": 3,
+        "title": "Zion to Bryce",
+        "summary": "Over the canyon wall and up 1,000 metres.",
+        "morning": "The Zion–Mount Carmel Highway east, through the 1930 tunnel and the switchbacks.",
+        "afternoon": "Bryce — the rim viewpoints, then the Navajo Loop and Queen's Garden among the hoodoos.",
+        "evening": "Sunset Point, then stargazing at 2,400 m."
+      },
+      {
+        "day": 4,
+        "title": "Scenic Byway 12 to Torrey",
+        "summary": "The drive that justifies the whole trip.",
+        "morning": "Sunrise at Bryce, then east on Byway 12 across the Grand Staircase.",
+        "afternoon": "Calf Creek Falls, then the Hogback ridge and over Boulder Mountain.",
+        "evening": "Torrey, with dark skies and a surprisingly good dinner."
+      },
+      {
+        "day": 5,
+        "title": "Capitol Reef to Moab",
+        "summary": "The quietest park, then across to the busiest corner.",
+        "morning": "Capitol Reef's scenic drive, Hickman Bridge and pie at the Gifford Homestead.",
+        "afternoon": "Drive southeast to Moab, about 2h20.",
+        "evening": "Arches for Delicate Arch at sunset — a 5 km round trip over slickrock."
+      },
+      {
+        "day": 6,
+        "title": "Canyonlands and Arches",
+        "summary": "Sunrise on a mesa, and the rest of Arches.",
+        "morning": "Island in the Sky before dawn — Mesa Arch, then Grand View Point.",
+        "afternoon": "Dead Horse Point, or rafting the Colorado, or the rest of Arches.",
+        "evening": "Moab."
+      },
+      {
+        "day": 7,
+        "title": "South, or back",
+        "summary": "Continue the loop or close it.",
+        "morning": "Drive south to Monument Valley, about 2h30, and on towards [[grand-canyon|the Grand Canyon]].",
+        "afternoon": "Alternatively, return west towards Las Vegas — a long day of about 6h.",
+        "evening": "Onward, or the flight home."
+      }
+    ]
+  },
+  "tipsIntro": "Several of these are safety items in a landscape that is less forgiving than it looks.",
+  "tips": [
+    "Flash floods are the real danger here. Slot canyons including the Narrows and Antelope flood from rain falling many kilometres upstream, with no sign of weather where you are standing. Check the daily flood forecast and obey closures absolutely.",
+    "Angels Landing requires a permit allocated by seasonal and day-before lotteries. Without one you cannot climb the final chained section — and Observation Point via East Mesa gives a higher view with no exposure at all.",
+    "Rent proper Narrows gear in Springdale. Canyoneering boots, neoprene socks and a stick cost about $25–55 and turn a miserable slippery wade into a genuine pleasure. The water sits at around 10°C most of the year.",
+    "Arches now operates timed-entry reservations in peak season and Zion's canyon is closed to private cars for most of the year. Check each park's own current system as soon as your dates are set.",
+    "Carry at least four litres of water per person per day and start hikes at dawn. Summer temperatures in Zion and Moab exceed 38°C, and heat illness is the most common serious incident in these parks.",
+    "Bryce sits at 2,400–2,700 m, roughly 1,500 m higher than Zion. It can be below freezing at night in June while Zion is 30°C. Pack for both.",
+    "Fuel stations are sparse on Scenic Byway 12 and across the Grand Staircase, and mobile coverage disappears for long stretches. Fill up whenever you drop below half a tank and download offline maps.",
+    "Utah's alcohol laws are unusual — draught beer is capped at 5%, and anything stronger comes from a state liquor store, which is closed on Sundays."
+  ],
+  "faq": [
+    {
+      "q": "Do you need a permit for Angels Landing?",
+      "a": "For the final chained section, yes. Zion introduced a permit lottery in 2022 to control numbers on the exposed ridge, with seasonal advance lotteries and a day-before lottery. The rest of the trail to Scout Lookout needs no permit. If you miss out, Observation Point reached via the East Mesa trail gives a higher and arguably better view with none of the exposure."
+    },
+    {
+      "q": "How hard is hiking the Narrows?",
+      "a": "Not technically difficult, but physically awkward — you walk up the riverbed itself in water that ranges from ankle to waist deep, over slippery cobbles. Most people go about 3 km to Wall Street and back, which takes three to four hours. Rent canyoneering boots, neoprene socks and a walking stick in Springdale; the water sits around 10°C most of the year and trainers are miserable."
+    },
+    {
+      "q": "How many days do you need for southern Utah?",
+      "a": "Two or three for Zion alone; six to nine for the region. A seven-day loop from Las Vegas covers Zion, Bryce, Scenic Byway 12, Capitol Reef, Arches and Canyonlands without any leg over three hours. Extending to twelve or fourteen days lets you add Monument Valley, Antelope Canyon and the Grand Canyon."
+    },
+    {
+      "q": "Can you drive in Zion Canyon?",
+      "a": "Not for most of the year. From roughly March to November the scenic drive up the main canyon is closed to private vehicles and served by a free mandatory shuttle from the visitor centre, running frequently to nine stops. In winter the shuttle is suspended and you can drive it yourself, which is one of the quiet pleasures of an off-season visit."
+    },
+    {
+      "q": "When is the best time to visit Zion and southern Utah?",
+      "a": "April to May and September to October. Summer temperatures in Zion and Moab exceed 38°C and bring monsoon flash-flood risk that closes the Narrows and slot canyons. Winter is cold and nearly empty, with Bryce spectacular under snow. Note that Bryce sits 1,500 m higher than Zion and can be freezing while Zion is warm."
+    },
+    {
+      "q": "Which southern Utah park is the best?",
+      "a": "They are genuinely different rather than better or worse. Zion for vertical red canyon walls and the Narrows; Bryce for the hoodoo amphitheatre and the dark skies; Arches for the sandstone spans; Canyonlands for the sheer scale; Capitol Reef for the quiet. If you can only do two, Zion and Bryce are two hours apart and the strongest pairing."
+    },
+    {
+      "q": "How dangerous are flash floods?",
+      "a": "They are the most serious risk in this landscape and they kill people. Slot canyons including the Narrows and Antelope flood from rainfall many kilometres upstream, so the sky above you can be clear when the water arrives. The parks publish a daily flash flood potential rating and close canyons when it is high — those closures are not advisory and should never be tested."
+    }
+  ],
+  "related": ["grand-canyon", "yellowstone", "san-francisco", "cappadocia"],
+  "relatedArticles": ["us-national-parks-road-trip", "packing-by-season", "underrated-destinations"]
+}

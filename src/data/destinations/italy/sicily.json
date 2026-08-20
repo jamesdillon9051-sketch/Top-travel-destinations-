@@ -1,0 +1,383 @@
+{
+  "slug": "sicily",
+  "name": "Sicily",
+  "country": "italy",
+  "region": "Sicily",
+  "categories": ["island", "archaeological", "unesco", "food-and-wine"],
+  "tagline": "Greek temples, Norman churches lined with Byzantine mosaics, Arab street food and an active volcano, on an island that has been conquered by everyone.",
+  "highlight": "The Temple of Concordia at Agrigento — a Doric temple of the 440s BC still standing almost complete.",
+  "shortDescription": "The Mediterranean's largest island and its most layered: Greek, Roman, Arab, Norman, Spanish and Baroque, with the best food in Italy and seven UNESCO listings.",
+  "metaDescription": "A Sicily travel guide: the Valley of the Temples, Palermo, Syracuse, Etna, Taormina and the Baroque towns, driving the island, when to go and a seven-day itinerary.",
+  "suggestedStay": "7–10 days",
+  "nearestAirport": "Palermo (PMO) or Catania (CTA)",
+  "knownFor": "Greek temples, Etna, Palermo's markets, cannoli",
+  "budget": "€90–170 per day, mid-range",
+  "goodFor": "Archaeology, food, road trips, volcanoes, second Italian trips",
+  "coords": { "lat": 37.5999, "lng": 14.0154 },
+  "image": {
+    "file": "File:Valle dei Templi – towards Temple of Concordia.jpg",
+    "alt": "The Doric Temple of Concordia standing complete in the Valley of the Temples at Agrigento"
+  },
+  "intro": [
+    "Sicily has been invaded by the Phoenicians, the Greeks, the Carthaginians, the Romans, the Vandals, the Byzantines, the Arabs, the Normans, the Swabians, the French, the Spanish and the Bourbons, and every one of them left something behind. That is the whole point of the island. A Norman king built a chapel in Palermo with Byzantine mosaics on the walls and an Islamic honeycomb ceiling made by Fatimid craftsmen, and nobody at the time thought it odd. The cathedral at Syracuse is a fifth-century-BC Doric temple with the gaps between its columns filled in. The street food in Palermo's markets is closer to Tunis than to Turin.",
+    "The Greek layer alone would justify the trip. Agrigento's Valley of the Temples has a row of Doric temples along a ridge above the sea, one of them — the Temple of Concordia, built around 440 BC — standing almost complete because it was turned into a church in the sixth century and never abandoned. Syracuse was the greatest city of the Greek west, big enough to defeat Athens, and its theatre is cut into the rock above the town. Segesta's temple stands alone in empty hills. Selinunte is a whole ruined Greek city on the sea.",
+    "Then there is Etna, which is over three thousand metres, permanently active and visible from half the island; the late-Baroque towns of the Val di Noto, rebuilt in honey-coloured limestone after the earthquake of 1693 and listed by UNESCO for it; and the food, which most Italians will quietly concede is the best in the country. Sicily is roughly the size of Wales, it takes two and a half hours to cross by motorway, and a week is the minimum that does not feel like a raid."
+  ],
+  "whyVisit": {
+    "intro": "Sicily gives you more distinct civilisations per kilometre than anywhere else in Europe, and charges southern Italian prices for it.",
+    "points": [
+      {
+        "title": "The best Greek architecture outside Greece",
+        "text": "Agrigento, Segesta, Selinunte and Syracuse. The Temple of Concordia is among the most complete Doric temples anywhere, and Segesta's stands alone in open country with nothing modern in sight."
+      },
+      {
+        "title": "Arab-Norman Palermo is a hybrid nothing else matches",
+        "text": "Twelfth-century churches with Byzantine gold mosaics, Islamic muqarnas ceilings and Norman structure, all in the same room. Monreale's apse mosaics cover thousands of square metres."
+      },
+      {
+        "title": "An active volcano you can go up",
+        "text": "Etna is over 3,300 metres, erupts regularly and can be climbed to around 2,900 with a guide. Vineyards on its lower slopes make some of Italy's most interesting wine."
+      },
+      {
+        "title": "The Baroque towns are a single vast project",
+        "text": "Noto, Modica, Ragusa and their neighbours were flattened by an earthquake in 1693 and rebuilt at once in a coherent late Baroque — an entire region designed in one style, in golden limestone."
+      },
+      {
+        "title": "The food is the best in Italy",
+        "text": "Arab, Spanish and Greek influences on an island that grows everything: street food in Palermo, granita for breakfast, pistachios from Bronte, cannoli filled to order and cold-worked chocolate in Modica."
+      }
+    ]
+  },
+  "attractionsIntro": "These are spread over an island 250 km wide, so group them geographically: west around Palermo and Agrigento, east around Syracuse, Etna and the Baroque towns.",
+  "attractions": [
+    {
+      "name": "Valley of the Temples, Agrigento",
+      "text": "A ridge above the sea lined with Doric temples of the fifth century BC, dominated by the near-complete Temple of Concordia, plus the Temple of Juno, the ruins of a colossal Zeus temple and a fallen giant telamon.",
+      "tip": "Enter at the Juno end and walk downhill. Evening opening in summer, floodlit, is the best way to see it."
+    },
+    {
+      "name": "Palermo",
+      "text": "The Palatine Chapel with its Byzantine mosaics under an Islamic wooden ceiling, the cathedral, La Martorana, the red domes of San Giovanni degli Eremiti, Teatro Massimo, and three street markets that feel North African.",
+      "tip": "Two full days. The Capuchin catacombs, with thousands of clothed mummified bodies, are a genuinely unsettling optional extra."
+    },
+    {
+      "name": "Monreale",
+      "text": "Eight kilometres above Palermo, a Norman cathedral whose interior is covered in more than six thousand square metres of gold-ground mosaic, with a cloister of 228 paired columns, no two carved alike.",
+      "tip": "Go in the morning when the light hits the apse Pantocrator. Buses run from Palermo in about 40 minutes."
+    },
+    {
+      "name": "Syracuse and Ortigia",
+      "text": "The Greek city that beat Athens. Ortigia, its island core, has a cathedral built inside a Doric temple of Athena with the columns still in the walls; the Neapolis park has the rock-cut Greek theatre and the Ear of Dionysius.",
+      "tip": "Stay on Ortigia. It is compact, walkable, full of good restaurants and completely different after the day visitors leave."
+    },
+    {
+      "name": "Mount Etna",
+      "text": "Europe's most active volcano, over 3,300 metres and UNESCO-listed. Cable car and 4x4 from Rifugio Sapienza on the south side take you to around 2,900 m, from where guides lead walks among the summit craters.",
+      "tip": "Take layers whatever the coastal temperature — it is often twenty degrees colder and windy on the upper slopes."
+    },
+    {
+      "name": "Taormina",
+      "text": "A cliff town 200 metres above the sea with a Greek theatre of the third century BC positioned so that Etna and the coastline fill the space behind the stage. Concerts are still held in it.",
+      "tip": "Extremely busy and expensive by day. Go early, or stay the night and have the theatre and the corso to yourself."
+    },
+    {
+      "name": "Villa Romana del Casale",
+      "text": "A late Roman country villa near Piazza Armerina with around 3,500 square metres of mosaic floors — a sixty-metre hunting corridor, and the famous group of girls in what look like bikinis.",
+      "tip": "Inland and awkward without a car, and worth the detour. Two hours, on raised walkways above the floors."
+    },
+    {
+      "name": "The Val di Noto",
+      "text": "Eight towns rebuilt after the 1693 earthquake in a unified late Baroque and listed together by UNESCO: Noto's honey-coloured corso, Ragusa Ibla on its ridge, Modica stacked up a gorge, and quiet Scicli.",
+      "tip": "Base in Ragusa Ibla or Noto for two nights. They are twenty to forty minutes apart and best at either end of the day."
+    }
+  ],
+  "thingsToDoIntro": "Sicily is a driving destination. The best days pair one major site with one town, and end late over dinner.",
+  "thingsToDo": [
+    {
+      "title": "Eat your way through Palermo's markets",
+      "text": "Ballarò, Capo and Vucciria: panelle and crocchè in a roll, sfincione by the slice, boiled octopus, and pane ca meusa — spleen in a bun — for the brave. Shouted, chaotic and cheap.",
+      "tip": "Go in the morning when they are working markets. A guided food walk is genuinely useful here for the first pass."
+    },
+    {
+      "title": "Go up Etna",
+      "text": "Cable car and 4x4 from Rifugio Sapienza, then a guided walk between the summit craters over black scoria and steaming vents, with the whole east coast below you.",
+      "tip": "Guides are compulsory above a certain level and worth it lower down too. Access changes with volcanic activity — check on the day."
+    },
+    {
+      "title": "Have granita and brioche for breakfast",
+      "text": "Almond, coffee, mulberry or lemon granita in a glass with a soft brioche col tuppo to dip into it. It is breakfast, not dessert, and it is the best thing about a Sicilian summer morning.",
+      "tip": "Catania and Messina take it most seriously. Almond and coffee together — 'mezza e mezza' — is the local order."
+    },
+    {
+      "title": "Drive the Baroque triangle",
+      "text": "Noto, Modica, Ragusa and Scicli within an hour of each other, all rebuilt in the same golden stone after 1693, all with theatrical staircases and church facades built to be seen from below.",
+      "tip": "Late afternoon light on Noto's corso and Ragusa Ibla at dusk are the two moments worth planning around."
+    },
+    {
+      "title": "Take a boat to the islands",
+      "text": "The Aeolians north of Milazzo — Stromboli erupting every twenty minutes, Salina's vineyards, Lipari's town — or the Egadi islands off Trapani for clear water and no crowds.",
+      "tip": "Stromboli's guided evening climb to watch the explosions is limited and regulated; check what is currently permitted."
+    },
+    {
+      "title": "Drink Etna wine",
+      "text": "Vineyards on volcanic soil at 600 to 1,000 metres make lean, mineral reds from Nerello Mascalese that taste nothing like the rest of southern Italy. Many estates take visitors.",
+      "tip": "The Etna north slope around Randazzo and Passopisciaro is the heart of it. Book tastings a day or two ahead."
+    }
+  ],
+  "foodIntro": "Sicilian cooking is the island's history on a plate: Greek olives and wine, Arab almonds, saffron, raisins and citrus, Spanish chocolate and tomatoes from the Americas.",
+  "foods": [
+    {
+      "name": "Arancine and street food",
+      "text": "Fried rice balls with ragù or butter and ham — arancine in Palermo, arancini in Catania, and the argument is taken seriously. Alongside them, panelle chickpea fritters and sfincione, a thick oniony focaccia-pizza.",
+      "whereToTry": "Friggitorie and market stalls in Palermo, and any bar in Catania at eleven in the morning."
+    },
+    {
+      "name": "Pasta alla Norma and pasta con le sarde",
+      "text": "Norma, from Catania, is fried aubergine, tomato and salted ricotta, named after Bellini's opera. Pasta con le sarde, from Palermo, mixes sardines with wild fennel, raisins, pine nuts and saffron — pure Arab influence.",
+      "whereToTry": "Norma in Catania and the east, sarde in Palermo and the west. Both are everywhere in between."
+    },
+    {
+      "name": "Caponata and sarde a beccafico",
+      "text": "Caponata is aubergine cooked down with celery, olives, capers and a sweet-sour vinegar finish, served at room temperature. Sarde a beccafico are sardines rolled around breadcrumbs, raisins and pine nuts and baked.",
+      "whereToTry": "Antipasto tables in trattorias across the island. Caponata is better on the second day and everyone knows it."
+    },
+    {
+      "name": "Cannoli and cassata",
+      "text": "A fried pastry tube filled with sweetened sheep's ricotta — filled to order, never in advance, or the shell goes soft. Cassata is the sponge, ricotta, marzipan and candied fruit cake behind every Sicilian celebration.",
+      "whereToTry": "Pasticcerie in Palermo, Erice and Noto. If the cannoli are pre-filled in a display, go elsewhere."
+    },
+    {
+      "name": "Granita with brioche",
+      "text": "Crushed flavoured ice with a texture between sorbet and slush — almond, coffee, mulberry, lemon, pistachio — eaten for breakfast with a soft brioche topped by a knob of dough called the tuppo.",
+      "whereToTry": "Catania, Messina and Acireale, from about seven in the morning through the summer."
+    },
+    {
+      "name": "Modica chocolate and Bronte pistachios",
+      "text": "Modica works chocolate cold with sugar that never dissolves, a technique that arrived with the Spanish from Mesoamerica, giving a grainy, intense bar. Bronte, on Etna's slopes, grows Italy's finest pistachios.",
+      "whereToTry": "Modica's historic chocolate shops; Bronte pistachio in everything from pesto to gelato across the east."
+    }
+  ],
+  "accommodation": {
+    "intro": "Sicily works as a loop with three or four bases. Trying to day-trip from a single hotel means spending the week in the car.",
+    "areas": [
+      {
+        "name": "Palermo",
+        "bestFor": "The west, markets and Arab-Norman art",
+        "text": "Two or three nights covers the city, Monreale and Cefalù. Restored palazzo B&Bs in the historic centre are excellent value; the city is scruffy, loud and rewarding."
+      },
+      {
+        "name": "Ortigia, Syracuse",
+        "bestFor": "The best base in the east",
+        "text": "A small island of golden stone connected by bridges, entirely walkable, packed with good restaurants and quiet in the evening. Two or three nights, with the Baroque towns in reach."
+      },
+      {
+        "name": "Ragusa Ibla or Noto",
+        "bestFor": "The Baroque and slow evenings",
+        "text": "Sleeping inside the Val di Noto lets you see these towns at dawn and after dark, when they empty. Ragusa Ibla in particular is extraordinary at night."
+      },
+      {
+        "name": "Taormina or the Etna slopes",
+        "bestFor": "The volcano and the coast",
+        "text": "Taormina for the theatre and the view, at high prices; or a wine estate on Etna's north slope for cooler air, vineyards and far better value."
+      },
+      {
+        "name": "The west coast",
+        "bestFor": "Beaches and quiet",
+        "text": "Trapani, Erice, the Zingaro reserve and Scopello, with the Egadi islands offshore and salt pans along the coast. The least visited corner of the island."
+      }
+    ],
+    "budget": [
+      { "label": "Mid-range hotel or B&B", "value": "€70–140 per night" },
+      { "label": "Valley of the Temples", "value": "€12–18, plus the museum" },
+      { "label": "Etna cable car, 4x4 and guide", "value": "€70–100 per person to the summit area" },
+      { "label": "Car hire", "value": "€35–60 per day, and effectively essential" }
+    ]
+  },
+  "gettingThere": {
+    "intro": "Two main airports at opposite ends of the island, which makes an open-jaw itinerary the obvious way to plan.",
+    "options": [
+      {
+        "mode": "Catania Airport (CTA)",
+        "text": "The busiest, on the east coast, best for Etna, Syracuse, Taormina and the Baroque towns. Buses run into Catania in 20 minutes and directly to Syracuse and Taormina.",
+        "detail": "Flight operations occasionally pause during Etna ash falls. Rare, but it happens."
+      },
+      {
+        "mode": "Palermo Airport (PMO)",
+        "text": "On the north-west coast, best for Palermo, Cefalù, Agrigento, Segesta, Selinunte and Trapani. A train and a coach both run into the city in about an hour.",
+        "detail": "Flying into one and out of the other saves a full day of backtracking."
+      },
+      {
+        "mode": "Ferry from Naples",
+        "text": "An overnight crossing from [[naples-pompeii|Naples]] to Palermo, roughly eleven hours with cabins, which saves a hotel night and arrives in the middle of the city.",
+        "detail": "Also serves the Aeolian islands from Milazzo and Naples in summer."
+      },
+      {
+        "mode": "Train and car ferry",
+        "text": "Trains from the mainland are shunted onto a ferry at Villa San Giovanni and reassembled at Messina — slow, and a curiosity in its own right.",
+        "detail": "Rome to Palermo takes around eleven hours. Flying takes an hour and costs less."
+      }
+    ]
+  },
+  "gettingAround": {
+    "intro": "Hire a car. Sicilian public transport connects the cities adequately and everything else barely.",
+    "options": [
+      {
+        "mode": "Rental car",
+        "text": "The only practical way to reach Agrigento, Villa Romana del Casale, Segesta, the Val di Noto and the west coast. Motorways link Palermo, Catania and Messina and are fast and mostly free.",
+        "detail": "Every historic centre has a ZTL. Park outside and walk in — fines follow months later through the hire company."
+      },
+      {
+        "mode": "Buses between cities",
+        "text": "Coaches are usually faster and more frequent than trains on the main routes: Palermo–Catania about 2h45, Catania–Syracuse 1h15, Catania–Agrigento 3h.",
+        "detail": "Different companies serve different routes from different terminals. Check which one before turning up."
+      },
+      {
+        "mode": "Trains",
+        "text": "Slow, scenic and useful along the east coast between Messina, Taormina, Catania and Syracuse. Elsewhere the network is thin and the timetables are sparse.",
+        "detail": "The Circumetnea narrow-gauge line around the base of Etna is worth doing for its own sake."
+      },
+      {
+        "mode": "Ferries and hydrofoils",
+        "text": "To the Aeolian islands from Milazzo, the Egadi from Trapani, and Ustica from Palermo. Frequent in summer, reduced in winter and cancelled in rough seas.",
+        "detail": "Leave a day of slack if you are island-hopping before a flight."
+      },
+      {
+        "mode": "Guided excursions",
+        "text": "Etna summit walks require a guide above a certain height, and food tours in Palermo and Catania are a genuinely good use of a first morning.",
+        "detail": "For Etna, book with an operator that includes the cable car, 4x4 and guide as one package."
+      }
+    ]
+  },
+  "bestTime": {
+    "headline": "April–June and September–October",
+    "summary": "Sicily's summers are severe and its shoulder seasons are long. It is one of the few Italian destinations where March and November are genuinely usable.",
+    "seasons": [
+      {
+        "season": "Spring (April–June)",
+        "rating": "best",
+        "text": "The island is green, the wildflowers are out among the temples, temperatures sit at 18–28°C and the sea becomes swimmable in June. The best window of the year."
+      },
+      {
+        "season": "Summer (July–August)",
+        "rating": "avoid",
+        "text": "Frequently 35–40°C inland, with no shade at Agrigento, Selinunte or Villa Romana. The coast is full of Italian holidaymakers and prices double. Etna and the sea are the compensations."
+      },
+      {
+        "season": "Autumn (September–October)",
+        "rating": "best",
+        "text": "September has the warmest sea of the year and thinning crowds; October is warm, quiet and the grape and pistachio harvests are in. Arguably the single best month is October."
+      },
+      {
+        "season": "Winter (November–March)",
+        "rating": "good",
+        "text": "Mild at 14–18°C on the coast with some rain, almond blossom in February, snow and skiing on Etna, and the archaeological sites almost empty. Coastal resorts and island ferries wind down."
+      }
+    ],
+    "avoid": "Inland archaeological sites in the middle of a July or August day. Agrigento, Selinunte and Segesta are unshaded and exposed, and midday temperatures inland regularly pass 38°C."
+  },
+  "itinerary": {
+    "title": "Seven days across Sicily",
+    "intro": "Fly into Palermo and out of Catania, with a hire car throughout. Three bases, one long drive, and everything else short hops.",
+    "days": [
+      {
+        "day": 1,
+        "title": "Palermo",
+        "summary": "Markets, mosaics and a very loud city.",
+        "morning": "The Palatine Chapel in the Norman Palace, then the cathedral.",
+        "afternoon": "Ballarò and Capo markets, La Martorana and Teatro Massimo.",
+        "evening": "Street food and a Nero d'Avola in the old centre."
+      },
+      {
+        "day": 2,
+        "title": "Monreale and Cefalù",
+        "summary": "The Arab-Norman circuit.",
+        "morning": "Monreale's mosaics and cloister, in the morning light.",
+        "afternoon": "Cefalù — the Norman cathedral and a swim off the old town beach.",
+        "evening": "Back in Palermo, or start south."
+      },
+      {
+        "day": 3,
+        "title": "Agrigento",
+        "summary": "Doric temples above the sea.",
+        "morning": "Drive south to Agrigento, about two hours.",
+        "afternoon": "The Valley of the Temples, entering at the Juno end and walking down.",
+        "evening": "The temples floodlit, if evening opening is running."
+      },
+      {
+        "day": 4,
+        "title": "Piazza Armerina to Ortigia",
+        "summary": "Roman mosaics, then across to the east.",
+        "morning": "Villa Romana del Casale — 3,500 square metres of mosaic floor.",
+        "afternoon": "Drive on to Syracuse and settle on Ortigia.",
+        "evening": "Dinner on the island, and the Duomo facade after dark."
+      },
+      {
+        "day": 5,
+        "title": "Syracuse",
+        "summary": "The greatest city of the Greek west.",
+        "morning": "The Neapolis park — the Greek theatre and the Ear of Dionysius.",
+        "afternoon": "Ortigia: the temple inside the cathedral, the Fonte Aretusa, the market.",
+        "evening": "Caravaggio's Burial of St Lucy, then a long dinner."
+      },
+      {
+        "day": 6,
+        "title": "The Val di Noto",
+        "summary": "An entire region rebuilt in one style.",
+        "morning": "Noto's corso in the morning light.",
+        "afternoon": "Modica for chocolate, then Ragusa Ibla across the gorge.",
+        "evening": "Stay in Ragusa Ibla, which is at its best at night."
+      },
+      {
+        "day": 7,
+        "title": "Etna",
+        "summary": "The volcano, and out.",
+        "morning": "Drive north and up to Rifugio Sapienza for the cable car and craters.",
+        "afternoon": "Wine on the north slope, or Taormina's Greek theatre.",
+        "evening": "Fly out of Catania."
+      }
+    ]
+  },
+  "tipsIntro": "Sicily is bigger, hotter and slower than people plan for. Most of these tips are about that.",
+  "tips": [
+    "Fly into one airport and out of the other. Palermo and Catania are at opposite ends of the island, and an open-jaw booking saves a full day of driving back for no reason.",
+    "Hire a car, and never drive into a historic centre. Agrigento, Villa Romana del Casale, Segesta and the Val di Noto are all effectively car-only, and every town has a camera-enforced ZTL that will fine you months later.",
+    "A week is the minimum. Sicily is 250 km across with mountains in the middle; three or four bases over seven to ten days works, and a two-base flying visit does not.",
+    "Inland sites have no shade. Agrigento, Selinunte and Segesta in July and August should be walked at opening or in the last two hours, and Agrigento's summer evening opening is the best of all.",
+    "Etna access changes with volcanic activity and weather, and guides are required above a certain height. Book a package that bundles the cable car, the 4x4 and the guide, and take warm layers regardless of the coastal temperature.",
+    "Cannoli should be filled when you order them. Pre-filled shells in a display case have gone soft, and a Sicilian pasticceria that does this is telling you who its customers are.",
+    "Sleep inside the Baroque towns rather than day-tripping them. Noto and Ragusa Ibla empty completely in the evening, and that is when they are worth the detour.",
+    "Buses beat trains between the major cities — Palermo to Catania is under three hours by coach and considerably longer by rail. Along the east coast, the train is the better option."
+  ],
+  "faq": [
+    {
+      "q": "How many days do you need in Sicily?",
+      "a": "Seven at an absolute minimum, and ten is better. The island is 250 km across with mountains through the middle, and the great sites are spread from Agrigento in the south-west to Syracuse in the south-east. A week covers Palermo, Agrigento, Syracuse, the Val di Noto and Etna with three bases. Ten days adds the west coast, Cefalù or the Aeolian islands."
+    },
+    {
+      "q": "Do I need a car in Sicily?",
+      "a": "Yes, for anything beyond the main cities. Agrigento's temples, Villa Romana del Casale, Segesta, Selinunte and the Val di Noto towns are poorly served by public transport, and buses between them are slow and infrequent. Coaches connect Palermo, Catania and Syracuse perfectly well, so a common approach is to use buses for the cities and hire a car for the middle of the trip."
+    },
+    {
+      "q": "Is Sicily safe for tourists?",
+      "a": "Yes. Organised crime exists and has nothing to do with visitors; the practical risk is ordinary petty theft in Palermo and Catania's crowded markets and around the stations. Keep bags closed and in front of you, do not leave anything visible in a parked car, and the trip is straightforward. Sicilians are markedly welcoming to visitors."
+    },
+    {
+      "q": "Can you climb Mount Etna?",
+      "a": "You can go high on it. From Rifugio Sapienza on the south side a cable car takes you to about 2,500 metres and 4x4 buses continue to roughly 2,900, from where authorised guides lead walks around the summit craters. Guides are compulsory above a set height. Access varies with volcanic activity and weather, and it is often twenty degrees colder and much windier than the coast, so take layers and check conditions on the day."
+    },
+    {
+      "q": "When is the best time to visit Sicily?",
+      "a": "April to June and September to October, with October arguably the single best month — warm, quiet and harvest season. Spring brings wildflowers among the temples. July and August frequently reach 35–40°C inland with no shade at the archaeological sites, and the coast is at capacity. Winter is mild at 14–18°C, the sites are empty, and there is skiing on Etna."
+    },
+    {
+      "q": "Palermo or Catania — which should I base in?",
+      "a": "Neither, exclusively. Palermo suits the western half — Monreale, Cefalù, Agrigento, Segesta and Trapani — and is the more compelling city, with the markets and the Arab-Norman churches. Catania suits the east — Etna, Taormina, Syracuse and the Baroque towns. The best plan is to use both, flying into one and out of the other, with a base on Ortigia in between."
+    },
+    {
+      "q": "Is Sicilian food really different from mainland Italian?",
+      "a": "Substantially. Arab rule left almonds, saffron, raisins, pine nuts and citrus in savoury dishes — pasta con le sarde is the clearest example. The Spanish brought chocolate, still worked cold in Modica by a method derived from Mesoamerica. Add Greek olives and wine, Bronte pistachios from Etna's slopes, granita eaten for breakfast and street food closer to North Africa than to Tuscany, and it reads as a distinct cuisine rather than a regional variation."
+    }
+  ],
+  "related": ["naples-pompeii", "puglia-matera", "amalfi-coast", "granada"],
+  "relatedArticles": ["unesco-worth-planning-around", "underrated-destinations", "best-time-southern-europe"]
+}
